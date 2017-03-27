@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+version="2.28.0"
+><frontMatter
+><title
+>Paratext 8</title
+><subtitle
+><object
+contentType="fr"
+type="t-fr"
+>Manuel de cours 1 &amp; 2 : Français</object
+><object
+contentType="en"
+type="t-en"
+>Course Manual 1 &amp; 2: English</object
+></subtitle
+><author
+contentType="en"
+>Jenni Beadle and Matthew Lee</author
+><author
+contentType="fr"
+>Jenni Beadle et Matthew Lee</author
+><contents
+contentType="en"
+label="Contents"
+></contents
+><contents
+contentType="fr"
+label="Contenu"
+></contents
+></frontMatter
+><chapter
+id="cIntro"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Chapter Title</object
+><object
+contentType="fr"
+type="t-fr"
+>Titre du Chapitre</object
+></secTitle
+><p
+>By defining ContentType for an element, you can selectively hide it.</p
+><p
+contentType="dn"
+>This is a developer's note (content type "dn"), It will only print if you tell it to.</p
+><p
+contentType="en"
+>This Text is in English (contentType "en"), and shows in green.</p
+><p
+contentType="fr"
+>Ce texte est en Français (contentType "fr"), et se montre en bleu.</p
+><p
+contentType="dn"
+>Content type can be left undefined (it will appear Black), and it will never be filtered.</p
+><p
+>1+1=2</p
+><section1
+id="sGoal"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Major Sections<object
+contentType="fr"
+type="t-fr"
+>Sections majeures</object
+></object
+></secTitle
+><p
+contentType="en"
+>This is a Section 1, it will contain your major headings.</p
+><p
+contentType="fr"
+>Ceci est un section de niveau 1.</p
+></section1
+><section1
+contentType="en"
+id="sMonoSec"
+><secTitle
+>It is possible to make a whole section monolingual</secTitle
+><p
+>This would be useful for a task that only needs further explanation in one language (like a broken interface).</p
+><p
+contentType="dn"
+>Beware, if a whole section is filtered, embedded content in another language will not be shown.</p
+></section1
+><section1
+id="sObj1"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mix and Match</object
+><object
+contentType="fr"
+type="t-fr"
+>Melange</object
+></secTitle
+><p
+contentType="dn"
+>It is possible to mix and match multilingual lines in a list, this allows you to keep translations closer together:</p
+><ul
+><li
+contentType="en"
+>Start ParaTEXT using an icon on the desktop.</li
+><li
+contentType="fr"
+>Lancer le programme Paratext 7 à l’aide de l’icône du bureau.</li
+><li
+contentType="en"
+>Effectively use the navigation toolbar to navigate to the desired book, chapter, or verse.</li
+><li
+contentType="fr"
+>Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique de référence désiré.</li
+><li
+contentType="en"
+>Type text in an open project within USFM markers such as \c, \v, etc. in an appropriate view.</li
+><li
+contentType="fr"
+>Taper le texte dans un projet ouvert dans les marqueurs USFM tels que \c, \v, etc. dans un affichage approprié.</li
+><li
+contentType="en"
+>Use a keyboarding system (Microsoft Keyboards, or Keyman) to type special characters.</li
+><li
+contentType="fr"
+>Utiliser un système de clavier (MS-claviers ou Keyman) pour saisir les caractères spéciaux.</li
+><li
+contentType="en"
+>Add additional elements such as section titles.</li
+><li
+contentType="fr"
+>Ajouter des éléments supplémentaires tels que les titres de section.</li
+></ul
+><p
+contentType="dn"
+>It is also possible to mix in an Ordered list. This looks strange in edit mode, but will work properly later.</p
+><ol
+><li
+contentType="en"
+>Open supplementary resources, for example English bibles.</li
+><li
+contentType="fr"
+>Ouvrir des ressources supplémentaires, par exemple des Bibles françaises.</li
+><li
+contentType="en"
+>Arrange multiple windows on the screen.</li
+><li
+contentType="fr"
+>Organiser plusieurs fenêtres sur l’écran.</li
+><li
+contentType="en"
+>Use Send/Receive to back up the project on the Internet or on a USB key.</li
+><li
+contentType="fr"
+>Utiliser la fonction d’envoyer/recevoir pour sauvegarder le projet sur Internet ou une clé USB.</li
+><li
+contentType="en"
+>Run Verifications to assure that all chapters and verses are present.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.</li
+><li
+contentType="en"
+>Run Verifications to guarantee that the text is correctly marked (markers, styles, etc.).</li
+><li
+contentType="fr"
+>Exécuter la vérification afin de garantir que les éléments de texte soient correctement marqués (marqueurs, styles, etc.).</li
+><li
+contentType="en"
+>Run Verifications to see that all characters and punctuation symbols are valid in the target language with help from the Inventories.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les caractères et les signes de ponctuation sont valides pour la langue cible à l’aide de différents inventaires.</li
+><li
+contentType="en"
+>Correct spelling mistakes using <object
+type="tKw"
+>Spell Check</object
+></li
+><li
+contentType="fr"
+>Vérifier les fautes d’orthographe à l’aide de <object
+type="tKw"
+>la vérification d’orthographe</object
+> et de la liste de mots.</li
+></ol
+><section2
+id="sOBOu"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>2nd Level Sections</object
+><object
+contentType="fr"
+type="t-fr"
+>Sections de deuxième niveau.</object
+></secTitle
+><p
+contentType="fr"
+>Voila</p
+></section2
+></section1
+></chapter
+><chapter
+id="cnext"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Thing</object
+><object
+contentType="fr"
+type="t-fr"
+>Chose</object
+></secTitle
+><p
+>It is possible to alternate images.</p
+><p
+>Or even to put an image mid-paragraph.</p
+><section1
+id="sOBIntro"
+><secTitle
+>Introduction</secTitle
+><p
+contentType="en"
+>Gooof</p
+><p
+contentType="fr"
+>Vous voulez travailler sur votre texte en Paratext et voir les ressources diverses. Dans ce module, vous allez apprendre comment organiser votre bureau.</p
+></section1
+><section1
+id="sOBSum"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Summary</object
+><object
+contentType="fr"
+type="t-fr"
+>Résumé</object
+></secTitle
+><p
+>Ce module vous montre comment :</p
+><table
+border="1"
+><tr
+><th
+contentType="fr"
+>Tâche</th
+><th
+contentType="fr"
+>Bilan d’étapes</th
+><th
+contentType="en"
+>Steps</th
+></tr
+><tr
+><td
+>Lancer le programme Paratext</td
+><td
+contentType="fr"
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+><td
+contentType="en"
+>First Paragraph</td
+></tr
+><tr
+><td
+contentType="fr"
+>Ouvrir combinaison de fenêtres</td
+><td
+contentType="fr"
+>Cliquez sur le menu <object
+type="tKw"
+>Fenêtre</object
+><br
+></br
+></td
+><td
+contentType="en"
+></td
+></tr
+><tr
+><td
+contentType="fr"
+>Créer un nouveau arrangement</td
+><td
+contentType="fr"
+>Si vous n’avez pas encore enregistré une combinaison de fenêtres, on vous suggère de faire comme au-dessous</td
+><td
+contentType="en"
+><object
+type="tKw"
+>Content</object
+></td
+></tr
+><tr
+><td
+contentType="fr"
+>Ouvrir et arranger les fenêtres</td
+><td
+contentType="en"
+>en</td
+></tr
+><tr
+><td
+contentType="fr"
+>Enregistre une combinaison de fenêtres</td
+><td
+contentType="fr"
+></td
+><td
+contentType="en"
+>Paragraph Crasher<br
+></br
+>thingus</td
+></tr
+><tr
+><td
+contentType="fr"
+>Enregistre une combinaison de fenêtres</td
+><td
+contentType="fr"
+></td
+><td
+contentType="en"
+>goo</td
+></tr
+><tr
+><td
+contentType="fr"
+>Supprimer une combinaison de fenêtres</td
+><td
+contentType="fr"
+></td
+><td
+contentType="en"
+></td
+></tr
+></table
+></section1
+></chapter
+><backMatter
+><glossary
+><p
+></p
+><dl
+><dt
+>Note</dt
+><dd
+>Thing</dd
+><dt
+></dt
+><dd
+></dd
+></dl
+></glossary
+><endnotes
+></endnotes
+><references
+></references
+><index
+></index
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-style="italic"
+id="italic"
+></type
+><type
+XeLaTeXSpecial="\hrulefill"
+id="tHr"
+></type
+><type
+font-weight="bold"
+id="tKw"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="ParaTExt 7.6"
+id="tPT"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tSubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+backgroundcolor="Pink"
+id="tTeacher"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><contentControl
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+><contentType
+id="Teacher"
+>Teacher</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn"
+>Exclude English and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="fr dn"
+>Exclude French and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalBookletStylesheet.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>
