@@ -435,6 +435,7 @@ textalign="center"
 ><partTitleLayout
 font-size="18pt"
 font-weight="bold"
+pagebreakbefore="yes"
 spaceafter="21.6pt"
 textalign="center"
 ></partTitleLayout
