@@ -35,6 +35,10 @@ contentType="fr"
 label="Contenu"
 ></contents
 ></frontMatter
+><part
+id="introstage1"
+><secTitle
+>Intro and Stage 1</secTitle
 ><chapter
 id="sIntro"
 ><secTitle
@@ -359,7 +363,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image2.png"
 ></img
 ></p
@@ -511,7 +514,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image4.png"
 ></img
 ></p
@@ -662,7 +664,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image5.png"
 ></img
 ></p
@@ -737,7 +738,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image6.png"
 ></img
 ></p
@@ -953,7 +953,7 @@ id="s17"
 contentType="en"
 type="t-en"
 >Mark a task as complete</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -978,7 +978,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image9.png"
 ></img
 ></p
@@ -1006,7 +1005,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image10.png"
 ></img
 ></p
@@ -2237,6 +2235,11 @@ contentType="en"
 ></ul
 ></section1
 ></chapter
+></part
+><part
+id="stage2"
+><secTitle
+>Stage 2</secTitle
 ><chapter
 id="ST2"
 ><secTitle
@@ -2287,7 +2290,7 @@ id="sPN"
 contentType="en"
 type="t-en"
 >PN: Proper Names</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2355,7 +2358,7 @@ id="sRunBTTool"
 contentType="en"
 type="t-en"
 >Run the Biblical Terms tool</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2376,7 +2379,7 @@ id="sOpenListTerms"
 contentType="en"
 type="t-en"
 >Open list of terms [◙ VC01]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2397,7 +2400,7 @@ id="sChooseComparison"
 contentType="en"
 type="t-en"
 >Choose your reference text as a comparative text [◙ VC01]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2421,7 +2424,7 @@ id="sChangeVarious"
 contentType="en"
 type="t-en"
 >Change various settings [◙ VC01]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2449,7 +2452,7 @@ id="sChooseTypeTerms"
 contentType="en"
 type="t-en"
 >Choose the type of terms [◙ VC01]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2479,7 +2482,7 @@ id="sAdaptNames"
 contentType="en"
 type="t-en"
 >Adapt names</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2509,7 +2512,7 @@ id="sEnterChanges"
 contentType="en"
 type="t-en"
 >Enter the changes for the individual letters (or letter clusters)</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2527,7 +2530,7 @@ id="sEnterTheChangesForTheIndividualLetters"
 contentType="en"
 type="t-en"
 >Enter the changes for the individual letters (or letter clusters)</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2545,7 +2548,7 @@ id="sThenReviseAndApproveTheAdaptedName"
 contentType="en"
 type="t-en"
 >Then revise and approve the Adapted Name</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2581,7 +2584,7 @@ id="sEnsureYourTextIsConsistent"
 contentType="en"
 type="t-en"
 >Ensure your text is consistent [◙ VC02]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2614,7 +2617,7 @@ id="sAddAnAlternativeRendering"
 contentType="en"
 type="t-en"
 >Add an alternative rendering</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2638,7 +2641,7 @@ id="sDealingWithVersesThatDon"
 contentType="en"
 type="t-en"
 >Dealing with verses that don’t have the name translated [◙ VC05]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -2677,7 +2680,7 @@ id="sRecall3"
 contentType="en"
 type="t-en"
 >Recall</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -3151,7 +3154,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image31.png"
 ></img
 ></p
@@ -3163,7 +3165,6 @@ contentType="en"
 ><p
 contentType="en"
 ><img
-contentType="en"
 src="12imgeng/image32.png"
 ></img
 ></p
@@ -4435,7 +4436,7 @@ id="sConfirmTheSetup"
 contentType="en"
 type="t-en"
 >Confirm the setup</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4454,7 +4455,7 @@ id="sUsingInventoriesToSetupChecks"
 contentType="en"
 type="t-en"
 >Using inventories to setup checks [◙ VT02]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4498,7 +4499,7 @@ id="sCharacters"
 contentType="en"
 type="t-en"
 >Characters [◙ VT02]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4537,7 +4538,7 @@ id="sPunctuation"
 contentType="en"
 type="t-en"
 >Punctuation [◙ VT03]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4584,7 +4585,7 @@ id="sRepeatedWords"
 contentType="en"
 type="t-en"
 >Repeated words [◙ VT05]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4620,7 +4621,7 @@ id="sCapitalization"
 contentType="en"
 type="t-en"
 >Capitalization [◙ VT06]</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -4665,7 +4666,7 @@ id="sMakingMinorCorrections"
 contentType="en"
 type="t-en"
 >Making minor corrections</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 ></object
@@ -6231,6 +6232,7 @@ contentType="en"
 contentType="en"
 >[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p
 ></chapter
+></part
 ><backMatter
 ><glossary
 ><p
