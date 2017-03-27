@@ -990,7 +990,7 @@ type="tPTPrev"
 ><li
 contentType="en"
 ><img
-src="supimg\image008.jpg"
+src="supimgeng\image2.png"
 ></img
 ></li
 ><li
@@ -998,7 +998,6 @@ contentType="fr"
 >Cliquez sur la case en bas pour afficher les projets Paratext 7 <br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -1071,7 +1070,6 @@ contentType="fr"
 >La boîte de dialogue Migrer le projet partagé s'affiche.<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 >Paratext 8 peut vous dire que le projet doit être inscrit (s'il n'est pas préenregistré) et doit être migré vers Paratext 8.</p
@@ -1454,7 +1452,6 @@ type="tKw"
 >», vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -2067,7 +2064,6 @@ type="tItalic"
 ><br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -2116,7 +2112,6 @@ contentType="fr"
 >Accédez sur le site d'inscription<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 >, registry.paratext.org. , registry.paratext.org.</li
@@ -2184,7 +2179,6 @@ type="tKw"
 >L'écran des détails d'enregistrement s'affiche<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -2559,7 +2553,6 @@ type="tKw"
 type="tItalic"
 >La boîte de dialogue Project properties and settings (Propriétés et paramètres de projet) s'affiche.</object
 ><img
-contentType="fr"
 src="i.png"
 ></img
 > Nom du projet</li
@@ -2602,7 +2595,6 @@ type="tKw"
 > (Modifier)<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ><br
@@ -2611,7 +2603,6 @@ src="i.png"
 type="tItalic"
 >La boîte de dialogue "modifier le nom complet" s'affiche</object
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -2682,8 +2673,8 @@ type="tItalic"
 >The Choose language identifier box is displayed.</object
 ></li
 ><li
-><img
 contentType="fr"
+><img
 src="i.png"
 ></img
 >La boîte de dialogue <object
@@ -2692,7 +2683,6 @@ type="tKw"
 >(choisir l’identifiant de la langue) s’affiche..<br
 ></br
 ><img
-contentType="fr"
 src="i.png"
 ></img
 ></li
@@ -5074,7 +5064,6 @@ contentType="en"
 ></ul
 ><p
 ><img
-contentType="en"
 src="supimgeng\image31.png"
 ></img
 ></p

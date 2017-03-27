@@ -108,7 +108,7 @@ If you administer a project that is shared in Paratext 7 and you want to migrate
 * The Administrator then loads __Paratext 8.__
 * __File__ > __Open Project/Resource__
 * Click the box at the bottom left to show Paratext 7 projects
-* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimg/image008.jpg" class=img-responsive}
+* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image2.png" class=img-responsive}
 * Choose the project to migrate.''It will likely be described as “v7, unregistered.”''
 %%%Some active Paratext 7 projects have been registered already for Paratext 8. If yours is one of them, Paratext 8 will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.%%%
 * Click __OK__ to start Migrating the Project.''The ‘Migrate shared project’ dialog is displayed.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image3.png" class=img-responsive}''Paratext 8may tell you the project must be registered (if it is not preregistered) and it must be migrated to Paratext 8.''
@@ -278,7 +278,6 @@ Spécifier la langue
 
 * If you have another Paratext project in the same language, you can just pick the language from the list in Paratext [2]. If not, you will need to create a new language.
 * Click on __New__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image16.png" class=img-responsive}''The Choose language identifier box is displayed.''
-* La boîte de dialogue __Choose Language Identifier __(choisir l’identifiant de la langue) s’affiche..
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image17.png" class=img-responsive}
 * Click in the __Search__ box
 * Start typing the name of your language''Paratext will display matching names.''

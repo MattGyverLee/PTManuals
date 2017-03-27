@@ -272,6 +272,7 @@ li.lower-roman {
 .partTitle {
         font-size:18pt;
         font-weight:bold;
+        border-top:1.5pt solid gray;
         padding-bottom:21.6pt;
         text-align:center;
 }
