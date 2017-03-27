@@ -2837,6 +2837,730 @@ contentType="en"
 ></chapter
 ></part
 ><backMatter
+><appendix
+id="sSpecText"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Special text</object
+> <object
+contentType="fr"
+type="t-fr"
+></object
+></secTitle
+><ul
+><li
+contentType="en"
+>Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).</li
+><li
+contentType="en"
+>Matt 5.3-10; The beatitudes. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 21.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 27.37: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Matt 27.46: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 5.41: The command to the dead girl. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 11.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 15.26: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Mark 15.34: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.</li
+><li
+contentType="en"
+>Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li
+><li
+contentType="en"
+>Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 19.38: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 23.38: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.</li
+><li
+contentType="en"
+>John 12.13: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>John 19.19: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Rom 8.15: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Rom 11.33-36: The doxology. Often set in poetic form.</li
+><li
+contentType="en"
+>Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li
+><li
+contentType="en"
+>Gal 4.6: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>1 Tim 3.16: A creed. Often set in poetic form.</li
+><li
+contentType="en"
+>2 Tim 2.11-13: A creed. Often set in poetic form.</li
+><li
+contentType="en"
+>1 John 2.12-14: I write to you. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li
+><li
+contentType="en"
+>Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Rev 4.8: A chant. Sometimes set in centered poetic form.</li
+><li
+contentType="en"
+>Rev 4.11: A chant. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 7.5-8: A list. Often set in a special poetic form.</li
+><li
+contentType="en"
+>Rev 7.10, 12: Chants. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 7.15-17: A declaration. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>Rev 11.15, 17-18: Chants. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 12.10-12: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 15.3-4: A song. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 16.5-7: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 17.5: A sign. Often set centered, in small caps.</li
+><li
+contentType="en"
+>Rev 18.2-8: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 18.10-24: A series of woes. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 19.1-8: A series of declarations. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 19.16: A sign. Often set centered, in small caps.</li
+><li
+contentType="en"
+>Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li
+></ul
+><p
+contentType="en"
+>[1] For Keyman &lt;&lt; for « and &gt;&gt; for », ;&lt; for ‹ and ;&gt; for ›</p
+><p
+contentType="en"
+>[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p
+><p
+></p
+></appendix
+><appendix
+id="aBibleBooks"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Three letter abbreviations</object
+> <object
+contentType="fr"
+type="t-fr"
+></object
+></secTitle
+><p
+contentType="en"
+>Old Testament</p
+><table
+border="1"
+><tr
+><td
+>[Genesis] [GEN]</td
+><td
+>[Exodus] [EXO]</td
+><td
+>[Leviticus] [LEV]</td
+></tr
+><tr
+><td
+>[Numbers] (NUM)</td
+><td
+>[Deuteronomy] (DEU)</td
+><td
+>[Joshua] [JOS]</td
+></tr
+><tr
+><td
+>[Judges] (JDG)</td
+><td
+>Ruth [RUT]</td
+><td
+>1 Samuel [1SA]</td
+></tr
+><tr
+><td
+>2 Samuel [2SA]</td
+><td
+>[1 Kings] [1KI]</td
+><td
+>[2 Kings] [2KI]</td
+></tr
+><tr
+><td
+>[1 Chronicles] [1CH]</td
+><td
+>[2 Chronicles] [2CH]</td
+><td
+>[Ezra] [EZR]</td
+></tr
+><tr
+><td
+>[Nehemiah] [NEH]</td
+><td
+>Esther [EST]</td
+><td
+>Job [JOB]</td
+></tr
+><tr
+><td
+>[Psalms] [PSA]</td
+><td
+>[Proverbs] [PRO]</td
+><td
+>[Ecclesiastes] (ECC)</td
+></tr
+><tr
+><td
+>Song of Songs] [SNG]</td
+><td
+>[Isaiah] [ISA]</td
+><td
+>[Jeremiah] [JER]</td
+></tr
+><tr
+><td
+>Lamentations [LAM]</td
+><td
+>[Ezekiel] [EZK]</td
+><td
+>Daniel [DAN]</td
+></tr
+><tr
+><td
+>[Hosea] [HOS]</td
+><td
+>Joël [JOL]</td
+><td
+>Amos [AMO]</td
+></tr
+><tr
+><td
+>[Obadiah] (OBA)</td
+><td
+>[Jonah] (JON)</td
+><td
+>[Micah] (MIC)</td
+></tr
+><tr
+><td
+>[Nahum] (NAM)</td
+><td
+>[Habakkuk] [HAB]</td
+><td
+>[Zephaniah] [ZEP]</td
+></tr
+><tr
+><td
+>[Haggai] [HAG]</td
+><td
+>[Zechariah] [ZEC]</td
+><td
+>[Malachi] [MAL]</td
+></tr
+></table
+><p
+contentType="en"
+>New Testament</p
+><table
+border="1"
+><tr
+><td
+>[Matthew] [MAT]</td
+><td
+>[Mark] [MRK]</td
+><td
+>[Luke] [LUK]</td
+></tr
+><tr
+><td
+>[John] [JHN]</td
+><td
+>[Acts] [ACT]</td
+><td
+>[Romans] [ROM]</td
+></tr
+><tr
+><td
+>[1 Corinthians] [1CO]</td
+><td
+>[2 Corinthians] [2CO]</td
+><td
+>[Galatians] [GAL]</td
+></tr
+><tr
+><td
+>[Ephesians] [EPH]</td
+><td
+>[Philippians] (PHP</td
+><td
+>Colossians (COL)</td
+></tr
+><tr
+><td
+>[1 Thessalonians] (1TH)</td
+><td
+>[2 Thessalonians] (2TH)</td
+><td
+>[1 Timothy] (1TI)</td
+></tr
+><tr
+><td
+>[2 Timothy] (2TI)</td
+><td
+>[Titus] (TIT)</td
+><td
+>[Philemon] (PHM)</td
+></tr
+><tr
+><td
+>[Hebrews] (HEB)</td
+><td
+>[James] (JAS)</td
+><td
+>[1 Peter] (1PE)</td
+></tr
+><tr
+><td
+>[2 Peter] (2PE)</td
+><td
+>[1 John] (1JN)</td
+><td
+>[2 John] (2JN)</td
+></tr
+><tr
+><td
+>[3 John] (3JN)</td
+><td
+>Jude (JUD)</td
+><td
+>[Revelation] (REV)</td
+></tr
+></table
+><section1
+id="sThreeLetterAbbreviations"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Chad special characters</object
+> <object
+contentType="fr"
+type="t-fr"
+></object
+></secTitle
+></section1
+></appendix
+><appendix
+id="sChadSpecChar"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Chad special characters</object
+> <object
+contentType="fr"
+type="t-fr"
+></object
+></secTitle
+><p
+contentType="en"
+>Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p
+><p
+contentType="en"
+>The table below shows the special characters in Chad and the combination of keys needed for each character.</p
+><table
+border="1"
+><tr
+><td
+>Les caractères du Tchad</td
+><td
+>The tones</td
+></tr
+><tr
+><td
+>Type … to have</td
+><td
+>Type … to have</td
+></tr
+><tr
+><td
+>;’ ’</td
+><td
+>;n ŋ</td
+><td
+>]</td
+><td
+>à low tone</td
+></tr
+><tr
+><td
+>;b ɓ</td
+><td
+>;o ɔ</td
+><td
+>[</td
+><td
+>á high tone</td
+></tr
+><tr
+><td
+>;c ç</td
+><td
+>;p œ</td
+><td
+>=</td
+><td
+>ā mid tone</td
+></tr
+><tr
+><td
+>;d ɗ</td
+><td
+>;y ƴ</td
+><td
+>^</td
+><td
+>â falling tone</td
+></tr
+><tr
+><td
+>;e ɛ</td
+><td
+></td
+><td
+>|</td
+><td
+>ǎ rising tone</td
+></tr
+><tr
+><td
+>;f ə</td
+><td
+></td
+><td
+>#</td
+><td
+>ä umlaut</td
+></tr
+><tr
+><td
+>;h ɦ</td
+><td
+></td
+><td
+>~</td
+><td
+>ã tilda</td
+></tr
+><tr
+><td
+>;k ɨ</td
+><td
+></td
+><td
+>_</td
+><td
+>a̰ under tilda</td
+></tr
+><tr
+><td
+>;m ɲ</td
+><td
+></td
+><td
+>`</td
+><td
+>a̧ cédille</td
+></tr
+></table
+><p
+contentType="en"
+>To type the other characters as below:</p
+><table
+border="1"
+><tr
+><td
+>Type</td
+><td
+>to have</td
+><td
+></td
+><td
+>type</td
+><td
+>to have</td
+></tr
+><tr
+><td
+>;]</td
+><td
+>]</td
+><td
+></td
+><td
+>;;</td
+><td
+>;</td
+></tr
+><tr
+><td
+>;[</td
+><td
+>[</td
+><td
+></td
+><td
+>;{</td
+><td
+>“</td
+></tr
+><tr
+><td
+>;=</td
+><td
+>=</td
+><td
+></td
+><td
+>;}</td
+><td
+>”</td
+></tr
+><tr
+><td
+>;^</td
+><td
+>^</td
+><td
+></td
+><td
+>;(</td
+><td
+>’</td
+></tr
+><tr
+><td
+>;|</td
+><td
+>|</td
+><td
+></td
+><td
+>;)</td
+><td
+>’</td
+></tr
+><tr
+><td
+>;#</td
+><td
+>#</td
+><td
+></td
+><td
+>;&lt;[1]</td
+><td
+>«</td
+></tr
+><tr
+><td
+>;~</td
+><td
+>~</td
+><td
+></td
+><td
+>;&gt;</td
+><td
+>»</td
+></tr
+><tr
+><td
+>;_</td
+><td
+>_</td
+><td
+></td
+><td
+>;,</td
+><td
+>‹</td
+></tr
+><tr
+><td
+>;`</td
+><td
+>`</td
+><td
+></td
+><td
+>;.</td
+><td
+>›</td
+></tr
+></table
+></appendix
+><appendix
+id="sMarkers"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Common USFM Markers</object
+> <object
+contentType="fr"
+type="t-fr"
+></object
+></secTitle
+><p
+contentType="en"
+>\c chapter</p
+><p
+contentType="en"
+>\v verse</p
+><p
+contentType="en"
+>\p paragraph (small indent)</p
+><p
+contentType="en"
+>\m same paragraph (return to the margin)</p
+><p
+contentType="en"
+>\s1 section title</p
+><p
+contentType="en"
+>\r parallel references</p
+><p
+contentType="en"
+>\q1 quotation (poetry level 1)</p
+><p
+contentType="en"
+>\q2 quotation (poetry level 2)</p
+><p
+contentType="en"
+>\h header</p
+><p
+contentType="en"
+>\mt1 main title</p
+><p
+contentType="en"
+>\mt2 secondary title</p
+><p
+contentType="en"
+>\k .... \k* keyword (in the glossary)</p
+><p
+contentType="en"
+>\w ... \w* indicates a word in the glossary (in the text)</p
+><p
+contentType="en"
+>Introductions</p
+><p
+contentType="en"
+>\ip paragraph</p
+><p
+contentType="en"
+>\is section heading</p
+><p
+contentType="en"
+>\io1 outline 1</p
+><p
+contentType="en"
+>\ili1 list level 1</p
+><p
+contentType="en"
+>\ili2 list level 2</p
+><p
+></p
+></appendix
 ><glossary
 ><p
 contentType="en"
