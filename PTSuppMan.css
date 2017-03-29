@@ -91,8 +91,6 @@ li.lower-roman {
 .typeitalic{
         font-style:italic;
 }
-.typetHr{
-}
 .typetKw{
         font-weight:bold;
 }
@@ -159,6 +157,11 @@ li.lower-roman {
 .typetPT{
 }
 .typetPTPrev{
+}
+.typetSub{
+        font-size:10pt;
+        font-style:italic;
+        font-weight:bold;
 }
 .paragraph {
         text-indent:1em;
@@ -232,9 +235,6 @@ no}
         font-style:italic;
         text-align:center;
 }
-.publishingBlurb {
-        text-align:left;
-}
 .affiliation {
         font-style:italic;
         text-align:center;
@@ -250,6 +250,10 @@ no}
 .version {
         font-size:10pt;
         text-align:center;
+}
+.publishingBlurb {
+        padding-top:2in;
+        text-align:left;
 }
 .contents {
         font-size:18pt;

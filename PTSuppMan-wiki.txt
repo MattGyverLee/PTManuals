@@ -28,16 +28,16 @@ Create a new project
 !!#Introduction
 
 Paratext 8 is the result of a concerted effort to streamline the process of managing translation projects and accessing resources. As a result, both the data and the servers had to change. People wanted less hassle with registration and waiting for codes to be approved. They wanted access to more resources. They wanted a free version of Paratext that didn’t need a license in order to use. Now we have that in Paratext 8.
-''Where We are''
+Where We are
 You may already have Paratext 7 installed and now want to install Paratext 8.
-''Why is this Important''
+Why is this Important
 Paratext 7 and Paratext 8 can both be installed at the same time but you need to understand the limitation of using them together.
 * Both may be installed
 * They use different data directories.
 * My Paratext Projects (Paratext 7)
 * My Paratext 8 Projects (Paratext 8)
 * They use different data servers
-''What are you going to do?''
+What are you going to do?
 You will install Paratext 8 (without uninstalling Paratext 7). You will also install an update from an MSP file.
 ----
 !!#Install Paratext 8
@@ -147,8 +147,6 @@ If you need to do something else before you are ready to migrate, click “Migra
 When you click “Migrate now,” Paratext will copy the project from your Paratext 7 into your Paratext 8, and will also do a send/receive to the Internet.
 Now your colleagues can go to __Paratext 8__and do a __Send/Receive__ to receive the migrated project.
 If they do not have an Internet connection, you can do a send/receive to USB or a network folder, and they can receive the project into Paratext 8 that way.
-{BOX(bg="#FFE6FF" width="60%")}
-Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.{BOX}
 ----
 !!#Additional Project settings
 
@@ -633,4 +631,4 @@ Copyright = …Model=GNT92Versification=EnglishVerseSegmentCount=6
 MAT.1:23 {ISA.7:14}
 MAT.26:64 {DAN.7:13; PSA.110:1}
 * Save the file in the cross reference folder.
-Insert the cross references – ParaTExt will fail if there are any errors.
+Insert the cross references – ParaTExt will fail if there are any errors.Title: Paratext 8, Participant's Manual for Administrators/SupportersGenre: Teaching materialTrial EditionCopyright: This training manual is licensed under a Creative Commons Attribution 4.0 International License.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/cc.png" class=img-responsive}Paratext 8 is a joint project of United Bible Societies and SIL International. Paratext 8 also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.Paratext 8SIL InternationalUnited Bible SocietiesBible Translation

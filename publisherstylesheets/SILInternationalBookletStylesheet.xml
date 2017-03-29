@@ -151,6 +151,8 @@ font-weight="bold"
 spacebefore=".25in"
 textalign="center"
 ></subtitleLayout
+><copyrightPageLayout
+></copyrightPageLayout
 ><headerFooterPageStyles
 font-family="Times New Roman"
 font-size="9pt"
@@ -262,8 +264,6 @@ font-style="italic"
 font-style="italic"
 textalign="center"
 ></authorLayout
-><publishingBlurbLayout
-></publishingBlurbLayout
 ><affiliationLayout
 font-style="italic"
 textalign="center"
@@ -282,6 +282,9 @@ font-size="10pt"
 textalign="center"
 textbefore="Version: "
 ></versionLayout
+><publishingBlurbLayout
+spacebefore="2in"
+></publishingBlurbLayout
 ><contentsLayout
 font-size="18pt"
 font-weight="bold"
@@ -474,7 +477,6 @@ textalign="start"
 ignore="no"
 showNumber="yes"
 ><sectionTitleLayout
-XeLaTeXSpecial="\sectionrule "
 font-size="10pt"
 font-weight="bold"
 spaceafter="10pt"
@@ -588,6 +590,9 @@ textalign="center"
 indent-after=".125in"
 indent-before=".125in"
 ></exampleLayout
+><listLayout
+indent-before=".5in"
+></listLayout
 ><sectionRefLayout
 ></sectionRefLayout
 ><interlinearSourceStyle

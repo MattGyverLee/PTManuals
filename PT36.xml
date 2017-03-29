@@ -714,11 +714,7 @@ type="t-fr"
 border="1"
 ><tr
 ><td
->Create a new project for <br
-></br
->the second back translation <br
-></br
->(first time only)</td
+>Create a new project for the second back translation (first time only)</td
 ><td
 >Setup project interlineariser</td
 ><td
@@ -3332,14 +3328,18 @@ contentType="en"
 border="1"
 ><tr
 ><td
+colspan="2"
 >Les caractères du Tchad</td
 ><td
+colspan="2"
 >The tones</td
 ></tr
 ><tr
 ><td
+colspan="2"
 >Type … to have</td
 ><td
+colspan="2"
 >Type … to have</td
 ></tr
 ><tr

@@ -25,6 +25,10 @@ xml:lang="en"
 >Jenni Beadle</author
 ><author
 >Matthew Lee</author
+><affiliation
+>SIL International</affiliation
+><date
+>Mar. 2017</date
 ><contents
 contentType="en"
 label="Contents"
@@ -71,7 +75,10 @@ type="tPTPrev"
 > (including setup of the project plan).</p
 ><p
 contentType="fr"
->Préparer un projet Paratext 7 et ses utilisateurs pour la migration vers Paratext 8</p
+>Préparer un projet <object
+type="tPTPrev"
+></object
+> et ses utilisateurs pour la migration vers Paratext 8</p
 ></section1
 ><section1
 id="sGoal"
@@ -239,13 +246,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tItalic"
+type="tSub"
 >Where We are</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tItalic"
+type="tSub"
 >Où en sommes-nous</object
 ></p
 ><p
@@ -263,13 +270,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tItalic"
+type="tSub"
 >Why is this Important</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tItalic"
+type="tSub"
 >Pourquoi cette aptitude est-elle importante ?</object
 ></p
 ><p
@@ -325,13 +332,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tItalic"
+type="tSub"
 >What are you going to do?</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tItalic"
+type="tSub"
 >Qu’est-ce qu’on va faire ?</object
 ></p
 ><p
@@ -1374,9 +1381,10 @@ type="tPT"
 ></object
 > that way.</p
 ><framedUnit
+contentType="fr"
 framedtype="tTeacher"
 ><p
-contentType="en"
+contentType="fr"
 >Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
 ></framedUnit
 ><p
@@ -5302,10 +5310,6 @@ font-style="italic"
 id="italic"
 ></type
 ><type
-XeLaTeXSpecial="\hrulefill"
-id="tHr"
-></type
-><type
 font-weight="bold"
 id="tKw"
 ></type
@@ -5412,6 +5416,12 @@ id="tPT"
 before="Paratext 7"
 id="tPTPrev"
 ></type
+><type
+font-size="10pt"
+font-style="italic"
+font-weight="bold"
+id="tSub"
+></type
 ><comment
 >Add your custom types here.</comment
 ></types
@@ -5432,7 +5442,64 @@ spacebefore=".0in"
 ></framedTypes
 ><publishingInfo
 ><publishingBlurb
+><pc
+contentType="en"
+><object
+type="tSub"
+>Title:</object
+> <object
+type="tPT"
+></object
+>, Participant's Manual for Administrators/Supporters</pc
+><pc
+contentType="en"
+><object
+type="tSub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tSub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
 ></publishingBlurb
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
 ></publishingInfo
 ><contentControl
 ><contentTypes

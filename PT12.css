@@ -91,8 +91,6 @@ li.lower-roman {
 .typeitalic{
         font-style:italic;
 }
-.typetHr{
-}
 .typetKw{
         font-weight:bold;
 }
@@ -233,6 +231,7 @@ no}
         text-align:center;
 }
 .publishingBlurb {
+        padding-top:2in;
         text-align:left;
 }
 .affiliation {
