@@ -262,6 +262,8 @@ font-style="italic"
 font-style="italic"
 textalign="center"
 ></authorLayout
+><publishingBlurbLayout
+></publishingBlurbLayout
 ><affiliationLayout
 font-style="italic"
 textalign="center"
@@ -427,7 +429,7 @@ font-style="italic"
 ><numberLayout
 font-size="18pt"
 font-weight="bold"
-pagebreakbefore="no"
+pagebreakbefore="yes"
 spaceafter="10.8pt"
 startonoddpage="no"
 textalign="center"
@@ -435,7 +437,7 @@ textalign="center"
 ><partTitleLayout
 font-size="18pt"
 font-weight="bold"
-pagebreakbefore="yes"
+pagebreakbefore="no"
 spaceafter="21.6pt"
 textalign="center"
 ></partTitleLayout
@@ -460,11 +462,11 @@ textalign="center"
 ignore="no"
 showNumber="yes"
 ><sectionTitleLayout
-XeLaTeXSpecial="\rule"
 font-size="12pt"
 font-weight="bold"
+linebefore="yes"
 spaceafter="10pt"
-spacebefore="12pt"
+spacebefore="2pt"
 textalign="start"
 ></sectionTitleLayout
 ></section1Layout

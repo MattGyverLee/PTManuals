@@ -1016,6 +1016,7 @@ src="12imgeng/image10.png"
 contentType="en"
 >A dialog box is displayed with a list of the chapters.</p
 ><p
+contentType="en"
 ><img
 src="12imgeng/image11.png"
 ></img
@@ -2440,10 +2441,12 @@ contentType="en"
 contentType="en"
 >Click OK</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the View menu and choose Transliterate terms.</blockquote
+>Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the View menu and choose Transliterate terms.</p
+></framedUnit
 ></section1
 ><section1
 id="sChooseTypeTerms"
@@ -2750,6 +2753,7 @@ colspan="5"
 ></tr
 ></table
 ><p
+contentType="en"
 >(table cells haven't merged correctly)</p
 ><p
 contentType="en"
@@ -2804,6 +2808,7 @@ id="sConfigTheWordlist"
 ><secTitle
 >Configure the word list</secTitle
 ><p
+contentType="en"
 >Before you can check the spelling, it is important to have a base of words that are known to be correct. There are three things we can do:</p
 ><section2
 id="sApproveTheSpellingOfCommonWords"
@@ -2918,10 +2923,12 @@ contentType="en"
 contentType="en"
 >Enter letters which sound alike separated by / (e.g. s/sh/z)</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Depending on your language, tick or untick « Ignore all diacritics when comparing words ».</blockquote
+>Depending on your language, tick or untick « Ignore all diacritics when comparing words ».</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -3017,6 +3024,7 @@ id="sSPCB"
 ><secTitle
 >Spell checking - current book</secTitle
 ><p
+contentType="en"
 ></p
 ><section2
 id="sSpellCheckingCurrentBook"
@@ -6234,6 +6242,7 @@ contentType="en"
 contentType="en"
 >[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p
 ><p
+contentType="en"
 ></p
 ></appendix
 ><appendix
@@ -6757,6 +6766,7 @@ contentType="en"
 contentType="en"
 >\ili2 list level 2</p
 ><p
+contentType="en"
 ></p
 ></appendix
 ><glossary
@@ -6905,11 +6915,6 @@ id="tUnderline"
 xsl-foSpecial="text-decoration=&quot;underline&quot;"
 ></type
 ><type
-XeLaTeXSpecial="\colorbox{green}"
-backgroundcolor="Pink"
-id="tTeacher"
-></type
-><type
 before="Paratext 8"
 id="tPT"
 ></type
@@ -6920,6 +6925,21 @@ id="tPTPrev"
 ><comment
 >Add your custom types here.</comment
 ></types
+><framedTypes
+><framedType
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
 ><contentControl
 ><contentTypes
 ><contentType

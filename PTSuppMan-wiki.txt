@@ -24,7 +24,6 @@ Convert a project
 Create a new project
 !#IS: Install Paratext 8
 
-
 ----
 !!#Introduction
 
@@ -43,19 +42,21 @@ You will install Paratext 8 (without uninstalling Paratext 7). You will also ins
 ----
 !!#Install Paratext 8
 
-%%%Note: you do not need to uninstall Paratext 7 or earlier. But you may need to uninstall an earlier version of Paratext 8.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: you do not need to uninstall Paratext 7 or earlier. But you may need to uninstall an earlier version of Paratext 8.{BOX}
 * Double-click on the installer file.
 * After you agree to the license terms, click __Install__.''This step might take a few minutes if the installer needs to install the .NET 4.5 Framework on your computer.''
-* If a dialog appears and asks for your permission, click __Yes__ or provide the credentials as required.''***The Destination Folder step appears. ''
+* If a dialog appears and asks for your permission, click __Yes__ or provide the credentials as required.''The Destination Folder step appears. ''
 * Accept the defaults for the folder.
-%%%Note: Paratext 8 data may not share the same directory as Paratext 7 data.%%%
-%%%N.B. Les projets de Paratext 8 ne peuvent pas partager le même dossier que les projets de Paratext 7.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: Paratext 8 data may not share the same directory as Paratext 7 data.{BOX}
 * Click __Finish__ and then __Close__.
 * The first time you launch Paratext 8 you will need to enter your Paratext 8 registration code. Information on how to obtain this code is on the Registration page.
 ----
 !!#Register a Paratext 7 user (first time run Paratext)
 
-%%%All users need a new registration for Paratext 8.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+All users need a new registration for Paratext 8.{BOX}
 * Run Paratext (for the first time)
 * Choose the interface language.''A dialogue box is displayed asking for your registration code.''
 * Go to http://p8.paratext.org/registration
@@ -69,7 +70,8 @@ You will install Paratext 8 (without uninstalling Paratext 7). You will also ins
 ----
 !!#Manually updating your existing version of ParaTExt
 
-%%%New update files have a .msp extension instead of PUD or SPUD as in the past.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+New update files have a .msp extension instead of PUD or SPUD as in the past.{BOX}
 * Make sure Paratext is closed.
 * Double-click on the __msp__ file to install the update.
 !#MD: Migrate Data
@@ -99,10 +101,10 @@ To migrate a non-shared project:
 !!#Migrate Shared project
 
 If you administer a project that is shared in Paratext 7 and you want to migrate it to Paratext 8, this is how you need to proceed.
-
 !!!#Prepare a Paratext 7 project for migration 
 
-%%%All your users have to migrate at the same time.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+All your users have to migrate at the same time.{BOX}
 * All users must do send/receive __in Paratext 7__ (then cease working in Paratext 7).
 * The Administrator then confirms that the text is in a good state.
 * The Administrator then loads __Paratext 8.__
@@ -110,9 +112,9 @@ If you administer a project that is shared in Paratext 7 and you want to migrate
 * Click the box at the bottom left to show Paratext 7 projects
 * {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image2.png" class=img-responsive}
 * Choose the project to migrate.''It will likely be described as “v7, unregistered.”''
-%%%Some active Paratext 7 projects have been registered already for Paratext 8. If yours is one of them, Paratext 8 will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Some active Paratext 7 projects have been registered already for Paratext 8. If yours is one of them, Paratext 8 will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.{BOX}
 * Click __OK__ to start Migrating the Project.''The ‘Migrate shared project’ dialog is displayed.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image3.png" class=img-responsive}''Paratext 8may tell you the project must be registered (if it is not preregistered) and it must be migrated to Paratext 8.''
-
 !!!#Register a project (before migrating the project)
 
 * Click the __Register online__ button
@@ -128,38 +130,47 @@ If you administer a project that is shared in Paratext 7 and you want to migrate
 * You can mark if your project is confidential or not. Only Paratext 8 registered users can view the name of standard projects, a confidential project will be hidden even from other Paratext 8 users.
 * Another option is to mark a project as a test or training project. You can use this option for test projects you create, or for projects you use for practice in a training course.
 * The last requirement to register is stating that you agree to follow the FOBAI guidelines in your translation project, and you agree to store a backup copy of your project in the Digital Bible Library.
-%%%The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.{BOX}
 * To submit the registration, click __Submit__.''The registry should tell you that the project registered successfully. (You may need to scroll to the top of the page to see this).''
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image4.png" class=img-responsive}
 Or Click __Migrate later__ to back out of migrating and finish your preparations.
-%%%When you are ready, go through the migration again. Clicking “Migrate later” will not cancel the project registration if you just submitted it, you can skip the registration steps and go on to migration%%%
+{BOX(bg="#FFE6FF" width="60%")}
+When you are ready, go through the migration again. Clicking “Migrate later” will not cancel the project registration if you just submitted it, you can skip the registration steps and go on to migration{BOX}
 !!!#Migrating a registered project
 
 * Go back to Paratext.''It should detect that the project is now registered, and inform you of that.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image5.png" class=img-responsive}
 * The migration step has several boxes you have to check off to verify that you understand what is involved.
 * Put a __check__ in these boxes if they are true, then click __Migrate now__ to proceed.
-%%%If you need to do something else before you are ready to migrate, click “Migrate Later,” and go finish your preparations.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If you need to do something else before you are ready to migrate, click “Migrate Later,” and go finish your preparations.{BOX}
 When you click “Migrate now,” Paratext will copy the project from your Paratext 7 into your Paratext 8, and will also do a send/receive to the Internet.
 Now your colleagues can go to __Paratext 8__and do a __Send/Receive__ to receive the migrated project.
 If they do not have an Internet connection, you can do a send/receive to USB or a network folder, and they can receive the project into Paratext 8 that way.
+{BOX(bg="#FFE6FF" width="60%")}
+Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.{BOX}
 ----
 !!#Additional Project settings
 
 * __Language identifier__: After you click “Migrate now”, Paratext 8 may tell you that need to specify a language identifier for your project.
-%%%You can verify what the language name and language identifier are for your project by going to __Project__ > __Project Properties and settings__, and looking at the __language settings__. The language identifier is in brackets after the language name.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+You can verify what the language name and language identifier are for your project by going to __Project__ > __Project Properties and settings__, and looking at the __language settings__. The language identifier is in brackets after the language name.{BOX}
 * __Books__ The project properties and settings has a “Books” tab, you specify here the books that you plan to track their progress in your project.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image6.png" class=img-responsive}
-:
-%%%You can choose book by book, or specify __Old Testament__, __New Testament__, __Deuterocanon__ by using the buttons. You can change this list of books later on in the project if your plans for the project change.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+You can choose book by book, or specify __Old Testament__, __New Testament__, __Deuterocanon__ by using the buttons. You can change this list of books later on in the project if your plans for the project change.{BOX}
 ----
 !!#Migrate Non-shared project
 
-%%%If a project was not shared in Paratext 7 then you do not have to register it in order to migrate.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If a project was not shared in Paratext 7 then you do not have to register it in order to migrate.{BOX}
 * __File__ > __Open Project__
 * Click ““__Show Paratext 7 Projects__”
 * Choose the desired project
 * Click __Migrate Now__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image7.png" class=img-responsive}''When you click “Migrate” the project will be migrated to the Paratext 8 folder and ready to be used. The registration status will determine what functionality exists for the project.''
-* Note: Non-shared projects don't have to be registered but it is recommended.
-%%%Remember, no one should edit the project anymore in Paratext 7. That would be wasted effort as no one else will see their changes. To help your team members remember this, you could have them remove the project from their Paratext 7 once they have gotten it in Paratext 8. Or maybe they can uninstall Paratext 7 from their computer if they don't need it for other projects.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: Non-shared projects don't have to be registered but it is recommended.{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
+Remember, no one should edit the project anymore in Paratext 7. That would be wasted effort as no one else will see their changes. To help your team members remember this, you could have them remove the project from their Paratext 7 once they have gotten it in Paratext 8. Or maybe they can uninstall Paratext 7 from their computer if they don't need it for other projects.{BOX}
 !#REG: Registration
 
 ----
@@ -189,25 +200,28 @@ If your project is not registered you will not have access to
 * Choose to authenticate with Google''A new screen is displayed asking for your password.''
 * Enter your __Google account password__.
 * Click __yes__ to authorize the Paratext site to use your profile information.''You are then ready to start filling in your Paratext registration.''
-%%%If you do not have a Google address, see section )%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If you do not have a Google address, see section ){BOX}
 ----
 !!#Filling in the registration
 
 * Click the appropriate circle to choose your __registration type__ (new registration, previous Paratext 7 registration, or previous Paratext 8 registration).
 * Choose your __organization__ from the list, or if you are not a member you can leave this blank.
-%%%Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.{BOX}
 * Select your __country__.
 * Enter if relevant your __field entity and your superviso__r
 * Explain __why__ you want to use Paratext.
 * Check the box at the bottom if you want to get email announcements about Paratext updates and news.
 * When finished, click “__Register__”''The server will give you a code. It will also send this to your email.''
-%%%Keep that email, or to the code that is displayed here, because if you lose it, there is no way to look it up again. (This is a security feature, user codes are not stored on the server so they cannot be stolen if someone hacks onto the server)%%%
-Inscrivez-vous à Paratext avec un compte non-google
+{BOX(bg="#FFE6FF" width="60%")}
+Keep that email, or to the code that is displayed here, because if you lose it, there is no way to look it up again. (This is a security feature, user codes are not stored on the server so they cannot be stolen if someone hacks onto the server){BOX}
 ----
 !!#Register for Paratext with a non-google account
 
 * If your email account is not on a Google server, or if it is but you choose to not use Google to authenticate, the registry server will ask you to enter a password.
-%%%This does not have to be your email password, you can choose a different password for your Paratext registration.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+This does not have to be your email password, you can choose a different password for your Paratext registration.{BOX}
 * Enter the password you want to set up
 * Enter it again as a confirmation''The server will send an email to your account with a link to verify.''
 * Open your email, go to the link, and proceed to register for Paratext (see above).
@@ -215,6 +229,8 @@ Inscrivez-vous à Paratext avec un compte non-google
 !!#Change your Paratext code
 
 (Generate a new code)
+{BOX(bg="#FFE6FF" width="60%")}
+There are many reasons why you may need to change your Paratext code, but mainly if your computer is stolen.{BOX}
 * Go to the registration website, registry.paratext.org.
 * Log in (if you are not logged in) Log in (if you are not logged in){img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image8.png" class=img-responsive}
 * Click on your user name at the top left.
@@ -225,30 +241,33 @@ Inscrivez-vous à Paratext avec un compte non-google
 * Go to your email, and copy the new code.
 * Go back to Paratext''It may already have pasted in your new code.''
 * If it has not, paste in the new code into the registration form, and click OK.''You should be reregistered.''
-%%%You will need to do this on any other computer that you have Paratext installed on as well.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+You will need to do this on any other computer that you have Paratext installed on as well.{BOX}
 If Paratext is not connecting to the Internet to detect that you need to give a new code, go to
 * __Tools__ > __Registration Information__ and paste the code there.
 ----
 !!#Register a new user (who does not have an email address)
 
-%%%Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.{BOX}
 * Go to registry.paratext.org
 * Log in if you are not already.
 * Click on __Users__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image11.png" class=img-responsive}
 * Click the __“+ Register new user”__ button.''The new user registration form is displayed.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image12.png" class=img-responsive}
 * Fill in their name, and the rest of their information.
 * You do not need to supply their email address.
-%%%A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.{BOX}
 * When competed, click “__Create__”''The server should respond by e-mailing you the user code for the new user.''
-%%%Hang onto this code, because it cannot be recovered again if you lose it.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Hang onto this code, because it cannot be recovered again if you lose it.{BOX}
 ----
 !!#Translation project by an unrecognised individual/organisation
 
 * If a translator is not part of a recognised organisation, she can apply to the BoG (boardofgovernors@paratext.org) to be members of "Independent Translators" pseudo organization
-%%%It is unclear how many text resource owners will grant access to this group%%%
-
+{BOX(bg="#FFE6FF" width="60%")}
+It is unclear how many text resource owners will grant access to this group{BOX}
 !#CP: Creating a new project
-
 
 ----
 !!#Introduction
@@ -271,8 +290,8 @@ We will create and register a new project.
 * Click the __Edit__ button{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image14.png" class=img-responsive}''The “edit name” dialog is displayed''
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image15.png" class=img-responsive}
 * In the name section, give the project a name and a matching short name.
-%%%Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server.%%%
-Spécifier la langue
+{BOX(bg="#FFE6FF" width="60%")}
+Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server.{BOX}
 ----
 !!#Specify language
 
@@ -283,16 +302,16 @@ Spécifier la langue
 * Start typing the name of your language''Paratext will display matching names.''
 * Click on your language in the list.''Paratext will add the language name.''
 * Click __OK__.
-%%%You can also specify additional information if needed in the “advanced” section of the language settings dialog.%%%
-Type de projet
+{BOX(bg="#FFE6FF" width="60%")}
+You can also specify additional information if needed in the “advanced” section of the language settings dialog.{BOX}
 ----
 !!#Type of project
 
 * Click the drop-down list beside “Type of Project”
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image18.png" class=img-responsive}
 * Choose the appropriate type for your project.
-%%%If it is a back translation, or a daughter or transliteration project, you will need to define the source.%%%
-Inscrire le nouveau projet.
+{BOX(bg="#FFE6FF" width="60%")}
+If it is a back translation, or a daughter or transliteration project, you will need to define the source.{BOX}
 ----
 !!#Register the new project
 
@@ -301,7 +320,6 @@ Inscrire le nouveau projet.
 * Fill in the information (see above)
 * Click __Register __to submit.''Paratext should "automagically" detect that the project is now registered,''
 * Click __OK__ to create the new project.
-Les types de Projets qui n’ont pas besoin d’être inscrits séparément
 ----
 !!#Editing your registration
 
@@ -361,19 +379,19 @@ You will use a combination of two features: the Project Plan and the Assignments
 ----
 !!#Add the organisational base plan
 
-%%%If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.)%%%
-%%%Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un autre. (Voir la page suivante pour les instructions de supprimer un plan.)%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.){BOX}
 * __Project____> Project plan settings__
 * Click __Manage plans__
 * Click below __Show Base Plan__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image20.png" class=img-responsive}
 * Choose your organisational base plan
 * Click the __Copy Plan__ arrow.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image21.png" class=img-responsive}
 * Click __OK.__''The plan and its tasks are added to the project.''
-Supprimer le plan existant (avant d’ajouter un autre)
 ----
 !!#Remove current plan (if necessary)
 
-%%%If the project has an old plan, you need to delete each of the current stages before adding a new base plan.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If the project has an old plan, you need to delete each of the current stages before adding a new base plan.{BOX}
 * __[Project____> Project plan settings__
 * Click __Manage plans]__
 * Click on the last stage{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image22.png" class=img-responsive}
@@ -392,7 +410,8 @@ Supprimer le plan existant (avant d’ajouter un autre)
 ----
 !!#Configure - Reordering tasks / Move tasks to another stage
 
-%%%It is possible to reorder tasks and even move tasks to another stage. However, not all organisations permit this.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+It is possible to reorder tasks and even move tasks to another stage. However, not all organisations permit this.{BOX}
 * From the __Project__ menu, choose __Project Plan__
 * Click the __Stages__ / Tasks tab.
 * Select the task you want to move.
@@ -444,7 +463,8 @@ Supprimer le plan existant (avant d’ajouter un autre)
 ----
 !!#Copy a task from one project to another
 
-%%%Note: Follow the steps below to copy a task from the project plan for project ORIG (the "origin project") to the project plan for project DEST (the "destination project").%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: Follow the steps below to copy a task from the project plan for project ORIG (the "origin project") to the project plan for project DEST (the "destination project").{BOX}
 # From the __File__ menu, select __Open Project/Resource__.
 # Select project DEST and click __OK__.
 # From the __Project__ menu, select __Project Plan__....
@@ -459,12 +479,14 @@ The task is copied to the project plan for the DEST project and becomes unavaila
 ----
 !!#Updating the project plan (for a migrated project)
 
-%%%For projects that have already completed a number of stages at the time of switching to Paratext 8 the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, complete.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+For projects that have already completed a number of stages at the time of switching to Paratext 8 the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, complete.{BOX}
 * Click on your project.
 * From the __Project__ menu, choose __Assignments and Progress__.
 * Choose Stages table view.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image27.png" class=img-responsive}
 * Check the box for the stages of each book as appropriate.''The stage will be marked as complete unless errors have been found. The errors must be corrected before the stage can be marked as completed.''
-%%%Paratext 8 will likely find errors for most older projects since new checks have been added.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext 8 will likely find errors for most older projects since new checks have been added.{BOX}
 !#Setting up a project for success
 
 Things to consider:
@@ -550,6 +572,7 @@ __[5] __Select Composed (NFC) or one of the options in the drop-down list if the
 * __[6] __Select the name of the user you want to replace from the drop-down list.
 * __[7] __Enter the name of a registered Paratext user in this box.
 * __[8] __Add, a summary of the replacement appears, with a "Remove" button.
+* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image30.png" class=img-responsive}
 * (Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)(Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)
 ----
 !!#Convert the project
@@ -598,8 +621,6 @@ If you don't have a model text with the desired cross-reference, you can create 
 * Find the .xrf file of extracted cross references.
 * Select the file, and click __Open__.
 * If desired, select one or more of the options:
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image31.png" class=img-responsive}
-
 (see the guide for more info)
 * Click __OK__''If the Copyright box displays a copyright notice or required statement of acknowledgments, copy the text, and then paste it wherever you keep this kind of information for the project.''
 ----

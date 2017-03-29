@@ -574,7 +574,8 @@ This module shows you how to:
 * Click the second filter button
 * Choose Chapters Assigned to Me
 * Click OK
-%%%Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the View menu and choose Transliterate terms.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the View menu and choose Transliterate terms.{BOX}
 ----
 !!#Choose the type of terms [◙ VC01] 
 
@@ -688,7 +689,8 @@ A list of words is displayed.
 In the Wordlist
 * Tools > Find Similar Words
 * Enter letters which sound alike separated by / (e.g. s/sh/z)
-%%%Depending on your language, tick or untick « Ignore all diacritics when comparing words ».%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Depending on your language, tick or untick « Ignore all diacritics when comparing words ».{BOX}
 * Click OK
 A list of words is displayed.
 * Correct the words (as described above).

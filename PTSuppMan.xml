@@ -212,8 +212,6 @@ contentType="fr"
 type="t-fr"
 >IP : Installation de Paratext 8</object
 ></secTitle
-><p
-></p
 ><section1
 id="sISIntroduction"
 ><secTitle
@@ -300,9 +298,6 @@ contentType="en"
 contentType="fr"
 >Les dossiers sont différents</li
 ><li
-contentType="fr"
->My Paratext projects</li
-><li
 contentType="en"
 >My Paratext Projects (<object
 type="tPTPrev"
@@ -367,22 +362,21 @@ contentType="fr"
 type="t-fr"
 >Installer Paratext 8</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
-xml:lang="en"
 >Note: you do not need to uninstall <object
 type="tPTPrev"
 ></object
 > or earlier. But you may need to uninstall an earlier version of <object
 type="tPT"
 ></object
->.</blockquote
-><blockquote
+>.</p
+><p
 contentType="fr"
-type="tTeacher"
-xml:lang="fr"
->Installation de Paratext 8 N.B. Vous n’avez pas besoin de désinstaller Paratext 7 ou une version antérieure, mais il faut désinstaller une version antérieure de Paratext 8.</blockquote
+>Installation de Paratext 8 N.B. Vous n’avez pas besoin de désinstaller Paratext 7 ou une version antérieure, mais il faut désinstaller une version antérieure de Paratext 8.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -418,7 +412,7 @@ type="tKw"
 ></br
 ><object
 type="tItalic"
->***The Destination Folder step appears. </object
+>The Destination Folder step appears. </object
 ></li
 ><li
 >Accept the defaults for the folder.</li
@@ -454,20 +448,21 @@ type="tItalic"
 contentType="fr"
 >Acceptez les valeurs par défaut du dossier.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >Note: <object
 type="tPT"
 ></object
 > data may not share the same directory as <object
 type="tPTPrev"
 ></object
-> data.</blockquote
-><blockquote
-contentType="en"
-type="tTeacher"
->N.B. Les projets de Paratext 8 ne peuvent pas partager le même dossier que les projets de Paratext 7.</blockquote
+> data.</p
+><p
+contentType="fr"
+>N.B. Les projets de Paratext 8 ne peuvent pas partager le même dossier que les projets de Paratext 7.</p
+></framedUnit
 ><ul
 ><li
 contentType="fr"
@@ -525,19 +520,20 @@ contentType="fr"
 type="t-fr"
 >Inscription d’un utilisateur de Paratext 7</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >All users need a new registration for <object
 type="tPT"
 ></object
->.</blockquote
-><blockquote
+>.</p
+><p
 contentType="fr"
-type="tTeacher"
 >(à la première exécution de Paratext)<br
 ></br
->Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 8.</blockquote
+>Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 8.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -650,16 +646,18 @@ contentType="fr"
 type="t-fr"
 >Mise à jour manuelle</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
->New update files have a .msp extension instead of PUD or SPUD as in the past.</blockquote
-><blockquote
+>New update files have a .msp extension instead of PUD or SPUD as in the past.</p
+><p
 contentType="fr"
-type="tTeacher"
 >Mise à jour manuelle de votre version existante de Paratext Les nouveaux fichiers de mise à jour ont une extension .<object
 type="tKw"
 >msp</object
-> au lieu de PUD ou SPUD comme dans le passé.</blockquote
+> au lieu de PUD ou SPUD comme dans le passé.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -896,8 +894,6 @@ type="tPT"
 ><p
 contentType="fr"
 >Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le migrer vers Paratext 8, voici comment vous devez procéder.</p
-><p
-></p
 ><section2
 id="sPrepMig"
 ><secTitle
@@ -913,10 +909,12 @@ contentType="fr"
 type="t-fr"
 >Préparer un projet Paratext 7 pour la migration</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->All your users have to migrate at the same time.</blockquote
+>All your users have to migrate at the same time.</p
+></framedUnit
 ><ul
 ><li
 contentType="fr"
@@ -1013,9 +1011,10 @@ type="tItalic"
 contentType="fr"
 >Choisissez le projet à migrer.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >Some active <object
 type="tPTPrev"
 ></object
@@ -1025,11 +1024,11 @@ type="tPT"
 >. If yours is one of them, <object
 type="tPT"
 ></object
-> will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.</blockquote
-><blockquote
+> will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.</p
+><p
 contentType="fr"
-type="tTeacher"
->Il sera probablement décrit comme "v7, non-inscrit." Il peut être décrit comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais sauter la partie sur l'enregistrement.</blockquote
+>Il sera probablement décrit comme "v7, non-inscrit." Il peut être décrit comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais sauter la partie sur l'enregistrement.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1073,8 +1072,6 @@ contentType="fr"
 src="i.png"
 ></img
 >Paratext 8 peut vous dire que le projet doit être inscrit (s'il n'est pas préenregistré) et doit être migré vers Paratext 8.</p
-><p
-></p
 ></section2
 ><section2
 id="sRegister"
@@ -1191,14 +1188,15 @@ contentType="fr"
 ></br
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.</blockquote
-><blockquote
+>The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.</p
+><p
 contentType="fr"
-type="tTeacher"
->La Bibliothèque Biblique Numérique est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.</blockquote
+>La Bibliothèque Biblique Numérique est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1219,6 +1217,7 @@ type="tKw"
 >(Soumettre un enregistrement)</li
 ></ul
 ><p
+contentType="en"
 ><img
 src="supimgeng\image4.png"
 width="5in"
@@ -1236,10 +1235,12 @@ contentType="en"
 type="tKw"
 >Migrate later</object
 > to back out of migrating and finish your preparations.</p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->When you are ready, go through the migration again. Clicking “Migrate later” will not cancel the project registration if you just submitted it, you can skip the registration steps and go on to migration</blockquote
+>When you are ready, go through the migration again. Clicking “Migrate later” will not cancel the project registration if you just submitted it, you can skip the registration steps and go on to migration</p
+></framedUnit
 ></section2
 ><section2
 id="sMigRep"
@@ -1276,10 +1277,13 @@ type="tItalic"
 >Il devrait détecter que le projet est maintenant enregistré et vous en informer.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
 contentType="fr"
-type="tTeacher"
->Si vous venez d’inscrire votre projet, vous pouvez continuer avec la migration. Sinon ouvrir le projet à migrer.</blockquote
+framedtype="tTeacher"
+><p
+contentType="fr"
+>Si vous venez d’inscrire votre projet, vous pouvez continuer avec la migration. Sinon ouvrir le projet à migrer.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1318,17 +1322,18 @@ type="tKw"
 >Migrate Now</object
 > (Migrer maintenant) pour continuer.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->If you need to do something else before you are ready to migrate, click “Migrate Later,” and go finish your preparations.</blockquote
-><blockquote
+>If you need to do something else before you are ready to migrate, click “Migrate Later,” and go finish your preparations.</p
+><p
 contentType="fr"
-type="tTeacher"
 >Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez sur «<object
 type="tKw"
 >Migrate later</object
-> (Migrer plus tard», puis terminez vos préparatifs.</blockquote
+> (Migrer plus tard», puis terminez vos préparatifs.</p
+></framedUnit
 ><p
 contentType="en"
 >When you click “Migrate now,” Paratext will copy the project from your <object
@@ -1368,10 +1373,12 @@ contentType="en"
 type="tPT"
 ></object
 > that way.</p
-><blockquote
-contentType="fr"
-type="tTeacher"
->Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
+></framedUnit
 ><p
 contentType="fr"
 >***Paramètres supplémentaires du projet</p
@@ -1406,9 +1413,10 @@ type="tKw"
 >Identificateur de langue: </object
 >Après avoir cliqué sur «Migrer maintenant», Paratext 8 peut vous dire qu'il faut spécifier un identificateur de langue pour votre projet.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >You can verify what the language name and language identifier are for your project by going to <object
 type="tKw"
 >Project</object
@@ -1418,17 +1426,17 @@ type="tKw"
 >, and looking at the <object
 type="tKw"
 >language settings</object
->. The language identifier is in brackets after the language name.</blockquote
-><blockquote
+>. The language identifier is in brackets after the language name.</p
+><p
 contentType="fr"
-type="tTeacher"
 >Vous pouvez vérifier le nom de la langue et l'identificateur de langue de votre projet en allant dans <object
 type="tKw"
 >Projet</object
 >&gt; <object
 type="tKw"
 >Propriétés et paramètres du projet</object
-> et en consultant les paramètres de langue. L'identifiant de la langue est soit entre parenthèses après le nom de la langue ou en-dessous le nom..</blockquote
+> et en consultant les paramètres de langue. L'identifiant de la langue est soit entre parenthèses après le nom de la langue ou en-dessous le nom.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1456,11 +1464,10 @@ src="i.png"
 ></img
 ></li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
->:</p
-><blockquote
 contentType="en"
-type="tTeacher"
 >You can choose book by book, or specify <object
 type="tKw"
 >Old Testament</object
@@ -1470,10 +1477,11 @@ type="tKw"
 >, <object
 type="tKw"
 >Deuterocanon</object
-> by using the buttons. You can change this list of books later on in the project if your plans for the project change.</blockquote
+> by using the buttons. You can change this list of books later on in the project if your plans for the project change.</p
 ><p
 contentType="fr"
 >Vous pouvez choisir un livre par livre, ou spécifier Ancien Testament, Nouveau Testament, Deuterocanon en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.</p
+></framedUnit
 ><p
 contentType="fr"
 >N.B. Après avoir migrer votre projet, il faut migrer la retraduction, et tous les projet filles l’un après l’autre..</p
@@ -1489,17 +1497,18 @@ contentType="fr"
 type="t-fr"
 >Migrer un projet non partagé</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >If a project was not shared in <object
 type="tPTPrev"
 ></object
-> then you do not have to register it in order to migrate.</blockquote
-><blockquote
+> then you do not have to register it in order to migrate.</p
+><p
 contentType="fr"
-type="tTeacher"
->Si un projet n’a pas été partagé en Paratext 7, puis vous n’avez pas besoin de l’inscrire avant de migrer mais c’est fortement recommandé..</blockquote
+>Si un projet n’a pas été partagé en Paratext 7, puis vous n’avez pas besoin de l’inscrire avant de migrer mais c’est fortement recommandé..</p
+></framedUnit
 ><ul
 ><li
 contentType="fr"
@@ -1568,13 +1577,16 @@ contentType="fr"
 type="tKw"
 >Migrate now </object
 >(migrer maintenant)</li
-><li
->Note: Non-shared projects don't have to be registered but it is recommended.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Non-shared projects don't have to be registered but it is recommended.</p
+><p
 contentType="fr"
-type="tTeacher"
->N.B. Les projets non partagés n’ont pas besoin d’être inscrits (registrés), mais il est conseillé.</blockquote
+>N.B. Les projets non partagés n’ont pas besoin d’être inscrits (registrés), mais il est conseillé.</p
+></framedUnit
 ><ul
 ><li
 contentType="fr"
@@ -1598,9 +1610,10 @@ type="tKw"
 >Migrate Now </object
 >(Migrer maintenant), le projet sera migré vers le dossier Paratext 8 et prêt à être utilisé. Le statut d’inscription déterminera les fonctionnalités qui sont disponibles pour le projet.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >Remember, no one should edit the project anymore in <object
 type="tPTPrev"
 ></object
@@ -1613,7 +1626,8 @@ type="tPT"
 >. Or maybe they can uninstall <object
 type="tPTPrev"
 ></object
-> from their computer if they don't need it for other projects.</blockquote
+> from their computer if they don't need it for other projects.</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
@@ -1843,21 +1857,22 @@ type="tItalic"
 >Le « New Paratext 8 User » s’affiche.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >If you do not have a Google address, see section <sectionRef
 sec="sNonGoogle"
 ></sectionRef
->)</blockquote
-><blockquote
+>)</p
+><p
 contentType="fr"
-type="tTeacher"
 >Si vous n’avez pas d’adresse gmail, voir section <sectionRef
 sec="sNonGoogle"
 showTitle="numberOnly"
 ></sectionRef
->)</blockquote
+>)</p
+></framedUnit
 ></section1
 ><section1
 id="sFillReg"
@@ -1905,10 +1920,12 @@ type="tKw"
 contentType="fr"
 >Choisissez votre organisation (ou le laissez vide)</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.</blockquote
+>Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1963,15 +1980,17 @@ type="tItalic"
 >Vous recevrez votre code d’inscription permanent par email</object
 ></li
 ></ul
-><blockquote
-contentType="en"
-type="tTeacher"
->Keep that email, or to the code that is displayed here, because if you lose it, there is no way to look it up again. (This is a security feature, user codes are not stored on the server so they cannot be stolen if someone hacks onto the server)</blockquote
-><blockquote
-contentType="fr"
-type="tTeacher"
->Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le perdez, il n'y a aucun moyen de le chercher encore. (Il s'agit d'une fonctionnalité de sécurité, les codes d’utilisateur ne sont pas stockés sur le serveur pour qu'ils ne puissent pas être volés si quelqu'un attaque le serveur.)</blockquote
+><framedUnit
+framedtype="tTeacher"
 ><p
+contentType="en"
+>Keep that email, or to the code that is displayed here, because if you lose it, there is no way to look it up again. (This is a security feature, user codes are not stored on the server so they cannot be stolen if someone hacks onto the server)</p
+><p
+contentType="fr"
+>Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le perdez, il n'y a aucun moyen de le chercher encore. (Il s'agit d'une fonctionnalité de sécurité, les codes d’utilisateur ne sont pas stockés sur le serveur pour qu'ils ne puissent pas être volés si quelqu'un attaque le serveur.)</p
+></framedUnit
+><p
+contentType="fr"
 >Inscrivez-vous à Paratext avec un compte non-google</p
 ></section1
 ><section1
@@ -1994,14 +2013,15 @@ contentType="en"
 contentType="fr"
 >Si votre compte email ne se trouve pas sur un serveur Google, ou si vous choisissez de ne pas utiliser Google pour l'authentification, le serveur de registre vous demandera d'entrer un mot de passe.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->This does not have to be your email password, you can choose a different password for your Paratext registration.</blockquote
-><blockquote
+>This does not have to be your email password, you can choose a different password for your Paratext registration.</p
+><p
 contentType="fr"
-type="tTeacher"
->Cela ne doit pas nécessairement être votre mot de passe de messagerie, vous pouvez choisir un autre mot de passe pour votre inscription à Paratext.</blockquote
+>Cela ne doit pas nécessairement être votre mot de passe de messagerie, vous pouvez choisir un autre mot de passe pour votre inscription à Paratext.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -2099,10 +2119,15 @@ contentType="en"
 ><p
 contentType="fr"
 >(générer un code nouveau)</p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>There are many reasons why you may need to change your Paratext code, but mainly if your computer is stolen.</p
+><p
 contentType="fr"
-type="tTeacher"
->Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.</blockquote
+>Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -2267,14 +2292,15 @@ type="tItalic"
 >Vous êtes réinscrit.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->You will need to do this on any other computer that you have Paratext installed on as well.</blockquote
-><blockquote
+>You will need to do this on any other computer that you have Paratext installed on as well.</p
+><p
 contentType="fr"
-type="tTeacher"
->Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code de Paratext est installé.</blockquote
+>Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code de Paratext est installé.</p
+></framedUnit
 ><p
 contentType="en"
 >If Paratext is not connecting to the Internet to detect that you need to give a new code, go to</p
@@ -2317,10 +2343,12 @@ type="t-fr"
 ><p
 contentType="fr"
 >***</p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.</blockquote
+>Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -2367,10 +2395,12 @@ contentType="en"
 contentType="en"
 >You do not need to supply their email address.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.</blockquote
+>A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -2384,10 +2414,12 @@ type="tItalic"
 >The server should respond by e-mailing you the user code for the new user.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Hang onto this code, because it cannot be recovered again if you lose it.</blockquote
+>Hang onto this code, because it cannot be recovered again if you lose it.</p
+></framedUnit
 ></section1
 ><section1
 id="sREGIndiv"
@@ -2409,16 +2441,15 @@ contentType="en"
 contentType="fr"
 >On pourra faire une demande à BoG (boardofgovernors@paratext.org) pour devenir membres de la pseudo organisation "Independent Translators"</li
 ></ul
-><blockquote
-contentType="en"
-type="tTeacher"
->It is unclear how many text resource owners will grant access to this group</blockquote
-><blockquote
-contentType="fr"
-type="tTeacher"
->Il se peut que peu de propriétaires de ressources textes accorderont l’accès à ce groupe</blockquote
+><framedUnit
+framedtype="tTeacher"
 ><p
-></p
+contentType="en"
+>It is unclear how many text resource owners will grant access to this group</p
+><p
+contentType="fr"
+>Il se peut que peu de propriétaires de ressources textes accorderont l’accès à ce groupe</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
@@ -2433,8 +2464,6 @@ contentType="fr"
 type="t-fr"
 >CP: Créer un nouveau projet</object
 ></secTitle
-><p
-></p
 ><section1
 id="sCPIntroduction"
 ><secTitle
@@ -2608,6 +2637,7 @@ src="i.png"
 ></li
 ></ul
 ><p
+contentType="en"
 ><img
 src="supimgeng\image15.png"
 ></img
@@ -2626,15 +2656,17 @@ type="tKw"
 >Nom abrégé</object
 > correspondant.</li
 ></ul
-><blockquote
-contentType="en"
-type="tTeacher"
->Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server.</blockquote
-><blockquote
-contentType="fr"
-type="tTeacher"
->Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet.</blockquote
+><framedUnit
+framedtype="tTeacher"
 ><p
+contentType="en"
+>Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server.</p
+><p
+contentType="fr"
+>Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet.</p
+></framedUnit
+><p
+contentType="fr"
 >Spécifier la langue</p
 ></section1
 ><section1
@@ -2688,6 +2720,7 @@ src="i.png"
 ></li
 ></ul
 ><p
+contentType="en"
 ><img
 src="supimgeng\image17.png"
 ></img
@@ -2759,15 +2792,17 @@ type="tKw"
 >OK</object
 >.</li
 ></ul
-><blockquote
-contentType="en"
-type="tTeacher"
->You can also specify additional information if needed in the “advanced” section of the language settings dialog.</blockquote
-><blockquote
-contentType="fr"
-type="tTeacher"
->Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancées" de la boîte de dialogue des paramètres de langue..</blockquote
+><framedUnit
+framedtype="tTeacher"
 ><p
+contentType="en"
+>You can also specify additional information if needed in the “advanced” section of the language settings dialog.</p
+><p
+contentType="fr"
+>Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancées" de la boîte de dialogue des paramètres de langue..</p
+></framedUnit
+><p
+contentType="fr"
 >Type de projet</p
 ></section1
 ><section1
@@ -2791,6 +2826,7 @@ contentType="fr"
 >Cliquez sur la liste déroulante à côté de «Type de projet»</li
 ></ul
 ><p
+contentType="en"
 ><img
 src="supimgeng\image18.png"
 ></img
@@ -2803,15 +2839,17 @@ contentType="en"
 contentType="fr"
 >Choisissez le type approprié pour votre projet.</li
 ></ul
-><blockquote
-contentType="en"
-type="tTeacher"
->If it is a back translation, or a daughter or transliteration project, you will need to define the source.</blockquote
-><blockquote
-contentType="fr"
-type="tTeacher"
->S'il s'agit d'une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</blockquote
+><framedUnit
+framedtype="tTeacher"
 ><p
+contentType="en"
+>If it is a back translation, or a daughter or transliteration project, you will need to define the source.</p
+><p
+contentType="fr"
+>S'il s'agit d'une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</p
+></framedUnit
+><p
+contentType="fr"
 >Inscrire le nouveau projet.</p
 ></section1
 ><section1
@@ -2890,6 +2928,7 @@ type="tKw"
 > pour créer le nouveau projet.</li
 ></ul
 ><p
+contentType="fr"
 >Les types de Projets qui n’ont pas besoin d’être inscrits séparément</p
 ><ul
 ><li
@@ -3357,14 +3396,15 @@ contentType="fr"
 type="t-fr"
 >Ajouter le plan de base de l’organisation</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.)</blockquote
-><blockquote
-contentType="en"
-type="tTeacher"
->Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un autre. (Voir la page suivante pour les instructions de supprimer un plan.)</blockquote
+>If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.)</p
+><p
+contentType="fr"
+>Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un autre. (Voir la page suivante pour les instructions de supprimer un plan.)</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -3445,6 +3485,7 @@ type="tItalic"
 ></li
 ></ul
 ><p
+contentType="fr"
 >Supprimer le plan existant (avant d’ajouter un autre)</p
 ></section1
 ><section1
@@ -3459,14 +3500,15 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->If the project has an old plan, you need to delete each of the current stages before adding a new base plan.</blockquote
-><blockquote
+>If the project has an old plan, you need to delete each of the current stages before adding a new base plan.</p
+><p
 contentType="fr"
-type="tTeacher"
->Si le projet a un plan ancien, vous devez supprimer chacune des étapes actuelles avant d’ajouter un nouveau plan de base.</blockquote
+>Si le projet a un plan ancien, vous devez supprimer chacune des étapes actuelles avant d’ajouter un nouveau plan de base.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -3589,10 +3631,12 @@ contentType="fr"
 type="t-fr"
 >Configurer — Réorganiser les tâches</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->It is possible to reorder tasks and even move tasks to another stage. However, not all organisations permit this.</blockquote
+>It is possible to reorder tasks and even move tasks to another stage. However, not all organisations permit this.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -3991,14 +4035,15 @@ contentType="fr"
 type="t-fr"
 >Copier une tâche d’un projet à un autre</object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Note: Follow the steps below to copy a task from the project plan for project ORIG (the "origin project") to the project plan for project DEST (the "destination project").</blockquote
-><blockquote
+>Note: Follow the steps below to copy a task from the project plan for project ORIG (the "origin project") to the project plan for project DEST (the "destination project").</p
+><p
 contentType="fr"
-type="tTeacher"
->N.B. Suivez les étapes ci-dessous pour copier une tâche du plan du projet ORIG (le « projet d’origine ») sur le plan du projet DEST (le « projet de destination »).</blockquote
+>N.B. Suivez les étapes ci-dessous pour copier une tâche du plan du projet ORIG (le « projet d’origine ») sur le plan du projet DEST (le « projet de destination »).</p
+></framedUnit
 ><ol
 ><li
 contentType="en"
@@ -4158,13 +4203,15 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 >For projects that have already completed a number of stages at the time of switching to <object
 type="tPT"
 ></object
-> the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, complete.</blockquote
+> the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, complete.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -4195,13 +4242,15 @@ type="tItalic"
 >The stage will be marked as complete unless errors have been found. The errors must be corrected before the stage can be marked as completed.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
 ><object
 type="tPT"
 ></object
-> will likely find errors for most older projects since new checks have been added.</blockquote
+> will likely find errors for most older projects since new checks have been added.</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
@@ -4687,6 +4736,7 @@ type="t-fr"
 >Convertir l’encodage à 65001 — Unicode [UTF8]</object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tKw"
 >[4] </object
@@ -4774,8 +4824,8 @@ type="tKw"
 >Remove</object
 > « Supprimer ».</li
 ><li
-contentType="dn"
->Zook?<img
+contentType="en"
+><img
 src="supimgeng\image30.png"
 ></img
 ></li
@@ -5063,11 +5113,10 @@ contentType="en"
 >If desired, select one or more of the options:</li
 ></ul
 ><p
+contentType="fr"
 ><img
 src="supimgeng\image31.png"
 ></img
-></p
-><p
 ></p
 ><p
 contentType="en"
@@ -5149,8 +5198,6 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><p
-></p
 ><section1
 id="sIntroduction"
 ><secTitle
@@ -5212,14 +5259,10 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><p
-></p
 ></section1
 ></chapter
 ><backMatter
 ><glossary
-><p
-></p
 ><dl
 ><dt
 >Note</dt
@@ -5362,11 +5405,6 @@ id="tUnderline"
 xsl-foSpecial="text-decoration=&quot;underline&quot;"
 ></type
 ><type
-XeLaTeXSpecial="\colorbox{green}"
-backgroundcolor="Pink"
-id="tTeacher"
-></type
-><type
 before="Paratext 8"
 id="tPT"
 ></type
@@ -5377,6 +5415,25 @@ id="tPTPrev"
 ><comment
 >Add your custom types here.</comment
 ></types
+><framedTypes
+><framedType
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
+><publishingInfo
+><publishingBlurb
+></publishingBlurb
+></publishingInfo
 ><contentControl
 ><contentTypes
 ><contentType

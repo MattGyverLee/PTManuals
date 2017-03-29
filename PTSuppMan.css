@@ -6,7 +6,23 @@ body {
      font-family:"Times New Roman";
     font-size:10pt;
 }
-.footnote{
+
+.framedTypetTeacher{
+        background-color:#FFE6FF;
+            margin-top:.0in;
+            margin-bottom:.0in;
+            margin-left:.125in;
+            margin-right:.125in;
+            padding-top:.03in;
+            padding-bottom:.03in;
+            padding-left:.125in;
+            padding-right:.125in;
+            text-align:left;
+            border-width:1px;
+            border-style:solid;
+            border-color:black;
+}
+        .footnote{
     font-size:8pt;
 }
 .paragraph_indent {
@@ -140,9 +156,6 @@ li.lower-roman {
 .typetUnderline{
         text-decoration:underline;
 }
-.typetTeacher{
-        background-color:Pink;
-}
 .typetPT{
 }
 .typetPTPrev{
@@ -208,16 +221,19 @@ li.lower-roman {
         border-top:1.5pt solid gray;
         padding-top:1cm;
         text-align:center;
-}
+no}
 .subtitleOne {
         font-size:14pt;
         font-weight:bold;
         padding-top:.25in;
         text-align:center;
-}
+no}
 .author {
         font-style:italic;
         text-align:center;
+}
+.publishingBlurb {
+        text-align:left;
 }
 .affiliation {
         font-style:italic;
@@ -241,41 +257,41 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-}
+no}
 .abstract {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-}
+no}
 .acknowledgementsfrontMatter {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-}
+no}
 .preface {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-}
+no}
 .numberpart {
         font-size:18pt;
         font-weight:bold;
+        border-top:1.5pt solid gray;
         padding-bottom:10.8pt;
         text-align:center;
-}
+no}
 .partTitle {
         font-size:18pt;
         font-weight:bold;
-        border-top:1.5pt solid gray;
         padding-bottom:21.6pt;
         text-align:center;
-}
+no}
 .partContents {
         margin-top:10pt;
         margin-bottom:10pt;
@@ -287,20 +303,20 @@ li.lower-roman {
         border-top:1.5pt solid gray;
         padding-bottom:10.8pt;
         text-align:center;
-}
+no}
 .chapterTitle {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
         text-align:center;
-}
+no}
 .section1 {
 }
 .sectionTitlesection1 {
         font-size:12pt;
         font-weight:bold;
-        padding-bottom:10pt;
-        padding-top:12pt;
+yes        padding-bottom:10pt;
+        padding-top:2pt;
         text-align:left;
 }
 .section2 {
@@ -311,7 +327,7 @@ li.lower-roman {
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-}
+no}
 .section3 {
 }
 .sectionTitlesection3 {
@@ -321,7 +337,7 @@ li.lower-roman {
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-}
+no}
 .section4 {
 }
 .sectionTitlesection4 {
@@ -329,7 +345,7 @@ li.lower-roman {
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-}
+no}
 .section5 {
 }
 .sectionTitlesection5 {
@@ -337,7 +353,7 @@ li.lower-roman {
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-}
+no}
 .section6 {
 }
 .sectionTitlesection6 {
@@ -345,7 +361,7 @@ li.lower-roman {
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-}
+no}
 .numberappendix {
         font-size:18pt;
         font-weight:bold;
@@ -353,13 +369,13 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .appendixTitle {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
         text-align:center;
-}
+no}
 .acknowledgementsbackMatter {
         font-size:18pt;
         font-weight:bold;
@@ -367,7 +383,7 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .glossaryTitle {
         font-size:18pt;
         font-weight:bold;
@@ -375,7 +391,7 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .referencesTitle {
         font-size:18pt;
         font-weight:bold;
@@ -383,7 +399,7 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .references {
         font-size:10pt;
         text-indent:-.25in;
@@ -396,7 +412,7 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .endnotesTitle {
         font-size:18pt;
         font-weight:bold;
@@ -404,7 +420,7 @@ li.lower-roman {
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-}
+no}
 .example{
         margin-right:.125in;
         margin-left:.125in;

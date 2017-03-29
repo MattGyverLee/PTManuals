@@ -157,7 +157,8 @@ This module shows you how to:
 * Click __OK__
 * Click the __Create Books__ link
 * Create books as needed.
-%%%The project should not need to be registered as it inherits the registration from your project.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+The project should not need to be registered as it inherits the registration from your project.{BOX}
 ----
 !!#Configure the project interlineariser [◙ RT01]
 
@@ -169,7 +170,8 @@ This module shows you how to:
 * Click “Automatically Export verses when approved”
 * Dropdown the list and choose your second back translation project
 * Click __OK__
-%%%Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...{BOX}
 ----
 !!#Confirm and correct the interlinearised text [◙ RT02]
 
@@ -177,7 +179,8 @@ To correct glosses
 * Click the incorrect gloss''A list is displayed.''
 * Either click on the correct gloss in the listor type the correct gloss in the textbox
 * Click Enter
-%%%Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.{BOX}
 ----
 !!#Translate/gloss a phrase [◙ RT03]
 
@@ -230,7 +233,8 @@ This module shows you how to:
 ----
 !!#Unmatched pairs of Punctuation [◙ VT04]
 
-%%%This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.{BOX}
 * __Checking__ > __Unmatched pairs of punctuation__:''If the list is empty, then there are no errors.''
 * If necessary, click __Options...__ to add other pairs.
 * Click __OK__.
@@ -242,7 +246,8 @@ This module shows you how to:
 !!#References [◙ VT08]
 
 
-%%%Before you can run the references check, your Administrator must define various settings.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Before you can run the references check, your Administrator must define various settings.{BOX}
 * __Project > Scripture reference settings__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image18.png" class=img-responsive}
 * For each setting, type the punctuation in the box''The sample will be updated on the right.''
 * Click the __Book names__ tab{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image19.png" class=img-responsive}
@@ -253,11 +258,13 @@ This module shows you how to:
 * Click « __References »__
 * Click__ OK__
 * Correct any errors.
-%%%Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.{BOX}
 ----
 !!#Numbers check
 
-%%%Before you can run the references check, your Administrator must define various number settings.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Before you can run the references check, your Administrator must define various number settings.{BOX}
 * __Checking > Number settings__
 * Fill-in the dialog box.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image20.png" class=img-responsive}
 * Click OK
@@ -268,7 +275,8 @@ This module shows you how to:
 !!#Quotation rules [◙ VT07]
 
 The quotations check is used to ensure you have been consistent in marking the direct speech correctly.
-%%%Before you can run the quotation check, your Administrator must define the rules for your quotations.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Before you can run the quotation check, your Administrator must define the rules for your quotations.{BOX}
 * __Checking__ > __Quotation rules__
 * Fill-in the quotation marks used for each level [1] [2] [3]
 * __Check Flag all quotes near other errors [5]__
@@ -285,12 +293,14 @@ The quotations check is used to ensure you have been consistent in marking the d
 ----
 !!#Quoted text
 
-%%%The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.{BOX}
 * __Checking > Basic checks__
 * __Quoted text__
 * Click __OK__.''A list of errors is displayed.''
 * Make corrections as needed.
-%%%Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.{BOX}
 
 -----------------------------------
 
@@ -508,8 +518,10 @@ Configuration
 
 * Click on a line of references in the top pane.''The texts are displayed in the bottom pane.''
 Text is shown in green when the text is exactly the same as in the other passage.
-%%%Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.%%%
-%%%If the text is green in Greek, then your text should also be the same.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
+If the text is green in Greek, then your text should also be the same.{BOX}
 Normally, if the text is different in the Greek than it should be different in your text, but not always.
 ----
 !!#To correct the text
@@ -520,7 +532,8 @@ Normally, if the text is different in the Greek than it should be different in y
 ----
 !!#Coping a text
 
-%%%If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.{BOX}
 * Click the blue link « ‘Edition »
 * Select the text
 * Copy (ctrl+c)
@@ -529,7 +542,8 @@ Normally, if the text is different in the Greek than it should be different in y
 * Select the text
 * Paste (ctrl+v)
 * Click __OK.__
-%%%Be careful when there is more than one verse. You don’t want to copy the \v.%%%
+{BOX(bg="#FFE6FF" width="60%")}
+Be careful when there is more than one verse. You don’t want to copy the \v.{BOX}
 ----
 !!#Mark the passage as finished
 

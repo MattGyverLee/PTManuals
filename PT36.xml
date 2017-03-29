@@ -110,6 +110,7 @@ contentType="en"
 >spell checking</li
 ></ul
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Stage 4: Consultant Check</object
@@ -118,6 +119,7 @@ type="tItalic"
 contentType="en"
 >All the tasks for this step have been covered in previous modules.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Stage 5: Community testing</object
@@ -131,6 +133,7 @@ contentType="en"
 >Prepare a Biblical terms report.</li
 ></ul
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Stage 6: Finalising for publication</object
@@ -165,6 +168,7 @@ contentType="en"
 contentType="en"
 >Stage 3: Preparing for the Consultant check</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -173,6 +177,7 @@ type="tItalic"
 contentType="en"
 >In this third stage of a translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.</p
 ><p
+contentType="en"
 ><img
 src="36imgeng\image5.png"
 ></img
@@ -224,6 +229,7 @@ border="1"
 ></tr
 ></table
 ><p
+contentType="en"
 ><object
 type="tItalic"
 ></object
@@ -232,6 +238,7 @@ type="tItalic"
 contentType="en"
 >This module explains how to draft a back translation into a separate ParaTExt project and keep it up-to-date. [The next module will explain how to do a word by word gloss of the translation using the project interlinearizer.]</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -240,6 +247,7 @@ type="tItalic"
 contentType="en"
 >You have typed, checked and revised your translation in ParaTExt and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your back translation.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why is this important?</object
@@ -251,6 +259,7 @@ contentType="en"
 contentType="en"
 >It is preferable that this is done by someone who hasn’t been involved in your translation. This way she will type what the text says and not what you meant it to say. This should also be done without looking at any helps or other Bibles.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What will you do?</object
@@ -273,6 +282,7 @@ contentType="en"
 >Check that your text is up-to-date (or in sync), view any differences by moving to the next change if appropriate.</li
 ></ul
 ><p
+contentType="en"
 >Summary</p
 ><p
 contentType="en"
@@ -438,6 +448,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 >ParaTExt will detect any saved changes to your text and will change the back translation checkbox to a red question mark <img
 src="36imgeng\image3.png"
 ></img
@@ -717,6 +728,7 @@ border="1"
 ></tr
 ></table
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -730,6 +742,7 @@ type="tPT"
 ></object
 > you can only use the Interlinearizer on registered projects.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -738,6 +751,7 @@ type="tItalic"
 contentType="en"
 >You have typed, checked and revised your translation in ParaTExt and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your word for word back translation. [This is separate from the readable back translation in the previous module.]</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why this is important</object
@@ -746,6 +760,7 @@ type="tItalic"
 contentType="en"
 >Your consultant needs to have a copy of your translation in a language they can understand. The back translation done in the previous module is very useful but there are times when a literal translation is more helpful.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What you will do</object
@@ -838,10 +853,12 @@ type="tKw"
 contentType="en"
 >Create books as needed.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->The project should not need to be registered as it inherits the registration from your project.</blockquote
+>The project should not need to be registered as it inherits the registration from your project.</p
+></framedUnit
 ></section1
 ><section1
 id="sconfigureTheProjectInterlineariser"
@@ -898,10 +915,12 @@ type="tKw"
 >OK</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...</blockquote
+>Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...</p
+></framedUnit
 ></section1
 ><section1
 id="sconfirmAndCorrectThe"
@@ -936,10 +955,12 @@ contentType="en"
 contentType="en"
 >Click Enter</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.</blockquote
+>Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.</p
+></framedUnit
 ></section1
 ><section1
 id="sTranslate"
@@ -1098,6 +1119,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1106,6 +1128,7 @@ type="tItalic"
 contentType="en"
 >In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -1114,6 +1137,7 @@ type="tItalic"
 contentType="en"
 >You have typed your translation into ParaTExt. Make sure you have done the checks described in modules BC1 and BC2 before continuing.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why this is important</object
@@ -1122,6 +1146,7 @@ type="tItalic"
 contentType="en"
 >ParaTExt has eleven basic checks. You have already seen the first six checks. This last set of checks help you find errors related to material refered from other books. You want to be sure the references are accurate so that the reader can find those passages.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What you are going to do</object
@@ -1141,6 +1166,7 @@ contentType="en"
 >Correct any errors.</li
 ></ul
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Summary</object
@@ -1160,10 +1186,12 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.</blockquote
+>This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1229,10 +1257,12 @@ type="t-fr"
 ><p
 contentType="en"
 ></p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Before you can run the references check, your Administrator must define various settings.</blockquote
+>Before you can run the references check, your Administrator must define various settings.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1304,10 +1334,12 @@ type="tKw"
 contentType="en"
 >Correct any errors.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.</blockquote
+>Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.</p
+></framedUnit
 ></section1
 ><section1
 id="sNumbersCheck"
@@ -1321,10 +1353,12 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Before you can run the references check, your Administrator must define various number settings.</blockquote
+>Before you can run the references check, your Administrator must define various number settings.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1384,10 +1418,12 @@ type="t-fr"
 ><p
 contentType="en"
 >The quotations check is used to ensure you have been consistent in marking the direct speech correctly.</p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Before you can run the quotation check, your Administrator must define the rules for your quotations.</blockquote
+>Before you can run the quotation check, your Administrator must define the rules for your quotations.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1477,10 +1513,12 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.</blockquote
+>The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -1509,10 +1547,12 @@ type="tItalic"
 contentType="en"
 >Make corrections as needed.</li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.</blockquote
+>Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.</p
+></framedUnit
 ></section1
 ></chapter
 ></part
@@ -1521,6 +1561,7 @@ id="sS4"
 ><secTitle
 >Stage 4: Consultant Visit</secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1543,6 +1584,7 @@ id="s5"
 ><secTitle
 >Stage 5: Review by the community</secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1551,6 +1593,7 @@ type="tItalic"
 contentType="en"
 >The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.</p
 ><p
+contentType="en"
 ><img
 src="36imgeng\image22.png"
 ></img
@@ -1579,6 +1622,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1587,6 +1631,7 @@ type="tItalic"
 contentType="en"
 >In this module you will create a progress report.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -1595,6 +1640,7 @@ type="tItalic"
 contentType="en"
 >As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will project a report.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why this is important</object
@@ -1603,6 +1649,7 @@ type="tItalic"
 contentType="en"
 >Your administrators and funders need accurate reports of your progress.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What are you going to do?</object
@@ -1614,6 +1661,7 @@ contentType="en"
 contentType="en"
 >Produce several reports.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Summary</object
@@ -1717,6 +1765,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1725,6 +1774,7 @@ type="tItalic"
 contentType="en"
 >One task in this stage is to produce a report of the changes made in the key biblical terms.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -1733,6 +1783,7 @@ type="tItalic"
 contentType="en"
 >In working on your translation you have identified and changed a number of key biblical terms.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why this is important</object
@@ -1741,6 +1792,7 @@ type="tItalic"
 contentType="en"
 >Although you can’t use ParaTExt to write the report, it can produce of list of the terms that you have been dealing with and may need to include in your report.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What are you going to do?</object
@@ -1749,6 +1801,7 @@ type="tItalic"
 contentType="en"
 >In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Summary</object
@@ -1929,6 +1982,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -1937,11 +1991,13 @@ type="tItalic"
 contentType="en"
 >The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.</p
 ><p
+contentType="en"
 ><img
 src="36imgeng\image25.png"
 ></img
 ></p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What you will do</object
@@ -2007,6 +2063,7 @@ type="tKw"
 ></li
 ></ul
 ><p
+contentType="en"
 ><img
 src="36imgeng\image26.png"
 ></img
@@ -2289,6 +2346,7 @@ type="t-fr"
 ></object
 ></secTitle
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Introduction</object
@@ -2297,6 +2355,7 @@ type="tItalic"
 contentType="en"
 >There are thousands of passage in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Where we are</object
@@ -2305,6 +2364,7 @@ type="tItalic"
 contentType="en"
 >Normally you will have translated and checked the text of both books with a consultant first. Though there are times that you will want to compare the other verses before you translate the second passage.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Why this is important</object
@@ -2316,6 +2376,7 @@ contentType="en"
 contentType="en"
 >Normally you would make the comparisons made after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.</p
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >What you are going to do</object
@@ -2335,6 +2396,7 @@ contentType="en"
 >open a quick reference window in ParaTExt to see another passage while you are translating.</li
 ></ul
 ><p
+contentType="en"
 ><object
 type="tItalic"
 >Summary</object
@@ -2481,14 +2543,18 @@ type="tItalic"
 ><p
 contentType="en"
 >Text is shown in green when the text is exactly the same as in the other passage.</p
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.</blockquote
-><blockquote
+>Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.</p
+></framedUnit
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->If the text is green in Greek, then your text should also be the same.</blockquote
+>If the text is green in Greek, then your text should also be the same.</p
+></framedUnit
 ><p
 contentType="en"
 >Normally, if the text is different in the Greek than it should be different in your text, but not always.</p
@@ -2532,10 +2598,12 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.</blockquote
+>If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -2568,10 +2636,12 @@ type="tKw"
 >OK.</object
 ></li
 ></ul
-><blockquote
+><framedUnit
+framedtype="tTeacher"
+><p
 contentType="en"
-type="tTeacher"
->Be careful when there is more than one verse. You don’t want to copy the \v.</blockquote
+>Be careful when there is more than one verse. You don’t want to copy the \v.</p
+></framedUnit
 ></section1
 ><section1
 id="smarkThePassageAs"
@@ -3023,6 +3093,7 @@ contentType="en"
 contentType="en"
 >[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p
 ><p
+contentType="en"
 ></p
 ></appendix
 ><appendix
@@ -3559,6 +3630,7 @@ contentType="en"
 contentType="en"
 >\ili2 list level 2</p
 ><p
+contentType="en"
 ></p
 ></appendix
 ><glossary
@@ -3707,11 +3779,6 @@ id="tUnderline"
 xsl-foSpecial="text-decoration=&quot;underline&quot;"
 ></type
 ><type
-XeLaTeXSpecial="\colorbox{green}"
-backgroundcolor="Pink"
-id="tTeacher"
-></type
-><type
 before="Paratext 8"
 id="tPT"
 ></type
@@ -3722,6 +3789,21 @@ id="tPTPrev"
 ><comment
 >Add your custom types here.</comment
 ></types
+><framedTypes
+><framedType
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
 ><contentControl
 ><contentTypes
 ><contentType
