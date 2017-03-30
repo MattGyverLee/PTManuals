@@ -1,0 +1,216 @@
+<object contentType="fr" type="t-fr">Affecter une remarque à quelqu’un [◙ UR03] </object>
+<li contentType="fr">Cliquez sur l’icône (<img src="data:image">) dans le texte. </li>
+<li contentType="fr">Saisissez le commentaire </li>
+<li contentType="fr">Cliquez sur « Affecter à » </li>
+<li contentType="fr">Choisissez comme désiré </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object> </li>
+<object contentType="fr" type="t-fr">Relie une remarque à plusieurs textes</object>
+<li contentType="fr">Ouvrez la remarque </li>
+<li contentType="fr">Cliquer sur le bouton « Multiple » </li>
+<li contentType="fr">Choisissez les projets </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object> </li>
+<li contentType="fr"><object type="tKw">Cliquez sur </object><object type="tKw">OK </object><object type="tKw">encore pour fermer la boîte de dialogue.</object> </li>
+<object contentType="fr" type="t-fr">Rattacher une remarque</object>
+<framedUnit type="tTeacher" contentType="fr">Quelquefois en éditant un verset le mot à qui la remarque était attachée est supprimé et l’icône est déplacé au début du verset. On peut rattacher la remarque à un autre mot.</framedUnit>
+<li contentType="fr">Ouvrez la remarque </li>
+<li contentType="fr">Cliquez sur le bouton rattacher <img src="data:image"> </li>
+<p contentType="fr">Une boîte de dialogue s’affiche</p>
+<li contentType="fr">Cliquez sur le mot à attacher </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object>. </li>
+<p contentType="fr">La remarque est attachée au mot.</p>
+<object contentType="fr" type="t-fr">Marquer une remarque comme étant résolue [◙ UR04] </object>
+<li contentType="fr">Cliquez sur l’icône (<img src="data:image">) dans le texte. </li>
+<li contentType="fr">Saisissez un autre commentaire si nécessaire. </li>
+<li contentType="fr">Cliquez sur le bouton <object type="tKw">Résoudre</object> <img src="data:image"> </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object> </li>
+<object contentType="fr" type="t-fr">Imprimer un rapport des remarques [◙ UR06] </object>
+<li contentType="fr">Cliquez dans la fenêtre des remarques. </li>
+<li contentType="fr">Filtrez les remarques comme vous le souhaitez. </li>
+<li contentType="fr"><object type="tKw">Fichier</object> &gt; <object type="tKw">Imprimer</object> </li>
+<li contentType="fr">Choisissez l’imprimante et les options désirés. </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object>. </li>
+<li contentType="fr">Fermez la fenêtre. </li>
+<object contentType="fr" type="t-fr">Supprimer des remarques</object>
+<li contentType="fr">Cliquez sur l’icône de la remarque </li>
+<li contentType="fr">Cliquez sur le petit x rouge </li>
+<li contentType="fr">Cliquez sur <object type="tKw">Oui</object> pour supprimer définitivement le commentaire.  </li>
+<li contentType="fr">S’il y a plus qu’un commentaire, continuez à supprimer pour supprimer la remarque. </li>
+<object contentType="fr" type="t-fr">Fenêtre de remarques</object>
+<li contentType="fr">Il y a quatre cases sur la barre d’outils </li>
+<li contentType="fr">Filtre de remarques </li>
+<li contentType="fr">Filtre de versets  </li>
+<li contentType="fr">Recherche  </li>
+<li contentType="fr">Trier par [verset, date, affectée à] </li>
+<object contentType="fr" type="t-fr">Filtre de remarques</object>
+<li contentType="fr">Cliquez sur le premier bouton/liste </li>
+<li contentType="fr">Choisissez un filtre existant </li>
+<object contentType="fr" type="t-fr">Définir un nouveau filtre de remarques</object>
+<li contentType="fr">Cliquez sur le premier bouton/liste </li>
+<li contentType="fr">Choisissez <object type="tKw">Nouveau filtre</object> </li>
+<p contentType="fr"><object type="tKw"></object></p>
+<li contentType="fr"><object type="tKw">Choisissez le statut, l’étiquette, la personne, et la date comme vous le souhaite</object>. </li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object>. </li>
+<p contentType="fr">La liste des remarques est filtrée.</p>
+<object contentType="fr" type="t-fr">Enregistrer un filtre</object>
+<li contentType="fr">Définissez le filtre comme nécessaire. </li>
+<li contentType="fr">Cliquez sur la case de texte en haut. </li>
+<p contentType="fr"><img src="data:image"> </p>
+<li contentType="fr">Saisissez un nom pour le filtre </li>
+<li contentType="fr">Cliquez sur l’icône de la disquette. </li>
+<object contentType="fr" type="t-fr">Annexe — Livres de la Bible </object>
+<object contentType="fr" type="t-fr">Abréviations en trois lettres  </object>
+<p contentType="fr">Ancien Testament</p>
+<table border="1"><tr><td contentType="fr">Genèse [Genesis] [GEN]</td><td contentType="fr">Exode [Exodus] [EXO]</td><td contentType="fr">Lévitique [Leviticus] [LEV]</td></tr><tr><td contentType="fr">Nombres [Numbers] (NUM)</td><td contentType="fr">Deutéronome [Deuteronomy] (DEU)</td><td contentType="fr">Josué [Joshua] [JOS]</td></tr><tr><td contentType="fr">Juges [Judges] (JDG)</td><td contentType="fr">Ruth [RUT]</td><td contentType="fr">1 Samuel [1SA]</td></tr><tr><td contentType="fr">2 Samuel [2SA]</td><td contentType="fr">1 Rois [1 Kings] [1KI]</td><td contentType="fr">2 Rois [2 Kings] [2KI]</td></tr><tr><td contentType="fr">1 Chroniques [1 Chronicles] [1CH]</td><td contentType="fr">2 Chroniques [2 Chronicles] [2CH]</td><td contentType="fr">Esdras [Ezra] [EZR]</td></tr><tr><td contentType="fr">Néhémie [Nehemiah] [NEH]</td><td contentType="fr">Esther [EST]</td><td contentType="fr">Job [JOB]</td></tr><tr><td contentType="fr">Psaumes [Psalms] [PSA]</td><td contentType="fr">Proverbes [Proverbs] [PRO]</td><td contentType="fr">Ecclésiaste [Ecclesiastes] (ECC) </td></tr><tr><td contentType="fr">Cantique des cantiques [Song of Songs] [SNG]</td><td contentType="fr">Ésaïe [Isaiah] [ISA]</td><td contentType="fr">Jérémie [Jeremiah] [JER]</td></tr><tr><td contentType="fr">Lamentations [LAM]</td><td contentType="fr">Ézékiel [Ezekiel] [EZK]</td><td contentType="fr">Daniel [DAN]</td></tr><tr><td contentType="fr">Osée [Hosea] [HOS]</td><td contentType="fr">Joël [JOL]</td><td contentType="fr">Amos [AMO]</td></tr><tr><td contentType="fr">Abdias [Obadiah] (OBA)</td><td contentType="fr">Jonas [Jonah] (JON)</td><td contentType="fr">Michée [Micah] (MIC)</td></tr><tr><td contentType="fr">Nahoum [Nahum] (NAM)</td><td contentType="fr">Habacuc [Habakkuk] [HAB]</td><td contentType="fr">Sophonie [Zephaniah] [ZEP]</td></tr><tr><td contentType="fr">Aggée [Haggai] [HAG]</td><td contentType="fr">Zacharie [Zechariah] [ZEC]</td><td contentType="fr">Malachie [Malachi] [MAL]</td></tr></table>
+<p contentType="fr">Nouveau Testament</p>
+<table border="1"><tr><td contentType="fr">Matthieu [Matthew] [MAT]</td><td contentType="fr">Marc [Mark] [MRK]</td><td contentType="fr">Luc [Luke] [LUK]</td></tr><tr><td contentType="fr">Jean [John] [JHN]</td><td contentType="fr">Actes [Acts] [ACT]</td><td contentType="fr">Romains [Romans] [ROM]</td></tr><tr><td contentType="fr">1 Corinthiens [1 Corinthians] [1CO]</td><td contentType="fr">1 Corinthiens [2 Corinthians] [2CO]</td><td contentType="fr">Galates [Galatians] [GAL]</td></tr><tr><td contentType="fr">Éphésiens [Ephesians] [EPH]</td><td contentType="fr">Philippiens [Philippians] (PHP</td><td contentType="fr">Colossiens Colossians (COL)</td></tr><tr><td contentType="fr">1 Thessaloniciens [1 Thessalonians] (1TH)</td><td contentType="fr">1 Thessaloniciens [2 Thessalonians] (2TH)</td><td contentType="fr">1 Timothée [1 Timothy] (1TI)</td></tr><tr><td contentType="fr">2 Timothée [2 Timothy] (2TI)</td><td contentType="fr">Tite [Titus] (TIT)</td><td contentType="fr">Philémon [Philemon] (PHM)</td></tr><tr><td contentType="fr">Hébreux [Hebrews] (HEB)</td><td contentType="fr">Jacques [James] (JAS)</td><td contentType="fr">1 Pierre [1 Peter] (1PE)</td></tr><tr><td contentType="fr">2 Pierre [2 Peter] (2PE)</td><td contentType="fr">1 Jean [1 John] (1JN)</td><td contentType="fr">2 Jean [2 John] (2JN)</td></tr><tr><td contentType="fr">3 Jean [3 John] (3JN)</td><td contentType="fr">Jude (JUD)</td><td contentType="fr">Apocalypse [Revelation] (REV)</td></tr></table>
+<object contentType="fr" type="t-fr">Les caractères de Tchad Unicode </object>
+<p contentType="fr">Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche. </p>
+<p contentType="fr">Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère.</p>
+<table border="1"><tr><td contentType="fr">Les caractères du Tchad</td><td contentType="fr">Les tons</td></tr><tr><td contentType="fr">Tapez… pour avoir</td><td contentType="fr">Tapez… pour avoir</td></tr><tr><td contentType="fr">; » » </td><td contentType="fr">;nŋ</td><td contentType="fr"> ]</td><td contentType="fr">à  ton bas</td></tr><tr><td contentType="fr">;b ɓ</td><td contentType="fr">;oɔ</td><td contentType="fr"> [</td><td contentType="fr">á  ton haut</td></tr><tr><td contentType="fr">;cç</td><td contentType="fr">;pœ</td><td contentType="fr"> =</td><td contentType="fr">ā  ton moyen</td></tr><tr><td contentType="fr">;dɗ</td><td contentType="fr">;yƴ</td><td contentType="fr"> ^</td><td contentType="fr">â  ton descendant</td></tr><tr><td contentType="fr">;eɛ</td><td contentType="fr"> </td><td contentType="fr"> |</td><td contentType="fr">ǎ  ton montant</td></tr><tr><td contentType="fr">;fə</td><td contentType="fr"> </td><td contentType="fr"> #</td><td contentType="fr">ä  umlaut</td></tr><tr><td contentType="fr">;hɦ</td><td contentType="fr"> </td><td contentType="fr"> ~</td><td contentType="fr">ã  tilde</td></tr><tr><td contentType="fr">;kɨ</td><td contentType="fr"> </td><td contentType="fr"> _</td><td contentType="fr">a̰  sous tilde</td></tr><tr><td contentType="fr">;mɲ</td><td contentType="fr"> </td><td contentType="fr"> `</td><td contentType="fr">a̧  cédille</td></tr></table>
+<p contentType="fr">Taper les autres caractères spéciaux de la façon suivante :</p>
+<table border="1"><tr><td contentType="fr">Taper</td><td contentType="fr">pour avoir</td><td contentType="fr"> </td><td contentType="fr">Tapez</td><td contentType="fr">pour avoir</td></tr><tr><td contentType="fr">;]</td><td contentType="fr">]</td><td contentType="fr"> </td><td contentType="fr">;;</td><td contentType="fr">;</td></tr><tr><td contentType="fr">;[</td><td contentType="fr">[</td><td contentType="fr"> </td><td contentType="fr">;{</td><td contentType="fr">“</td></tr><tr><td contentType="fr">;=</td><td contentType="fr">=</td><td contentType="fr"> </td><td contentType="fr">;}</td><td contentType="fr">”</td></tr><tr><td contentType="fr">;^</td><td contentType="fr">^</td><td contentType="fr"> </td><td contentType="fr">;(</td><td contentType="fr">’</td></tr><tr><td contentType="fr">;|</td><td contentType="fr">|</td><td contentType="fr"> </td><td contentType="fr">;)</td><td contentType="fr">’</td></tr><tr><td contentType="fr">;#</td><td contentType="fr">#</td><td contentType="fr"> </td><td contentType="fr">;&lt;1</td><td contentType="fr">«</td></tr><tr><td contentType="fr">;~</td><td contentType="fr">~</td><td contentType="fr"> </td><td contentType="fr">;&gt;</td><td contentType="fr">»</td></tr><tr><td contentType="fr">;_</td><td contentType="fr">_</td><td contentType="fr"> </td><td contentType="fr">;,</td><td contentType="fr">‹</td></tr><tr><td contentType="fr">;`</td><td contentType="fr">`</td><td contentType="fr"> </td><td contentType="fr">;.</td><td contentType="fr">›</td></tr></table>
+<object contentType="fr" type="t-fr">USFM Marqueurs fréquents </object>
+<p contentType="fr">\c chapitre</p>
+<p contentType="fr">\v verset</p>
+<p contentType="fr">\p paragraphe (petit retrait)</p>
+<p contentType="fr">\m même paragraphe (retour à la ligne, mais sans retrait)</p>
+<p contentType="fr">\s1 sous-titre</p>
+<p contentType="fr">\r  références parallèles </p>
+<p contentType="fr">\q1 poésie niveau 1</p>
+<p contentType="fr">\q2 poésie niveau 2</p>
+<p contentType="fr">\h entête (header)</p>
+<p contentType="fr">\mt1 titre principal</p>
+<p contentType="fr">\mt2 titre secondaire</p>
+<p contentType="fr">\k .... \k* mot-clé dans glossaire (dans le glossaire)</p>
+<p contentType="fr">\w... \w* mot qui est dans le glossaire (dans le texte)</p>
+<p contentType="fr">Introductions</p>
+<p contentType="fr">\ip paragraphe </p>
+<p contentType="fr">\is section heading (en-tête)</p>
+<p contentType="fr">\io1 outline 1 (en grande ligne 1)</p>
+<p contentType="fr">\ili1 list level 1 (liste niveau 1)</p>
+<p contentType="fr">\ili2 list level 2 (liste niveau 2)</p>
+<p contentType="fr">Table des matières</p>
+<p contentType="fr">Introduction 5</p>
+<p contentType="fr">Étape 1 : Première ébauche 10</p>
+<p contentType="fr">OB : Organisation du bureau 11</p>
+<p contentType="fr">Lancer le programme Paratext 12</p>
+<p contentType="fr">Ouvrir une combinaison de fenêtres 12</p>
+<p contentType="fr">Créer un nouvel arrangement 13</p>
+<p contentType="fr">Ouvrir et arranger les fenêtres 13</p>
+<p contentType="fr">Enregistrer une combinaison de fenêtres 13</p>
+<p contentType="fr">Supprimer une combinaison de fenêtres 13</p>
+<p contentType="fr">Ouvrir des ressources dans une collection de textes 14</p>
+<p contentType="fr">Ouvrir un dictionnaire 15</p>
+<p contentType="fr">Faire une liste de versets avec un terme dans une langue de source 15</p>
+<p contentType="fr">PP1 : Plan et progrès du projet 17</p>
+<p contentType="fr">Vérifier que votre projet est actif 18</p>
+<p contentType="fr">Afficher les taches à faire 18</p>
+<p contentType="fr">Marquer une tâche de livre comme terminée 19</p>
+<p contentType="fr">Marquer une tâche de chapitre comme terminée 19</p>
+<p contentType="fr">Vérifications 20</p>
+<p contentType="fr">Vérifications —setup required 20</p>
+<p contentType="fr">Vérifications — erreurs 20</p>
+<p contentType="fr">SD : Saisie des données 21</p>
+<p contentType="fr">Lancer le programme Paratext 22</p>
+<p contentType="fr">Aller à la référence biblique. 22</p>
+<p contentType="fr">Vérifier que le projet est modifiable 22</p>
+<p contentType="fr">Changer l’affichage 23</p>
+<p contentType="fr">Taper les caractères spéciaux 23</p>
+<p contentType="fr">Ajouter texte avec un autre marqueur comme un titre ou introduction 24</p>
+<p contentType="fr">Ajouter des marqueurs de paragraphe 24</p>
+<p contentType="fr">Insérer une Note de bas de page 25</p>
+<p contentType="fr">Envoyer/Recevoir à une clé pour sauvegarder 25</p>
+<p contentType="fr">Déplacer votre point d’insertion rapidement. 27</p>
+<p contentType="fr">GL : Glossaire 28</p>
+<p contentType="fr">Ajouter une entrée 29</p>
+<p contentType="fr">Lier une entrée existante 30</p>
+<p contentType="fr">Afficher le glossaire 30</p>
+<p contentType="fr">Éditer une entrée  – dans le livre GLO 30</p>
+<p contentType="fr">Éditer une entrée  – dans les termes bibliques 30</p>
+<p contentType="fr">Ajouter un terme biblique 30</p>
+<p contentType="fr">VT1 : Vérifications de base 31</p>
+<p contentType="fr">Vérifications avec plan de projet 32</p>
+<p contentType="fr">Faire les vérifications manuellement 32</p>
+<p contentType="fr">Vérification des « Chapitres/ Versets » 33</p>
+<p contentType="fr">Vérification des « Marqueurs » 33</p>
+<p contentType="fr">Étape 2 : Vérification par l’équipe 34</p>
+<p contentType="fr">NP : Noms propres 35</p>
+<p contentType="fr">Lancer l’outil Termes biblique 36</p>
+<p contentType="fr">Ouvrir la liste de termes 36</p>
+<p contentType="fr">Choisir le texte de référence pour comparer 36</p>
+<p contentType="fr">Modifier divers paramètres 36</p>
+<p contentType="fr">Choisir les types de termes 36</p>
+<p contentType="fr">Modifier noms propres 37</p>
+<p contentType="fr">Entre les modifications des lettres individuelles <br/>et des groupes de lettres 37</p>
+<p contentType="fr">Puis réviser les noms propres (à droite) un par un. 37</p>
+<p contentType="fr">Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte) 38</p>
+<p contentType="fr">Traiter des versets qui n’ont pas le nom dans la traduction 38</p>
+<p contentType="fr">VO : Vérification de l’orthographe 39</p>
+<p contentType="fr">Approuver l’orthographe des mots fréquents 40</p>
+<p contentType="fr">Vérifier les mots que Paratext pense être erronés 41</p>
+<p contentType="fr">Vérifier les mots ayant une orthographe similaire 41</p>
+<p contentType="fr">Vérifier l’orthographe 41</p>
+<p contentType="fr">Corrections des erreurs 42</p>
+<p contentType="fr">Vérifier l’orthographe du livre actuel 43</p>
+<p contentType="fr">Utiliser les nouvelles vérifications 44</p>
+<p contentType="fr">Missing Capitals (majuscules manquantes) 44</p>
+<p contentType="fr">Single Character Typos (coquille caractère unique) 45</p>
+<p contentType="fr">Unusual Letter Combinations (combinaisons caractères inhabituelles 45</p>
+<p contentType="fr">Diacritic Errors (erreurs diacritiques) 45</p>
+<p contentType="fr">Common Typos (coquilles habituelles) 45</p>
+<p contentType="fr">Unknown Morphology (morphologie inconnue) 45</p>
+<p contentType="fr">Rechercher des mots mal liés ou mal divisés 45</p>
+<p contentType="fr">Corrige un mot mal marqué 46</p>
+<p contentType="fr">TB : Un processus de 4 étapes  pour les termes bibliques cohérents 47</p>
+<p contentType="fr">Ouvrir la fenêtre d’équivalents de termes bibliques 48</p>
+<p contentType="fr">Trouver le terme pour le verset actuel 48</p>
+<p contentType="fr">Trouver d’autres versets dans le livre actuel <br/>avec le même terme biblique 50</p>
+<p contentType="fr">Ajouter les équivalents d’autres versets 50</p>
+<p contentType="fr">Traiter des versets qui n’ont pas le terme dans la traduction 50</p>
+<p contentType="fr">Identifier le meilleur équivalent 51</p>
+<p contentType="fr">Rejeter tous les autres 51</p>
+<p contentType="fr">Documenter la raison pour la modification 51</p>
+<p contentType="fr">Si vous aviez besoin de plus qu’un équivalent 51</p>
+<p contentType="fr">Nettoyer d’autres livres (si le temps le permet.) 52</p>
+<p contentType="fr">Ajouter les remarques des discussions des équivalents <br/>(discussion en cours) 52</p>
+<p contentType="fr">Ajouter la décision dans la remarque 53</p>
+<p contentType="fr">Ajouter un terme 54</p>
+<p contentType="fr">MP : Comparer un mot ou expression 55</p>
+<p contentType="fr">VM : Vérification de mise en page 59</p>
+<p contentType="fr">Utilisation des listes récapitulatives — générique 60</p>
+<p contentType="fr">Utilisation des listes récapitulatives — En-têtes de section (\s1) 60</p>
+<p contentType="fr">Vérification des paragraphes 61</p>
+<p contentType="fr">Mise en page et retraits 62</p>
+<p contentType="fr">Ajouter USFMs pour le mise en forme spécial 62</p>
+<p contentType="fr">VB2 : Les vérifications de base 63</p>
+<p contentType="fr">Confirmer la configuration 64</p>
+<p contentType="fr">Utiliser les inventaires pour préparer l’exécution des vérifications 64</p>
+<p contentType="fr">Caractères 65</p>
+<p contentType="fr">Ponctuation 66</p>
+<p contentType="fr">Paires correspondantes 67</p>
+<p contentType="fr">Mots répétés 67</p>
+<p contentType="fr">Mise en majuscules 68</p>
+<p contentType="fr">Faire de petites corrections 68</p>
+<p contentType="fr">IE : Impression d’ébauches 70</p>
+<p contentType="fr">Créer une ébauche en PDF 71</p>
+<p contentType="fr">Imprimer PDF 72</p>
+<p contentType="fr">UR : L’utilisation des remarques 73</p>
+<p contentType="fr">Insertion d’une remarque 76</p>
+<p contentType="fr">Ouvrir des remarques 76</p>
+<p contentType="fr">Ajouter des commentaires dans une remarque ouverte dans le texte 77</p>
+<p contentType="fr">Ajouter des commentaires dans d’une fenêtre de remarques 77</p>
+<p contentType="fr">Affecter une remarque à quelqu’un 77</p>
+<p contentType="fr">Relie une remarque à plusieurs textes 77</p>
+<p contentType="fr">Rattacher une remarque 78</p>
+<p contentType="fr">Marquer une remarque comme étant résolue 78</p>
+<p contentType="fr">Imprimer un rapport des remarques 78</p>
+<p contentType="fr">Supprimer des remarques 78</p>
+<p contentType="fr">Fenêtre de remarques 79</p>
+<p contentType="fr">Filtre de remarques 79</p>
+<p contentType="fr">Définir un nouveau filtre de remarques 79</p>
+<p contentType="fr">Enregistrer un filtre 79</p>
+<p contentType="fr">Annexe — Livres de la Bible 80</p>
+<p contentType="fr">Les caractères de Tchad Unicode 82</p>
+<p contentType="fr">USFM Marqueurs fréquents 83</p>
+<p contentType="fr">1 Pour Keyman &lt;&lt; pour « et &gt;&gt; pour », ;&lt; pour « et ;&gt; pour »</p>
+</html>

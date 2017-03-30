@@ -10,20 +10,19 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="h">
-        <xsl:element name="section">
+<!--        <xsl:element name="section">-->
             <xsl:element name="secTitle">
-                <xsl:element name="object">
+              <!--  <xsl:element name="object">
                     <xsl:attribute name="contentType">en</xsl:attribute>
                     <xsl:attribute name="type">t-en</xsl:attribute>
-                    <xsl:apply-templates/>
-                </xsl:element>
+                </xsl:element> -->
                 <xsl:element name="object">
                     <xsl:attribute name="contentType">fr</xsl:attribute>
                     <xsl:attribute name="type">t-fr</xsl:attribute>
+                    <xsl:apply-templates/>
                 </xsl:element>
             </xsl:element>
-            <xsl:apply-templates/>
-        </xsl:element>
+        <!--</xsl:element>-->
     </xsl:template>
 <!--    <xsl:template match="span[@class='T1']">
         <xsl:element name="s">
@@ -54,7 +53,7 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="p[@class='P39']">
-        <xsl:element name="chapter">
+<!--        <xsl:element name="chapter">-->
             <xsl:element name="secTitle">
                 <xsl:element name="object">
                     <xsl:attribute name="contentType">
@@ -68,49 +67,86 @@
                     </xsl:attribute>
                 </xsl:element>
             </xsl:element>
-        </xsl:element>
+        <!--</xsl:element>-->
     </xsl:template>
     <xsl:template match="p[@class='P40']">
-        <xsl:element name="chapter">
+<!--        <xsl:element name="chapter">-->
             <xsl:element name="secTitle">
-                <xsl:element name="object">
+<!--                <xsl:element name="object">
                     <xsl:attribute name="contentType">
                         <xsl:text>en</xsl:text>
-                    </xsl:attribute>
-                    <xsl:apply-templates/>        
-                </xsl:element>
+                    </xsl:attribute>        
+                </xsl:element>-->
                 <xsl:element name="object">
                     <xsl:attribute name="contentType">
                         <xsl:text>fr</xsl:text>
                     </xsl:attribute>
+                    <xsl:apply-templates/>
                 </xsl:element>
             </xsl:element>
-        </xsl:element>
+        <!--</xsl:element>-->
     </xsl:template>
-    
+    <xsl:template match="h1">
+<!--        <xsl:element name="section1">-->
+            <xsl:element name="secTitle">
+            <!--                <xsl:element name="object">
+                    <xsl:attribute name="contentType">
+                        <xsl:text>en</xsl:text>
+                    </xsl:attribute>
+                           
+                </xsl:element>-->
+            <xsl:element name="object">
+                <xsl:attribute name="contentType">
+                    <xsl:text>fr</xsl:text>
+                </xsl:attribute>
+                <xsl:apply-templates/> 
+            </xsl:element>
+            </xsl:element>
+        <!--</xsl:element>-->
+    </xsl:template>
     <xsl:template match="h2">
         <xsl:element name="section1">
-            <xsl:element name="secTitle">
-                <xsl:element name="object">
+            <!--<xsl:element name="secTitle">-->
+<!--                <xsl:element name="object">
                     <xsl:attribute name="contentType">
                         <xsl:text>en</xsl:text>
                     </xsl:attribute>
-                    <xsl:apply-templates/>        
-                </xsl:element>
+                           
+                </xsl:element>-->
                 <xsl:element name="object">
                     <xsl:attribute name="contentType">
                         <xsl:text>fr</xsl:text>
                     </xsl:attribute>
+                    <xsl:apply-templates/> 
                 </xsl:element>
-            </xsl:element>
+            <!--</xsl:element>-->
         </xsl:element>
     </xsl:template>
+    <xsl:template match="h4">
+        <!--<xsl:element name="section1">-->
+            <xsl:element name="secTitle">
+                <!--                <xsl:element name="object">
+                    <xsl:attribute name="contentType">
+                        <xsl:text>en</xsl:text>
+                    </xsl:attribute>
+                           
+                </xsl:element>-->
+                <xsl:element name="object">
+                    <xsl:attribute name="contentType">
+                        <xsl:text>fr</xsl:text>
+                    </xsl:attribute>
+                    <xsl:apply-templates/> 
+                </xsl:element>
+            </xsl:element>
+        <!--</xsl:element>-->
+    </xsl:template>
+    
     <xsl:template match="a">
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="p">
         <xsl:choose>
-<!--            <xsl:when test="./text()=' '"/>-->
+<!--            <xsl:when test="./text()='&nbsp;'"/>-->
             <!--<xsl:when test="./text()=''"/>-->
             <xsl:when test="parent::li">
                 <xsl:apply-templates/>
@@ -124,15 +160,15 @@
                     <xsl:attribute name="contentType">en</xsl:attribute>
                     <xsl:choose>
                         <xsl:when test="@class='Teacher' or @class='P85'">
-                            <xsl:element name="blockquote">
+                            <xsl:element name="framedUnit">
                                 <xsl:attribute name="type">tTeacher</xsl:attribute>
-                                <xsl:attribute name="contentType">en</xsl:attribute>
+                                <xsl:attribute name="contentType">fr</xsl:attribute>
                                 <xsl:apply-templates/>
                             </xsl:element>
                         </xsl:when>
                         <xsl:when test="@class='P94'">
                             <xsl:element name="p">
-                                <xsl:attribute name="contentType">en</xsl:attribute>
+                                <xsl:attribute name="contentType">fr</xsl:attribute>
                                 <xsl:element name="object">
                                     <xsl:attribute name="type">tItalic</xsl:attribute>
                                     <xsl:apply-templates/>
@@ -171,11 +207,11 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="br">
-        <xsl:element name="br"/>
+        <xsl:element name="br"></xsl:element>
     </xsl:template>
     <xsl:template match="ul">
         <xsl:choose>
-            <xsl:when test="count(li)=92">
+            <xsl:when test="count(li)=1">
                 <xsl:apply-templates/>
             </xsl:when>
             <xsl:otherwise>
@@ -188,7 +224,7 @@
     <xsl:template match="ol">
       <!--  <xsl:text>&#10;</xsl:text>-->
         <xsl:choose>
-            <xsl:when test="count(li)=92">
+            <xsl:when test="count(li)=1">
                 <xsl:apply-templates/>
             </xsl:when>
             <xsl:otherwise>
@@ -200,7 +236,7 @@
     </xsl:template>
     <xsl:template match="li">
         <xsl:choose>
-            <xsl:when test="count(../li)=92">
+            <xsl:when test="count(../li)=1">
                 <xsl:apply-templates/>
             </xsl:when>
             <xsl:when test="./text()=' '">
@@ -212,7 +248,7 @@
             <xsl:otherwise>
                 <!--<xsl:text>&#10;</xsl:text>-->
                 <xsl:element name="li">
-                    <xsl:attribute name="contentType">en</xsl:attribute>
+                    <xsl:attribute name="contentType">fr</xsl:attribute>
                     <xsl:apply-templates/>
                 </xsl:element>      
             </xsl:otherwise>
@@ -223,7 +259,6 @@
             <xsl:when test="parent::not p] and parent::[not li]"></xsl:when>
         </xsl:choose>-->
         <xsl:element name="img">
-            <xsl:attribute name="contentType">en</xsl:attribute>
             <xsl:attribute name="src"><xsl:value-of select="@src"></xsl:value-of></xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
@@ -236,6 +271,7 @@
         </xsl:element>
         <!--<xsl:text>&#10;</xsl:text>-->
     </xsl:template>
+    <xsl:template match="contents"/>
     <xsl:template match="head"/>
     <xsl:template name="Smoothtext">
         <xsl:value-of select="replace(.,'[\s\r\n]+',' ')"/>

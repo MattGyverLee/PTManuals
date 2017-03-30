@@ -1,131 +1,121 @@
+import os
 j=0
-def drive(icontentmer,ifrcontent):
+def drive(iencontent,ifrcontent):
     i=0
     global j
-    for line in icontentmer:
+
+    for line in iencontent:
+        print len(line)
+        print line
+        if i>60000:
+            break
+        control=False
         if len(line)<2:
-            print "Line:"
-            print line
-            print "Context:"
-            print icontentmer[i-1]
-            print "Proponsal:"
-            print ifrcontent[j]    
-            ans=True
-            while ans:
-                print ("""
-                Enter: Accept Merge
-                d. Delete this French
-                p. Insert Blank p
-                l. Insert Blank li
-                i. Ignore/remove empty line in source
-                s. Skip this French
-
-                
-                9.Exit/Quit
-                """)
-                ans=raw_input("What would you like to do? ") 
-                if ans=="d":
-                  del ifrcontent[j]
-                  print("\n Record Deleted")
-                  break             
-                elif ans=="p":
-                  icontentmer[i] = '<p contentType="fr">**missing**</p>\n'
-                  print icontentmer[i]
-                  break
-                elif ans=="i":
-                  print 'Removing:"',icontentmer[i],'"'
-                  del icontentmer[i]
-                  break
-                elif ans=="l":
-                  icontentmer[i] = '<li contentType="fr">**missing**</li>\n'
-                  print icontentmer[i]
-                  break
-                elif ans=="s":
-                  j=j+1
-                  break
-                elif ans=="9":
-                  print("\n Goodbye")
-                  while x <40:
-                    print icontentmer[x]
-                    x = x+1
-                elif ans=="":
-                  print "Accepting Merge"
-                  icontentmer[i] = ifrcontent[j]
-                  print icontentmer[i]
-                  del ifrcontent[0]
-                  break
-                print i
-        elif line =='<object contentType="fr" type="t-fr"></object>\n':
-            print "Line:"
-            print line
-            print "Context:"
-            print icontentmer[i-1]
-            print "Proponsal:"
-            print '<object contentType="fr" type="t-fr">',ifrcontent[j],'</object>'
-            ans=True
-            while ans:
-                print ("""
-                Enter: Accept Merge
-                d. Delete this French
-                i. Ignore/remove empty line in source
-                s. Skip this French
-
-                
-                9.Exit/Quit
-                """)
-                ans=raw_input("What would you like to do? ") 
-                if ans=="d":
-                  del ifrcontent[j]
-                  print("\n Record Deleted")
-                  break             
-                elif ans=="p":
-                  icontentmer[i] = '<p contentType="fr">**missing**</p>\n'
-                  print icontentmer[i]
-                  break
-                elif ans=="i":
-                  break
-                elif ans=="s":
-                  j=j+1
-                  break
-                elif ans=="9":
-                  print("\n Goodbye")
-                  while x <40:
-                    print icontentmer[x]
-                    x = x+1
-                elif ans=="":
-                  print "Accepting Merge"
-                  icontentmer[i] = '<object contentType="fr" type="t-fr">',ifrcontent[j],'</object>'
-                  print icontentmer[i]
-                  del ifrcontent[j]
-                  break
-                print i
+            while control==False:
+                ans=True
+                print "Line:"
+                print line
+                print "Context:"
+                print iencontent[i-1]
+                print "Proponsal:"
+                print ifrcontent[j]
+                while ans:
+                    print ("""
+                    Enter: Accept Merge
+                    d. Delete this French
+                    p. Insert Blank p
+                    l. Insert Blank li
+                    i. Ignore/remove empty line in source
+                    s. Skip this French
+                    b. previous French
+                    2. write French and return
+                    9.Exit/Quit
+                    """)
+                    ans=raw_input("What would you like to do? ") 
+                    if ans=="d":
+                      del ifrcontent[j]
+                      print("\n Record Deleted")
+                      break
+                    elif ans=="b":
+                      j=j-1
+                      break
+                    elif ans=="p":
+                      iencontent[i] = '<p contentType="fr">**missing**</p>\n'
+                      print iencontent[i]
+                      with open(u'PT12Biling.xml',"a+") as m:
+                          m.write(iencontent[i])
+                      del iencontent[i]
+                      control=True
+                      break
+                    elif ans=="i":
+                      print 'Removing:"',iencontent[i],'"'
+                      del iencontent[i]
+                      control=True
+                      break
+                    elif ans=="2":
+                      print 'Printing:"',ifrcontent[j],'"'
+                      with open(u'PT12Biling.xml',"a+") as m:
+                          m.write(ifrcontent[j])
+                      del ifrcontent[j]
+                      break
+                    elif ans=="l":
+                      iencontent[i] = '<li contentType="fr">**missing**</li>\n'
+                      with open(u'PT12Biling.xml',"a+") as m:
+                          m.write(iencontent[i])
+                      del iencontent[i]
+                      control=True
+                      break
+                    elif ans=="s":
+                      j=j+1
+                      break
+                    elif ans=="9":
+                      print("\n Goodbye")
+                      with open(u'PT12Biling.xml',"a+") as m:
+                          m.writelines(iencontent)
+                    elif ans=="":
+                      print "Accepting Merge"
+                      print iencontent[i-1][:5]
+                      print ifrcontent[j][:5]
+                      IsSame=(iencontent[i-1][:5] != ifrcontent[j][:5])
+                      print IsSame
+                      if iencontent[i][:5] != ifrcontent[j][:5]:
+                          with open(u'PT12Biling.xml',"a+") as m:
+                              m.write('***')
+                      iencontent[i] = ifrcontent[j]
+                      print iencontent[i]
+                      del ifrcontent[0]
+                      with open(u'PT12Biling.xml',"a+") as m:
+                          m.write(iencontent[i])
+                      del iencontent[i]
+                      control=True
+                      break
+                    print i
         else:
-          print "Nothing to see here."  
-        with open(u'merged.xml',"a+") as m:
-            m.writelines(icontentmer[i])
+         print "Nothing to see here."  
+         with open(u'PT12Biling.xml',"a+") as m:
+            m.write(iencontent[i])
         i = i+1  
           
 
 
 def main():
-    with open(u'merged.xml', "w+") as o:
+    with open(u'PT12Biling.xml', "w+") as o:
         o.truncate()
-    with open(u'PTSuppMerge.xml') as m:
-        contentmer = m.readlines()
-        print len(contentmer)
-    with open(u'Sources/thin.xhtml') as f:
+    with open(u'PT12.xml') as m:
+        encontent = m.readlines()
+        print len(encontent)
+    with open(u'PT12FR.xml') as f:
         frcontent = f.readlines()
         print len(frcontent)
     # you may also want to remove whitespace characters like `\n` at the end of each line
-    #frcontent = [x.strip() for x in frcontent]
-    #contentmer = [x.strip() for x in contentmer]
-    while len(frcontent)>2:
-        drive(contentmer, frcontent)
-        print len(frcontent);
-
-        with open(u'stored.xml',"a+") as m:
-            for line in frcontent:
-                m.writelines(line)
+#    frcontent = [x.strip() for x in frcontent]
+#    encontent = [x.strip() for x in encontent]
+##    
+    drive(encontent, frcontent)
+    print len(frcontent);
+    with open(u'stored.xml',"a+") as m:
+        for line in frcontent:
+             m.writelines(line)
         
 
 
