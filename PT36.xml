@@ -50,6 +50,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_1-2_IntroStage3</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_1-2_IntroÉtape3</object
+></shortTitle
 ><chapter
 id="sGoal"
 ><secTitle
@@ -1556,6 +1566,16 @@ contentType="en"
 id="sS4"
 ><secTitle
 >Stage 4: Consultant Visit</secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_Stage4</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_Étape4</object
+></shortTitle
 ><p
 contentType="en"
 ><object
@@ -1579,6 +1599,16 @@ contentType="en"
 id="s5"
 ><secTitle
 >Stage 5: Review by the community</secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_Stage5</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_Étape5</object
+></shortTitle
 ><p
 contentType="en"
 ><object
@@ -1965,6 +1995,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_Stage6</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_Étape6</object
+></shortTitle
 ><chapter
 id="s6intro"
 ><secTitle
@@ -2915,6 +2955,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_SpecText</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_TexteSpec</object
+></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -3104,6 +3154,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_BibleBooks</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_LivresBibliques</object
+></shortTitle
 ><p
 contentType="en"
 >Old Testament</p
@@ -3318,6 +3378,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_Chad</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_Tchad</object
+></shortTitle
 ><p
 contentType="en"
 >Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p
@@ -3572,6 +3642,16 @@ contentType="fr"
 type="t-fr"
 ></object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_3-6_USFM</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_3-6_USFM</object
+></shortTitle
 ><p
 contentType="en"
 >\c chapter</p

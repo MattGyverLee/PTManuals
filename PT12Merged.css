@@ -114,6 +114,10 @@ li.lower-roman {
 }
 .typetGrammaticalGloss{
 }
+.typetSub{
+        font-style:italic;
+        font-weight:bold;
+}
 .typetItalic{
         font-style:italic;
 }

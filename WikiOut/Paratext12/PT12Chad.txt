@@ -1,0 +1,27 @@
+Chad special characters
+PT12Chad
+Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.
+The table below shows the special characters in Chad and the combination of keys needed for each character.
+||Les caractères du Tchad |The tones 
+Type … to have |Type … to have 
+;’ ’ |;n ŋ |] |à low tone 
+;b ɓ |;o ɔ |[ |á high tone 
+;c ç |;p œ |= |ā mid tone 
+;d ɗ |;y ƴ |^ |â falling tone 
+;e ɛ | || |ǎ rising tone 
+;f ə | |# |ä umlaut 
+;h ɦ | |~ |ã tilda 
+;k ɨ | |_ |a̰ under tilda 
+;m ɲ | |` |a̧ cédille ||
+To type the other characters as below:
+||Type |to have | |type |to have 
+;] |] | |;; |; 
+;[ |[ | |;{ |“ 
+;= |= | |;} |” 
+;^ |^ | |;( |’ 
+;| || | |;) |’ 
+;# |# | |;<[1]
+For Keyman << for « and >> for », ;< for ‹ and ;> for › |« 
+;~ |~ | |;> |» 
+;_ |_ | |;, |‹ 
+;` |` | |;. |› ||

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pages
+  PUBLIC "-//XMLmind//DTD XLingPap//EN" "XLingPap.dtd">
+<pages>
+   <page zip="WikiOut/Paratext12/PARATEXT_8_1-2_IntroStage1.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+   <page zip="WikiOut/Paratext12/PARATEXT_8_1-2_Stage2.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+   <page zip="WikiOut/Paratext12/PT12ASpec.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+   <page zip="WikiOut/Paratext12/PT12Bible.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+   <page zip="WikiOut/Paratext12/PT12Chad.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+   <page zip="WikiOut/Paratext12/P12USFM.txt">
+      <creator>matthew_lee</creator>
+      <user>matthew_lee</user>
+      <is_html>0</is_html>
+      <wysiwyg>n</wysiwyg>
+   </page>
+</pages>

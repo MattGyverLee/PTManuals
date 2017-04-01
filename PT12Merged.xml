@@ -10,6 +10,8 @@ version="2.28.0"
 ><frontMatter
 ><title
 >Paratext 8</title
+><shortTitle
+>Paratext12</shortTitle
 ><subtitle
 ><object
 contentType="fr"
@@ -39,6 +41,16 @@ label="Contenu"
 id="introstage1"
 ><secTitle
 >Intro and Stage 1</secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_1-2_IntroStage1</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_1-2_IntroÉtape1</object
+></shortTitle
 ><chapter
 id="sIntro"
 ><secTitle
@@ -3552,6 +3564,16 @@ contentType="fr"
 type="t-fr"
 >Étape 2 : Vérification par l’équipe</object
 ></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>PARATEXT_8_1-2_Stage2</object
+><object
+contentType="fr"
+type="t-fr"
+>PARATEXT_8_1-2_Étape2</object
+></shortTitle
 ><chapter
 id="ST2"
 ><secTitle
@@ -9211,6 +9233,8 @@ contentType="en"
 type="t-en"
 >Special text</object
 ></secTitle
+><shortTitle
+>PT12ASpec</shortTitle
 ><ul
 ><li
 contentType="en"
@@ -9390,6 +9414,8 @@ contentType="en"
 type="t-en"
 >Three letter abbreviations</object
 ></secTitle
+><shortTitle
+>PT12Bible</shortTitle
 ><p
 contentType="en"
 >Old Testament</p
@@ -9587,6 +9613,8 @@ contentType="en"
 type="t-en"
 >Chad special characters</object
 ></secTitle
+><shortTitle
+>PT12Chad</shortTitle
 ><p
 contentType="en"
 >Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p
@@ -9843,6 +9871,8 @@ contentType="en"
 type="t-en"
 >Common USFM Markers</object
 ></secTitle
+><shortTitle
+>P12USFM</shortTitle
 ><p
 contentType="en"
 >\c chapter</p

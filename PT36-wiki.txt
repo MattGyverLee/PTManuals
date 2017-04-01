@@ -1,10 +1,9 @@
-
-!Introduction and Stage 3
-
-!#Goal
+Introduction and Stage 3
+PARATEXT_8_1-2_IntroStage3
+!1: Goal
 
 The participants will process their translation with the help of Paratext, a program created for entering, storing, and checking the translated texts. The course follows the six stages of translation as given in the SIL plan. The first two stages were covered in an earlier manual. This manual covers stages 3-6.
-!#Course Objectives
+!2: Course Objectives
 
 At the end of the course, the participant will be able to:
 ''Stage 3: Prepare for a consultant check''
@@ -36,7 +35,7 @@ The following modules will help you in this stage:
 * BT1 and BT2: Back translations
 * BC3: Basic checks
 * PPU: Update progress plan
-!#BT1: Draft a Back translation
+!3: BT1: Draft a Back translation
 
 ||Create a new project %%%for the back translation%%%(first time only) |Draft the back translation |Mark a chapter as finished |Viewing differences |Project plan ||
 ''''Introduction
@@ -55,7 +54,7 @@ It is preferable that this is done by someone who hasn’t been involved in your
 Summary
 This module shows you how to:
 ----
-!!#Create a new project for the back translation
+!!3.1: Create a new project for the back translation
 
 (First time only by Administrator)
 * __File__ > __New Project__
@@ -72,7 +71,7 @@ This module shows you how to:
 * Create books as needed.
 The project should not need to be registered as it inherits the registration from your project.
 ----
-!!#Draft your back translation [◙ RT01]
+!!3.2: Draft your back translation [◙ RT01]
 
 * Open your project
 * Open your back translation project
@@ -81,44 +80,44 @@ The project should not need to be registered as it inherits the registration fro
 * Type your back translation into each verse (after the check box).
 * Continue for each verse in the chapter.
 ----
-!!#Mark the chapter as Finished
+!!3.3: Mark the chapter as Finished
 
 When you have finished the chapter
 * On the toolbar at the top of your back translation window, click on the arrow beside the check mark.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image6.png" class=img-responsive}
 * Choose __Mark All Verses in Chapter as Finished__.''All the check boxes for the chapter are marked with green checks.''
 ----
-!!#When a change is made to your project
+!!3.4: When a change is made to your project
 
 ParaTExt will detect any saved changes to your text and will change the back translation checkbox to a red question mark {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image3.png" class=img-responsive} and add issues to the back translation status in the project plan.
 * Click in a verse with the red question mark.
 * Review and correct the back translation.
 * Click the red question mark''It changes to a green check mark''
 ----
-!!#View the differences for outdated verses
+!!3.5: View the differences for outdated verses
 
 * Click on the ab icon on the toolbar to see the differences.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image8.png" class=img-responsive}
 ----
-!!#Move to the next differences
+!!3.6: Move to the next differences
 
 * Click on the up and down arrows to move to the previous or next differences.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image9.png" class=img-responsive}
 ----
-!!#Check your project plan
+!!3.7: Check your project plan
 
 * Click the project plan icon
 * Expand Stage 3, the back translation checks are at the end ''The number of issues (if any) are displayed''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image10.png" class=img-responsive}
 ----
-!!#Back translation verse check in project plan
+!!3.8: Back translation verse check in project plan
 
 * Click on the issues link''A result list window lists any errors.''
 * Correct any errors.
 ----
-!!#Back translation status complete in project plan
+!!3.9: Back translation status complete in project plan
 
 * Click on the issues link
 * The back translation window is displayed with the cursor in the first verse with problems.
 * Correct the problem and move to the next outdated verse by clicking on the arrows on the toolbar.
 ----
-!!#Learning task
+!!3.10: Learning task
 
 The checkboxes in a back translation can have a number of different symbols.
 Look in the ParaTExt help “What symbols can occur in status checkboxes in a back translation?” topic and match the following symbols and status:
@@ -128,9 +127,9 @@ C |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng
 D |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image14.png" class=img-responsive} | |4 |Finished 
 E |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image15.png" class=img-responsive} | |5 |Out of date ||
 Answers: A3, B4, C5, D1, E2
-!#BT2: Interlinearise a project
+!4: BT2: Interlinearise a project
 
-||Create a new project for %%%the second back translation %%%(first time only) |Setup project interlineariser |Correct glosses |Exporter / approve the verses ||
+||Create a new project for the second back translation (first time only) |Setup project interlineariser |Correct glosses |Exporter / approve the verses ||
 ''Introduction''
 The previous module explained how to create a back translation that expresses what a reader understands when he reads or hears the text. There is another type of back translation that is sometimes used and that is a word-for-word style back translation. Some consultants may ask for this style of back translation. If you need to make one of these, you can use Paratext’s project Interlinearizer function. Please note that in Paratext 8 you can only use the Interlinearizer on registered projects.
 ''Where we are''
@@ -142,7 +141,7 @@ You will use the project interlineariser to produce a word for word gloss of the
 # Summary
 This module shows you how to:
 ----
-!!#Create a new project for the back translation
+!!4.1: Create a new project for the back translation
 
 (First time only by Administrator)
 * __File__ > __New Project__
@@ -160,7 +159,7 @@ This module shows you how to:
 {BOX(bg="#FFE6FF" width="60%")}
 The project should not need to be registered as it inherits the registration from your project.{BOX}
 ----
-!!#Configure the project interlineariser [◙ RT01]
+!!4.2: Configure the project interlineariser [◙ RT01]
 
 * Click in your project
 * __File__ > __Open Project interlineariser__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image16.png" class=img-responsive}
@@ -173,7 +172,7 @@ The project should not need to be registered as it inherits the registration fro
 {BOX(bg="#FFE6FF" width="60%")}
 Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...{BOX}
 ----
-!!#Confirm and correct the interlinearised text [◙ RT02]
+!!4.3: Confirm and correct the interlinearised text [◙ RT02]
 
 To correct glosses
 * Click the incorrect gloss''A list is displayed.''
@@ -182,31 +181,31 @@ To correct glosses
 {BOX(bg="#FFE6FF" width="60%")}
 Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.{BOX}
 ----
-!!#Translate/gloss a phrase [◙ RT03]
+!!4.4: Translate/gloss a phrase [◙ RT03]
 
 * Click between two words{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image17.png" class=img-responsive}
 * Click the icon « Link words »
 * Click the red line
 * Type the gloss
 ----
-!!#Add extra word(s) [◙ RT04]
+!!4.5: Add extra word(s) [◙ RT04]
 
 * Click bin the space between two glosses
 * Type the extra word(s)
 ----
-!!#Specify the morphology (break a word into morphemes) [◙ RT05]
+!!4.6: Specify the morphology (break a word into morphemes) [◙ RT05]
 
 * Click on the word in the translation line (top line)
 * Click « Add word parse »
 * Add spaces to separate the morphemes and add «+ » prefixes and suffixes (see guide)
 * Click OK
 ----
-!!#Approve and Export the text [◙ RT06]
+!!4.7: Approve and Export the text [◙ RT06]
 
 * Click __Approve and export to __
 * To continue, click __Next Unapproved Verse__
 ----
-!!#Help
+!!4.8: Help
 
 For more help on using the Interlineariser function see:
 * Introduction to Project Interlinearizer
@@ -215,7 +214,7 @@ For more help on using the Interlineariser function see:
 * How do I create a back translation project with the Interlinearizer?
 * How do I create a text revision/adaptation project with the Interlinearizer?
 * What do the colours of glosses mean in the Interlinearizer?
-!#BC3: Basic checks 3
+!5: BC3: Basic checks 3
 
 ''Introduction''
 In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.
@@ -231,7 +230,7 @@ As before, most of the checks require some setup to be done by your administrato
 ''Summary''
 This module shows you how to:
 ----
-!!#Unmatched pairs of Punctuation [◙ VT04]
+!!5.1: Unmatched pairs of Punctuation [◙ VT04]
 
 {BOX(bg="#FFE6FF" width="60%")}
 This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.{BOX}
@@ -243,7 +242,7 @@ This check looks at punctuation that occurs in pairs (opening and closing) and l
 * Click __OK__.
 * Make any corrections as needed.
 ----
-!!#References [◙ VT08]
+!!5.2: References [◙ VT08]
 
 
 {BOX(bg="#FFE6FF" width="60%")}
@@ -261,7 +260,7 @@ Before you can run the references check, your Administrator must define various 
 {BOX(bg="#FFE6FF" width="60%")}
 Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.{BOX}
 ----
-!!#Numbers check
+!!5.3: Numbers check
 
 {BOX(bg="#FFE6FF" width="60%")}
 Before you can run the references check, your Administrator must define various number settings.{BOX}
@@ -272,7 +271,7 @@ Before you can run the references check, your Administrator must define various 
 * Click « __Numbers»__
 * Click______ OK__
 ----
-!!#Quotation rules [◙ VT07]
+!!5.4: Quotation rules [◙ VT07]
 
 The quotations check is used to ensure you have been consistent in marking the direct speech correctly.
 {BOX(bg="#FFE6FF" width="60%")}
@@ -282,304 +281,8 @@ Before you can run the quotation check, your Administrator must define the rules
 * __Check Flag all quotes near other errors [5]__
 * Click__ OK.__
 ----
-!!#Quotation check
+!!5.5: Quotation check
 
 * __Checking > Basic checks__
 * __Quotations__
-* Click __OK__.''A list of errors is displayed. It shows possible errors but includes four correct quotations before and after the possible error.''
-* Double-click the first item which doesn’t start with
-* Correct as necessary.
-* Click __Rerun__ button to confirm you have corrected the error.
-----
-!!#Quoted text
-
-{BOX(bg="#FFE6FF" width="60%")}
-The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.{BOX}
-* __Checking > Basic checks__
-* __Quoted text__
-* Click __OK__.''A list of errors is displayed.''
-* Make corrections as needed.
-{BOX(bg="#FFE6FF" width="60%")}
-Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.{BOX}
-
------------------------------------
-
-
-!Stage 4: Consultant Visit
-
-''Introduction''
-The fourth stage of a translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in the project plan.
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image21.png" class=img-responsive}
-All tasks in this stage have been covered in previous modules.
-
------------------------------------
-
-
-!Stage 5: Review by the community
-
-''Introduction''
-The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image22.png" class=img-responsive}
-The following modules will help you in this stage:
-* PPR: Progress report
-* BBTR: Biblical key terms report
-!#PPR: Progress report
-
-''Introduction''
-In this module you will create a progress report.
-''Where we are''
-As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will project a report.
-''Why this is important''
-Your administrators and funders need accurate reports of your progress.
-''What are you going to do?''
-Check that your project plan is up-to-date.
-Produce several reports.
-''Summary''
-This module shows you how to:
-----
-!!#Check your plan
-
-* Open your project
-* Click on the Project plan icon
-* Update your progress as necessary.
-----
-!!#Produce team progress chart
-
-* From the __Project__ menu, choose __Team progress chart__
-* Click on the dropdown list in the top left.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image23.png" class=img-responsive}
-* Choose as appropriate.
-* Click the print icon''A window opens''
-* Click the __Print__ menu
-* Choose your printer (or PDF printer)
-* Click __OK__.
-!#BTR: Biblical key terms report
-
-''Introduction''
-One task in this stage is to produce a report of the changes made in the key biblical terms.
-''Where we are''
-In working on your translation you have identified and changed a number of key biblical terms.
-''Why this is important''
-Although you can’t use ParaTExt to write the report, it can produce of list of the terms that you have been dealing with and may need to include in your report.
-''What are you going to do?''
-In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.
-''Summary''
-This module shows you how to:
-----
-!!#Biblical terms tool
-
-* Click in your project
-* __Tools__ – __Biblical Terms tool__
-* Set the terms filter
-* Set the verses filter (for the books you have been working on).
-* Sort the list as desired.
-----
-!!#Save the list to a file
-
-* __File__ > __Save as HTML__
-* Type a name for the file
-* Click __Save__
-* Open the file in __Word__
-----
-!!#Other ways to identify renderings
-
-----
-!!#Sort on terms notes
-
-* Click on the ? on second column to sort on Rendering discussion notes.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image24.png" class=img-responsive}
-----
-!!#Find terms with text in the rendering description
-
-* Click the arrow beside Find on the toolbar
-* Choose __Rendering Description__
-* Type the text to find''The list is filtered.''
-* Save the list to HTML (as above).
-
------------------------------------
-
-
-!Stage 6: Finalizing for Publication
-
-!#
-
-''Introduction''
-The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image25.png" class=img-responsive}
-''What you will do''
-* Illustrations and captions
-* Map names
-* Draft Introduction to the NT/Bible
-* Check parallel passages
-* Verify all checks are complete
-* Proper Names final check
-* Numbers, money, weights and measures
-* Formatting checks:
-# Summary
-This module shows you how to:
-----
-!!#Add illustrations and captions
-
-* Go to the verse where you want the illustration.
-* __Insert__ > __Figure__
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image26.png" class=img-responsive}
-* Type in the caption for the image (in your language). [1]
-* Type in a description of the image (in the language of the typesetter) [2]
-* Choose the width (either single column or page) [3]
-* Type in the copyright information [4]
-* If applicable, type in a verse range as an acceptable location [*]
-* Click __Browse...__ then find figure/illustration file. [6]
-* Click __OK.__
-----
-!!#Map names
-
-* __Tools__ > __Biblical Terms__
-* __File__ > __Select Biblical Terms List__
-* Choose NT MapBiblicalTerms
-* Filter on a specific map number (e.g. [01])
-* Add renderings for all terms
-* __File__ > __Save as HTML__
-* Type a name for the file
-* Click __Save__.
-----
-!!#Draft Introduction to the NT/Bible
-
-* Change the book to INT
-* Make sure there is an \h line
-* Type your introduction using the following markers:\mt1 \is \ip
-----
-!!#Check parallel passages
-
-* See module PP: Parallel passages
-----
-!!#Verify all checks are complete
-
-* __Checking__ > __Run basic checks__
-* Make sure all checks are ticked
-* Make sure all books to be published are chosen
-* Click __OK__.
-* Correct any errors.
-----
-!!#Proper Names final check
-
-* __Tools__ > __Biblical Terms__
-* Filter on names
-* Filter on missing renderings
-* Check any names on the list.
-----
-!!#Numbers, money, weights and measures
-
-* __Tools__ > __Biblical Terms__
-* __File__ > __Select Biblical Terms List__
-* Choose the appropriate list.
-----
-!!#Formatting checks:
-
-* Redo the module FC: Formatting checks.
-!#PP: Compare parallel passages
-
-''Introduction''
-There are thousands of passage in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.
-''Where we are''
-Normally you will have translated and checked the text of both books with a consultant first. Though there are times that you will want to compare the other verses before you translate the second passage.
-''Why this is important''
-The parallel passages need to be consistent but they do not always need to be exactly the same. The Parallel Passages tool displays the various passages and highlights the text which is the same. But it is the meaning (not necessarily the form) that is important.
-Normally you would make the comparisons made after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.
-''What you are going to do''
-* use the Parallel Passages tool to compare the verses.
-* use the check boxes to tell ParaTExt that you have checked the passages
-* filter for changed verses
-* open a quick reference window in ParaTExt to see another passage while you are translating.
-''Summary''
-This module shows you how to:
-Configuration
-----
-!!#Open the Parallel passages window
-
-* Navigate to the desired chapter and verse.
-* __Tools__ > __Parallel passages__''A window is displayed showing a list and parallel passages.''
-----
-!!#Display source texts
-
-* Click the dropdown arrow beside the source text options{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image27.png" class=img-responsive}
-* Choose as appropriate''The display changes.''
-----
-!!#Select comparative text(s)
-
-* Click the Comparative texts button
-* Click a resource (on the left)
-* Click the right arrow
-* Repeat as necessary
-* Click OK
-----
-!!#Filters
-
-* Choose the filters as desired: [e.g. All references, Current book, Synoptic gospels]
-----
-!!#Compare the passages
-
-* Click on a line of references in the top pane.''The texts are displayed in the bottom pane.''
-Text is shown in green when the text is exactly the same as in the other passage.
-{BOX(bg="#FFE6FF" width="60%")}
-Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.{BOX}
-{BOX(bg="#FFE6FF" width="60%")}
-If the text is green in Greek, then your text should also be the same.{BOX}
-Normally, if the text is different in the Greek than it should be different in your text, but not always.
-----
-!!#To correct the text
-
-* Click the blue link « ‘Edition »
-* Make the corrections.
-* Click __OK.__
-----
-!!#Coping a text
-
-{BOX(bg="#FFE6FF" width="60%")}
-If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.{BOX}
-* Click the blue link « ‘Edition »
-* Select the text
-* Copy (ctrl+c)
-* Click __OK.__
-* Click blue link for the other text
-* Select the text
-* Paste (ctrl+v)
-* Click __OK.__
-{BOX(bg="#FFE6FF" width="60%")}
-Be careful when there is more than one verse. You don’t want to copy the \v.{BOX}
-----
-!!#Mark the passage as finished
-
-* Click the check box beside the reference.
-----
-!!#Identify the passages which have been changed since they were marked as finished
-
-* In the Parallel passage tool
-* Change the passage filter to « Changed Text »{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image28.png" class=img-responsive}
-* Click ab icon under the passage reference.''A comparison window is displayed in ParaTExt.''
-* Change the text as necessary.
-* Return to the Parallel passages tool (using the task bar icons)
-* Click the check box to mark it as finished.
-----
-!!#Compare the text as you translate
-
-* Click in your project.
-* Tools – Quick reference (Ctrl+q)''A window opens with the scroll group set to none.''
-* Change the reference to the other passage.
-----
-!!#To see a third passage
-
-* Open you project a second time [File-Open project/resource]
-* Change the scroll group from [A] to None.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image29.png" class=img-responsive}
-* Change the reference to the other passage.
-----
-!!#Learning task
-
-Do you know what the colours and symbols mean? Match the symbols with their meanings for the upper and lower pane:
-Upper pane Lower pane
-||1 MAT 1:1 (black) |a |Approved |1 |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image30.png" class=img-responsive} |A |Finished 
-2 MAT 1:1 (green) |b |Changed since approved |2 |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image1.png" class=img-responsive} |B |No permission 
-3 MAT 1:1 (grey) |c |No text or verse no. missing |3 |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image2.png" class=img-responsive} |C |No text/verse no. 
-4 MAT 1:1 (red ) |d |Not part of the project |4 |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image3.png" class=img-responsive} |D |Not finished 
-5 MAT 1:1 (red) |e |Not yet approved |5 |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image15.png" class=img-responsive} |E |Out of date 
- | | |6 |pas de case |F |Verse missing ||
-Answers:
-Upper pane: 1e, 2a, 3d, 4c, 5b
-Lower pane: 1B, 2D, 3A, 4E, 5F, 6C
+* Click __OK__.''A list of errors is displayed. It shows possible errors but includes 
