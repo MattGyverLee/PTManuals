@@ -1,5 +1,7 @@
-Three letter abbreviations
-PT12Bible
+((PT8-Special Text| <-- ))  | ((PT8-Chad|Chad special characters --> ))
+
+!Three letter abbreviations
+
 Old Testament
 ||[Genesis] [GEN] |[Exodus] [EXO] |[Leviticus] [LEV] 
 [Numbers] (NUM) |[Deuteronomy] (DEU) |[Joshua] [JOS] 
@@ -24,3 +26,4 @@ New Testament
 [Hebrews] (HEB) |[James] (JAS) |[1 Peter] (1PE) 
 [2 Peter] (2PE) |[1 John] (1JN) |[2 John] (2JN) 
 [3 John] (3JN) |Jude (JUD) |[Revelation] (REV) ||
+((PT8-Special Text| <-- ))  | ((PT8-Chad|Chad special characters --> ))

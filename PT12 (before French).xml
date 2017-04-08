@@ -1,0 +1,3418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper version="2.24.0">
+<styledPaper>
+<lingPaper automaticallywrapinterlinears="yes" version="2.28.0">
+<frontMatter>
+<title>Paratext 8</title>
+<subtitle>
+<object contentType="fr" type="t-fr">Manuel de cours 1 &amp; 2 :
+(Français)</object>
+<object contentType="en" type="t-en" xml:lang="en">Course Manual 1 &amp; 2:
+(English)</object>
+</subtitle>
+<author>Jenni Beadle</author>
+<author>Matthew Lee</author>
+<contents contentType="en" label="Contents" showLevel="3"/>
+<contents contentType="fr" label="Contenu"/>
+</frontMatter>
+<part id="introstage1">
+<secTitle>Intro and Stage 1</secTitle>
+<chapter id="sIntro">
+<secTitle>
+<object contentType="en" type="t-en">Introduction</object>
+
+</secTitle>
+<section1 id="sIntroGoal">
+<secTitle>
+<object contentType="en" type="t-en">Goal</object>
+
+</secTitle>
+<p contentType="en">The participants will process their translation with the help of Paratext 8, a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7.5 et 8.</p>
+
+</section1>
+<section1 id="s3">
+<secTitle>
+<object contentType="en" type="t-en">Course Objectives</object>
+
+</secTitle>
+<p contentType="en">At the end of the course, the participant will be able to:</p>
+
+<p contentType="en">
+
+<object type="tItalic">Start Paratext </object>
+</p>
+<ul>
+<li contentType="en">Start the Paratext program using a desktop icon.</li>
+
+</ul>
+<p contentType="en">Stage 1 : Drafting</p>
+
+<p contentType="en">
+
+<object type="tItalic">Open projects and resources to understand the text before translating</object>
+</p>
+<ul>
+<li contentType="en">Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.</li>
+
+<li contentType="en">Organise these windows on the screen and save as a text combination.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Enter the translation</object>
+</p>
+<ul>
+<li contentType="en">Effectively use the navigation toolbar to move to the desired book, chapter, and verse.</li>
+
+<li contentType="en">Type the text in an open project with the help of USFM markers such as \c, \v, etc. in an suitable view.</li>
+
+<li contentType="en">Use a keyboarding system (MS-keyboards or Keyman) to type special characters.</li>
+
+<li contentType="en">Add additional markers for section headings, introductions etc.</li>
+
+<li contentType="en">Add footnotes.</li>
+
+<li contentType="en">Draft glossary entries and add using the Biblical terms tool.</li>
+
+<li contentType="en">Use the Send/Receive feature to share and backup their project to the Internet or a USB key.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Basic checks</object>
+</p>
+<ul>
+<li contentType="en">Run the chapter/verses check to make sure that all the chapters/verses are present.</li>
+
+<li contentType="en">Run the markers check to make sure all the text has the correct markers.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Project progress</object>
+</p>
+<ul>
+<li contentType="en">Update the project plan with any completed tasks.</li>
+
+</ul>
+<p contentType="en">Stage 2 : Team checking</p>
+
+<p contentType="en">
+
+<object type="tItalic">Proper names</object>
+</p>
+<ul>
+<li contentType="en">Transliterate proper names.</li>
+
+<li contentType="en">Check that proper names are consistent.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Biblical terms consistent</object>
+</p>
+<ul>
+<li contentType="en">Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Checks</object>
+</p>
+<ul>
+<li contentType="en">Use Checklists to correct any formatting problems in section breaks and headings, paragraph breaks, layout and indents.</li>
+
+<li contentType="en">Run various checks to make sure all the characters, punctuation, capitalisation and repeated words are valid.
+
+(Administrators need to setup the inventories/settings as required).</li>
+<li contentType="en">Correct any spelling mistakes using the spell checking function and/or checks from the Wordlist.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Using notes</object>
+</p>
+<ul>
+<li contentType="en">Add project notes as needed to communicate with other team members and/or consultants.</li>
+
+<li contentType="en">Add project, Spelling and Biblical term notes to discuss various issues and record the decisions made.</li>
+
+</ul>
+<p contentType="en">
+
+<object type="tItalic">Print draft</object>
+</p>
+<ul>
+<li contentType="en">Produce and print PDF file for reviewers.</li>
+
+</ul>
+<p contentType="en">Introductions, setup</p>
+
+<p contentType="en">
+
+<object type="tItalic">Introduce yourself</object>
+</p>
+<p contentType="en">The participant and facilitators should introduce themselves giving:</p>
+
+<ul>
+<li contentType="en">their name</li>
+
+<li contentType="en">their language</li>
+
+<li contentType="en">their town</li>
+
+<li contentType="en">what was the first and last (most recent) version of Paratext that you have used.</li>
+
+</ul>
+<table border="1"><tr><td contentType="en">5.0</td><td contentType="en">6.0</td><td contentType="en">6.1</td><td contentType="en">6.2</td><td contentType="en">7.0</td><td contentType="en">7.1</td><td contentType="en">7.2</td><td contentType="en">7.3</td><td contentType="en">7.4</td><td contentType="en">7.5</td></tr><tr><td contentType="en">1998</td><td contentType="en">2003</td><td/><td/><td contentType="en">2008</td><td contentType="en">2010</td><td contentType="en">2011</td><td contentType="en">2012</td><td contentType="en">2013</td><td contentType="en">2014</td></tr></table>
+
+<p contentType="en">While the facilitators install Paratext on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.</p>
+
+<p contentType="en">
+
+<object type="tItalic">For each module</object>
+</p>
+<ul>
+<li contentType="en">Do a revision activity of the previous module.</li>
+
+<li contentType="en">Present the introduction (read, sketch, PowerPoint, etc.)</li>
+
+<li contentType="en">If a skill is quite simple, ask a participant to come and demonstrate the skill.</li>
+
+<li contentType="en">Follow the summary for the other skills:</li>
+
+<li contentType="en">Demonstration</li>
+
+<li contentType="en">Do it together</li>
+
+<li contentType="en">Let the participants redo it themselves</li>
+
+<li contentType="en">Ask a participant to demonstrate the skill.</li>
+
+<li contentType="en">Ask questions.</li>
+
+<li contentType="en">Do a revision activity.</li>
+
+<li contentType="en">Give the participant time to reflect, fill in the recall exercise, add to Anki.</li>
+
+</ul>
+<p contentType="en">Stage 1 : Drafting</p>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image2.png"/>
+</p>
+<p contentType="en">The following modules will help you in this stage :</p>
+
+<ul>
+<li contentType="en">OB: Organising your desktop</li>
+
+<li contentType="en">PP1: Project plan – the next task</li>
+
+<li contentType="en">KD: Keyboarding your draft</li>
+
+<li contentType="en">GL: Adding glossary items</li>
+
+<li contentType="en">BC1: Basic checks – chapter/verse and markers.</li>
+
+<li contentType="en">PP2 : Project plan – complete a task</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sOD">
+<secTitle>
+<object contentType="en" type="t-en">OD : Organising your desktop</object>
+
+</secTitle>
+<table border="1"><tr><td contentType="en">Start <br/>Paratext</td><td contentType="en">Use combinations of windows</td><td contentType="en">Open your project</td><td contentType="en">Open resources (source text, texts collection…)</td><td contentType="en">Create a list of verses from the source text</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">As you work with your text in Paratext you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">The translator who organises his/her desktop well has all the resources necessary for his/her work.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What are you going to do?</object>
+</p>
+<p contentType="en">You will start the Paratext program and open a saved combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="s4">
+<secTitle><object contentType="en" type="t-en"/>Load the Paratext program
+</secTitle>
+<p contentType="en">
+
+<img src="12imgeng/image3.png"/>
+</p>
+<ul>
+<li contentType="en">Double-click on Paratext 8 icon on the desktop OR</li>
+
+<li contentType="en">(From the Start menu, choose Paratext 8)</li>
+
+</ul>
+</section1>
+<section1 id="s5">
+<secTitle>
+<object contentType="en" type="t-en">Open a saved text combination</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the Window menu</li>
+
+<li contentType="en">Choose a saved text combination.</li>
+
+<li contentType="en">Your screen should look like the picture below
+
+<br/>(if not, see the following page).</li>
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image4.png"/>
+</p>
+</section1>
+<section1 id="s6">
+<secTitle>
+<object contentType="en" type="t-en">Create a new text combination</object>
+
+</secTitle>
+<p contentType="en">If you haven’t already saved a text combination, then we recommend you do the following:</p>
+
+</section1>
+<section1 id="s7">
+<secTitle>
+<object contentType="en" type="t-en">Open and arrange the windows</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Window &gt; Unstacked</li>
+
+<li contentType="en">Open the 5 windows as follows:</li>
+
+</ul>
+<p contentType="en">5 =your project <br/>(File &gt; Open project/resource</p>
+
+<p contentType="en">1 = Renderings <br/>(File &gt; Open Biblical Terms renderings)</p>
+
+<p contentType="en">2 = Source text <br/>(File &gt; Open Source language text)</p>
+
+<p contentType="en">3 = Dictionary <br/>(File &gt; Open source language dictionary )</p>
+
+<p contentType="en">4= Text collection <br/>(File &gt; Open project/resource in Text Collection)</p>
+
+<ul>
+<li contentType="en">Arrange the windows as desired.</li>
+
+</ul>
+</section1>
+<section1 id="s8">
+<secTitle>
+<object contentType="en" type="t-en">Save the text combination</object>
+
+</secTitle>
+<p contentType="en">Once the windows are arranged as desired:</p>
+
+<ul>
+<li contentType="en">Window &gt; Saved text combination</li>
+
+<li contentType="en">Type a name <br/>[or to replace an existing combination, choose the existing name]</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="s9">
+<secTitle>
+<object contentType="en" type="t-en">Delete a text combination</object>
+
+</secTitle>
+<p contentType="en">If you want to delete a saved combination,</p>
+
+<ul>
+<li contentType="en">Window – Delete text combination</li>
+
+<li contentType="en">Choose the name of the saved combination.</li>
+
+<li contentType="en">Click Delete</li>
+
+</ul>
+</section1>
+<section1 id="s10">
+<secTitle>
+<object contentType="en" type="t-en">Open resources in a Text collection
+[◙ SD05]</object>
+
+</secTitle>
+<p contentType="en">With Paratext, it is possible to have several project/resources open at the same time. However, rather than having too many windows, it is better to have severals text in one window.</p>
+
+<ul>
+<li contentType="en">File &gt; Open Project/Resource in Text collection</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image5.png"/>
+</p>
+<ul>
+<li contentType="en">Click on a resource (at the left).</li>
+
+<li contentType="en">Click the right arrow.</li>
+
+<li contentType="en">Repeat as necessary.</li>
+
+<li contentType="en">If necessary, change the order using the up/down arrow buttons.</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.</p>
+
+</section1>
+<section1 id="s11">
+<secTitle>
+<object contentType="en" type="t-en">Open a dictionary</object>
+
+</secTitle>
+<p contentType="en">You can open a source language dictionary with glosses in other languages.</p>
+
+<ul>
+<li contentType="en">File &gt; Open Source Language Dictionary</li>
+
+<li contentType="en">Choose « A Concise Greek-English Dictionary of the New Testament »</li>
+
+<li contentType="en">View &gt; choose a language (e.g. Français)</li>
+
+</ul>
+</section1>
+<section1 id="s12">
+<secTitle>
+<object contentType="en" type="t-en">Make a list of verses of a specific term from the source language text [◙ SD06]</object>
+
+</secTitle>
+<p contentType="en">You can have a list of verses for a specific Greek word</p>
+
+<ul>
+<li contentType="en">Right-click on a lemma (blue word) in the source language text window</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image6.png"/>
+</p>
+<ul>
+<li contentType="en">Choose <object type="tKw">Add to project biblical terms for</object></li>
+
+<li contentType="en">Choose your project</li>
+
+<li contentType="en">Edit the gloss if necessary</li>
+
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Change to the Biblical Terms Tool</li>
+
+<li contentType="en">Double-click on the term.</li>
+
+</ul>
+</section1>
+<section1 id="s13">
+<secTitle>
+<object contentType="en" type="t-en">Recall</object>
+
+</secTitle>
+<ul>
+<li contentType="en">The translators who ________ their desktops have all the _________ they need for their work.</li>
+
+<li contentType="en">You use the __________ menu to save or delete _____________ of text.</li>
+
+<li contentType="en">To open windows you use the __________ menu.</li>
+
+</ul>
+<p contentType="en">Open Biblical terms equivalents</p>
+
+<p contentType="en">Open Source language text</p>
+
+<p contentType="en">Open Source language dictionary</p>
+
+<p contentType="en">Open Project/resource in collection of texts</p>
+
+<p contentType="en">Open Project/resource</p>
+
+<ul>
+<li contentType="en">You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, the choosing _____ the your project .</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sPP1">
+<secTitle>
+<object contentType="en" type="t-en">PP1 : Project Plan and progress</object>
+
+</secTitle>
+<p contentType="en">Introduction</p>
+
+<p contentType="en">You use the Project Plan to help organise your work and see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in Paratext 8.]</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where are we?</object>
+</p>
+<p contentType="en">Before you can use the plan it must have been configured.
+
+[This is usually done by your project administrator who will add the appropriate organisational plan and configure it for your team.]</p>
+<p contentType="en">
+
+<object type="tItalic">Why is this important?</object>
+</p>
+<p contentType="en">There are so many tasks to be done in a translation project. It is important to have a system to make sure these are all done. Now that your plan has been configured, you can use the plan to see what tasks have been assigned to you to be done next. Then when you finish the task, you can mark the task as completed and see the next task to do. You can use this information to generate reports for supervisers and donors (see PP2: Project plan reporting).</p>
+
+<p contentType="en">
+
+<object type="tItalic">What are we going to do?</object>
+</p>
+<p contentType="en">You will mark a variety of tasks as complete. The exact steps will vary slightly depending on whether the task is set to once per project, once per book, or by chapter. The place to mark progress for all types of tasks is the Status column.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="s14">
+<secTitle>
+<object contentType="en" type="t-en">Make sure your project is active</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click in your project.</li>
+
+</ul>
+</section1>
+<section1 id="s15">
+<secTitle>
+<object contentType="en" type="t-en">View tasks that need to be done</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click "Assignments and Progress" button <img src="12imgeng/image7.png"/></li>
+
+</ul>
+<p contentType="en">OR<br/>[From the Project menu, select Assignments and progress]</p>
+
+<ul>
+<li contentType="en">From the first dropdown menu, choose either My tasks or All tasks</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image8.png"/>
+</p>
+<p contentType="en">A list of the various tasks and checks are displayed.</p>
+
+</section1>
+<section1 id="s16">
+<secTitle>
+<object contentType="en" type="t-en">Identify the next task</object>
+
+</secTitle>
+<p contentType="en">The list of tasks shows the uncompleted tasks.-</p>
+
+<ul>
+<li contentType="en">Identify the next task for you need to do.</li>
+
+<li contentType="en">Check that it is not waiting for another task.</li>
+
+<li contentType="en">Do the task (see other modules if necessary).</li>
+
+</ul>
+</section1>
+<section1 id="s17">
+<secTitle>
+<object contentType="en" type="t-en">Mark a task as complete</object>
+
+</secTitle>
+<section2 id="s18">
+<secTitle>
+<object contentType="en" type="t-en">Mark a book task as completed</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the checkmark to the left of the status.</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image9.png"/>
+</p>
+<p contentType="en">It should turn solid to show it is completed.</p>
+
+</section2>
+<section2 id="sMarkComplete">
+<secTitle>
+<object contentType="en" type="t-en">Mark a chapter task as completed</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click + to mark the next chapter as complete</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image10.png"/>
+</p>
+<ul>
+<li>To mark other chapters as complete you can click on the word Completed.</li>
+</ul>
+<p contentType="en">A dialog box is displayed with a list of the chapters.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image11.png"/>
+</p>
+<ul>
+<li contentType="en">Check the chapters that have been completed.</li>
+
+<li contentType="en">To mark some verses only, click to the right and check the individual verses.</li>
+
+</ul>
+</section2>
+</section1>
+<section1 id="sSomeChecks">
+<secTitle>
+<object contentType="en" type="t-en">Checks</object>
+
+</secTitle>
+<ul>
+<li contentType="en">If the task is a check, the status of the check will either say setup required or it will show number of remaining issues.</li>
+
+</ul>
+<p contentType="en">A check is complete when there are No issues.</p>
+
+<section2 id="sChecksSetupRequired">
+<secTitle>
+<object contentType="en" type="t-en">Checks - setup required</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the blue link Setup required</li>
+
+</ul>
+<p contentType="en">Paratext with run the appropriate inventory or open the settings for that check.</p>
+
+<ul>
+<li contentType="en">Complete the setup as appropriate.</li>
+
+<li contentType="en">Close the window when finished.</li>
+
+</ul>
+<p contentType="en">If there is more than one inventory you will need to set them up manually from the Checking menu.</p>
+
+</section2>
+<section2 id="sChecksIssues">
+<secTitle>
+<object contentType="en" type="t-en">Checks – issues</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the blue link “ …. issues”</li>
+
+<li contentType="en">Make the necessary corrections.</li>
+
+<li contentType="en">Close the list result.</li>
+
+<li contentType="en">Return to the Project plan.</li>
+
+<li contentType="en">The check is considered complete with there are 0 issues.</li>
+
+</ul>
+</section2>
+</section1>
+</chapter>
+<chapter id="KD">
+<secTitle>KD: Keyboarding your draft</secTitle>
+<table border="1"><tr><td contentType="en">Run Paratext</td><td contentType="en">Add text</td><td contentType="en">Views</td><td contentType="en">Add other USFM</td><td contentType="en">Save</td><td contentType="en">Footnotes</td><td contentType="en">Moving your cursor</td><td contentType="en">Send/Receive</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">This module explains how to keyboard your draft translations into a project which has already been created in Paratext.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">We are about to keyboard text into an existing project. Before you can do that, someone must have already installed the program and created a project for your data.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sloadprog">
+<secTitle>
+<object contentType="en" type="t-en">Load the Paratext program</object>
+
+</secTitle>
+<p contentType="en">
+
+<img src="12imgeng/image3.png"/>
+</p>
+<ul>
+<li contentType="en">Double-click on Paratext 8 icon on the desktop OR</li>
+
+<li contentType="en">(From the Start menu, choose Paratext 8)</li>
+
+</ul>
+</section1>
+<section1 id="sGoToABiblicalVerse">
+<secTitle>
+<object contentType="en" type="t-en">Go to a Biblical verse [◙ SD01]</object>
+
+</secTitle>
+<p contentType="en">Before you can start typing your text, you need to move your cursor to the right book, chapter and verse. You use the toolbar to do this.</p>
+
+<ul>
+<li contentType="en">Using the icons on the toolbar, change the project, book, chapter and verse as needed.</li>
+
+</ul>
+<p contentType="en">project book chapter verse</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image12.png"/>
+</p>
+</section1>
+<section1 id="sCheckEditable">
+<secTitle>
+<object contentType="en" type="t-en">Check that the project is editable</object>
+
+</secTitle>
+<p contentType="en">Look at the titlebar of your project.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image13.png"/>
+</p>
+<p contentType="en">The titlebar should either have your name or the word
+
+(Editable).</p>
+<ul>
+<li contentType="en">If it is not editable, try changing the view (see below).</li>
+
+<li contentType="en">If your project is shared and your name is not on the titlebar, you should talk with your project administrator.</li>
+
+</ul>
+</section1>
+<section1 id="sChangingTheView">
+<secTitle>
+<object contentType="en" type="t-en">Changing the view [◙ SD02]</object>
+
+</secTitle>
+<p contentType="en">Paratext 8 has five views. All but the Preview view are editable.</p>
+
+<ul>
+<li contentType="en">Ctrl + E -or-</li>
+
+<li contentType="en">From the View menu, choose the view (usually Standard).</li>
+
+</ul>
+</section1>
+<section1 id="sTypingSpecialCharacters">
+<secTitle>
+<object contentType="en" type="t-en">Typing special characters</object>
+
+</secTitle>
+<p contentType="en">Some orthographic characters are not found on the keyboard. To type these characters you need to press more than one key.</p>
+
+<ul>
+<li contentType="en">Change your keyboard system as needed on your computer.</li>
+
+<li contentType="en">If you are using keyman then choose Tchad Unicode
+
+<br/>(or for MS-Keyboards choose TR or SQ/TZ/AF…)</li>
+<li contentType="en">Type the keys as in the table on page 83.</li>
+
+</ul>
+<p contentType="en">Note : You can use View&gt; Highlight Invalid Characters to highlight invalide characters.</p>
+
+</section1>
+<section1 id="sAddingTextInAnotherMarker">
+<secTitle>
+<object contentType="en" type="t-en">Adding text in another marker such as title or introduction [◙ SD03a]</object>
+
+</secTitle>
+<p contentType="en">Each piece of text needs to have a marker. The markers for the chapters and verses are already in your project. When you want to add text such as headings, or introductions etc you need to also add the appropriate marker as follows:</p>
+
+<ul>
+<li contentType="en">Move your cursor to the end of the previous paragraph :</li>
+
+<li contentType="en">Type Enter ou type « \ »</li>
+
+<li contentType="en">Type the marker (e.g. s1 or ip) « Enter » (or select it from the list).</li>
+
+<li contentType="en">Type the text</li>
+
+<li contentType="en">Add a paragraph marker after the text<br/>(for example : \p)</li>
+
+</ul>
+<p contentType="en">You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example \q1).</p>
+
+</section1>
+<section1 id="sAddParagraphBreaks">
+<secTitle>
+<object contentType="en" type="t-en">Add paragraph breaks</object>
+
+</secTitle>
+<p contentType="en">Dividing the text into paragraphs:</p>
+
+<ul>
+<li contentType="en">Press « Enter »</li>
+
+<li contentType="en">Type p « Enter »</li>
+
+</ul>
+</section1>
+<section1 id="sSavingYourWork">
+<secTitle>
+<object contentType="en" type="t-en">Saving your work</object>
+
+</secTitle>
+<p contentType="en">It is important to save your work regularly.</p>
+
+<ul>
+<li contentType="en">File&gt;Save All –or- Ctrl + S</li>
+
+</ul>
+</section1>
+<section1 id="s">
+<secTitle>
+<object contentType="en" type="t-en">Insert Footnotes [◙ SD03]</object>
+
+</secTitle>
+<p contentType="en"><img src="12imgeng/image14.png"/><br/>You add footnotes in the text at the place where you want the reference to appear.</p>
+
+<ul>
+<li contentType="en">Insert &gt; Footnote</li>
+
+<li contentType="en">A set of footnote markers is added in the box below the text</li>
+
+</ul>
+<p contentType="en"/>
+
+<ul>
+<li contentType="en">Type the text after the \ft</li>
+
+</ul>
+<p contentType="en">If you hover your mouse over the superscript letter the text of the footnote will be displayed in a tip box.</p>
+
+<p contentType="en">To change the footnote, click the superscript letter in the text. To delete the footnote you can delete the superscript letter.</p>
+
+</section1>
+<section1 id="sSendReceiveUSB">
+<secTitle>
+<object contentType="en" type="t-en">Send/receive to a USB stick to backup your data [◙ SD04]</object>
+
+</secTitle>
+<p contentType="en">It is essential to have a second copy of your translation. This is done by doing a send/receive to a USB key as follows:</p>
+
+<p contentType="en">Insert your USB key into your computer.</p>
+
+<ul>
+<li contentType="en">Click the Send/Receive icon <img src="12imgeng/image15.png"/></li>
+
+</ul>
+<p contentType="en">or</p>
+
+<ul>
+<li contentType="en">File &gt; Send/Receive project(s)</li>
+
+<li contentType="en">Check that the USB key is chosen</li>
+
+<li contentType="en">Click Send/Receive.</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image16.png"/>
+</p>
+<p contentType="en">The computer will make a copy of your files onto your USB key. A progress meter will be displayed. A message box will only appear if there are any problems.</p>
+
+</section1>
+<section1 id="sMovingYourCursorEfficiently">
+<secTitle>
+<object contentType="en" type="t-en">Moving your cursor efficiently.</object>
+
+</secTitle>
+<p contentType="en">A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.</p>
+
+<ul>
+<li contentType="en">The arrow keys, ← ↑ → ↓ <br/>Home, End, PgUp, et PgDn, <br/>F8 (chapter), F9 (book)</li>
+
+<li contentType="en">or Ctrl + any of those keys</li>
+
+</ul>
+</section1>
+<section1 id="sRecall">
+<secTitle>
+<object contentType="en" type="t-en">Recall :</object>
+
+</secTitle>
+<p contentType="en">If the titlebar doesn’t say (Editable), you should try changing the __________.</p>
+
+<p contentType="en">To add a different marker (such as section heading) you press _______.</p>
+
+<p contentType="en">To add paragraph marker you type ________.</p>
+
+<p contentType="en">To insert a footnote, you use the _______ menu and choose ______________.</p>
+
+<p contentType="en">To send/receive, you use the ________ menu then ________________.</p>
+
+<p contentType="en">Answers : view, enter, enter, Insert, Footnote, File, Send/receive</p>
+
+</section1>
+</chapter>
+<chapter id="sGlGlossary">
+<secTitle>
+<object contentType="en" type="t-en">GL: Glossary</object>
+
+</secTitle>
+<table border="1"><tr><td contentType="en">Add an entry</td><td contentType="en">Edit an entry</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">This module explains how to add entries to the glossary using the Biblical terms tool.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have drafted and entered your text in Paratext. Now you will draft and enter some glossary entries to explain some terms.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tools also keeps track of the changes to the glossary.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will use the Biblical terms tool to add a rendering for the term and then use the glossary tab to enter the citation form and the definition.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sOpenTheBiblicalTermsTool">
+<secTitle>
+<object contentType="en" type="t-en">Open the Biblical Terms tool</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Tools &gt; Biblical terms ...</li>
+
+</ul>
+</section1>
+<section1 id="sAddAnEntry">
+<secTitle>
+<object contentType="en" type="t-en">Add an entry [◙ GL01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Move to a verse which contains the terms you want to add to the glossary.</li>
+
+<li contentType="en">Right-click and choose « View Biblical Terms », then « Current Verset(s) »</li>
+
+<li contentType="en">Check that you have the correct list open (p.ex. NT Key Biblical Terms [SIL])</li>
+
+<li contentType="en">Double-click on the term in the list in the top pane</li>
+
+<li contentType="en">Click the « Glossary » tab</li>
+
+</ul>
+<p contentType="en"><img src="12imgeng/image17.png"/>glossaire.png</p>
+
+<ul>
+<li contentType="en">Type the citation form of the term [1]</li>
+
+<li contentType="en">Type the Definition [2]</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">The word and the definition will be added to the glossary in alphabetical order.</p>
+
+</section1>
+<section1 id="sLinkAnExistingEntry">
+<secTitle>
+<object contentType="en" type="t-en">Link an existing entry [◙ GL02]</object>
+
+</secTitle>
+<p contentType="en">If the word is already in the glossary, you can link a term to the existing entry.</p>
+
+<ul>
+<li contentType="en">Check that you have the correct list (ex. NT Key Biblical terms [SIL])</li>
+
+<li contentType="en">Double-click on the word in the list in the top pane</li>
+
+<li contentType="en">Click the « Glossary » tab</li>
+
+<li contentType="en">Click the down arrow near the citation form [1]</li>
+
+<li contentType="en">Choose the entry from the glossary</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sViewTheGlossary">
+<secTitle>
+<object contentType="en" type="t-en">View the glossary </object>
+
+</secTitle>
+<p contentType="en">In Paratext</p>
+
+<ul>
+<li contentType="en"><img src="12imgeng/image18.png"/>
+
+<br/>Use the navigation bar to change the book</li>
+<li contentType="en">Choose the GLO book</li>
+
+</ul>
+</section1>
+<section1 id="sEditAnEntry">
+<secTitle>
+<object contentType="en" type="t-en">Edit an entry – in the GLO book [◙ GL03]</object>
+
+</secTitle>
+<p contentType="en">In Paratext</p>
+
+<ul>
+<li contentType="en">Open the GLO book</li>
+
+<li contentType="en">Edit the text as normal.</li>
+
+</ul>
+</section1>
+<section1 id="sEditAnEntryBibTerms">
+<secTitle>
+<object contentType="en" type="t-en">Edit an entry – in the Biblical Terms [◙ GL04]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Tools &gt; Biblical terms...</li>
+
+<li contentType="en">Double-click on the word in the list in the top pane.</li>
+
+<li contentType="en">Click the « Glossary » tab</li>
+
+<li contentType="en">Edit la définition</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sAddABiblicalTerm">
+<secTitle>
+<object contentType="en" type="t-en">Add a Biblical Term</object>
+
+</secTitle>
+<ul>
+<li contentType="en">see page 61</li>
+
+</ul>
+</section1>
+<section1 id="sRecall2">
+<secTitle>
+<object contentType="en" type="t-en">Recall</object>
+
+</secTitle>
+<ul>
+<li contentType="en">You open the Biblical Terms tool from the ________ menu.</li>
+
+<li contentType="en">The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.</li>
+
+<li contentType="en">To view the glossary your change to the _____ book
+
+(after Revelation).</li>
+</ul>
+<p contentType="en">Answers: Tools, Edit Rendering, double-click, top, GLO</p>
+
+</section1>
+</chapter>
+<chapter id="BC1">
+<secTitle>BC1 : Basic checks</secTitle>
+<p contentType="en">(from Project Plan or Checking menu)</p>
+
+<table border="1"><tr><td contentType="en">Basic checks: Chapter/verse</td><td contentType="en">Basic checks: markers</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">In this module, you will check the chapters/verses and the markers.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have typed your text in Paratext. Now you want to start checking. In this module we start with the first two basic checks.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">These checks allow you to be sure that you have all the chapters and verses and that the other markers are correct. Doing these checks allows you to complete the Drafting stage. It is important to run the chapter/verse check first because all the other checks depend on it.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You are going to run the first two basic checks using two different methods.</p>
+
+<ul>
+<li contentType="en">In Paratext 8 the easiest way to run check is from the project plan.</li>
+
+<li contentType="en">It is also possible to do the checks from the checking menu. You use this method if you need to run the checks on more than one book at a time.</li>
+
+</ul>
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sRunningChecksFromTheProjectPlan">
+<secTitle>
+<object contentType="en" type="t-en">Running checks from the project plan</object>
+
+</secTitle>
+<p contentType="en">It is easier to run the checks from the project plan.</p>
+
+<ul>
+<li contentType="en">View the project plan by clicking on the icon
+
+<br/>(at the top right of your project window).<img src="12imgeng/image19.png"/></li>
+<li contentType="en">If there are any « issues » (errors), click the blue link to the right</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image20.png"/>
+</p>
+<p contentType="en">A windows appears with a list of the errors.</p>
+
+<ul>
+<li contentType="en">Double-click a line in the list.</li>
+
+<li contentType="en">Correct the error in your project.</li>
+
+<li contentType="en">Double-click the next line in the list.</li>
+
+<li contentType="en">Continue for all the errors.</li>
+
+<li contentType="en">Click « Rerun » button to check that all the errors have been corrected.</li>
+
+<li contentType="en">Close the results list window.</li>
+
+<li contentType="en">Continue with the markers check.</li>
+
+</ul>
+</section1>
+<section1 id="sRunningTheChecksFromTheMenus">
+<secTitle>
+<object contentType="en" type="t-en">Running the checks from the menus</object>
+
+</secTitle>
+<p contentType="en">If you want to check more than one book at a time, you can run the checks from the checking menu.</p>
+
+</section1>
+<section1 id="sChapVerse">
+<secTitle>
+<object contentType="en" type="t-en">« Chapter/ Verse » [◙ VT01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on your project window</li>
+
+<li contentType="en">Checking &gt; Run basic checks</li>
+
+<li contentType="en">Check the Chapter/verse numbers</li>
+
+<li contentType="en">Uncheck any other checks</li>
+
+<li contentType="en">Click the button beside Choose Books</li>
+
+<li contentType="en">If necessary, click Choose… and choose the book you want to check</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">A windows appears with a list of the errors.</p>
+
+<ul>
+<li contentType="en">Double-click a line in the list.</li>
+
+<li contentType="en">Correct the error in your project.</li>
+
+<li contentType="en">Double-click the next line in the list.</li>
+
+<li contentType="en">Continue for all the errors.</li>
+
+<li contentType="en">Click « Rerun » button to check that all the errors have been corrected.</li>
+
+<li contentType="en">Close the results list window.</li>
+
+</ul>
+</section1>
+<section1 id="sMarkersCheck">
+<secTitle>
+<object contentType="en" type="t-en">Markers check </object>
+
+</secTitle>
+<ul>
+<li contentType="en">Checking &gt; Markers Inventory</li>
+
+</ul>
+<p contentType="en">The list shows an overview of the markers in your text.</p>
+
+<ul>
+<li contentType="en">Close the marker inventory.</li>
+
+<li contentType="en">Checking &gt; Run Basic Checks</li>
+
+<li contentType="en">Check the Markers</li>
+
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Correct any errors.</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sPp2ProjectProgress">
+<secTitle>
+<object contentType="en" type="t-en">PP2 : Project progress</object>
+
+</secTitle>
+<p contentType="en">Introduction</p>
+
+<p contentType="en">In this module, you will learn how to update your progress and create a progress report.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have been working on your translation and have finished a task. You now want to update your progress.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">For the project plan to work well, you need to mark the tasks you have finished. This allows Paratext to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will open the assignments and progress window and update the progress made. You will then produce a report.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sHowToMakeSureTheProgress">
+<secTitle>
+<object contentType="en" type="t-en">How to make sure the progress of the plan is up to date</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Open the project plan (using the button)</li>
+
+<li contentType="en">Update the progress on any task (see PP1 for instructions on each type of task).</li>
+
+</ul>
+</section1>
+<section1 id="sChangeAnAssignment">
+<secTitle>
+<object contentType="en" type="t-en">Change an assignment</object>
+
+</secTitle>
+<p contentType="en"><img src="12imgeng/image21.jpg"/>This can only be done by a project administrator.</p>
+
+<ul>
+<li contentType="en">From the Project menu, select Assignments and Progress....</li>
+
+<li contentType="en">From the first drop-down list at the top left of the dialog, select All Tasks.</li>
+
+<li contentType="en">In the "Assigned to" column, use the drop-down list to choose who will have responsibility for the task or check (listed in the "Task/Check" column at the far left).</li>
+
+</ul>
+</section1>
+<section1 id="sProduceAProgressReport">
+<secTitle>
+<object contentType="en" type="t-en">Produce a progress report</object>
+
+</secTitle>
+<ul>
+<li contentType="en">From the Tools menu, select Project Health Report....</li>
+
+<li contentType="en">Choose the project(s) to report</li>
+
+<li contentType="en">Click OK. <br/>The report will contain a column for each project you selected.</li>
+
+</ul>
+</section1>
+<section1 id="sViewTeamProgressCharts">
+<secTitle>
+<object contentType="en" type="t-en">View team progress charts</object>
+
+</secTitle>
+<ul>
+<li contentType="en">From the Project menu, select View team progress charts....</li>
+
+<li contentType="en">Use the first dropdown box to choose the type of chart</li>
+
+<li contentType="en">Choose the books as necessary.</li>
+
+</ul>
+</section1>
+</chapter>
+</part>
+<part id="stage2">
+<secTitle>Stage 2</secTitle>
+<chapter id="ST2">
+<secTitle>Stage 2 : Team Checking</secTitle>
+<p contentType="en">Introduction</p>
+
+<p contentType="en">The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatings checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image22.png"/>
+</p>
+<p contentType="en">The following modules will help you in this stage :</p>
+
+<ul>
+<li contentType="en">PN: Proper nouns</li>
+
+<li contentType="en">SP: Spell checking</li>
+
+<li contentType="en">BT: Biblical terms Checks</li>
+
+<li contentType="en">FC: Format checks</li>
+
+<li contentType="en">BC: Basic checks</li>
+
+<li contentType="en">PD: Print draft</li>
+
+<li contentType="en">UN: Using notes</li>
+
+</ul>
+</chapter>
+<chapter id="sPN">
+<secTitle>
+<object contentType="en" type="t-en">PN: Proper Names</object>
+
+</secTitle>
+<p contentType="en">Introduction</p>
+
+<p contentType="en">In this module, you will check that the proper names have been transliterated consistently.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have (or are working on) the rules for transliterating the names.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">You want to be consistent so that is clear who is being referred to in the text.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will</p>
+
+<ul>
+<li contentType="en">filter the Major Biblical terms list on Names.</li>
+
+<li contentType="en">use the Adapt Names tool to enter your transliteration rules for each letter.</li>
+
+<li contentType="en">edit and approve the individual names.</li>
+
+<li contentType="en">add the approved names as proposed names in the Biblical terms list</li>
+
+<li contentType="en">work through the Biblical Terms list to ensure that all the verses are consistent.</li>
+
+</ul>
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sRunBTTool">
+<secTitle>
+<object contentType="en" type="t-en">Run the Biblical Terms tool</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click in your project</li>
+
+<li contentType="en">Tools &gt; Biblical Terms ...</li>
+
+</ul>
+</section1>
+<section1 id="sOpenListTerms">
+<secTitle>
+<object contentType="en" type="t-en">Open list of terms [◙ VC01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">File &gt; Select Biblical terms list</li>
+
+<li contentType="en">Double-click the « Major Biblical Terms (Current Project Setting » list</li>
+
+</ul>
+</section1>
+<section1 id="sChooseComparison">
+<secTitle>
+<object contentType="en" type="t-en">Choose your reference text as a comparative text [◙ VC01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the « Comparative Texts » button on the toolbar.</li>
+
+<li contentType="en">Choose your reference text, then click à .</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sChangeVarious">
+<secTitle>
+<object contentType="en" type="t-en">Change various settings [◙ VC01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the second filter button</li>
+
+<li contentType="en">Choose Chapters Assigned to Me</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<framedUnit framedtype="tTeacher"><p contentType="en">Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the View menu and choose Transliterate terms.</p></framedUnit>
+</section1>
+<section1 id="sChooseTypeTerms">
+<secTitle>
+<object contentType="en" type="t-en">Choose the type of terms [◙ VC01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the first filter button</li>
+
+<li contentType="en">Choose « New Filter »</li>
+
+<li contentType="en">In the dialog box, under Categories…</li>
+
+<li contentType="en">Select « Names »</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sAdaptNames">
+<secTitle>
+<object contentType="en" type="t-en">Adapt names</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Tools &gt; Adapt Names</li>
+
+<li contentType="en">Choose the language of your reference text (e.g. English or français)</li>
+
+<li contentType="dn">Screenshot is in French</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image23.png"/>
+</p>
+</section1>
+<section1 id="sEnterChanges">
+<secTitle>
+<object contentType="en" type="t-en">Enter the changes for the individual letters (or letter clusters)</object>
+
+</secTitle>
+<ul>
+<li contentType="en">In the left pane, fill in the “Adapted Character” column for individual letters or letter clusters.</li>
+
+</ul>
+</section1>
+<section1 id="sEnterTheChangesForTheIndividualLetters">
+<secTitle>
+<object contentType="en" type="t-en">Enter the changes for the individual letters (or letter clusters)</object>
+
+</secTitle>
+<ul>
+<li contentType="en">In the left pane, fill in the “Adapted Character” column for individual letters or letter clusters.</li>
+
+</ul>
+</section1>
+<section1 id="sThenReviseAndApproveTheAdaptedName">
+<secTitle>
+<object contentType="en" type="t-en">Then revise and approve the Adapted Name</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Work through the « Adapted name » column in the right pane.</li>
+
+<li contentType="en">For each name,</li>
+
+<li contentType="en">if the adapted name is incorrect, click on the name in the Adapted Name column,</li>
+
+<li contentType="en">edit the name and click OK</li>
+
+<li contentType="en">Once the name is correct, click in the « Approved » column.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+<p contentType="en">Paratext will propose a name (in red) in the rendering column.</p>
+
+</section1>
+<section1 id="sEnsureYourTextIsConsistent">
+<secTitle>
+<object contentType="en" type="t-en">Ensure your text is consistent [◙ VC02]</object>
+
+</secTitle>
+<p contentType="en">You need to work through the list and confirm that all the verses use the name consistently.</p>
+
+<ul>
+<li contentType="en">Click the name in the top pane.</li>
+
+<li contentType="en">Click on a verse in the lower pane which doesn’t have the proposed form of the name.</li>
+
+<li contentType="en">Click on the Edit link</li>
+
+<li contentType="en">Correct as necessary, click OK</li>
+
+<li contentType="en">Repeat for each name.</li>
+
+</ul>
+</section1>
+<section1 id="sAddAnAlternativeRendering">
+<secTitle>
+<object contentType="en" type="t-en">Add an alternative rendering</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the term in the list</li>
+
+<li contentType="en">Selecte the word(s) in your text</li>
+
+<li contentType="en">Click on Add rendering button or Ctrl+A</li>
+
+</ul>
+</section1>
+<section1 id="sDealingWithVersesThatDon">
+<secTitle>
+<object contentType="en" type="t-en">Dealing with verses that don’t have the name translated [◙ VC05]</object>
+
+</secTitle>
+<p contentType="en">There are times when a verse is correctly translated even though you haven’t used the name. For example, a pronoun is used instead of the name. In this case you need to tell Paratext that it is correct (that is, deny that the rendering is missing).</p>
+
+<ul>
+<li contentType="en">Click the red cross at the left of the verse reference <img src="12imgeng/image24.png"/></li>
+
+<li contentType="en">The cross turn into green tick with a red cross
+
+<img src="12imgeng/image25.png"/></li>
+<li contentType="en">If you clicked on the red cross by mistake, click again on the icon <img src="12imgeng/image26.png"/></li>
+
+</ul>
+<p contentType="en">Note : Paratext doesn’t find names in the introductions, headings, footnotes, captions or glossary.</p>
+
+</section1>
+<section1 id="sRecall3">
+<secTitle>
+<object contentType="en" type="t-en">Recall</object>
+
+</secTitle>
+<ul>
+<li contentType="en">To transliterate proper names, you ______ the _________________ list on names.</li>
+
+<li contentType="en">Then use the _______ menu and ____________ command.</li>
+
+<li contentType="en">After entering the _______ changes then __________ the adapted names.</li>
+
+<li contentType="en">Paratext then enters a __________ rendering for all the names.</li>
+
+<li contentType="en">You then work through the list ___________ and/or adding renderings and making sure that all verses are _______________.</li>
+
+<li contentType="en">You can add a rendering by selecting the text and pressing Ctrl+__.</li>
+
+<li contentType="en">If a pronoun is used you can ______ the rending by clicking on the X.</li>
+
+</ul>
+<p contentType="en">Answers: filter, Major Biblical Terms, names, Tools, Adapt Names, character approve, proposed, correcting, consistent, A, deny</p>
+
+</section1>
+</chapter>
+<chapter id="sSP">
+<secTitle>
+<object contentType="en" type="t-en">SP : Spell Checking</object>
+
+</secTitle>
+<table border="1"><tr><td contentType="en">Configuring the word list</td><td colspan="5">Spell checking</td></tr><tr><td contentType="en">Approve spelling of common words</td><td contentType="en">Check the words that Paratext thinks are wrong</td><td contentType="en">Check similar words</td><td contentType="en">Display the red squiggly lines</td><td contentType="en">Check the current book</td><td contentType="en">Various checks on the word list</td></tr></table>
+
+<p contentType="en">(table cells haven't merged correctly)</p>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">This module explains how to check for spelling mistakes in the text you have typed into you project in Paratext 8.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have type your text in Paratext and have done some checks but there may still be spelling mistakes in the text.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why is this important?</object>
+</p>
+<p contentType="en">It is important the correct any spelling mistakes so that your text will communicate clearly.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">Firstly you need to configure the wordlist to build up a base of correct words. Then you can get Paratext to show red squiggly lines under the words it does not know. You can then work through your text, either correcting mistakes or telling Paratext that the words are correct.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What has changed in Paratext 8 </object>
+</p>
+<p contentType="en">Paratext 8 has a number of specific checks that you can run on the wordlist. It can also highlight invalid characters in you text.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sConfigTheWordlist">
+<secTitle>Configure the word list</secTitle>
+<p contentType="en">Before you can check the spelling, it is important to have a base of words that are known to be correct. There are three things we can do:</p>
+
+<section2 id="sApproveTheSpellingOfCommonWords">
+<secTitle>
+<object contentType="en" type="t-en">Approve the spelling of common words [◙ VO01a]</object>
+
+</secTitle>
+<p contentType="en">In Paratext</p>
+
+<ul>
+<li contentType="en">Tools &gt; Wordlist</li>
+
+</ul>
+<p contentType="en">In the Wordlist</p>
+
+<ul>
+<li contentType="en">Tools &gt; Approve spelling of common words</li>
+
+<li contentType="en">Enter a number</li>
+
+</ul>
+<p contentType="en">The number is the number of times the words must appear to automatically mark it as being spelled correctly. The default is 100 but you can choose more (if you have doubts about the text) or less (if you are confident about the acuracy of the typist).</p>
+
+<ul>
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Click Yes (to confirm that you can’t undo)</li>
+
+</ul>
+</section2>
+<section2 id="sCheckTheWordsThatParatextThinksAre">
+<secTitle>
+<object contentType="en" type="t-en">Check the words that Paratext thinks are incorrect [◙ VO01b]</object>
+
+</secTitle>
+<p contentType="en">In the Wordlist</p>
+
+<ul>
+<li contentType="en">Tools &gt; Check spelling</li>
+
+</ul>
+<p contentType="en">A list of words is displayed.</p>
+
+<ul>
+<li contentType="en">Tools &gt; Spell check &gt; All checks</li>
+
+<li contentType="en">Click on a word in the top pane.</li>
+
+<li contentType="en">If the word is correct – click the green checkbox</li>
+
+<li contentType="en">
+
+<img src="12imgeng/image27.png"/>
+</li>
+<li contentType="en">If the word is incorrect, but Paratext has suggested the correct word, then click the blue link for the correct word.</li>
+
+<li contentType="en">If the word is incorrect, and Paratext hasn’t suggested the correct word, click on the red checkbox X and correct the word.</li>
+
+</ul>
+</section2>
+<section2 id="sCheckSimilarlySpelledWords">
+<secTitle>
+<object contentType="en" type="t-en">Check similarly spelled words
+[◙ VO01c]</object>
+
+</secTitle>
+<p contentType="en">In the Wordlist</p>
+
+<ul>
+<li contentType="en">Tools &gt; Find Similar Words</li>
+
+<li contentType="en">Enter letters which sound alike separated by /
+
+(e.g. s/sh/z)</li>
+</ul>
+<framedUnit framedtype="tTeacher"><p contentType="en">Depending on your language, tick or untick « Ignore all diacritics when comparing words ».</p></framedUnit>
+<ul>
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">A list of words is displayed.</p>
+
+<ul>
+<li contentType="en">Correct the words (as described above).</li>
+
+</ul>
+<p contentType="en">Spell checking – from the text</p>
+
+</section2>
+</section1>
+<section1 id="sSpellChecking">
+<secTitle>
+<object contentType="en" type="t-en">Spell checking [◙ VO02]</object>
+
+</secTitle>
+<p contentType="en">In Paratext</p>
+
+<ul>
+<li contentType="en">Checking &gt; Display spelling</li>
+
+</ul>
+<p contentType="en">A progress meter is displayed initially then all the words that are either unknown or incorrect have red squiggly lines underneath.</p>
+
+</section1>
+<section1 id="sMakingCorrections">
+<secTitle>
+<object contentType="en" type="t-en">Making corrections [◙ VO02]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">
+
+<img src="12imgeng/image27.png"/>
+</li>
+</ul>
+<ul>
+<li contentType="en">Either type the correction in the box or select the correct word <br/>from the list</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">When possible, it is better to use the spelling check even when making minor corrections as Paratext will remember the correction and can apply the correction if it happens again.</p>
+
+<p contentType="en">When there is more than one correction, a dialog box is displayed. Choose as appropriate: <br/>Yes = changes this verse and looks for the next<br/>No = skips this verse and looks for the next<br/>Yes to all – is too dangerous, DON’T use it<br/>Cancel = stops changing any more</p>
+
+<p contentType="en">Spell checking – current book</p>
+
+</section1>
+<section1 id="sSPCB">
+<secTitle>Spell checking - current book</secTitle>
+<p contentType="en"/>
+
+<section2 id="sSpellCheckingCurrentBook">
+<secTitle>
+<object contentType="en" type="t-en">Spell checking – current book
+[◙ VO02b]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Checking &gt; Spell Check Current Book</li>
+
+</ul>
+<p contentType="en">A window appears with a list of some words in the current book.</p>
+
+<p contentType="dn">French Screenshot</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image28.png"/>
+</p>
+<ul>
+<li contentType="en">Make corrections as explained above</li>
+
+<li contentType="en">Click « More items available » to see additional words.</li>
+
+<li contentType="en">Continue as needed.</li>
+
+</ul>
+<p contentType="en">Spell checking – from the wordlist</p>
+
+</section2>
+</section1>
+<section1 id="sUsingTheNewChecks">
+<secTitle>
+<object contentType="en" type="t-en">Using the new checks</object>
+
+</secTitle>
+<p contentType="en">In the Wordlist</p>
+
+<ul>
+<li contentType="en">Tools &gt; Spell check &gt;</li>
+
+<li contentType="en">Choose the desired check (see descriptions below)<br/><img src="12imgeng/image29.png"/></li>
+
+</ul>
+<p contentType="en">A list of words is displayed.</p>
+
+<ul>
+<li contentType="en">Make the corrections as needed.</li>
+
+<li contentType="en">Click « More items available » to see more words.</li>
+
+<li contentType="en">Continue as needed.</li>
+
+<li contentType="en">When the list is finished, a message is displayed</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image30.png"/>
+</p>
+<ul>
+<li contentType="en">Click Yes.</li>
+
+</ul>
+</section1>
+<section1 id="sAllChecks">
+<secTitle>
+<object contentType="en" type="t-en">All checks</object>
+
+</secTitle>
+<p contentType="en">This runs all of the checks. This is very useful as it will find all types of errors and even words with multiple types of errors.</p>
+
+</section1>
+<section1 id="sMissingCapitals">
+<secTitle>
+<object contentType="en" type="t-en">Missing Capitals </object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed with links to the capitalised form.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image31.png"/>
+</p>
+<ul>
+<li contentType="en">Click the blue link to the capitalised form</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image32.png"/>
+</p>
+<ul>
+<li contentType="en">Click the appropriate blue link <ul><li contentType="en"><object type="tItalic">Show incorrect</object> (to see the verses)</li></ul></li>
+
+<li contentType="en">
+
+<ul>
+<li contentType="en"><object type="tItalic">The two forms are acceptable</object> (to accept both forms)</li>
+
+</ul>
+</li>
+<li contentType="en">
+
+<ul>
+<li contentType="en"><object type="tItalic">Capitalise All</object> (to correct all the words)</li>
+
+</ul>
+</li>
+</ul>
+</section1>
+<section1 id="sSingleCharacterTypos">
+<secTitle>
+<object contentType="en" type="t-en">Single Character Typos </object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed with links to other words which are similar but only have one letter different.</p>
+
+</section1>
+<section1 id="sUnusualLetterCombinations">
+<secTitle>
+<object contentType="en" type="t-en">Unusual Letter Combinations </object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed which have unsual combination of letters (such as consonant or vowel clusters …).</p>
+
+</section1>
+<section1 id="sDiacriticErrors">
+<secTitle>
+<object contentType="en" type="t-en">Diacritic Errors</object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed with links to other words which are the same except for the diacritics.</p>
+
+</section1>
+<section1 id="sCommonTypos">
+<secTitle>
+<object contentType="en" type="t-en">Common Typos </object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed which have the same type of problem which have already been corrected in other words. E.g. if you have already corrected "teh" as "the", and it finds "tehm" it will suggest "them".</p>
+
+</section1>
+<section1 id="sUnknown">
+<secTitle>
+<object contentType="en" type="t-en">Unknown </object>
+
+</secTitle>
+<p contentType="en">A list of words is displayed which the computer has not been able to guess the morphology based on other words.</p>
+
+</section1>
+<section1 id="sFindIncorrectlyJoinedOrSplitWords">
+<secTitle>
+<object contentType="en" type="t-en">Find incorrectly joined or split words</object>
+
+</secTitle>
+<p contentType="en">In the Wordlist (Tools – Wordlist)</p>
+
+<ul>
+<li contentType="en">Tools &gt; Find Incorrectly Joined or Split Words</li>
+
+<li contentType="dn">French Screenshot</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image33.png"/>
+</p>
+<ul>
+<li contentType="en">Type in any word medial punctuation</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">A list of words is displayed with similar words grouped together.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image34.png"/>
+</p>
+</section1>
+<section1 id="sCorrectAWordWhichWasIncorrectlyMarked">
+<secTitle>
+<object contentType="en" type="t-en">Correct a word which was incorrectly marked </object>
+
+</secTitle>
+<ul>
+<li contentType="en">Find the word in the list (using the filter if necessary)</li>
+
+<li contentType="en">Click on the line</li>
+
+<li contentType="en">Click the correct spelling status.</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="BTTerms">
+<secTitle>BT : A 4-Step process for consistent Biblical Terms</secTitle>
+<p contentType="en">
+
+<object type="tItalic">Introduction</object>
+</p>
+<p contentType="en">The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This process should be considered part of the translation process and not a check.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You are translating a verse in Paratext and you want to see what renderings have already been chosen for the terms in the current verse and then make sure they are consistent with other verses.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">For your readers to understand your text, you need to be consistent in your use of terms. It is a big task to make them completely consistent. If you start from the verse you are translating and work from there the task is more manageable. The goal is to have consistently rendered Biblical Terms and well documented decisions on why changes were made.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">This method boils down to a short list of steps:</p>
+
+<p contentType="en">1. Find all the ways you have rendered this term, and enter them in the renderings dialog.</p>
+
+<p contentType="en">2. Choose which rendering is/are best, and record why it is best.</p>
+
+<p contentType="en">3. Document why you rejected the other renderings.</p>
+
+<p contentType="en">4. Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</p>
+
+<p contentType="en">Repeat with next Biblical Term you find in the Biblical Terms Renderings window.</p>
+
+<p contentType="en">In Paratext you will</p>
+
+<p contentType="en">1. Find the way your have rendered the term in the verse and then expand to find all the ways you have rendered this term, and enter them in the renderings dialog.</p>
+
+<p contentType="en">2. Choose which renderings are best, and record why.</p>
+
+<p contentType="en">3. Document why you rejected the other renderings.</p>
+
+<p contentType="en">4. Clean up your translation by making this rendering consistent throughout your translation.</p>
+
+<p contentType="en">5. Repeat with next Biblical Term you find in the Biblical Terms Renderings window.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sOpenTheBiblicalTermsRendingWindow">
+<secTitle>
+<object contentType="en" type="t-en">Open the Biblical terms rending window [◙ VT01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click in your project</li>
+
+<li contentType="en">File &gt; Open Biblical terms rendering</li>
+
+<li contentType="en">File &gt; Select Biblical terms list</li>
+
+<li contentType="en">Choose the desired list</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sFindTheTermsForTheCurrentVerse">
+<secTitle>
+<object contentType="en" type="t-en">Find the terms for the current verse</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Is there a tick in the found column?</li>
+
+<li contentType="en">If there is a tick, your verse uses the term and you can continue with the next term.</li>
+
+<li contentType="en">If not, you need to either correct your text or add the new term you have used (see below).</li>
+
+</ul>
+</section1>
+<section1 id="sAddAnotherRendering">
+<secTitle>
+<object contentType="en" type="t-en">Add another rendering</object>
+
+</secTitle>
+<p contentType="en">If the term you have used needs to be added to the list:</p>
+
+<ul>
+<li contentType="en">Select the rendering of the term in your text.</li>
+
+<li contentType="en">Copy it (ctrl+c)</li>
+
+<li contentType="en">Double-click in the renderings cell.</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image35.png"/>
+</p>
+<p contentType="en">The edit renderings dialog is displayed.</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image36.png"/>
+</p>
+<ul>
+<li contentType="en">Paste (ctrl+v) the rendering in the dialog box.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sFindOtherVersesInTheCurrentBook">
+<secTitle>
+<object contentType="en" type="t-en">Find other verses in the current book with the same Biblical term</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Double-click on a word in the term column</li>
+
+</ul>
+<p contentType="en">The Biblical Terms Tool opens</p>
+
+<ul>
+<li contentType="en">From the second filter button choose current book</li>
+
+<li contentType="en">Add renderings for the term from the verses until the terms in all verses are been identified (see below).</li>
+
+</ul>
+</section1>
+<section1 id="sAddRenderingsFromTheOtherVerses">
+<secTitle>
+<object contentType="en" type="t-en">Add renderings from the other verses</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Select the rendering in the verse</li>
+
+<li contentType="en">Add the rendering using Ctrl+A</li>
+
+<li contentType="en">Continue until all terms for those verses have been identified.</li>
+
+</ul>
+</section1>
+<section1 id="sDealingWithVersesThatDoNotUSeTerm">
+<secTitle>
+<object contentType="en" type="t-en">Dealing with verses that don’t use the term [◙ VC05]</object>
+
+</secTitle>
+<p contentType="en">There are times when a verse is translated without using the actual term. For example when a pronoun is used. In this case you need to deny that it is an error.</p>
+
+<ul>
+<li contentType="en">Click the red cross <img src="12imgeng/image24.png"
+
+/> to the left of the verse reference link. The red cross turns into a green tick with a small red x <img src="12imgeng/image25.png"
+/></li>
+</ul>
+<p contentType="en">If you click on the cross by mistake, click on it again and it will return to a red X.</p>
+
+</section1>
+<section1 id="sIdentifyTheBestTerm">
+<secTitle>
+<object contentType="en" type="t-en">Identify the best term</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Double-click on the term in the top pane.</li>
+
+</ul>
+<p contentType="en">The edit rendering dialog is displayed listing all the renderings that have been added.</p>
+
+<ul>
+<li contentType="en">Decide on the best rendering</li>
+
+<li contentType="en">Cut (ctrl+x) and paste (ctrl+v) it to the top of the dialogue box</li>
+
+<li contentType="en">Add * as necessary to combine similar renderings</li>
+
+</ul>
+</section1>
+<section1 id="sRejectAllTheOthers">
+<secTitle>
+<object contentType="en" type="t-en">Reject all the others</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Select and cut the other renderings.</li>
+
+</ul>
+</section1>
+<section1 id="sDocumentTheReasonForTheChange">
+<secTitle>
+<object contentType="en" type="t-en">Document the reason for the change</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the History button</li>
+
+<li contentType="en">Type in the reason why the others were rejected and why the first was the best.</li>
+
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sIfYouNeedMoreThanOneRendering">
+<secTitle>
+<object contentType="en" type="t-en">If you need more than one rendering</object>
+
+</secTitle>
+<p contentType="en">You can add more than one rendering if appropriate. In this case it is good to add a back translation in brackets after then rendering. For example, <br/> slave (slave)<br/> guy * work fo (guy that works for)</p>
+
+<ul>
+<li contentType="en">Open the Edit renderings dialog box</li>
+
+<li contentType="en">Edit the renderings as needed.</li>
+
+</ul>
+</section1>
+<section1 id="sCleanUpOtherBooks">
+<secTitle>
+<object contentType="en" type="t-en">Clean up other books (as time permits)</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Change the filter so that all the published books are displayed.</li>
+
+<li contentType="en">Clean up verses as necessary.</li>
+
+</ul>
+</section1>
+<section1 id="sAddTheBiblicalTermsNotes">
+<secTitle>
+<object contentType="en" type="t-en">Add the Biblical terms notes
+(ongoing discussion)</object>
+
+</secTitle>
+<p contentType="en">If you are still deciding on the rendering you should add a rendering discussion note</p>
+
+<ul>
+<li contentType="en">Double-click on the note icon (in the second column)</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image37.png"/>
+</p>
+<ul>
+<li contentType="en">Type in the note</li>
+
+<li contentType="en">Assign the note as necessary.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sAddTheDecisionToTheRenderingsDescription">
+<secTitle>
+<object contentType="en" type="t-en">Add the decision to the renderings description</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Double-click on the term</li>
+
+<li contentType="en">Type the agreed-on rendering in the description field</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image38.png"/>
+</p>
+<ul>
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sAddATerm">
+<secTitle>
+<object contentType="en" type="t-en">Add a term</object>
+
+</secTitle>
+<p contentType="en">In Paratext</p>
+
+<ul>
+<li contentType="en">From your reference text, do a find (using Edit&gt;Find) and search for the term.</li>
+
+</ul>
+<p contentType="en">A list is displayed showing the verses with that term.</p>
+
+<p contentType="en">From the list of results</p>
+
+<ul>
+<li contentType="en">Edit &gt; Add to Project Biblical Terms, then choose your project</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image38.png"/>
+</p>
+<ul>
+<li contentType="en">Edit the gloss if necessary</li>
+
+<li contentType="en">Click on the Advanced tab</li>
+
+<li contentType="en">Type in a name for the term</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sFcFormattingChecks">
+<secTitle>
+<object contentType="en" type="t-en">FC: Formatting checks</object>
+
+</secTitle>
+<p contentType="en">Introduction</p>
+
+<p contentType="en">In this module, you will find and correct formatting and layout errors.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have typed your draft into a project in Paratext. You will use the checklists to find and correct errors related to the formatting and layout errors.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">A New Testament contains more than just chapters and verses. There are also titles, section headings, and several types of paragraphs. These checks allow you to be sure that the layout of your text is correct, and your titles etc. are consistent.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will use the checklists to</p>
+
+<ul>
+<li contentType="en">compare your titles and section headings</li>
+
+<li contentType="en">check your paragraph breaks</li>
+
+<li contentType="en">compare the paragraph markers in your text with those of your reference text</li>
+
+<li contentType="en">add markers for special text formatting</li>
+
+</ul>
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sUsingTheChecklists">
+<secTitle>
+<object contentType="en" type="t-en">Using the checklists – generic</object>
+
+</secTitle>
+<p contentType="en">There are a number of checklists which differ slightly but they have the following in common:</p>
+
+<p contentType="en">How to display the checklist</p>
+
+<ul>
+<li contentType="en">Tools &gt; Checklists &gt; choose the desired list</li>
+
+<li contentType="en">Add a comparative text (if desired) by clicking on the Comparative Texts button.</li>
+
+<li contentType="en">Select the verses/books (as necessary) using the Select Range button.</li>
+
+</ul>
+<p contentType="en">Making corrections</p>
+
+<ul>
+<li contentType="en">Click the <object type="tItalic">Edit</object> link to correct any errors</li>
+
+<li contentType="en">OR Click the reference link to see more context</li>
+
+</ul>
+<p contentType="en">Close the list</p>
+
+<ul>
+<li contentType="en">When you have finished with the list, close it by clicking the X at the top right corner of the window.</li>
+
+</ul>
+</section1>
+<section1 id="sUsingChecklist">
+<secTitle>
+<object contentType="en" type="t-en">Using checklist – Section headings
+(\s1) </object>
+
+</secTitle>
+<p contentType="en">Check that</p>
+
+<ul>
+<li contentType="en">The headings are consistent with your reference text</li>
+
+<li contentType="en">All headings start with a capital.</li>
+
+<li contentType="en">There is no punctuation at the end.</li>
+
+<li contentType="en">They are not too long.</li>
+
+</ul>
+</section1>
+<section1 id="sParagraphBreaks">
+<secTitle>
+<object contentType="en" type="t-en">Paragraph breaks</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Tools &gt; Checklists &gt; Markers</li>
+
+<li contentType="en">Choose your reference text as the comparative text</li>
+
+<li contentType="en">Click Settings</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image39.png"/>
+</p>
+<ul>
+<li contentType="en">Type the paragraph makers to be displayed
+
+<br/>(e.g. p m)</li>
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections by clicking on the blue
+
+<object type="tItalic">Edit</object> link.</li>
+</ul>
+<p contentType="en">OR</p>
+
+<ul>
+<li contentType="en">Click on the blue verse reference link.</li>
+
+<li contentType="en">Make the necessary corrections in Paratext.</li>
+
+<li contentType="en">Return to the checklist by clicking on the icon on the taskbar.</li>
+
+</ul>
+</section1>
+<section1 id="sLayoutAndIndents">
+<secTitle>
+<object contentType="en" type="t-en">Layout and indents</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Tools &gt; Checklists &gt; Markers</li>
+
+<li contentType="en">Choose your reference text as a comparative text.</li>
+
+<li contentType="en">Click on Settings</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image055.jpg"/>
+</p>
+<ul>
+<li contentType="en">Look for new paragraph markers such as q1 and q1</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections as shown above.</li>
+
+</ul>
+</section1>
+<section1 id="sAddUsfmsToFormatSpecialText">
+<secTitle>
+<object contentType="en" type="t-en">Add USFMs to format special text</object>
+
+</secTitle>
+<ul>
+<li contentType="en">See the list of passages with special formatting
+
+(in appendix taken from Logos)</li>
+<li contentType="en">Add the USFM as necessary (see module KD or help if necessary).</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sPD">
+<secTitle>
+<object contentType="en" type="t-en">PD : Printing Drafts</object>
+</secTitle>
+<p contentType="en">
+
+<object type="tItalic">Introduction</object>
+</p>
+<p contentType="en">In this module you will learn how to print a draft of your translation for checking and revising.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have entered and checked your translation in Paratext and are now ready to print out a copy. Your project must be registered before you can print.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">It is much easier to revise and check your work on paper than on the computer. You can also give it to more people if it is on paper.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will first produce a PDF version of your translation, which you can print or share with non-Paratext users. If necessary your can copy the PDF file onto your USB stick and take it to a computer with a printer.</p>
+
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sCreateAPdfFile">
+<secTitle>
+<object contentType="en" type="t-en">Create a PDF file [◙ IE01]</object>
+
+</secTitle>
+<p contentType="en">Make sure you have completed a markers check before printing a draft.</p>
+
+<ul>
+<li contentType="en">File &gt; Print Draft</li>
+
+<li contentType="en">Check that your project is selected.</li>
+
+<li contentType="en">Choose which book(s) and chapters to print.</li>
+
+<li contentType="en">Choose the page settings as follows :</li>
+
+<li contentType="en">Page size: <br/>210mm, 297mm (A4) ou <br/>148mm, 210mm (A5)</li>
+
+<li contentType="en">Columns : 1</li>
+
+<li contentType="en">Margins : <br/>25 mm (for A4) or <br/>12 mm for A5</li>
+
+<li contentType="en">Text body font: Charis SIL (or Charis SIL Compact)</li>
+
+<li contentType="en">Size: 10 (or 11)</li>
+
+<li contentType="en">Line spacing: <br/>1.0 (for single spacing)</li>
+
+<li contentType="en">Click OK and wait, the file will open in your PDF reader.</li>
+
+</ul>
+<p contentType="en">If there are marker error a message box will appear. Click No, then correct the errors and try again.</p>
+
+</section1>
+<section1 id="sPrintPdf">
+<secTitle>
+<object contentType="en" type="t-en">Print PDF [◙ IE02]</object>
+
+</secTitle>
+<p contentType="en">In Adobe Reader</p>
+
+<ul>
+<li contentType="en">File &gt; Print.</li>
+
+<li contentType="en">For A5</li>
+
+<li contentType="en">Choose Booklet</li>
+
+<li contentType="en">Orientation : portrait</li>
+
+</ul>
+<p contentType="en">To print double-sided</p>
+
+<ul>
+<li contentType="en">Click the Properties button</li>
+
+<li contentType="en">Choose Finition/Finishing</li>
+
+<li contentType="en">Choose Print on both sides</li>
+
+<li contentType="en">Orientation Landscape</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+<p contentType="en">If you need to use spaces before complex punctuation the ask for changes to be made in your PrintDraftChanges.txt</p>
+
+</section1>
+<section1 id="sCopyPdfFileToAUsbStick">
+<secTitle>
+<object contentType="en" type="t-en">Copy PDF file to a USB stick</object>
+
+</secTitle>
+<p contentType="en">Paratext saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p>
+
+<p contentType="en">There are many ways to copy files. One method is described below.</p>
+
+<ul>
+<li contentType="en">Hold the Windows Key (ÿ)and type E</li>
+
+</ul>
+<p contentType="en">Window Explorer opens.</p>
+
+<ul>
+<li contentType="en">Go to your My Paratext 8 Projects folder.</li>
+
+<li contentType="en">Double-click on your project folder</li>
+
+<li contentType="en">Double-click the PrintDraft folder</li>
+
+<li contentType="en">Right-click on the desired PDF file</li>
+
+<li contentType="en">Choose Send to</li>
+
+<li contentType="en">Choose your USB stick.</li>
+
+</ul>
+</section1>
+</chapter>
+<chapter id="sBC2">
+<secTitle>
+<object contentType="en" type="t-en">BC2 : Basic checks</object>
+</secTitle>
+<table border="1"><tr><td contentType="en">Setup</td><td contentType="en">Using <br/>Inventories</td><td contentType="en">Basic <br/>checks</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">In this module you will learn how to run several more basic checks (characters, punctuation, capitalisation and repeated words). As in the first module, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You have typed your translation into Paratext. Make sure you have checked the chapter/verse numbers and markers as described in module BC1 before continuing.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Why this is important</object>
+</p>
+<p contentType="en">Paratext has eleven basic checks. You have already seen the first two (chapter/verses and markers). The next set of checks help you find errors related the characters, punctuation, capitalisation, repeated words. Although these errors may not affect the content of the text is makes the text easier to read.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">Most of the checks require some setup to be done by your administrator. In this module you will:</p>
+
+<ul>
+<li contentType="en">Confirm that the setup has been done</li>
+
+<li contentType="en">Run the basic check</li>
+
+<li contentType="en">Correct any errors.</li>
+
+</ul>
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+<section1 id="sConfirmTheSetup">
+<secTitle>
+<object contentType="en" type="t-en">Confirm the setup</object>
+
+</secTitle>
+<p contentType="en">Note: Before you can run the other basic checks some form of setup must be done by your Administrator.</p>
+
+<p contentType="en">The setup may be either an inventory, rules or settings.</p>
+
+</section1>
+<section1 id="sUsingInventoriesToSetupChecks">
+<secTitle>
+<object contentType="en" type="t-en">Using inventories to setup checks
+[◙ VT02]</object>
+
+</secTitle>
+<p contentType="en">These inventories show what is currently in your text, that is, both the good and the bad. You need to work through the inventory and tell Paratext which elements are correct (valid) and which are errors (invalid).</p>
+
+<p contentType="en">Once you have finished the inventory you will be ready to do the check.</p>
+
+<ul>
+<li contentType="en">From the Checking menu, choose the appripriate inventory (for example Character inventory).</li>
+
+<li contentType="en">Click on an element in the list in the top pane.</li>
+
+</ul>
+<p contentType="en">The verses are shown in the bottom pane.</p>
+
+<ul>
+<li contentType="en">For each element in the top pane, choose either Valid or Non valid.</li>
+
+<li contentType="en">Repeat for the next element.</li>
+
+<li contentType="en">Click OK when finished.</li>
+
+</ul>
+<p contentType="en">Details for the checks</p>
+
+</section1>
+<section1 id="sCharacters">
+<secTitle>
+<object contentType="en" type="t-en">Characters [◙ VT02]</object>
+
+</secTitle>
+<p contentType="en">This inventory helps you identify all the incorrect characters, i.e. the characters which are not in your alphabet.</p>
+
+<ul>
+<li contentType="en">Checking &gt; Character inventory</li>
+
+<li contentType="en">For each element, choose either Valid or Non valid.</li>
+
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Checking &gt; Run Basic Checks</li>
+
+<li contentType="en">Check « Characters »</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections as needed.</li>
+
+</ul>
+</section1>
+<section1 id="sPunctuation">
+<secTitle>
+<object contentType="en" type="t-en">Punctuation [◙ VT03]</object>
+
+</secTitle>
+<p contentType="en">Identify all the incorrect or misplaced punctuation marks. (Use the Unicode character column to clearly identify the punctuation.)</p>
+
+<ul>
+<li contentType="en">Checking &gt; Punctuation Inventory</li>
+
+<li contentType="en">Check each punctuation mark and its context.</li>
+
+</ul>
+<p contentType="en">The contexts can be: word initial, word medial, word final or isolated (space before and after).</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image41.png"/>
+</p>
+<ul>
+<li contentType="en">Checking &gt; Run Basic Checks</li>
+
+<li contentType="en">Click beside « Punctuation»</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections as needed.</li>
+
+</ul>
+</section1>
+<section1 id="sRepeatedWords">
+<secTitle>
+<object contentType="en" type="t-en">Repeated words [◙ VT05]</object>
+
+</secTitle>
+<p contentType="en">This check finds the words which have been immediately repeated in the text.</p>
+
+<ul>
+<li contentType="en">Checking &gt; Repeated words inventory:</li>
+
+<li contentType="en">For each item on the list, choose Valid or Non valid.</li>
+
+<li contentType="en">Checking &gt; Run Basic Checks</li>
+
+<li contentType="en">Check « Repeated words »</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections as needed.</li>
+
+</ul>
+</section1>
+<section1 id="sCapitalization">
+<secTitle>
+<object contentType="en" type="t-en">Capitalization [◙ VT06]</object>
+
+</secTitle>
+<p contentType="en">There are four inventories needed for the capitalisation check but only one check. You may need to click the Options button to add markers or punctuation.</p>
+
+<ul>
+<li contentType="en">Checking&gt; Markers Missing Final Sentence Punctuation</li>
+
+<li contentType="en">Checking&gt; Markers followed by a lower case letter</li>
+
+<li contentType="en">Checking&gt;Punctuation Followed by a Lower Case letter</li>
+
+<li contentType="en">Checking&gt; Mixed Capitalization</li>
+
+<li contentType="en">For each item on the list, choose Valid or Non valid.</li>
+
+<li contentType="en">Checking &gt; Run Basic Checks</li>
+
+<li contentType="en">Check « Capitalization »</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Make any corrections as needed.</li>
+
+</ul>
+</section1>
+<section1 id="sMakingMinorCorrections">
+<secTitle>
+<object contentType="en" type="t-en">Making minor corrections</object>
+
+</secTitle>
+<p contentType="en">It is possible to make minor corrections from within a displayed inventory.</p>
+
+<ul>
+<li contentType="en">Click on a verse in the low pane</li>
+
+<li contentType="en">Hold the Shift and double-click</li>
+
+<li contentType="en">Make the correction</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+<p contentType="en">However it is preferable to use the wordlist or the spell checker to correct all the errors at once.</p>
+
+<section2 id="sRevision">
+<secTitle>Revision</secTitle>
+<p contentType="en">There are many basic checks in Paratext 8. The table below summarizes the setup needed for each of the checks.</p>
+
+<table border="1"><tr><td contentType="en">Check</td><td contentType="en">Setup</td></tr><tr><td contentType="en">Chapter/verse numbers</td><td contentType="en">none</td></tr><tr><td contentType="en">Markers</td><td contentType="en">Marker inventory</td></tr><tr><td contentType="en">Characters (Combinations)</td><td contentType="en">Character inventory</td></tr><tr><td contentType="en">Punctuation</td><td contentType="en">Punctuation inventory</td></tr><tr><td contentType="en">Capitalization</td><td contentType="en">4 inventories<br/> Markers Missing Final Sentence Punctuation<br/>Markers followed by a lower case letter<br/>Punctuation Followed by a Lower Case letter<br/>Mixed Capitalization<br/></td></tr><tr><td contentType="en">Repeated words</td><td contentType="en">Repeated words inventory</td></tr><tr><td contentType="en">Unmatched pairs of punctuation</td><td contentType="en">Unmatched pairs of punctuation inventory</td></tr><tr><td contentType="en">Quotations</td><td contentType="en">Quotation rules (from Checking menu)</td></tr><tr><td contentType="en">Numbers</td><td contentType="en">Number settings (from checking menu)</td></tr><tr><td contentType="en">References</td><td contentType="en">Scripture reference settings (from project menu)</td></tr><tr><td contentType="en">Quoted text</td><td contentType="en">none</td></tr></table>
+
+<p contentType="en">It is possible to run all the checks at the same time, however when running the checks for the first time it is better to run them one at a time to avoid large list of errors.</p>
+
+</section2>
+</section1>
+</chapter>
+<chapter id="sUNUsingNotes">
+<secTitle>
+<object contentType="en" type="t-en">UN : Using Notes</object>
+
+</secTitle>
+<table border="1"><tr><td contentType="en">Inserting and editing notes</td><td contentType="en">Resolving notes</td><td contentType="en">Filtering notes</td><td contentType="en">Printing notes</td><td contentType="en">Checking notes</td></tr></table>
+
+<p contentType="en">Introduction</p>
+
+<p contentType="en">As you are translating and checking you may want to make comments on various errors or issues. You may also want to record your discussions on key terms and spelling issues. Paratext allows you to record these comments either in the text, the Biblical terms list or the wordlist.</p>
+
+<p contentType="en">
+
+<object type="tItalic">Where we are</object>
+</p>
+<p contentType="en">You are typing or revising your text, wordlist or keyterms and need to make comments on an issue you have seen.</p>
+
+<p contentType="en">Attention : Notes and footnotes are very different. Footnotes are printed in the New Testament whereas notes are for questions and comments and are not printed in the New Testament.</p>
+
+<p contentType="en">
+
+<object type="tItalic">What you are going to do</object>
+</p>
+<p contentType="en">You will</p>
+
+<ul>
+<li contentType="en">create notes in the text using different icons,</li>
+
+<li contentType="en">edit the notes and resolve notes</li>
+
+<li contentType="en">open a note window from the text</li>
+
+<li contentType="en">filter the list</li>
+
+<li contentType="en">print a list of the notes</li>
+
+<li contentType="en">add rendering discussion notes to a Biblical terms list</li>
+
+<li contentType="en">add spelling notes to the wordlist.</li>
+
+</ul>
+<section1 id="sDifferentTypesOfProjectNotes">
+<secTitle>
+<object contentType="en" type="t-en">Different types of project notes</object>
+
+</secTitle>
+<p contentType="en">You can choose from many different icons for your project notes in Paratext :</p>
+
+<p contentType="en">
+
+<img src="12imgeng/image42.png"/>
+</p>
+<p contentType="en">
+
+<object type="tItalic">An icon can have four different colours or shapes</object>
+</p>
+<table border="1"><tr><td contentType="en">Icon</td><td contentType="en">Description</td><td contentType="en">Meaning</td></tr><tr><td contentType="en">
+
+<img src="12imgeng/image43.jpeg"/>
+</td>
+<td contentType="en">Icon has a border and a yellow background color.</td><td contentType="en">The note has a least one unread comment.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image44.png"/>
+</td>
+<td contentType="en">Icon is red, purple, or light blue.</td><td contentType="en">A project note assigned to you, or to the whole team, or unassigned.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image45.png"/>
+</td>
+<td contentType="en">Icon is gray.</td><td contentType="en">A project note assigned to someone else.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image46.png"/>
+</td>
+<td contentType="en">Icon is gray with a green tick.</td><td contentType="en">A project note with resolved status.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image47.png"/>
+</td>
+<td contentType="en">Icon is a white question mark on the cover of a book.</td><td contentType="en">There is a spelling discussion note for this word. (Wordlist only.)</td></tr><tr><td contentType="en">
+<img src="12imgeng/image48.png"/>
+</td>
+<td contentType="en">Icon is gray with a question mark on the cover of a book.</td><td contentType="en">There is NOT a spelling discussion note for this word. (Wordlist only. )</td></tr><tr><td contentType="en">
+<img src="12imgeng/image49.png"/>
+</td>
+<td contentType="en">Icon is a light blue plus.</td><td contentType="en">A consultant note.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image50.png"/>
+</td>
+<td contentType="en">Icon is a light blue globe.</td><td contentType="en">A global consultant note.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image51.png"/>
+</td>
+<td contentType="en">Icon is a black exclamation point within a red triangle.</td><td contentType="en">There is a Send/Receive merge conflict because two users have made different changes to the same verse.</td></tr><tr><td contentType="en">
+<img src="12imgeng/image52.png"/>
+</td>
+<td contentType="en">Icon is a white arrow on a blue background.</td><td contentType="en">There is a rendering discussion note for this Biblical Term.
+(Biblical terms window or tool only)</td>
+</tr>
+<tr><td contentType="en">
+<img src="12imgeng/image53.png"/>
+</td>
+<td contentType="en">Icon is gray with an arrow on the cover of a book.</td><td contentType="en">There is NOT a rendering discussion note for this Biblical Term.
+(Biblical terms window or tool only)</td>
+</tr>
+</table>
+<p contentType="en">Summary</p>
+
+<p contentType="en">This module shows you how to:</p>
+
+</section1>
+<section1 id="sSetupAdditionalNoteTypes">
+<secTitle>
+<object contentType="en" type="t-en">Setup additional note types</object>
+
+</secTitle>
+<p contentType="en">(One must be an Administrator)</p>
+
+<ul>
+<li contentType="en">Project &gt; Propject proprities and settings</li>
+
+<li contentType="en">Click the Notes tab</li>
+
+<li contentType="en">Click the Add Tab button</li>
+
+</ul>
+<p contentType="en">A new line is added</p>
+
+<ul>
+<li contentType="en">Click the icon on the new tag line</li>
+
+<li contentType="en">Choose the desired icon</li>
+
+<li contentType="en">Click « Name »</li>
+
+<li contentType="en">Type a name</li>
+
+<li contentType="en">Repeat for any other new tags.</li>
+
+</ul>
+</section1>
+<section1 id="sInsertingAProjectNote">
+<secTitle>
+<object contentType="en" type="t-en">Inserting a project note [◙ UR01]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click in the text where you want the note.</li>
+
+<li contentType="en">If desired, select the word or phrase in question</li>
+
+<li contentType="en">Insert &gt; Note</li>
+
+<li contentType="en">Choose the desired tag from the list<br/><img src="12imgeng/image54.png"/></li>
+
+<li contentType="en">Type the text for the note</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+<p contentType="en">An icon is displayed beside the text.</p>
+
+</section1>
+<section1 id="sOpenNotes">
+<secTitle>
+<object contentType="en" type="t-en">Open notes [◙ UR05]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">File &gt; Open Notes...</li>
+
+<li contentType="en">Select your project.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+<p contentType="en">A note window opens.</p>
+
+<ul>
+<li contentType="en">Adjust the filters as needed.</li>
+
+</ul>
+<p contentType="en">If the window is blank then change the filters – the first filter is for the type of note, the second is for the location
+
+(verse, chapter, book …).</p>
+</section1>
+<section1 id="sAddCommentsToAnExistingNote">
+<secTitle>
+<object contentType="en" type="t-en">Add comments to an existing note [◙ UR02]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the icon(<img src="12imgeng/image55.png"/>) in the text</li>
+
+<li contentType="en">Type the comment</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sAddCommentsFromANotesWindow">
+<secTitle>
+<object contentType="en" type="t-en">Add comments from a notes window</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click arrow to expand the note (<img src="12imgeng/image56.png"/>)</li>
+
+</ul>
+<ul>
+<li contentType="en">Type your comments in the textbox.</li>
+
+</ul>
+<p contentType="en">
+
+<img src="12imgeng/image57.png"/>
+</p>
+<ul>
+<li contentType="en">Resolve or assign the note as needed.</li>
+
+<li contentType="en">Click the arrow to collapse the note.</li>
+
+</ul>
+</section1>
+<section1 id="sAssignANoteToSomeone">
+<secTitle>
+<object contentType="en" type="t-en">Assign a note to someone [◙ UR03]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the icon (<img src="12imgeng/image55.png"/>) in the text.</li>
+
+<li contentType="en">Type your comments</li>
+
+<li contentType="en">Click « Assign to »</li>
+
+<li contentType="en">Choose as desired</li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sApplyNotesToMultipleTexts">
+<secTitle>
+<object contentType="en" type="t-en">Apply notes to multiple texts</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Open the note from the text</li>
+
+<li contentType="en">Click the « Multiple » button</li>
+
+<li contentType="en">Choose the projects</li>
+
+<li contentType="en">Click OK</li>
+
+<li contentType="en">Click OK again to close the dialog box.</li>
+
+</ul>
+</section1>
+<section1 id="sReattachNote">
+<secTitle>
+<object contentType="en" type="t-en">Reattach note</object>
+
+</secTitle>
+<p contentType="en">If the text you select when you insert a project note is later changed or deleted, the note icon moves to another location in the verse.</p>
+
+<ul>
+<li contentType="en">Click the note icon in the text.</li>
+
+<li contentType="en">Click the Reattach Note button (on the toolbar)
+
+<img src="12imgeng/image58.png"/></li>
+<li contentType="en">Select the word(s) to attach it to.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sResolveANote">
+<secTitle>
+<object contentType="en" type="t-en">Resolve a note [◙ UR04]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click on the icon (<img src="12imgeng/image55.png"
+
+/>)</li>
+<li contentType="en">Type another comment if necessary.</li>
+
+<li contentType="en">Click Resolve button <img src="12imgeng/image59.png"/></li>
+
+<li contentType="en">Click OK</li>
+
+</ul>
+</section1>
+<section1 id="sPrintANotesReport">
+<secTitle>
+<object contentType="en" type="t-en">Print a notes report [◙ UR06]</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click in a notes window.</li>
+
+<li contentType="en">Filter the list as desired.</li>
+
+<li contentType="en">File &gt; Print</li>
+
+<li contentType="en">Choose the printer.</li>
+
+<li contentType="en">Click OK.</li>
+
+<li contentType="en">Close the window.</li>
+
+</ul>
+</section1>
+<section1 id="sDeleteNotes">
+<secTitle>
+<object contentType="en" type="t-en">Delete notes</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the note icon</li>
+
+<li contentType="en">Click the small red x</li>
+
+<li contentType="en">Click Yes to permanently delete you comment.</li>
+
+<li contentType="en">If there are more comments, continue to delete the next comment.</li>
+
+</ul>
+</section1>
+<section1 id="sNotesWindow">
+<secTitle>
+<object contentType="en" type="t-en">Notes window </object>
+
+</secTitle>
+<ul>
+<li contentType="en">There are four dropdown boxes on the toolbar</li>
+
+<li contentType="en">Notes filter</li>
+
+<li contentType="en">Verse filter</li>
+
+<li contentType="en">Search</li>
+
+<li contentType="en">Sort by [verse, date, assigned to]</li>
+
+</ul>
+</section1>
+<section1 id="sNotesFilter">
+<secTitle>
+<object contentType="en" type="t-en">Notes filter</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the first button/list</li>
+
+<li contentType="en">Choose an existing filter as appropriate</li>
+
+</ul>
+</section1>
+<section1 id="sDefineANewFilter">
+<secTitle>
+<object contentType="en" type="t-en">Define a new filter </object>
+
+</secTitle>
+<ul>
+<li contentType="en">Click the first button/list</li>
+
+<li contentType="en">Choose New filter<br/><img src="12imgeng/image60.png"/></li>
+
+<li contentType="en">Choose the status, tag, person and date as desired.</li>
+
+<li contentType="en">Click OK.</li>
+
+</ul>
+</section1>
+<section1 id="sSaveAFilter">
+<secTitle>
+<object contentType="en" type="t-en">Save a filter</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Define the filter as needed.</li>
+
+<li contentType="en">Click in the textbox at the top left.</li>
+
+<li contentType="en">Type a name for the filter</li>
+
+<li contentType="en">Click the save icon.</li>
+
+</ul>
+</section1>
+</chapter>
+</part>
+<backMatter>
+<appendix id="sSpecTest">
+<secTitle>
+<object contentType="en" type="t-en">Special text</object>
+
+</secTitle>
+<ul>
+<li contentType="en">Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).</li>
+
+<li contentType="en">Matt 5.3-10; The beatitudes. Often set in poetic form.</li>
+
+<li contentType="en">Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li>
+
+<li contentType="en">Matt 21.9: The greeting to Jesus. Often set in poetic form.</li>
+
+<li contentType="en">Matt 27.37: The sign on the cross. Often set in small caps.</li>
+
+<li contentType="en">Matt 27.46: The scream of Jesus. Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Mark 5.41: The command to the dead girl. Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Mark 11.9: The greeting to Jesus. Often set in poetic form.</li>
+
+<li contentType="en">Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Mark 15.26: The sign on the cross. Often set in small caps.</li>
+
+<li contentType="en">Mark 15.34: The scream of Jesus. Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.</li>
+
+<li contentType="en">Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li>
+
+<li contentType="en">Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li>
+
+<li contentType="en">Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li>
+
+<li contentType="en">Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li>
+
+<li contentType="en">Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li>
+
+<li contentType="en">Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li>
+
+<li contentType="en">Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li>
+
+<li contentType="en">Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li>
+
+<li contentType="en">Luke 19.38: The greeting to Jesus. Often set in poetic form.</li>
+
+<li contentType="en">Luke 23.38: The sign on the cross. Often set in small caps.</li>
+
+<li contentType="en">John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.</li>
+
+<li contentType="en">John 12.13: The greeting to Jesus. Often set in poetic form.</li>
+
+<li contentType="en">John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li>
+
+<li contentType="en">John 19.19: The sign on the cross. Often set in small caps.</li>
+
+<li contentType="en">Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.</li>
+
+<li contentType="en">Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.</li>
+
+<li contentType="en">Rom 8.15: "Abba." Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Rom 11.33-36: The doxology. Often set in poetic form.</li>
+
+<li contentType="en">Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li>
+
+<li contentType="en">Gal 4.6: "Abba." Sometimes set in italics (because it is in another language).</li>
+
+<li contentType="en">Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li>
+
+<li contentType="en">1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li>
+
+<li contentType="en">1 Tim 3.16: A creed. Often set in poetic form.</li>
+
+<li contentType="en">2 Tim 2.11-13: A creed. Often set in poetic form.</li>
+
+<li contentType="en">1 John 2.12-14: I write to you. Sometimes set in poetic form.</li>
+
+<li contentType="en">Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li>
+
+<li contentType="en">Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.</li>
+
+<li contentType="en">Rev 4.8: A chant. Sometimes set in centered poetic form.</li>
+
+<li contentType="en">Rev 4.11: A chant. Often set in poetic form.</li>
+
+<li contentType="en">Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li>
+
+<li contentType="en">Rev 7.5-8: A list. Often set in a special poetic form.</li>
+
+<li contentType="en">Rev 7.10, 12: Chants. Often set in poetic form.</li>
+
+<li contentType="en">Rev 7.15-17: A declaration. Sometimes set in poetic form.</li>
+
+<li contentType="en">Rev 11.15, 17-18: Chants. Often set in poetic form.</li>
+
+<li contentType="en">Rev 12.10-12: A declaration. Often set in poetic form.</li>
+
+<li contentType="en">Rev 15.3-4: A song. Often set in poetic form.</li>
+
+<li contentType="en">Rev 16.5-7: A declaration. Often set in poetic form.</li>
+
+<li contentType="en">Rev 17.5: A sign. Often set centered, in small caps.</li>
+
+<li contentType="en">Rev 18.2-8: A declaration. Often set in poetic form.</li>
+
+<li contentType="en">Rev 18.10-24: A series of woes. Often set in poetic form.</li>
+
+<li contentType="en">Rev 19.1-8: A series of declarations. Often set in poetic form.</li>
+
+<li contentType="en">Rev 19.16: A sign. Often set centered, in small caps.</li>
+
+<li contentType="en">Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li>
+
+</ul>
+<p contentType="en">[1] </p>
+
+<p contentType="en">[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p>
+
+<p contentType="en"/>
+
+</appendix>
+<appendix id="aBibleBooks">
+<secTitle>
+<object contentType="en" type="t-en">Three letter abbreviations</object>
+
+</secTitle>
+<p contentType="en">Old Testament</p>
+
+<table border="1"><tr><td contentType="en">[Genesis] [GEN]</td><td contentType="en">[Exodus] [EXO]</td><td contentType="en">[Leviticus] [LEV]</td></tr><tr><td contentType="en">[Numbers] (NUM)</td><td contentType="en">[Deuteronomy] (DEU)</td><td contentType="en">[Joshua] [JOS]</td></tr><tr><td contentType="en">[Judges] (JDG)</td><td contentType="en">Ruth [RUT]</td><td contentType="en">1 Samuel [1SA]</td></tr><tr><td contentType="en">2 Samuel [2SA]</td><td contentType="en">[1 Kings] [1KI]</td><td contentType="en">[2 Kings] [2KI]</td></tr><tr><td contentType="en">[1 Chronicles] [1CH]</td><td contentType="en">[2 Chronicles] [2CH]</td><td contentType="en">[Ezra] [EZR]</td></tr><tr><td contentType="en">[Nehemiah] [NEH]</td><td contentType="en">Esther [EST]</td><td contentType="en">Job [JOB]</td></tr><tr><td contentType="en">[Psalms] [PSA]</td><td contentType="en">[Proverbs] [PRO]</td><td contentType="en">[Ecclesiastes] (ECC)</td></tr><tr><td contentType="en">Song of Songs] [SNG]</td><td contentType="en">[Isaiah] [ISA]</td><td contentType="en">[Jeremiah] [JER]</td></tr><tr><td contentType="en">Lamentations [LAM]</td><td contentType="en">[Ezekiel] [EZK]</td><td contentType="en">Daniel [DAN]</td></tr><tr><td contentType="en">[Hosea] [HOS]</td><td contentType="en">Joël [JOL]</td><td contentType="en">Amos [AMO]</td></tr><tr><td contentType="en">[Obadiah] (OBA)</td><td contentType="en">[Jonah] (JON)</td><td contentType="en">[Micah] (MIC)</td></tr><tr><td contentType="en">[Nahum] (NAM)</td><td contentType="en">[Habakkuk] [HAB]</td><td contentType="en">[Zephaniah] [ZEP]</td></tr><tr><td contentType="en">[Haggai] [HAG]</td><td contentType="en">[Zechariah] [ZEC]</td><td contentType="en">[Malachi] [MAL]</td></tr></table>
+
+<p contentType="en">New Testament</p>
+
+<table border="1"><tr><td contentType="en">[Matthew] [MAT]</td><td contentType="en">[Mark] [MRK]</td><td contentType="en">[Luke] [LUK]</td></tr><tr><td contentType="en">[John] [JHN]</td><td contentType="en">[Acts] [ACT]</td><td contentType="en">[Romans] [ROM]</td></tr><tr><td contentType="en">[1 Corinthians] [1CO]</td><td contentType="en">[2 Corinthians] [2CO]</td><td contentType="en">[Galatians] [GAL]</td></tr><tr><td contentType="en">[Ephesians] [EPH]</td><td contentType="en">[Philippians] (PHP</td><td contentType="en">Colossians (COL)</td></tr><tr><td contentType="en">[1 Thessalonians] (1TH)</td><td contentType="en">[2 Thessalonians] (2TH)</td><td contentType="en">[1 Timothy] (1TI)</td></tr><tr><td contentType="en">[2 Timothy] (2TI)</td><td contentType="en">[Titus] (TIT)</td><td contentType="en">[Philemon] (PHM)</td></tr><tr><td contentType="en">[Hebrews] (HEB)</td><td contentType="en">[James] (JAS)</td><td contentType="en">[1 Peter] (1PE)</td></tr><tr><td contentType="en">[2 Peter] (2PE)</td><td contentType="en">[1 John] (1JN)</td><td contentType="en">[2 John] (2JN)</td></tr><tr><td contentType="en">[3 John] (3JN)</td><td contentType="en">Jude (JUD)</td><td contentType="en">[Revelation] (REV)</td></tr></table>
+
+</appendix>
+<appendix id="sChadSpecChar">
+<secTitle>
+<object contentType="en" type="t-en">Chad special characters</object>
+
+</secTitle>
+<p contentType="en">Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p>
+
+<p contentType="en">The table below shows the special characters in Chad and the combination of keys needed for each character.</p>
+
+<table border="1"><tr><td colspan="2">Les caractères du Tchad</td><td colspan="2">The tones</td></tr><tr><td colspan="2">Type … to have</td><td colspan="2">Type … to have</td></tr><tr><td contentType="en">;’ ’</td><td contentType="en">;n ŋ</td><td contentType="en">]</td><td contentType="en">à low tone</td></tr><tr><td contentType="en">;b ɓ</td><td contentType="en">;o ɔ</td><td contentType="en">[</td><td contentType="en">á high tone</td></tr><tr><td contentType="en">;c ç</td><td contentType="en">;p œ</td><td contentType="en">=</td><td contentType="en">ā mid tone</td></tr><tr><td contentType="en">;d ɗ</td><td contentType="en">;y ƴ</td><td contentType="en">^</td><td contentType="en">â falling tone</td></tr><tr><td contentType="en">;e ɛ</td><td/><td contentType="en">|</td><td contentType="en">ǎ rising tone</td></tr><tr><td contentType="en">;f ə</td><td/><td contentType="en">#</td><td contentType="en">ä umlaut</td></tr><tr><td contentType="en">;h ɦ</td><td/><td contentType="en">~</td><td contentType="en">ã tilda</td></tr><tr><td contentType="en">;k ɨ</td><td/><td contentType="en">_</td><td contentType="en">a̰ under tilda</td></tr><tr><td contentType="en">;m ɲ</td><td/><td contentType="en">`</td><td contentType="en">a̧ cédille</td></tr></table>
+
+<p contentType="en">To type the other characters as below:</p>
+
+<table border="1"><tr><td contentType="en">Type</td><td contentType="en">to have</td><td/><td contentType="en">type</td><td contentType="en">to have</td></tr><tr><td contentType="en">;]</td><td contentType="en">]</td><td/><td contentType="en">;;</td><td contentType="en">;</td></tr><tr><td contentType="en">;[</td><td contentType="en">[</td><td/><td contentType="en">;{</td><td contentType="en">“</td></tr><tr><td contentType="en">;=</td><td contentType="en">=</td><td/><td contentType="en">;}</td><td contentType="en">”</td></tr><tr><td contentType="en">;^</td><td contentType="en">^</td><td/><td contentType="en">;(</td><td contentType="en">’</td></tr><tr><td contentType="en">;|</td><td contentType="en">|</td><td/><td contentType="en">;)</td><td contentType="en">’</td></tr><tr><td contentType="en">;#</td><td contentType="en">#</td><td/><td contentType="en">;&lt;[1]<endnote id="nKeyman"><p>For Keyman &lt;&lt; for « and
+
+&gt;&gt; for », ;&lt; for ‹ and ;&gt; for ›</endnote></td>
+<td contentType="en">«</td></tr><tr><td contentType="en">;~</td><td contentType="en">~</td><td/><td contentType="en">;&gt;</td><td contentType="en">»</td></tr><tr><td contentType="en">;_</td><td contentType="en">_</td><td/><td contentType="en">;,</td><td contentType="en">‹</td></tr><tr><td contentType="en">;`</td><td contentType="en">`</td><td/><td contentType="en">;.</td><td contentType="en">›</td></tr></table>
+</appendix>
+<appendix id="sMarkers">
+<secTitle>
+<object contentType="en" type="t-en">Common USFM Markers</object>
+
+</secTitle>
+<p contentType="en">\c chapter</p>
+
+<p contentType="en">\v verse</p>
+
+<p contentType="en">\p paragraph (small indent)</p>
+
+<p contentType="en">\m same paragraph (return to the margin)</p>
+
+<p contentType="en">\s1 section title</p>
+
+<p contentType="en">\r parallel references</p>
+
+<p contentType="en">\q1 quotation (poetry level 1)</p>
+
+<p contentType="en">\q2 quotation (poetry level 2)</p>
+
+<p contentType="en">\h header</p>
+
+<p contentType="en">\mt1 main title</p>
+
+<p contentType="en">\mt2 secondary title</p>
+
+<p contentType="en">\k .... \k* keyword (in the glossary)</p>
+
+<p contentType="en">\w ... \w* indicates a word in the glossary (in the text)</p>
+
+<p contentType="en">Introductions</p>
+
+<p contentType="en">\ip paragraph</p>
+
+<p contentType="en">\is section heading</p>
+
+<p contentType="en">\io1 outline 1</p>
+
+<p contentType="en">\ili1 list level 1</p>
+
+<p contentType="en">\ili2 list level 2</p>
+
+<p contentType="en"/>
+
+</appendix>
+<glossary>
+<p contentType="en"/>
+
+<dl>
+<dt>Note</dt>
+<dd>Thing</dd>
+<dt/>
+<dd/>
+</dl>
+</glossary>
+<endnotes/>
+<references/>
+<index/>
+</backMatter>
+<languages>
+<language id="lVernacular" name="vernacular"/>
+<language id="lGloss" name="gloss"/>
+<language id="len"/>
+</languages>
+<types>
+<comment>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment>
+<type font-style="italic" id="italic"/><type font-weight="bold" id="tKw"/><type id="t-en"/><type id="t-fr"/><type before="XLingPaper" id="tXLingPaper"/><type before="XMLmind" id="tXMLmind"/><type font-weight="bold" id="tBold"/><type font-style="italic" font-weight="bold" id="tBoldItalic"/><type font-weight="bold" id="tEmphasis"/><type id="tGrammaticalGloss" types="tSmallCaps"/><type font-style="italic" id="tItalic"/><type cssSpecial="text-decoration:none" id="tNoOverline" xsl-foSpecial="text-decoration=&quot;no-overline&quot;"/><type font-variant="normal" id="tNoSmallCaps"/><type cssSpecial="text-decoration:none" id="tNoStrikethrough" xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"/><type cssSpecial="text-decoration:none" id="tNoUnderline" xsl-foSpecial="text-decoration=&quot;no-underline&quot;"/><type cssSpecial="text-decoration:overline" id="tOverline" xsl-foSpecial="text-decoration=&quot;overline&quot;"/><type font-style="normal" font-variant="normal" font-weight="normal" id="tRegular"/><type font-family="Charis SIL Small Caps" id="tSmallCaps"/><type XeLaTeXSpecial="line-through" cssSpecial="text-decoration:line-through" id="tStrikethrough" xsl-foSpecial="text-decoration=&quot;line-through&quot;"/><type XeLaTeXSpecial="subscript" cssSpecial="vertical-align:sub;" font-size="65%" id="tSubscript" xsl-foSpecial="baseline-shift='sub'"/><type XeLaTeXSpecial="superscript" cssSpecial="vertical-align:super;" font-size="65%" id="tSuperscript" xsl-foSpecial="baseline-shift='super'"/><type XeLaTeXSpecial="underline" cssSpecial="text-decoration:underline" id="tUnderline" xsl-foSpecial="text-decoration=&quot;underline&quot;"/><type before="Paratext 8" id="tPT"/><type before="Paratext 7" id="tPTPrev"/>
+<comment>Add your custom types here.</comment>
+</types>
+<framedTypes>
+<framedType backgroundcolor="#FFE6FF" description="Teacher Note" id="tTeacher" indent-after=".125in" indent-before=".125in" innerbottommargin=".03in" innerleftmargin=".125in" innerrightmargin=".125in" innertopmargin=".03in" spaceafter=".0in" spacebefore=".0in"/>
+</framedTypes>
+<contentControl>
+<contentTypes>
+<contentType id="en">english</contentType>
+<contentType id="fr">french</contentType>
+<contentType id="dn">Developer's Note</contentType>
+</contentTypes>
+<contentControlChoices>
+<contentControlChoice active="no">Export Everything</contentControlChoice>
+<contentControlChoice active="no" exclude="en dn">Exclude English and Developer's Notes</contentControlChoice>
+<contentControlChoice active="yes" exclude="fr dn">Exclude French and Developer's Notes</contentControlChoice>
+<contentControlChoice active="no" exclude="fr">Exclude French</contentControlChoice>
+<contentControlChoice active="no" exclude="en">Exclude English</contentControlChoice>
+</contentControlChoices>
+</contentControl>
+</lingPaper>
+<xi:include href="publisherstylesheets/SILInternationalBookletStylesheet.xml" xpointer="element(/1)" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</styledPaper>
+</xlingpaper>

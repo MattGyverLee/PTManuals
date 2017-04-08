@@ -1,5 +1,7 @@
-Common USFM Markers
-P12USFM
+((PT8-Chad| <-- ))
+
+!Common USFM Markers
+
 \c chapter
 \v verse
 \p paragraph (small indent)
@@ -19,3 +21,5 @@ Introductions
 \io1 outline 1
 \ili1 list level 1
 \ili2 list level 2
+
+((PT8-Chad| <-- ))

@@ -42,27 +42,28 @@ def drive(iencontent,ifrcontent):
                     elif ans=="p":
                       iencontent[i] = '<p contentType="fr">**missing**</p>\n'
                       print iencontent[i]
-                      with open(u'PT12Biling.xml',"a+") as m:
+                      with open(u'PT36Biling.xml',"a+") as m:
                           m.write(iencontent[i])
-                      del iencontent[i]
+                      #del iencontent[i]
                       control=True
                       break
                     elif ans=="i":
-                      print 'Removing:"',iencontent[i],'"'
-                      del iencontent[i]
+                      print 'Ignoring:"',iencontent[i],'"'
+                      #del iencontent[i]
                       control=True
                       break
                     elif ans=="2":
                       print 'Printing:"',ifrcontent[j],'"'
-                      with open(u'PT12Biling.xml',"a+") as m:
+                      with open(u'PT36Biling.xml',"a+") as m:
+                          m.write("^^^")
                           m.write(ifrcontent[j])
                       del ifrcontent[j]
                       break
                     elif ans=="l":
                       iencontent[i] = '<li contentType="fr">**missing**</li>\n'
-                      with open(u'PT12Biling.xml',"a+") as m:
+                      with open(u'PT36Biling.xml',"a+") as m:
                           m.write(iencontent[i])
-                      del iencontent[i]
+                      #del iencontent[i]
                       control=True
                       break
                     elif ans=="s":
@@ -70,47 +71,49 @@ def drive(iencontent,ifrcontent):
                       break
                     elif ans=="9":
                       print("\n Goodbye")
-                      with open(u'PT12Biling.xml',"a+") as m:
+                      with open(u'PT36Biling.xml',"a+") as m:
                           m.writelines(iencontent)
+                          break
                     elif ans=="":
                       print "Accepting Merge"
-                      print iencontent[i-1][:5]
-                      print ifrcontent[j][:5]
-                      IsSame=(iencontent[i-1][:5] != ifrcontent[j][:5])
+                      
+                      IsSame=(iencontent[i-1][:5] == ifrcontent[j][:5])
                       print IsSame
-                      if iencontent[i][:5] != ifrcontent[j][:5]:
-                          with open(u'PT12Biling.xml',"a+") as m:
+                      if iencontent[i-1][:5] != ifrcontent[j][:5]:
+                          with open(u'PT36Biling.xml',"a+") as m:
                               m.write('***')
+                      print iencontent[i-1]
+                      print ifrcontent[j]
                       iencontent[i] = ifrcontent[j]
-                      print iencontent[i]
-                      del ifrcontent[0]
-                      with open(u'PT12Biling.xml',"a+") as m:
+                      print "iencontent[i] ",iencontent[i]
+                      print "ifrcontent[j] ",ifrcontent[j]
+                      del ifrcontent[j]
+                      with open(u'PT36Biling.xml',"a+") as m:
                           m.write(iencontent[i])
-                      del iencontent[i]
+                      #del iencontent[i]
                       control=True
-                      break
+                      #break
                     print i
         else:
          print "Nothing to see here."  
-         with open(u'PT12Biling.xml',"a+") as m:
+         with open(u'PT36Biling.xml',"a+") as m:
             m.write(iencontent[i])
         i = i+1  
           
 
 
 def main():
-    with open(u'PT12Biling.xml', "w+") as o:
+    with open(u'PT36Biling.xml', "w+") as o:
         o.truncate()
-    with open(u'PT12.xml') as m:
+    with open(u'PT36.xml') as m:
         encontent = m.readlines()
         print len(encontent)
-    with open(u'PT12FR.xml') as f:
+    with open(u'PT36FR-filter.xml') as f:
         frcontent = f.readlines()
         print len(frcontent)
     # you may also want to remove whitespace characters like `\n` at the end of each line
 #    frcontent = [x.strip() for x in frcontent]
-#    encontent = [x.strip() for x in encontent]
-##    
+#    encontent = [x.strip() for x in encontent] 
     drive(encontent, frcontent)
     print len(frcontent);
     with open(u'stored.xml',"a+") as m:

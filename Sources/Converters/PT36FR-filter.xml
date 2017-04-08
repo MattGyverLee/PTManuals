@@ -1,0 +1,20 @@
+<object contentType="fr" type="t-fr">USFM Marqueurs fréquents </object>
+<p contentType="fr">\c chapitre</p>
+<p contentType="fr">\v verset</p>
+<p contentType="fr">\p paragraphe (petit retrait)</p>
+<p contentType="fr">\m même paragraphe (retour à la ligne, mais sans retrait)</p>
+<p contentType="fr">\s1 sous-titre</p>
+<p contentType="fr">\r  références parallèles</p>
+<p contentType="fr">\q1 poésie niveau 1</p>
+<p contentType="fr">\q2 poésie niveau 2</p>
+<p contentType="fr">\h entête (header)</p>
+<p contentType="fr">\mt1 titre principal</p>
+<p contentType="fr">\mt2 titre secondaire</p>
+<p contentType="fr">\k .... \k* mot-clé dans glossaire (dans le glossaire)</p>
+<p contentType="fr">\w ... \w* mot qui est dans le glossaire (dans le texte)</p>
+<p contentType="fr">Introductions</p>
+<p contentType="fr">\ip paragraphe </p>
+<p contentType="fr">\is section heading</p>
+<p contentType="fr">\io1 outline 1</p>
+<p contentType="fr">\ili1 list level 1</p>
+<p contentType="fr">\ili2 list level 2</p>

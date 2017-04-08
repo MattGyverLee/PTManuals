@@ -1,0 +1,19 @@
+﻿x image4 - screen layout
+x image5 - text collection selecting texts
+x 14 image12 - add footnote
+x image17 - edit renterings black glossary tab
+x image20 - checks stage one (cv and markers)
+x image22 - stage 2 plan
+x image23 - proper name characters, proper names
+x image27 - correct spelling from text
+x image28 - spell check (first 8 entries)
+? image31 - abraham lower case
+? image32 - abraham lower case with option
+x image33 - word incorrectly broken or divided?? dialog
+x image34 - results of above
+x image35 - biblical term renderings window
+x image40 - marker settings q/q1 (checklist)
+x image41 - ponctuation check (showing unicide ...)
+x image42 - note icons
+image55 - same as 40??
+image60 - note filter

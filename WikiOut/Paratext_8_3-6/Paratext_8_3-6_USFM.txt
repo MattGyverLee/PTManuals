@@ -1,0 +1,24 @@
+((Paratext_8_3-6_Tchad| <-- ))
+
+! USFM Marqueurs fréquents 
+
+\c chapitre
+\v verset
+\p paragraphe (petit retrait)
+\m même paragraphe (retour à la ligne, mais sans retrait)
+\s1 sous-titre
+\r références parallèles
+\q1 poésie niveau 1
+\q2 poésie niveau 2
+\h entête (header)
+\mt1 titre principal
+\mt2 titre secondaire
+\k .... \k* mot-clé dans glossaire (dans le glossaire)
+\w ... \w* mot qui est dans le glossaire (dans le texte)
+Introductions
+\ip paragraphe
+\is section heading
+\io1 outline 1
+\ili1 list level 1
+\ili2 list level 2
+((Paratext_8_3-6_Tchad| <-- ))

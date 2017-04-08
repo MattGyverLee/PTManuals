@@ -114,6 +114,10 @@ li.lower-roman {
 }
 .typetGrammaticalGloss{
 }
+.typetSub{
+        font-style:italic;
+        font-weight:bold;
+}
 .typetItalic{
         font-style:italic;
 }
@@ -230,10 +234,6 @@ no}
         font-style:italic;
         text-align:center;
 }
-.publishingBlurb {
-        padding-top:2in;
-        text-align:left;
-}
 .affiliation {
         font-style:italic;
         text-align:center;
@@ -249,6 +249,10 @@ no}
 .version {
         font-size:10pt;
         text-align:center;
+}
+.publishingBlurb {
+        padding-top:2in;
+        text-align:left;
 }
 .contents {
         font-size:18pt;

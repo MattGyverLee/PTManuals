@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper version="2.24.0">
+<styledPaper>
+<lingPaper automaticallywrapinterlinears="yes" version="2.28.0">
+<frontMatter>
+<title>
+<object type="tPT"/>
+</title>
+<shortTitle>Paratext_8_3-6</shortTitle>
+<subtitle>
+<object contentType="en" type="t-en" xml:lang="en">Participant's Manual: Stages 3-6: (English)</object>
+<object contentType="fr" type="t-fr">Manuel de cours 3-6 : (Français)</object>
+</subtitle>
+<author>Jenni Beadle</author>
+<author>Matthew Lee</author>
+<contents contentType="en" label="Contents" showLevel="3"/>
+<contents contentType="fr" label="Contenu"/>
+</frontMatter>
+<part id="sIntSt1">
+<secTitle>
+<object contentType="en" type="t-en">Introduction and Stage 3</object>
+<object contentType="fr" type="t-fr"> </object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_IntroStage3</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_IntroÉtape3</object>
+</shortTitle>
+<chapter id="sGoal">
+<secTitle>
+<object contentType="en" type="t-en">Goal</object>
+<p contentType="fr"><object type="tItalic">But </object></p>
+</secTitle>
+<p contentType="en">The participants will process their translation with the help of Paratext, a program created for entering, storing, and checking the translated texts. The course follows the six stages of translation as given in the SIL plan. The first two stages were covered in an earlier manual. This manual covers stages 3-6.</p>
+<p contentType="fr">Les participants traiteront leur traduction à l’aide de Paratext 8, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Ce manuel ***</p>
+</chapter>
+<chapter id="scourseObjectives">
+<secTitle>
+<object contentType="en" type="t-en">Course Objectives</object>
+<p contentType="fr"><object type="tItalic">Objectifs</object></p>
+</secTitle>
+<p contentType="en">At the end of the course, the participant will be able to:</p>
+<p contentType="fr">À la fin de ce cours, le participant sera capable de : </p>
+<p contentType="en"><object type="tItalic">Stage 3: Prepare for a consultant check</object></p>
+<p contentType="fr"><object type="tItalic">Étape 3 : Préparation pour le conseiller</object></p>
+<p contentType="en">1.Prepare a back translation</p>
+<p contentType="fr"><object type="tItalic">Faire des retraductions </object></p>
+<ul>
+<li contentType="en">Back translation 1 (free)</li>
+<li contentType="fr">Retraduction 1 (libre) </li>
+<li contentType="en">Back translation 2 (word by word)</li>
+<li contentType="fr">Retraduction 2 (mot à mot) </li>
+</ul>
+<p contentType="en">2.Complete other checks</p>
+<p contentType="fr"><object type="tItalic">Faire d’autres vérifications </object></p>
+<ul>
+<li contentType="en">check references, quoted texts, numbering, unmatched pairs of punctuation, quotations</li>
+<li contentType="fr">vérifier des références, textes cités, numérations, erreurs de ponctuation en paires correspondances, citations  </li>
+<li contentType="en">spell checking</li>
+<li contentType="fr">vérifications d’orthographe </li>
+</ul>
+<p contentType="en"><object type="tItalic">Stage 4: Consultant Check</object></p>
+***<object contentType="fr">Étape 4 : Vérification par un conseiller</object>
+<p contentType="en">All the tasks for this step have been covered in previous modules.</p>
+<p contentType="fr">Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p>
+<p contentType="en"><object type="tItalic">Stage 5: Community testing</object></p>
+***<object contentType="fr">Étape 5 : Tester/réviser avec la communauté</object>
+<ul>
+<li contentType="en">Prepare a progress report.</li>
+<li contentType="fr">Rapport de progrès à faire </li>
+<li contentType="en">Prepare a Biblical terms report.</li>
+<li contentType="fr">Rapport de Termes bibliques à faire </li>
+</ul>
+<p contentType="en"><object type="tItalic">Stage 6: Finalising for publication</object></p>
+***<object contentType="fr">Étape 6 : Finalisation pour la publication</object>
+<ul>
+<li contentType="en">Add illustrations et captions</li>
+<li contentType="fr">Ajouter des illustrations et légendes </li>
+<li contentType="en">Identify the names for any maps to be included.</li>
+<li contentType="fr">Trouver les noms des villes pour les cartes </li>
+<li contentType="en">Add an introduction to the NT / Bible</li>
+<li contentType="fr">Ajouter l’introduction au NT / Bible </li>
+<li contentType="en">Compare the parallel passages</li>
+<li contentType="fr">Vérifier les passages parallèles </li>
+<li contentType="en">Confirm that all the other checks have been completed.</li>
+<li contentType="fr">Vérifier que tous les contrôles sont complets </li>
+<li contentType="en">Finalize check of proper names.</li>
+<li contentType="fr">Vérification finale des noms propres </li>
+<li contentType="en">Check numbers, money, weights and measures</li>
+<li contentType="fr">Les chiffres, l’argent, les poids et les mesures </li>
+<li contentType="en">Final format checks.</li>
+<li contentType="fr">Vérification du formatage </li>
+</ul>
+<p contentType="en">Stage 3: Preparing for the Consultant check</p>
+<p contentType="fr">Étape 3 : Préparation pour le conseiller</p>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="en">In this third stage of a translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.</p>
+<p contentType="fr">Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base. </p>
+<p contentType="en"><img src="36imgeng\image5.png"/></p>
+<p contentType="fr"><img src="i.png"> </p>
+<p contentType="en">The following modules will help you in this stage:</p>
+<p contentType="fr">Les modules suivant vous aidera avec ces étapes :</p>
+<ul>
+<li contentType="en">BT1 and BT2: Back translations</li>
+<li contentType="fr">RT1: Retraductions 1 </li>
+<li contentType="fr">RT2 : Retraductions 2 mot à mot </li>
+<li contentType="en">BC3: Basic checks</li>
+<li contentType="fr">BC3: Effectuer les vérifications de base  – à faire </li>
+<li contentType="en">PPU: Update progress plan</li>
+<li contentType="fr">**missing**</li>
+</chapter>
+<chapter id="sBT1">
+<secTitle>
+<object contentType="en" type="t-en">BT1: Draft a Back translation</object>
+<object contentType="fr" type="t-fr">RT1 : Retraductions 1 </object>
+</secTitle>
+<table border="1"><tr><td>Create a new project <br/>for the back translation<br/>(first time only)</td><td>Draft the back translation</td><td>Mark a chapter as finished</td><td>Viewing differences</td><td>Project plan</td></tr></table>
+<table border="1"><tr><td>Créez un nouveau projet pour la retraduction </td><td>Créez une glose interlinéaire <br>mot à mot </td><td>Corriger les gloses</td><td>Exporter / approuver le verset </td><td>Éditez le projet RT en traduction libre </td></tr></table>
+<p contentType="en"><object type="tItalic"/>Introduction</p>
+<p contentType="fr"><object type="tItalic">Introduction  </object></p>
+<p contentType="en">This module explains how to draft a back translation into a separate Paratext project and keep it up-to-date. [The next module will explain how to do a word by word gloss of the translation using the project interlinearizer.]</p>
+<p contentType="fr">En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot. </p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ?  </object></p>
+<p contentType="en">You have typed, checked and revised your translation in Paratext and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your back translation.</p>
+<p contentType="fr">Vous avez saisi, vérifié et révisé votre traduction dans Paratext. Votre administrateur doit créer un projet pour la retraduction. </p>
+<p contentType="en"><object type="tItalic">Why is this important?</object></p>
+<p contentType="fr"><object type="tItalic">Pourquoi est-il important ?  </object></p>
+<p contentType="en">Your text needs to be check by a consultant. But because the consultant does not know your language, you need to translate your text back into a language they can understand. This is where the term back translation comes from. The consult will use this translation to help the team improve your exegetical choices in the text.</p>
+<p contentType="en">It is preferable that this is done by someone who hasn’t been involved in your translation. This way she will type what the text says and not what you meant it to say. This should also be done without looking at any helps or other Bibles.</p>
+<p contentType="fr">Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connait pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.  </p>
+<p contentType="en"><object type="tItalic">What will you do?</object></p>
+<p contentType="fr"><object type="tItalic">Que ferez-vous ? </object></p>
+<ul>
+<li contentType="en">Open your project and back translation project</li>
+<li contentType="en">Arrange your text on the screen.</li>
+<li contentType="en">Draft your back translation</li>
+<li contentType="en">Mark the status as finished when you complete a chapter.</li>
+<li contentType="en">Check that your text is up-to-date (or in sync), view any differences by moving to the next change if appropriate.</li>
+</ul>
+<p contentType="fr">Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction. </p>Résumé  
+<p contentType="en">Summary</p>
+<p contentType="fr">Sommaire</p>
+<p contentType="en">This module shows you how to:</p>
+<p contentType="fr">Ce module vous montre comment : </p>
+<section1 id="screateANewProject">
+<secTitle>
+<object contentType="en" type="t-en">Create a new project for the back translation</object>
+***<p contentType="fr">Créer un nouveau projet pour la retraduction <br>(première fois seulement par l’administrateur) </p>
+</secTitle>
+<p contentType="en">(First time only by Administrator)</p>
+<p contentType="fr">**missing**</p>
+<ul>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">New Project</object></li>
+<li contentType="fr">Fichier &gt; Nouveau Projet  </li>
+<li contentType="en">Click <object type="tKw"> Edit</object></li>
+<li contentType="fr">Cliquez le bouton<object type="tKw"> </object><object type="tKw">Édition</object>  </li>
+<li contentType="en">Type a full name for the project and a short name</li>
+<li contentType="fr">Saisissez le nom complet et un nom raccourci puis cliquez sur OK  </li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="fr">Cliquez sur OK</li>
+<li contentType="en">Choose the language for your back translation (e.g. English)</li>
+<li contentType="fr">Choisissez la langue pour votre retraduction (p.ex. française) </li>
+<li contentType="en">Choose a versification</li>
+<li contentType="fr">Choisissez la versification </li>
+<li contentType="en">For the Type of project choose "Back Translation"</li>
+<li contentType="fr">Pour le type de projet, choisissez « retraduction » </li>
+<li contentType="en">For Based on choose your project</li>
+<li contentType="fr">Choisissez votre projet du liste « Based on » (basé sur). </li>
+<li contentType="en">Click the <object type="tKw">Books</object> tab</li>
+<li contentType="fr">Cliquez sur l’onglet Livres </li>
+<li contentType="en">Choose the desired books</li>
+<li contentType="fr">Choisissez les livres désirés </li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="fr">OK encore  </li>
+<li contentType="en">Click the <object type="tKw">Create Books</object> link</li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Create books as needed.</li>
+<li contentType="fr">**missing**</li>
+</ul>
+<p contentType="en">The project should not need to be registered as it inherits the registration from your project.</p>
+***<framedUnit type="tTeacher" contentType="fr"><p contentType="fr">Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite la registration de votre projet.</p></framedUnit> 
+</section1>
+<section1 id="sdraftBT">
+<secTitle>
+<object contentType="en" type="t-en">Draft your back translation [◙ RT01]</object>
+***<p contentType="fr">Saisir votre retraduction</p>
+</secTitle>
+<ul>
+<li contentType="en">Open your project</li>
+<li contentType="fr">Ouvrez votre projet </li>
+<li contentType="en">Open your back translation project</li>
+<li contentType="fr">Ouvrez votre retraduction </li>
+<li contentType="en">Arrange the windows so that you can easily see both windows.</li>
+<li contentType="fr">Arrange les fenêtres côté à côté pour facilement voir les deux fenêtres. </li>
+<li contentType="en">Click in the back translation window, (the verse in your project is highlighted).</li>
+<li contentType="fr">Cliquez dans la fenêtre de retraduction (le verset dans votre projet est surligné) </li>
+<li contentType="en">Type your back translation into each verse (after the check box).</li>
+<li contentType="fr">Saisissez la retraduction dans chaque verset (après la case à cocher). </li>
+<li contentType="en">Continue for each verse in the chapter.</li>
+<li contentType="fr">Continuez à saisir chaque verset.  </li>
+</ul>
+</section1>
+<section1 id="sMarkFinished">
+<secTitle>
+<object contentType="en" type="t-en">Mark the chapter as Finished</object>
+***<p contentType="fr">Marquer le chapitre comme Achevé</p>
+</secTitle>
+<p contentType="en">When you have finished the chapter</p>
+<p contentType="fr">Quand vous avez fini le chapitre</p>De la barre d’outils en haut de la fenêtre de retraduction, cliquez sur la coche. <img src="i.png"> 
+<ul>
+<li contentType="en">On the toolbar at the top of your back translation window, click on the arrow beside the check mark.<br/><img src="36imgeng\image6.png"/></li>
+<li contentType="en">Choose <object type="tKw">Mark All Verses in Chapter as Finished</object>.<br/><object type="tItalic">All the check boxes for the chapter are marked with green checks.</object></li>
+<li contentType="fr">Choisissez <object type="tKw">Marquer tous les versets du chapitre comme achevés</object>. <br/><object type="tItalic">Toutes les cases du chapitre seront cochées en vert.</object></li>
+</ul>
+</section1>
+<section1 id="swhenAChangeIs">
+<secTitle>
+<object contentType="en" type="t-en">When a change is made to your project</object>
+<object contentType="fr">Quand une modification est faite dans votre projet</object>
+</secTitle>
+<p contentType="en">Paratext will detect any saved changes to your text and will change the back translation checkbox to a red question mark <img src="36imgeng\image3.png"/> and add issues to the back translation status in the project plan.</p>
+<p contentType="fr">Paratext détectera tout changement à votre texte (quand le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge <img src="i.png">et d’ajouter des questions à l’état de la retraduction dans le plan de projet.</p>
+<ul>
+<li contentType="en">Click in a verse with the red question mark.</li>
+<li contentType="fr">Cliquez dans un verset avec un point d’interrogation rouge. </li>
+<li contentType="en">Review and correct the back translation.</li>
+<li contentType="fr">Revoyez et corrigez la retraduction. </li>
+<li contentType="en">Click the red question mark<br/><object type="tItalic">It changes to a green check mark</object></li>
+<li contentType="fr">Cliquez sur le point d’interrogation rouge </li>
+</ul>
+<p contentType="fr">Il change à une coche verte</p>
+</section1>
+<section1 id="sViewDifferences">
+<secTitle>
+<object contentType="en" type="t-en">View the differences for outdated verses</object>
+***<p contentType="fr">Afficher les différences pour les versets périmés</p>
+</secTitle>
+<ul>
+<li contentType="en">Click on the ab icon on the toolbar to see the differences.<br/><img src="36imgeng\image8.png"/></li>
+<li contentType="fr">Cliquez sur l’icône ab dans la barre d’outils pour voir les différences. </li>
+<li contentType="fr">Une fenêtre de comparaison s’affiche.</li>
+<li contentType="fr"><img src="i.png"> </li>
+</ul>
+</section1>
+<section1 id="smoveToTheNext">
+<secTitle>
+<object contentType="en" type="t-en">Move to the next differences</object>
+***<p contentType="fr">Passer aux différences suivantes</p>
+</secTitle>
+<ul>
+<li contentType="en">Click on the up and down arrows to move to the previous or next differences.<br/><img src="36imgeng\image9.png"
+<li contentType="fr">Cliquez sur les flèches haut et bas pour passer aux différences précédentes ou suivantes. <img src="i.png"> </li>
+/></li>
+</ul>
+</section1>
+<section1 id="sCheckPlan">
+<secTitle>
+<object contentType="en" type="t-en">Check your project plan</object>
+***<p contentType="fr">Vérifiez votre plan de projet </p>
+</secTitle>
+<ul>
+<li contentType="en">Click the project plan icon</li>
+<li contentType="fr">Cliquez sur l’icône du plan de projet </li>
+<li contentType="en">Expand Stage 3, the back translation checks are at the end <br/><object type="tItalic">The number of issues (if any) are displayed</object><br/><img src="36imgeng\image10.png"></li>
+<li contentType="fr">(les vérifications de la retraduction arrière sont à la fin de la phase 4) </li>
+<p contentType="fr">Le nombre de problèmes est affiché </p>
+</ul>
+</section1>
+<section1 id="sCheckBTVerse">
+<secTitle>
+<object contentType="en" type="t-en">Back translation verse check in project plan</object>
+^^^<p contentType="fr"><img src="i.png"> </p>
+***<p contentType="fr">Vérification de versets de la retraduction (dans le plan du projet)</p>
+</secTitle>
+<ul>
+<li contentType="en">Click on the issues link<br/><object type="tItalic">A result list window lists any errors.</object></li>
+<li contentType="fr">Cliquez sur le lien d’issues de « back translation verse check » <br/>Une liste de résultats s’affiche de toutes les erreurs.</p>
+<li contentType="en">Correct any errors.</li>
+<li contentType="fr">Corrigez toutes les erreurs. </li>
+</ul>
+</section1>
+<section1 id="sBTStat">
+<secTitle>
+<object contentType="en" type="t-en">Back translation status complete in project plan</object>
+***<p contentType="fr">Statut de la retraduction dans le plan du projet</p>
+</secTitle>
+<ul>
+<li contentType="en">Click on the issues link</li>
+<li contentType="fr">Cliquez sur le lien « Back translation status complete » </li>
+<li contentType="en">The back translation window is displayed with the cursor in the first verse with problems.</li>
+<li contentType="fr">La fenêtre de retraduction s’affiche avec le curseur dans le premier verset avec des problèmes.  </li>
+<li contentType="en">Correct the problem and move to the next outdated verse by clicking on the arrows on the toolbar.</li>
+<li contentType="fr">Corrigez le problème et passez au verset dépassé suivant en cliquant sur les flèches de la barre d’outils.  </li>
+</ul>
+</section1>
+<section1 id="sLearningTask">
+<secTitle>
+<object contentType="en" type="t-en">Learning task</object>
+***<p contentType="fr"><object type="tItalic">Tâche d’apprentissage </object></p>
+</secTitle>
+<p contentType="en">The checkboxes in a back translation can have a number of different symbols.</p>
+<p contentType="fr">Les cases à cocher dans une retraduction peuvent avoir un certain nombre de symboles différents. </p>
+<p contentType="en">Look in the Paratext help “What symbols can occur in status checkboxes in a back translation?” topic and match the following symbols and status:</p>
+<p contentType="fr">Consultez la rubrique Aide sur les symboles et les symboles suivants: «Quels symboles peuvent se produire dans les cases à cocher de statut dans une retraduction?» </p>
+<table border="1"><tr><td>A</td><td><img src="36imgeng\image11.png"/></td><td/><td>1</td><td>Inconsistent verse number</td></tr><tr><td>B</td><td><img src="36imgeng\image12.png"/></td><td/><td>2</td><td>No text/verse no.</td></tr><tr><td>C</td><td><img src="36imgeng\image13.png"/></td><td/><td>3</td><td>Not finished</td></tr><tr><td>D</td><td><img src="36imgeng\image14.png"/></td><td/><td>4</td><td>Finished</td></tr><tr><td>E</td><td><img src="36imgeng\image15.png"/></td><td/><td>5</td><td>Out of date</td></tr></table>
+<table border="1"><tr><td>A</td><td><img src="i.png"> </td><td> </td><td>1</td><td>numéro de verset incohérent</td></tr><tr><td>B</td><td><img src="i.png"> </td><td> </td><td>2</td><td>pas de texte/verse no.</td></tr><tr><td>C</td><td><img src="i.png"> </td><td> </td><td>3</td><td>inachevé (unfinished)</td></tr><tr><td>D</td><td><img src="i.png"> </td><td> </td><td>4</td><td>Achevé (Finished)</td></tr><tr><td>E</td><td><img src="i.png"> </td><td> </td><t>5</td><t>Dépassé (Out of date)</td></tr></table>
+<p contentType="en">Answers: A3, B4, C5, D1, E2</p>
+<p contentType="fr">Réponses: A3, B4, C5, D1, E2</p>
+</section1>
+</chapter>
+<chapter id="sBT2">
+<secTitle>
+<object contentType="en" type="t-en">BT2: Interlinearise a project</object>
+<object contentType="fr" type="t-fr">RT2 : Retraductions 2 (mot à mot) </object>
+</secTitle>
+<table border="1"><tr><td>Create a new project for the second back translation (first time only)</td><td>Setup project interlineariser</td><td>Correct glosses</td><td>Exporter / approve the verses</td></tr></table>
+<table border="1"><tr><t>Créez un nouveau projet pour <br>la retraduction </td><t>Créez une glose interlinéaire <br>mot à mot </td><t>Corriger les gloses</td><t>Exporter / <br>approuver le verset </td></tr></table>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">Introduction  </object></p>
+<p contentType="en">The previous module explained how to create a back translation that expresses what a reader understands when he reads or hears the text. There is another type of back translation that is sometimes used and that is a word-for-word style back translation. Some consultants may ask for this style of back translation. If you need to make one of these, you can use Paratext’s project Interlinearizer function. <br/>Please note that in <object type="tPT"/> you can only use the Interlinearizer on registered projects.</p>
+<p contentType="fr">Le module précédent a expliqué comment créer une retraduction qui exprime ce que le lecteur comprend quand il lit ou entend le texte. Il existe un autre type de retraduction qui est parfois utilisé et qui est un mot à mot retraduction. Certains consultants peuvent demander ce style de retraduction. Vous pouvez utiliser la fonction générateur d’interlinéaire de projet. </p>
+<p contentType="fr">N.B. En Paratext 8 vous ne pouvez qu’utiliser le générateur d’interlinéaire avec des projets inscrits. </p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ?  </object></p>
+<p contentType="en">You have typed, checked and revised your translation in Paratext and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your word for word back translation. [This is separate from the readable back translation in the previous module.]</p>
+<p contentType="fr">Vous avez saisi, vérifié et révisé votre traduction dans Paratext afin qu’elle soit prête pour une vérification du conseiller. Avant de commencer, votre administrateur doit créer un projet pour la retraduction mot à mot. [Ceci est distinct de la retraduction libre dans le module précédent.]  </p>
+<p contentType="en"><object type="tItalic">Why this is important</object></p>
+<p contentType="fr"><object type="tItalic">Pourquoi est-il important ?  </object></p>
+<p contentType="en">Your consultant needs to have a copy of your translation in a language they can understand. The back translation done in the previous module is very useful but there are times when a literal translation is more helpful.</p>
+<p contentType="fr">Votre consultant doit avoir une copie de votre traduction dans une langue qu’il peut comprendre. La retraduction effectuée dans le module précédent est très utile, mais il y a des moments où une traduction littérale est plus utile. </p>
+<p contentType="en"><object type="tItalic">What you will do</object></p>
+<p contentType="fr"><object type="tItalic">Que ferez-vous ? </object></p>
+<p contentType="en">You will use the project interlineariser to produce a word for word gloss of the text. Firstly, you will setup the interlineariser, and then correct any errors. The computer’s initial guesses are often wrong but it learns as it goes and becomes quite accurate quickly. The idea is for the gloss to be correct even though the word order is not correct. When you are happy with the verse you can export it to the back translation project.</p>
+<p contentType="fr">Premièrement, on utilisera la fonction du générateur d’Interlinéaire de projet pour créer automatiquement une glose interlinéaire mot à mot du texte. L’ordinateur est bon, mais il fait encore beaucoup d’erreurs. Ensuite, vous corrigez les gloses proposées si nécessaire. Vous voulez que les mots soient traduits correctement bien que l’ordre des mots ne soit pas correct pour cette langue. Quand vous êtes contents du texte, vous pouvez l’exporter dans un autre projet.  </p>
+<ol>
+<li contentType="en">Summary</li>
+***<p contentType="fr">Résumé  </p>
+</ol>
+<p contentType="en">This module shows you how to:</p>
+<p contentType="fr">Ce module vous montre comment :  </p>
+<section1 id="screateNewBT">
+<secTitle>
+<object contentType="en" type="t-en">Create a new project for the back translation</object>
+***<p contentType="fr">Créer un nouveau projet pour la retraduction mot à mot <br>(première fois seulement par l’administrateur) </p>
+</secTitle>
+<p contentType="en">(First time only by Administrator)</p>
+<p contentType="fr">**missing**</p>
+<ul>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">New Project</object></li>
+<li contentType="fr">Fichier &gt; Nouveau Projet  </li>
+<li contentType="en">Click <object type="tKw"/><object type="tKw">Edition</object></li>
+<li contentType="fr">Cliquez le bouton<object type="tKw"> </object><object type="tKw">Édition</object>  </li>
+<li contentType="en">Type a full name for the project and a short name</li>
+<li contentType="fr">Saisissez le nom complet et un nom raccourci puis cliquez sur OK  </li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">For the type of project choose "Back Translation"</li>
+<li contentType="fr">Pour le type de projet, choisissez « retraduction » </li>
+<li contentType="fr">Choisissez la langue pour votre retraduction (p.ex. français) </li>
+<li contentType="en">Choose the language for your back translation (e.g. English)</li>
+<li contentType="fr">Choisissez la versification </li>
+<li contentType="en">Choose your project as the project it is based on</li>
+<li contentType="fr">Choisissez votre projet comme ce que c’est basé sur </li>
+<li contentType="en">Click the <object type="tKw">Books</object> tab</li>
+<li contentType="fr">Cliquez sur l’onglet Livres </li>
+<li contentType="en">Choose the desired books</li>
+<li contentType="fr">Choisissez les livres désirés </li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="fr">OK encore</li>
+<li contentType="en">Click the <object type="tKw">Create Books</object> link</li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Create books as needed.</li>
+<li contentType="fr">**missing**</li>
+</ul>
+<framedUnit framedtype="tTeacher"><p contentType="en">The project should not need to be registered as it inherits the registration from your project.</p></framedUnit>
+<framedUnit framedtype="tTeacher"><p contentType="fr">Ce projet n’est pas besoin d’être registré parce ce qu’il hérite la registration de votre projet. [Vous aurez deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p></framedUnit>
+</section1>
+<section1 id="sconfigureTheProjectInterlineariser">
+<secTitle>
+<object contentType="en" type="t-en">Configure the project interlineariser [◙ RT01]</object>
+***<p contentType="fr">Créer une glose interlinéaire mot à mot</p>
+</secTitle>
+<p contentType="fr">[◙ RT01]</p>
+<ul>
+<li contentType="en">Click in your project</li>
+<li contentType="fr">Cliquez dans votre projet </li>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">Open Project interlineariser</object><br/><img src="36imgeng\image16.png"/></li>
+<li contentType="fr"><object type="tKw">Fichier</object> &gt; <object type="tKw">Ouvrir</object> le <object type="tKw">générateur d’Interlinéaire de projet</object>   </li>
+<li contentType="en">Choose your project as the text to interlinearise</li> 
+<li contentType="fr">Choisissez votre projet comme le texte à partir duquel générer l’interlinéaire </li>
+<li contentType="en">Choose a model text in the consultant’s language: either your reference text or your second back translation project [1]</li>
+<li contentType="fr">Choisissez soit un texte ressource dans la langue du conseiller pour le texte modèle (soit votre projet de retraduction libre) [1]</li>
+<li contentType="en">Click the <object type="tKw">Advanced</object> tab</li>
+<li contentType="fr">Cliquez l’onglet <object type="tKw">Avancé</object>   </li>
+<li contentType="en">Click “Automatically Export verses when approved”</li>
+<li contentType="fr">Cochez « Exporter automatiquement les versets approuvés » </li>
+<li contentType="en">Dropdown the list and choose your second back translation project</li>
+<li contentType="fr">Choisissez le projet pour la retraduction mot à mot </li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object>   </li>
+</ul>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...</p>
+<p contentType="fr">**missing**</p>
+</framedUnit>
+</section1>
+<section1 id="sconfirmAndCorrectThe">
+<secTitle>
+<object contentType="en" type="t-en">Confirm and correct the interlinearised text [◙ RT02]</object>
+***<p contentType="fr">Confirmer et corriger l’interlinéaire </p>
+</secTitle>
+<p contentType="fr">[◙ RT02]</p>
+<framedUnit type="tTeacher" contentType="fr"><p contentType="fr">Vous n’avez pas besoin de confirmer les gloses correctes, seulement corriger les incorrectes.</p></framedUnit>
+<p contentType="en">To correct glosses</p>
+<p contentType="fr">Pour corriger les gloses incorrectes </p>
+<ul>
+<li contentType="en">Click the incorrect gloss<br/><object type="tItalic">A list is displayed.</object></li>
+<li contentType="fr">Cliquez sur la glose </li>
+<li contentType="en">Either click on the correct gloss in the list<br/>or type the correct gloss in the textbox</li>
+<li contentType="fr">Soit cliquez une glose sur la liste <br>soit tapez une glose dans la case de texte   </li>
+<li contentType="en">Click Enter</li>
+<li contentType="fr">Cliquez sur Entrée  </li>
+</ul>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.</p>
+<p contentType="fr">**missing**</p>
+</framedUnit>
+</section1>
+<section1 id="sTranslate">
+<secTitle>
+<object contentType="en" type="t-en">Translate/gloss a phrase [◙ RT03]</object>
+***<p contentType="fr">Traduire/gloser une expression </p>
+</secTitle>
+<ul>
+<li contentType="en">Click between two words<br/><img src="36imgeng\image17.png"/></li>
+^^^<p contentType="fr">[◙ RT03]</p>
+<li contentType="fr">Cliquez entre les deux mots </li>
+<li contentType="en">Click the icon « Link words »</li>
+<li contentType="fr">Cliquez sur l’icône « Lier mots »  </li>
+<li contentType="en">Click the red line</li>
+<li contentType="fr">Cliquez sur la ligne rouge en bas </li>
+<li contentType="en">Type the gloss</li>
+<li contentType="fr"><img src="i.png">Saisissez la glose  Saisissez la glose   </li>
+</ul>
+</section1>
+<section1 id="sAddExtraWord">
+<secTitle>
+<object contentType="en" type="t-en">Add extra word(s) [◙ RT04]</object>
+***<p contentType="fr">Ajouter des mots supplémentaires </p>
+</secTitle>
+<ul>
+<li contentType="en">Click bin the space between two glosses</li>
+^^^<p contentType="fr">[◙ RT04]</p>
+<li contentType="fr">Cliquez entre deux gloses  </li>
+<li contentType="en">Type the extra word(s)</li>
+<li contentType="fr">Saisissez la glose  </li>
+</ul>
+</section1>
+<section1 id="sSpecifyTheMorphology">
+<secTitle>
+<object contentType="en" type="t-en">Specify the morphology (break a word into morphemes) [◙ RT05]</object>
+***<p contentType="fr">Spécifier la morphologie </p>
+</secTitle>
+<ul>
+<li contentType="en">Click on the word in the translation line (top line)</li>
+^^^<p contentType="fr">[◙ RT05]</p>
+<li contentType="fr">Cliquez sur un mot dans la ligne de la langue de la traduction  </li>
+<li contentType="en">Click « Add word parse »</li>
+<li contentType="fr">Cliquez sur « Ajouter analyse de mot »  </li>
+<li contentType="en">Add spaces to separate the morphemes and add «+ » prefixes and suffixes (see guide)</li>
+<li contentType="fr">Ajouter des espaces entre les morphèmes et « + » aux limites du morphème  </li>
+<li contentType="en">Click OK</li>
+<li contentType="fr">Cliquez OK  </li>
+</ul>
+</section1>
+<section1 id="sapproveAndExportThe">
+<secTitle>
+<object contentType="en" type="t-en">Approve and Export the text [◙ RT06]</object>
+***<p contentType="fr">Exporter/approuver le texte </p>
+</secTitle>
+<ul>
+<p contentType="fr">[◙ RT06]</p>
+<li contentType="en">Click <object type="tKw">Approve and export to</object>***</li>
+<li contentType="fr">Cliquer sur <object type="tKw">Approuver le verset</object>   </li>
+<li contentType="en">To continue, click <object type="tKw">Next Unapproved Verse</object></li>
+<li contentType="fr">Pour continuer, cliquez <object type="tKw">Prochain verset non approuvé</object>   </li>
+</ul>
+</section1>
+<section1 id="sHelp">
+<secTitle>
+<object contentType="en" type="t-en">Help</object>
+</secTitle>
+<p contentType="en">For more help on using the Interlineariser function see:</p>
+<ul>
+<li contentType="en">Introduction to Project Interlinearizer</li>
+<li contentType="en">How do I open the Project Interlinearizer?</li>
+<li contentType="en">How do I generate an interlinear back translation?</li>
+<li contentType="en">How do I create a back translation project with the Interlinearizer?</li>
+<li contentType="en">How do I create a text revision/adaptation project with the Interlinearizer?</li>
+<li contentType="en">What do the colours of glosses mean in the Interlinearizer?</li>
+</ul>
+</section1>
+</chapter>
+<chapter id="sCompareText">
+<p contentType="fr"><object type="tItalic">Introduction </object></p>
+<p contentType="fr">Dans ce module, vous apprendrez comment enregistrer les versions anciennes de votre texte pour les revoir plus tard. </p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ? </object></p>
+<p contentType="fr">Vous avez travaillé sur votre texte dans Paratext et vous êtes arrivé au un point important du projet. </p>
+<p contentType="fr"><object type="tItalic">Pourquoi cette aptitude est-elle importante ? </object></p>
+<p contentType="fr">Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Après avoir « marqué un point de repère dans l’historique du projet », vous pouvez comparer les anciennes versions du texte avec le texte actuel. </p>
+<p contentType="fr"><object type="tItalic">Qu’est-ce qu’on va faire ? </object></p>
+<p contentType="fr">Vous allez marquer un point de repère dans l’historique du projet auquel vous pourrez revenir plus tard afin de comparer votre travail. </p>
+<p contentType="fr">Résumé </p>
+<p contentType="fr">Ce module vous montre comment :</p>
+<section1 id="sPointInHistory">
+<p contentType="fr">Sauvegarder à chaque étape majeure de votre projet</p>
+<p contentType="fr">[◙ GF01]</p>
+<li contentType="fr">Cliquez dans votre fenêtre de projet (dans Paratext ) </li>
+<li contentType="fr">Dans le menu <object type="tKw">Projet, </object>sélectionnez <object type="tKw">Marquer un point de repère dans l’historique du projet.</object>  </li>
+<li contentType="fr">Tapez un commentaire qui décrit le point de repère dans l’historique du projet. </li>
+<p contentType="fr">N.B. C’est bon de commencer le commentaire avec quelques symboles, comme ###, pour bien trouver les points dans la liste.  </p>
+<p contentType="fr">Cliquez sur <object type="tKw">OK</object>. </p>
+</section1>
+<section1 id="sCompare">
+<p contentType="fr">Voir les différences entre deux points (ou versions)</p>
+<p contentType="fr">[◙ GF02]</p>
+<p contentType="fr">Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Comparer</object> <object type="tKw">textes...</object> </p>
+<p contentType="fr"><object type="tKw"></object></p>
+<p contentType="fr">Cliquez sur le bouton <object type="tKw">Sélectionner</object>. <img src="i.png">Choisissez votre point désiré dans l’historique. Choisissez votre point désiré dans l’historique. </p>
+<framedUnit type="tTeacher" contentType="fr"><p contentType="fr">L’écran changera et montrera les différences entre les deux versions. Chaque partie du texte qui a été supprimée est barrée. Chaque partie de texte qui a été ajoutée est soulignée.</p></framedUnit>
+</section1>
+</chapter>
+<chapter id="sBC3">
+<secTitle>
+<object contentType="en" type="t-en">BC3: Basic checks 3</object>
+</secTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="en">In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="en">You have typed your translation into Paratext. Make sure you have done the checks described in modules BC1 and BC2 before continuing.</p>
+<p contentType="en"><object type="tItalic">Why this is important</object></p>
+<p contentType="en">Paratext has eleven basic checks. You have already seen the first six checks. This last set of checks help you find errors related to material refered from other books. You want to be sure the references are accurate so that the reader can find those passages.</p>
+<p contentType="en"><object type="tItalic">What you are going to do</object></p>
+<p contentType="en">As before, most of the checks require some setup to be done by your administrator. In this module you will:</p>
+<ul>
+<li contentType="en">Confirm that the setup has been done</li>
+<li contentType="en">Run the basic check</li>
+<li contentType="en">Correct any errors.</li>
+</ul>
+<p contentType="en"><object type="tItalic">Summary</object></p>
+<p contentType="en">This module shows you how to:</p>
+<section1 id="sunmatchedPairsOfPunctuation">
+<secTitle>
+<object contentType="en" type="t-en">Unmatched pairs of Punctuation [◙ VT04]</object>
+</secTitle>
+<framedUnit framedtype="tTeacher"><p contentType="en">This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.</p></framedUnit>
+<ul>
+<li contentType="en"><object type="tKw">Checking</object> &gt; <object type="tKw">Unmatched pairs of punctuation</object>:<br/><object type="tItalic">If the list is empty, then there are no errors.</object></li>
+<li contentType="en">If necessary, click <object type="tKw"
+>Options...</object> to add other pairs.</li>
+<li contentType="en">Click <object type="tKw">OK</object>.</li>
+<li contentType="en"><object type="tKw">Checking &gt; Run Basic Checks</object></li>
+<li contentType="en">Check “<object type="tKw">Unmatched pairs of punctuation</object>”</li>
+<li contentType="en">Click <object type="tKw">OK</object>.</li>
+<li contentType="en">Make any corrections as needed.</li>
+</ul>
+</section1>
+<section1 id="srefs">
+<secTitle>
+<object contentType="en" type="t-en">References [◙ VT08]</object>
+</secTitle>
+<p contentType="en"/>
+<framedUnit framedtype="tTeacher"><p contentType="en">Before you can run the references check, your Administrator must define various settings.</p></framedUnit>
+<ul>
+<li contentType="en"><object type="tKw">Project &gt; Scripture reference settings</object><br/><img src="36imgeng\image18.png"/></li>
+<li contentType="en">For each setting, type the punctuation in the box<br/><object type="tItalic">The sample will be updated on the right.</object></li>
+<li contentType="en">Click the <object type="tKw">Book names</object> tab<br/><img src="36imgeng\image19.png"/></li>
+<li contentType="en">Fill-in the three columns [1] with abbreviation, short name and long name.</li>
+<li contentType="en">Choose <object type="tKw">Abbreviations</object>[2] and [3] for both cross-references and references</li>
+<li contentType="en">Click <object type="tKw">OK</object></li>
+<li contentType="en"><object type="tKw">Checking</object> &gt; <object type="tKw">Run Basic Checks</object></li>
+<li contentType="en">Click « <object type="tKw">References
+»</object></li>
+<li contentType="en">Click<object type="tKw"> OK</object></li>
+<li contentType="en">Correct any errors.</li>
+</ul>
+<framedUnit framedtype="tTeacher"><p contentType="en">Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.</p></framedUnit>
+</section1>
+<section1 id="sNumbersCheck">
+<secTitle>
+<object contentType="en" type="t-en">Numbers check</object>
+</secTitle>
+<framedUnit framedtype="tTeacher"><p contentType="en">Before you can run the references check, your Administrator must define various number settings.</p></framedUnit>
+<ul>
+<li contentType="en"><object type="tKw">Checking &gt; Number settings</object></li>
+<li contentType="en">Fill-in the dialog box.<br/><img src="36imgeng\image20.png"/></li>
+<li contentType="en">Click OK</li>
+<li contentType="en"><object type="tKw">Checking</object> &gt; <object type="tKw">Run basic checks</object></li>
+<li contentType="en">Click « <object type="tKw">Numbers»</object></li>
+<li contentType="en">Click<object type="tKw"/><object type="tKw"> OK</object></li>
+</ul>
+</section1>
+<section1 id="sQuotationRules">
+<secTitle>
+<object contentType="en" type="t-en">Quotation rules [◙ VT07]</object>
+</secTitle>
+<p contentType="en">The quotations check is used to ensure you have been consistent in marking the direct speech correctly.</p>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">Before you can run the quotation check, your Administrator must define the rules for your quotations.</p>
+</framedUnit>
+<ul>
+<li contentType="en"><object type="tKw">Checking</object> &gt; <object type="tKw">Quotation rules</object></li>
+<li contentType="en">Fill-in the quotation marks used for each level [1] [2] [3]</li>
+<li contentType="en"><object type="tKw">Check Flag all quotes near other errors [5]</object></li>
+<li contentType="en">Click<object type="tKw"> OK.</object></li>
+</ul>
+</section1>
+<section1 id="sQuotationCheck">
+<secTitle>
+<object contentType="en" type="t-en">Quotation check</object>
+</secTitle>
+<ul>
+<li contentType="en"><object type="tKw">Checking &gt; Basic checks</object></li>
+<li contentType="en"><object type="tKw">Quotations</object></li>
+<li contentType="en">Click <object type="tKw">OK</object>.<br/><object type="tItalic">A list of errors is displayed. It shows possible errors but includes four correct quotations before and after the possible error.</object></li>
+<li contentType="en">Double-click the first item which doesn’t start with</li>
+<li contentType="en">Correct as necessary.</li>
+<li contentType="en">Click <object type="tKw">Rerun</object> button to confirm you have corrected the error.</li>
+</ul>
+</section1>
+<section1 id="sQuotedText">
+<secTitle>
+<object contentType="en" type="t-en">Quoted text</object>
+</secTitle>
+<framedUnit framedtype="tTeacher"><p contentType="en">The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.</p></framedUnit>
+<ul>
+<li contentType="en"><object type="tKw">Checking &gt; Basic checks</object></li>
+<li contentType="en"><object type="tKw">Quoted text</object></li>
+<li contentType="en">Click <object type="tKw">OK</object>.<br/><object type="tItalic">A list of errors is displayed.</object></li>
+<li contentType="en">Make corrections as needed.</li>
+</ul>
+<framedUnit framedtype="tTeacher"><p contentType="en">Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.</p></framedUnit>
+</section1>
+</chapter>
+</part>
+<part id="sS4">
+<secTitle>Stage 4: Consultant Visit<object contentType="fr" type="t-fr">Étape 4 : Vérification par un conseiller</object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_Stage4</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_Étape4</object>
+</shortTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="en">The fourth stage of a translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in the project plan.</p>
+<p contentType="en"><img src="36imgeng\image21.png"/></p>
+<p contentType="fr">La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluer votre texte, prendre des notes, réviser vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.</p>
+<p contentType="fr"><img src="i.png"></p>
+<p contentType="en">All tasks in this stage have been covered in previous modules.</p>
+<p contentType="fr">Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p>
+</part>
+<part id="s5">
+<secTitle>Stage 5: Review by the community<object>Étape 5 : Tester/réviser avec la communauté</object></secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_Stage5</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_Étape5</object>
+</shortTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="en">The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.</p>
+<p contentType="en"><img src="36imgeng\image22.png"/></p>
+<p contentType="fr">La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés.</p>
+<p contentType="fr"><img src="i.png"></p>
+<p contentType="en">The following modules will help you in this stage:</p>
+<p contentType="fr">Les modules suivants vous aideront avec cette étape:</p>
+<ul>
+<li contentType="en">PPR: Progress report</li>
+<li contentType="fr">Rapport —  progrès de projet — à faire</li>
+<li contentType="en">BBTR: Biblical key terms report</li>
+<li contentType="fr">Rapport — termes clés — à faire</li>
+</ul>
+<chapter id="sPPR">
+<secTitle>
+<object contentType="en" type="t-en">PPR: Progress report</object>
+</secTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="en">In this module you will create a progress report.</p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="en">As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will project a report.</p>
+<p contentType="en"><object type="tItalic">Why this is important</object></p>
+<p contentType="en">Your administrators and funders need accurate reports of your progress.</p>
+<p contentType="en"><object type="tItalic">What are you going to do?</object></p>
+<p contentType="en">Check that your project plan is up-to-date.</p>
+<p contentType="en">Produce several reports.</p>
+<p contentType="en"><object type="tItalic">Summary</object></p>
+<p contentType="en">This module shows you how to:</p>
+<section1 id="sCheckYourPlan">
+<secTitle>
+<object contentType="en" type="t-en">Check your plan</object>
+</secTitle>
+<ul>
+<li contentType="en">Open your project</li>
+<li contentType="en">Click on the Project plan icon</li>
+<li contentType="en">Update your progress as necessary.</li>
+</ul>
+</section1>
+<section1 id="sproduceTeamProgressChart">
+<secTitle>
+<object contentType="en" type="t-en">Produce team progress chart</object>
+</secTitle>
+<ul>
+<li contentType="en">From the <object type="tKw">Project</object> menu, choose <object type="tKw">Team progress chart</object></li>
+<li contentType="en">Click on the dropdown list in the top left.<br/><img src="36imgeng\image23.png"/></li>
+<li contentType="en">Choose as appropriate.</li>
+<li contentType="en">Click the print icon<br/><object type="tItalic">A window opens</object></li>
+<li contentType="en">Click the <object type="tKw">Print</object> menu</li>
+<li contentType="en">Choose your printer (or PDF printer)</li>
+<li contentType="en">Click <object type="tKw">OK</object>.</li>
+</ul>
+</section1>
+</chapter>
+<chapter id="sBTR">
+<secTitle>
+<object contentType="en" type="t-en">BTR: Biblical key terms report</object>
+</secTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="en">One task in this stage is to produce a report of the changes made in the key biblical terms.</p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="en">In working on your translation you have identified and changed a number of key biblical terms.</p>
+<p contentType="en"><object type="tItalic">Why this is important</object></p>
+<p contentType="en">Although you can’t use Paratext to write the report, it can produce of list of the terms that you have been dealing with and may need to include in your report.</p>
+<p contentType="en"><object type="tItalic">What are you going to do?</object></p>
+<p contentType="en">In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.</p>
+<p contentType="en"><object type="tItalic">Summary</object></p>
+<p contentType="en">This module shows you how to:</p>
+<section1 id="sBiblicalTermsTool">
+<secTitle>
+<object contentType="en" type="t-en">Biblical terms tool</object>
+</secTitle>
+<ul>
+<li contentType="en">Click in your project</li>
+<li contentType="en"><object type="tKw">Tools</object> – <object type="tKw">Biblical Terms tool</object></li>
+<li contentType="en">Set the terms filter</li>
+<li contentType="en">Set the verses filter (for the books you have been working on).</li>
+<li contentType="en">Sort the list as desired.</li>
+</ul>
+</section1>
+<section1 id="ssaveTheListTo">
+<secTitle>
+<object contentType="en" type="t-en">Save the list to a file</object>
+</secTitle>
+<ul>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">Save as HTML</object></li>
+<li contentType="en">Type a name for the file</li>
+<li contentType="en">Click <object type="tKw">Save</object></li>
+<li contentType="en">Open the file in <object type="tKw">Word</object></li>
+</ul>
+</section1>
+<section1 id="sotherWaysToIdentify">
+<secTitle>
+<object contentType="en" type="t-en">Other ways to identify renderings</object>
+</secTitle>
+</section1>
+<section1 id="ssortOnTermsNotes">
+<secTitle>
+<object contentType="en" type="t-en">Sort on terms notes</object>
+</secTitle>
+<ul>
+<li contentType="en">Click on the ? on second column to sort on Rendering discussion notes.<br/><img src="36imgeng\image24.png"/></li>
+</ul>
+</section1>
+<section1 id="sfindTermsWithText">
+<secTitle>
+<object contentType="en" type="t-en">Find terms with text in the rendering description</object>
+</secTitle>
+<ul>
+<li contentType="en">Click the arrow beside Find on the toolbar</li>
+<li contentType="en">Choose <object type="tKw">Rendering Description</object></li>
+<li contentType="en">Type the text to find<br/><object type="tItalic">The list is filtered.</object></li>
+<li contentType="en">Save the list to HTML (as above).</li>
+</ul>
+</section1>
+</chapter>
+</part>
+<part id="cS6">
+<secTitle>
+<object contentType="en" type="t-en">Stage 6: Finalizing for Publication</object>
+***<p contentType="fr">Étape 6 : Finalisation pour la publication</p>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_Stage6</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_Étape6</object>
+</shortTitle>
+<chapter id="s6intro">
+<secTitle>
+<object contentType="en" type="t-en"/>
+</secTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="en">The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.</p>
+<p contentType="fr">La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.</p>
+<p contentType="en"><img src="36imgeng\image25.png"/></p>
+<p contentType="fr"><img src="i.png"></p>
+<p contentType="en"><object type="tItalic">What you will do</object></p>
+<p contentType="fr">Qu’est-ce que vous allez faire ?</p>
+<ul>
+<li contentType="en">Illustrations and captions</li>
+<li contentType="fr">Ajouter des illustrations et légendes</li>
+<li contentType="en">Map names</li>
+<li contentType="fr">Trouver les noms des villes pour les cartes</li>
+<li contentType="en">Draft Introduction to the NT/Bible</li>
+<li contentType="fr">Ajouter l’introduction au NT / Bible</li>
+<li contentType="en">Check parallel passages</li>
+<li contentType="fr">Vérifier les passages parallèles</li>
+<li contentType="en">Verify all checks are complete</li>
+<li contentType="fr">Vérifier que tous les contrôles sont complets</li>
+<li contentType="en">Proper Names final check</li>
+<li contentType="fr">Vérification finale des noms propres</li>
+<li contentType="en">Numbers, money, weights and measures</li>
+<li contentType="fr">Les chiffres, l’argent, les poids et les mesures</li>
+<li contentType="en">Formatting checks:</li>
+<li contentType="fr">Vérification du formatage: ...</li>
+</ul>
+<ul>
+<li contentType="en">Summary</li>
+<li contentType="en">Résumé</li> 
+</ul>
+<p contentType="en">This module shows you how to:</p>
+<p contentType="fr">Ce module vous montre comment :</p>
+<section1 id="saddIllustrationsAndCaptions">
+<secTitle>
+<object contentType="en" type="t-en">Add illustrations and captions</object>
+***<p contentType="fr">Ajouter des illustrations et légendes</p>
+</secTitle>
+<ul>
+<li contentType="en">Go to the verse where you want the illustration.</li>
+<li contentType="fr">Dans votre projet, allez au verset désiré.</li>
+<li contentType="en"><object type="tKw">Insert</object> &gt; <object type="tKw">Figure</object></li>
+<li contentType="fr">Dans le menu <object type="tKw">Insérer</object>, choisissez <object type="tKw">Image</object> </li>
+</ul>
+<p contentType="en"><img src="36imgeng\image26.png"/></p>
+<ul>
+<li contentType="en">Type in the caption for the image (in your language). [1]</li>
+<li contentType="fr">Saisissez une <object type="tKw">légende</object> pour être imprimé avec l’image.[1] </li>
+<li contentType="en">Type in a description of the image (in the language of the typesetter) [2]</li>
+<li contentType="fr">Entrez une <object type="tKw">description</object> en français de l’image (ne pas être imprimé) [2]. </li>
+<li contentType="en">Choose the width (either single column or page) [3]</li>
+<li contentType="fr">Indiquez si l’image doit remplir la largeur d’une colonne ou d’une page. [3]</li>
+<li contentType="en">Type in the copyright information [4]</li>
+<li contentType="fr">Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [5]</li>
+<li contentType="fr">Permets d’entrer des informations sur l’emplacement de l’image. [4] [Facultatif] </li>
+<li contentType="en">If applicable, type in a verse range as an acceptable location [*]</li>
+<li contentType="fr">Paratext va remplir la référence de chapitre et verset qui concerne l’image. [6]</li>
+<li contentType="en">Click <object type="tKw">Browse...</object> then find figure/illustration file. [6]</li>
+<li contentType="fr">Cliquez sur <object type="tKw">Parcourir</object>... pour rechercher le fichier de l’image. [7] </li>
+<li contentType="en">Click <object type="tKw">OK.</object></li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK</object>. </li>
+</ul>
+</section1>
+<section1 id="sMapNames">
+<secTitle>
+<object contentType="en" type="t-en">Map names</object>
+***<p contentType="fr">Trouver les noms des villes pour les cartes</p>
+</secTitle>
+<ul>
+<li contentType="fr">Cliquez dans votre projet.</li>
+<li contentType="en"><object type="tKw">Tools</object> &gt; <object type="tKw">Biblical Terms</object></li>
+<li contentType="fr">Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Termes bibliques</object> </li>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">Select Biblical Terms List</object></li>
+<li contentType="fr">Dans le menu <object type="tKw">Fichier</object>, choisissez <object type="tKw">Sélectionner liste de termes</object> </li>
+<li contentType="en">Choose NT MapBiblicalTerms</li>
+<li contentType="fr">Double-cliquez sur NTMaps Biblical Terms</li>
+<li contentType="en">Filter on a specific map number (e.g. [01])</li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Add renderings for all terms</li>
+<li contentType="fr">Ajouter les équivalents comme normaux.</li>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">Save as HTML</object></li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Type a name for the file</li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Click <object type="tKw">Save</object>.</li>
+<li contentType="fr">**missing**</li>
+</ul>
+</section1>
+<section1 id="sdraftIntroductionToThe">
+<secTitle>
+<object contentType="en" type="t-en">Draft Introduction to the NT/Bible</object>
+***<p contentType="fr">Ajouter l’introduction au NT / Bible</p>
+</secTitle>
+<ul>
+<li contentType="en">Change the book to INT</li>
+***<p contentType="fr">Tapez l’introduction du NT dans le livre <object type="tKw">INT</object></p>
+<li contentType="en">Make sure there is an \h line</li>
+<li contentType="fr">**missing**</li>
+<li contentType="en">Type your introduction using the following markers:<br/>\mt1 <br/>\is <br/>\ip</li>
+<li contentType="fr">**missing**</li>
+</ul>
+</section1>
+<section1 id="sCheckParallelPassages">
+<secTitle>
+<object contentType="en" type="t-en">Check parallel passages</object>
+***<p contentType="fr">Vérifier les passages parallèles</p>
+</secTitle>
+<ul>
+<li contentType="en">See module PP: Parallel passages</li>
+***<p contentType="fr">voir module PP</p>
+</ul>
+</section1>
+<section1 id="sverifyAllChecksAre">
+<secTitle>
+<object contentType="en" type="t-en">Verify all checks are complete</object>
+***<p contentType="fr">Vérifier que tous les contrôles soient complets</p>
+</secTitle>
+<ul>
+<li contentType="en"><object type="tKw">Checking</object> &gt; <object type="tKw">Run basic checks</object></li>
+<li contentType="en">Make sure all checks are ticked</li>
+<li contentType="en">Make sure all books to be published are chosen</li>
+<li contentType="en">Click <object type="tKw">OK</object>.</li>
+<li contentType="en">Correct any errors.</li>
+<li contentType="fr">Ouvre le plan du projet.</li>
+<li contentType="fr">Vérifiez qu’il n’y a plus d’issues pour les vérifications.</li>
+<li contentType="fr">Refaites les inventaires.</li>
+<li contentType="fr">[<object type="tKw">Vérifications</object> &gt; <object type="tKw">Effectuer les vérifications de base</object>.] </li>
+<p contentType="fr">La liste de mots</p>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Vérifier l’orthographe</object> &gt; <object type="tKw">All checks</object> </li>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Rechercher des mots mal liés ou mal divisés</object> </li>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Rechercher mots pareils</object> </li>
+</ul>
+</section1>
+<section1 id="sproperNamesFinalCheck">
+<secTitle>
+<object contentType="en" type="t-en">Proper Names final check</object>
+<object contentType="fr">Vérification finale des noms propres</objecy>
+</secTitle>
+<ul>
+<li contentType="en"><object type="tKw">Tools</object> &gt; <object type="tKw">Biblical Terms</object></li>
+<li contentType="fr">Ouvrez l’outil termes bibliques</li>
+<li contentType="en">Filter on names</li>
+<li contentType="fr">Sélectionnez la liste termes bibliques principaux</li>
+<li contentType="fr">Choisissez équivalents manquants (missing renderings) </li>
+<li contentType="fr">Faites un filtre de noms propres</li>
+<li contentType="en">Filter on missing renderings</li>
+<li contentType="en">Check any names on the list.</li>
+<li contentType="fr">Vérifier que tous les noms ont un équivalent.</li>
+</ul>
+</section1>
+<section1 id="sNumbers">
+<secTitle>
+<object contentType="en" type="t-en">Numbers, money, weights and measures</object>
+<object contentType="fr">Les chiffres, l’argent, les poids et les mesures</object>
+</secTitle>
+<ul>
+<li contentType="fr">Cliquez dans votre projet.</li>
+<li contentType="en"><object type="tKw">Tools</object> &gt; <object type="tKw">Biblical Terms</object></li>
+<li contentType="fr">Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Termes bibliques</object> </li>
+<li contentType="en"><object type="tKw">File</object> &gt; <object type="tKw">Select Biblical Terms List</object></li>
+<li contentType="fr">Dans le menu <object type="tKw">Fichier</object>, choisissez <object type="tKw">Sélectionner liste de termes</object> </li>
+<li contentType="en">Choose the appropriate list.</li>
+<li contentType="fr">Double-cliquez sur le nom de la liste</li>
+<li contentType="fr">Ajouter les équivalents comme normaux.</li>
+</ul>
+</section1>
+<section1 id="sFormattingChecks">
+<secTitle>
+<object contentType="en" type="t-en">Formatting checks:</object>
+<object contentType="fr">Vérification du mise en forme: ...</object>
+</secTitle>
+<ul>
+<li contentType="en">Redo the module FC: Formatting checks.</li>
+<li contentType="fr">Refaites le module VM : Vérification de mise en page d’étape 2.</li>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Listes récapitulatives</object> &gt; <object type="tKw">Versets longs/Versets courts</object> </li>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Listes récapitulatives</object> &gt; Word or phrase (mots ou expression) </li>
+</ul>
+<p contentType="fr">Penser à</p>
+<ul>
+<li contentType="fr">Taille de page</li>
+<li contentType="fr">Police et taille de police</li>
+<li contentType="fr">Colonnes</li>
+<li contentType="fr">Césure de mots (hyphenation)</li>
+<li contentType="fr">Vérifiez chaque élément en Paratext</li>
+<li contentType="fr">introductions</li>
+<li contentType="fr">glossaire</li>
+<li contentType="fr">…</li>
+<li contentType="fr">images</li>
+<li contentType="fr">droit d’auteur</li>
+<li contentType="fr">cartes</li>
+<li contentType="fr">créateur de cartes</li>
+</ul>
+</section1>
+</chapter>
+<chapter id="sPP">
+<secTitle>
+<object contentType="en" type="t-en">PP: Compare parallel passages</object>
+<object contentType="fr">PP : Comparer passages parallèles</object>
+</secTitle>
+<p contentType="en"><object type="tItalic">Introduction</object></p>
+<p contentType="fr"><object type="tItalic">Introduction </object></p>
+<p contentType="en">There are thousands of passage in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.</p>
+<p contentType="fr">Il y a des milles des passages dans un NT où le même événement est décrié ou qui citent un autre verset. On doit comparer ces textes pour vérifier qu’il est cohérent.</p>
+<p contentType="en"><object type="tItalic">Where we are</object></p>
+<p contentType="fr">Où en sommes-nous ?</p>
+<p contentType="en">Normally you will have translated and checked the text of both books with a consultant first. Though there are times that you will want to compare the other verses before you translate the second passage.</p>
+<p contentType="fr">Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller.</p>
+<p contentType="en"><object type="tItalic">Why this is important</object></p>
+<p contentType="fr"><object type="tItalic">​Pourquoi cette aptitude est-elle importante ? </object></p>
+<p contentType="en">The parallel passages need to be consistent but they do not always need to be exactly the same. The Parallel Passages tool displays the various passages and highlights the text which is the same. But it is the meaning (not necessarily the form) that is important.</p>
+<p contentType="fr">Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujours être exactement le même. Paratext peut vous surligner quand la forme du texte est la même, mais c’est le sens (et pas nécessairement la forme) qui est important. Souvent ces comparaisons sont faites après avoir traduit les passages parce qu’on ne veut pas être influencé par ce que peut être une mauvaise traduction. Mais il y a des fois qu’on veut voir un autre passage d’un différent livre en même temps.</p>
+<p contentType="en">Normally you would make the comparisons made after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.</p>
+<p contentType="en"><object type="tItalic">What you are going to do</object></p>
+<p contentType="fr"><object type="tItalic">​Qu’est-ce qu’on va faire ? </object></p>
+<ul>
+<li contentType="en">use the Parallel Passages tool to compare the verses.</li>
+***<p contentType="fr">Vous utilisez l’outil Textes parallèle pour comparer les textes. Grâce aux nouvelles cases on peut savoir quels passages sont déjà finis et aussi s’il un passage était changé après vous l’avez vérifié.</p>
+<li contentType="en">use the check boxes to tell Paratext that you have checked the passages</li>
+<li contentType="en">filter for changed verses</li>
+<li contentType="en">open a quick reference window in Paratext to see another passage while you are translating.</li>
+</ul>
+<p contentType="fr">Vous pouvez également voir un autre passage dans une fenêtre (qui ne déroule pas avec les autres fenêtres) pendant que vous traduisez un passage. </p>
+<p contentType="en"><object type="tItalic">Summary</object></p>
+<p contentType="fr">Résume</p>
+<p contentType="en">This module shows you how to:</p>
+<p contentType="fr">Ce module vous montre comment :</p>
+<p contentType="en">Configuration</p>
+<p contentType="fr">Configuration</p>
+<section1 id="sopenTheParallelPassages">
+<secTitle>
+<object contentType="en" type="t-en">Open the Parallel passages window</object>
+***<p contentType="fr">Ouvrir la fenêtre de Textes parallèles</p>
+</secTitle>
+<ul>
+<li contentType="en">Navigate to the desired chapter and verse.</li>
+<li contentType="fr">Naviguez au livre/chapitre/verset voulu.</li>
+<li contentType="en"><object type="tKw">Tools</object> &gt; <object type="tKw">Parallel passages</object><br/><object type="tItalic">A window is displayed showing a list and parallel passages.</object></li>
+<li contentType="fr">Outils &gt; Textes parallèles</li>
+</ul>
+</section1>
+<section1 id="sDisplaySourceTexts">
+<secTitle>
+<object contentType="en" type="t-en">Display source texts</object>
+<object contentType="fr">Afficher les textes sources</object>
+</secTitle>
+<ul>
+<li contentType="en">Click the dropdown arrow beside the source text options<br/><img src="36imgeng\image27.png"/></li>
+<li contentType="fr">Cliquez sur bouton Texte hébreu/grec</li>
+<li contentType="dn">These don't match</li>
+<li contentType="en">Choose as appropriate<br/><object type="tItalic">The display changes.</object></li>
+<li contentType="fr">Choisissez comme désiré</li>
+</ul>
+</section1>
+<section1 id="sSelectComparativeText">
+<secTitle>
+<object contentType="en" type="t-en">Select comparative text(s)</object>
+<p contentType="fr">Sélectionner des Textes comparatifs</p>
+</secTitle>
+<ul>
+<li contentType="en">Click the Comparative texts button</li>
+<li contentType="fr">Cliquez sur le bouton Textes comparatifs </li>
+<li contentType="en">Click a resource (on the left)</li>
+<li contentType="fr">Cliquez sur une ressource (à gauche)</li>
+<li contentType="en">Click the right arrow</li>
+<li contentType="fr">Cliquez sur la flèche droite</li>
+<li contentType="en">Repeat as necessary</li>
+<li contentType="fr">Répétez si nécessaire</li>
+<li contentType="en">Click OK</li>
+<li contentType="fr">Cliquez sur OK</li>
+</ul>
+</section1>
+<section1 id="sFilters">
+<secTitle>
+<object contentType="en" type="t-en">Filters</object>
+***<p contentType="fr">Filtres</p>
+</secTitle>
+<ul>
+<li contentType="en">Choose the filters as desired: [e.g. All references, Current book, Synoptic gospels]</li>
+***<p contentType="fr">Choisissez les filtres comme désiré:  [All references, Current book, Synoptic gospels]</p>
+</ul>
+</section1>
+<section1 id="scomparePassages">
+<secTitle>
+<object contentType="en" type="t-en">Compare the passages</object>
+***<p contentType="fr">Voir des passages</p>
+</secTitle>
+<ul>
+<li contentType="en">Click on a line of references in the top pane.<br/><object type="tItalic">The texts are displayed in the bottom pane.</object></li>
+***<p contentType="fr">Cliquez dans une ligne dans la partie en haut.</p>
+</ul>
+<p contentType="fr">Les textes s’affichent en bas.</p>
+<p contentType="en">Text is shown in green when the text is exactly the same as in the other passage.</p>
+<p contentType="fr">Le texte en vert montre qu’il y a les mots exactement la même dans d’un autre passage.</p>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">Text is shown in yellow when it has the same meaning(thought) even though it is not exactly the same as in the other passage.</p>
+<p contentType="fr">Le texte en jaune n’est pas exact, mais vient de la même racine.</p>
+</framedUnit>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">If the text is green in Greek, then your text should also be the same.</p>
+<p contentType="fr">Si le texte est en vert en grec votre texte doit être la même.</p>
+</framedUnit>
+<p contentType="en">Normally, if the text is different in the Greek than it should be different in your text, but not always.</p>
+<p contentType="fr">Normalement, si le texte est diffèrent en grec, votre texte doit être diffèrent, mais pas toujours.</p>
+</section1>
+<section1 id="stoCorrectTheText">
+<secTitle>
+<object contentType="en" type="t-en">To correct the text</object>
+***<p contentType="fr">Pour faire des corrections</p>
+</secTitle>
+<ul>
+<li contentType="en">Click the blue link « ‘Edition »</li>
+<li contentType="fr">Cliquez sur le lien bleu « ‘Edition »</li>
+<li contentType="en">Make the corrections.</li>
+<li contentType="fr">Faites les corrections.</li>
+<li contentType="en">Click <object type="tKw">OK.</object></li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK.</object>  </li>
+</ul>
+</section1>
+<section1 id="sCopingAText">
+<secTitle>
+<object contentType="en" type="t-en">Coping a text</object>
+***<p contentType="fr">Copier un texte</p>
+</secTitle>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.</p>
+<p contentType="fr">**missing**</p>
+</framedUnit>
+<ul>
+<li contentType="en">Click the blue link « ‘Edition »</li>
+<li contentType="fr">Cliquez sur le lien bleu « <object type="tKw">Édition</object> » </li>
+<li contentType="en">Select the text</li>
+<li contentType="fr">Sélectionnez le texte</li>
+<li contentType="en">Copy (ctrl+c)</li>
+<li contentType="fr">Copiez (ctrl+c)</li>
+<li contentType="en">Click <object type="tKw">OK.</object></li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK.</object>  </li>
+<li contentType="en">Click blue link for the other text</li>
+<li contentType="fr">Cliquez sur le lien bleu d’autre texte</li>
+<li contentType="en">Select the text</li>
+<li contentType="fr">Sélectionnez le texte</li>
+<li contentType="en">Paste (ctrl+v)</li>
+<li contentType="fr">Collez (ctrl+v)</li>
+<li contentType="en">Click <object type="tKw">OK.</object></li>
+<li contentType="fr">Cliquez sur <object type="tKw">OK.</object> </li>
+</ul>
+<framedUnit framedtype="tTeacher">
+<p contentType="en">Be careful when there is more than one verse. You don’t want to copy the \v.</p>
+<p contentType="fr">Faites attention s’il y a plus un verset. On ne veut pas copier le \v.</p>
+</framedUnit>
+</section1>
+<section1 id="smarkThePassageAs">
+<secTitle>
+<object contentType="en" type="t-en">Mark the passage as finished</object>
+***<p contentType="fr">Marquer un texte comme fini</p>
+</secTitle>
+<ul>
+<li contentType="en">Click the check box beside the reference.</li>
+***<p contentType="fr">Cliquez sur la case pour le cocher.</p>
+</ul>
+</section1>
+<section1 id="sIDChanged">
+<secTitle>
+<object contentType="en" type="t-en">Identify the passages which have been changed since they were marked as finished</object>
+***<p contentType="fr">Identifier les passages qui ont été modifiés après avoir marqué comme finis</p>
+</secTitle>
+<ul>
+<li contentType="en">In the Parallel passage tool</li>
+<li contentType="fr">Dans l’outil de Passage parallèle </li>
+<li contentType="en">Change the passage filter to « Changed Text»<br/><img src="36imgeng\image28.png"/></li>
+<li contentType="fr">Changez le filtre de passage au « Changed Text »</li>
+<li contentType="en">Click ab icon under the passage reference.<br/><object type="tItalic">A comparison window is displayed in Paratext.</object></li>
+<li contentType="fr"><img src="i.png"> Cliquez sur l'icône « ab ».</br>Une fenêtre de comparaison s’affiche en Paratext.</li>
+<li contentType="en">Change the text as necessary.</li>
+<li contentType="fr">Modifiez le texte si nécessaire.</li>
+<li contentType="en">Return to the Parallel passages tool (using the task bar icons)</li>
+<li contentType="fr">Retourner à l’outil passages parallèles (avec la barre des tâches)</li>
+<li contentType="en">Click the check box to mark it as finished.</li>
+<li contentType="fr">Cliquez sur la case pour le cocher est marqué comme fini.</li>
+</ul>
+</section1>
+<section1 id="scompareTheTextAs">
+<secTitle>
+<object contentType="en" type="t-en">Compare the text as you translate</object>
+***<p contentType="fr">Comparer les textes pendant la traduction</p>
+</secTitle>
+<ul>
+<li contentType="en">Click in your project.</li>
+<li contentType="fr">Cliquez dans votre projet.</li>
+<li contentType="en">Tools – Quick reference (Ctrl+q)<br/><object type="tItalic">A window opens with the scroll group set to none.</object></li>
+<li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Aperçu Rapide</object> </li>
+<li contentType="en">Change the reference to the other passage.</li>
+<li contentType="fr">Changez la référence à un autre passage. </li>
+</ul>
+</section1>
+<section1 id="stoSeeAThird">
+<secTitle>
+<object contentType="en" type="t-en">To see a third passage</object>
+<p contentType="fr">Voir un troisième passage</p>
+</secTitle>
+<ul>
+<li contentType="en">Open you project a second time [File-Open project/resource]</li>
+<li contentType="fr">Ouvrez votre projet un deuxième fois [File-Ouvrir projet/ressource]</li>
+<li contentType="fr">Le groupe est automatiquement « aucune »</li>
+<li contentType="en">Change the scroll group from [A] to None.<br/><img src="36imgeng\image29.png"/></li>
+<li contentType="fr">Puis changer la groupe de défilement de [A] au « Aucun »/None.</li>
+<li contentType="en">Change the reference to the other passage.</li>
+<li contentType="fr"><img src="i.png"> </li>
+</ul>
+</section1>
+<section1 id="sLearningTask1">
+<secTitle>
+<object contentType="en" type="t-en">Learning task</object>
+</secTitle>
+<p contentType="en">Do you know what the colours and symbols mean? Match the symbols with their meanings for the upper and lower pane:</p>
+<p contentType="fr">Savez-vous ce que signifient les couleurs et les symboles? Faites correspondre les symboles avec leurs significations pour le volet supérieur et inférieur:</p>
+<p contentType="en">Upper pane Lower pane</p>
+<p contentType="fr">Volet supérieur        Volet inférieur</p>
+<table border="1"><tr><td>1 MAT 1:1 (black)</td><td>a</td><td>Approved</td><td>1</td><td><img src="36imgeng\image30.png"/></td><td>A</td><td>Finished</td></tr><tr><td>2 MAT 1:1 (green)</td><td>b</td><td>Changed since approved</td><td>2</td><td><img src="36imgeng\image1.png"/></td><td>B</td><td>No permission</td></tr><tr><td>3 MAT 1:1 (grey)</td><td>c</td><td>No text or verse no. missing</td><td>3</td><td><img src="36imgeng\image2.png"/></td><td>C</td><td>No text/verse no.</td></tr><tr><td>4 MAT 1:1 (red )</td><td>d</td><td>Not part of the project</td><td>4</td><td><img src="36imgeng\image3.png"/></td><td>D</td><td>Not finished</td></tr><tr><td>5 MAT 1:1 (red)</td><td>e</td><td>Not yet approved</td><td>5</td><td><img src="36imgeng\image15.png"/></td><td>E</td><td>Out of date</td></tr><tr><td/><td/><td/><td>6</td><td>pas de case</td><td>F</td><td>Verse missing</td></tr></table>
+<table border="1"><tr><t>1   MAT 1:1 (noir)   </td><t>a</td><t>Approuvé</td><t>1 </td><t><img src="i.png"> </td><t>A</td><t>Fini</td></tr><tr><t>2   MAT 1:1 (vert)    </td><t>b</td><t>Changé depuis approuvé</td><t>2 </td><t><img src="i.png"> </td><t>B</td><t>pas de permission</td></tr><tr><t>3   MAT 1:1 (gris)     </td><t>c</td><t>pas de texte ou no. verset manquant</td><t>3 </td><t><img src="i.png"> </td><t>C</td><t>pas de texte/no. de verset</td></tr><tr><t>4   MAT 1:1  (rouge)      </td><t>d</td><t>ne fait pas partie du projet</td><t>4 </td><t><img src="i.png"> </td><t>D</td><t>pas fini</td></tr><tr><t>5   MAT 1:1 (rouge)       </td><t>e</td><t>pas encore approuvé</td><t>5 </td><t><img src="i.png"> </td><t>E</td><t>périmé</td></tr><tr><t>  </td><t> </td><t> </td><t>6 </td><t>pas de case</td><t>F</td><t>Verset manquant</td></tr></table>
+<p contentType="en">Answers:</p>
+<p contentType="en">Upper pane: 1e, 2a, 3d, 4c, 5b</p>
+<p contentType="en">Lower pane: 1B, 2D, 3A, 4E, 5F, 6C</p>
+<p contentType="fr">Réponses: Upper pane: 1e, 2a, 3d, 4c, 5b, Lower pane: 1B, 2D, 3A, 4E, 5F, 6C</p>
+</section1>
+</chapter>
+</part>
+<backMatter>
+<appendix id="sSpecText">
+<secTitle>
+<object contentType="en" type="t-en">Special text</object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_SpecText</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_TexteSpec</object>
+</shortTitle>
+<ul>
+<li contentType="en">Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).</li>
+<li contentType="en">Matt 5.3-10; The beatitudes. Often set in poetic form.</li>
+<li contentType="en">Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li>
+<li contentType="en">Matt 21.9: The greeting to Jesus. Often set in poetic form.</li>
+<li contentType="en">Matt 27.37: The sign on the cross. Often set in small caps.</li>
+<li contentType="en">Matt 27.46: The scream of Jesus. Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Mark 5.41: The command to the dead girl. Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Mark 11.9: The greeting to Jesus. Often set in poetic form.</li>
+<li contentType="en">Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Mark 15.26: The sign on the cross. Often set in small caps.</li>
+<li contentType="en">Mark 15.34: The scream of Jesus. Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.</li>
+<li contentType="en">Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li>
+<li contentType="en">Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li>
+<li contentType="en">Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li>
+<li contentType="en">Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li>
+<li contentType="en">Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li>
+<li contentType="en">Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li>
+<li contentType="en">Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li>
+<li contentType="en">Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li>
+<li contentType="en">Luke 19.38: The greeting to Jesus. Often set in poetic form.</li>
+<li contentType="en">Luke 23.38: The sign on the cross. Often set in small caps.</li>
+<li contentType="en">John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.</li>
+<li contentType="en">John 12.13: The greeting to Jesus. Often set in poetic form.</li>
+<li contentType="en">John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li>
+<li contentType="en">John 19.19: The sign on the cross. Often set in small caps.</li>
+<li contentType="en">Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.</li>
+<li contentType="en">Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.</li>
+<li contentType="en">Rom 8.15: "Abba." Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Rom 11.33-36: The doxology. Often set in poetic form.</li>
+<li contentType="en">Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li>
+<li contentType="en">Gal 4.6: "Abba." Sometimes set in italics (because it is in another language).</li>
+<li contentType="en">Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li>
+<li contentType="en">1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li>
+<li contentType="en">1 Tim 3.16: A creed. Often set in poetic form.</li>
+<li contentType="en">2 Tim 2.11-13: A creed. Often set in poetic form.</li>
+<li contentType="en">1 John 2.12-14: I write to you. Sometimes set in poetic form.</li>
+<li contentType="en">Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li>
+<li contentType="en">Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.</li>
+<li contentType="en">Rev 4.8: A chant. Sometimes set in centered poetic form.</li>
+<li contentType="en">Rev 4.11: A chant. Often set in poetic form.</li>
+<li contentType="en">Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li>
+<li contentType="en">Rev 7.5-8: A list. Often set in a special poetic form.</li>
+<li contentType="en">Rev 7.10, 12: Chants. Often set in poetic form.</li>
+<li contentType="en">Rev 7.15-17: A declaration. Sometimes set in poetic form.</li>
+<li contentType="en">Rev 11.15, 17-18: Chants. Often set in poetic form.</li>
+<li contentType="en">Rev 12.10-12: A declaration. Often set in poetic form.</li>
+<li contentType="en">Rev 15.3-4: A song. Often set in poetic form.</li>
+<li contentType="en">Rev 16.5-7: A declaration. Often set in poetic form.</li>
+<li contentType="en">Rev 17.5: A sign. Often set centered, in small caps.</li>
+<li contentType="en">Rev 18.2-8: A declaration. Often set in poetic form.</li>
+<li contentType="en">Rev 18.10-24: A series of woes. Often set in poetic form.</li>
+<li contentType="en">Rev 19.1-8: A series of declarations. Often set in poetic form.</li>
+<li contentType="en">Rev 19.16: A sign. Often set centered, in small caps.</li>
+<li contentType="en">Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li>
+</ul>
+<p contentType="en">[1] For Keyman &lt;&lt; for « and &gt;&gt; for », ;&lt; for‹ and ;&gt; for ›</p>
+<p contentType="en">[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p>
+</appendix>
+<appendix id="aBibleBooks">
+<secTitle>
+<object contentType="en" type="t-en">Three letter abbreviations</object>
+<object contentType="fr" type="t-fr">Livres de la Bible : Abréviations en trois lettres</object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_BibleBooks</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_LivresBibliques</object>
+</shortTitle>
+<p contentType="en">Old Testament</p>
+<p contentType="fr">Ancien Testament</p>
+<table border="1"><tr><td>[Genesis] [GEN]</td><td>[Exodus] [EXO]</td><td>[Leviticus] [LEV]</td></tr><tr><td>[Numbers] (NUM)</td><td>[Deuteronomy] (DEU)</td><td>[Joshua] [JOS]</td></tr><tr><td>[Judges] (JDG)</td><td>Ruth [RUT]</td><td>1 Samuel [1SA]</td></tr><tr><td>2 Samuel [2SA]</td><td>[1 Kings] [1KI]</td><td>[2 Kings] [2KI]</td></tr><tr><td>[1 Chronicles] [1CH]</td><td>[2 Chronicles] [2CH]</td><td>[Ezra] [EZR]</td></tr><tr><td>[Nehemiah] [NEH]</td><td>Esther [EST]</td><td>Job [JOB]</td></tr><tr><td>[Psalms] [PSA]</td><td>[Proverbs] [PRO]</td><td>[Ecclesiastes] (ECC)</td></tr><tr><td>Song of Songs] [SNG]</td><td>[Isaiah] [ISA]</td><td>[Jeremiah] [JER]</td></tr><tr><td>Lamentations [LAM]</td><td>[Ezekiel] [EZK]</td><td>Daniel [DAN]</td></tr><tr><td>[Hosea] [HOS]</td><td>Joël [JOL]</td><td>Amos [AMO]</td></tr><tr><td>[Obadiah] (OBA)</td><td>[Jonah] (JON)</td><td>[Micah] (MIC)</td></tr><tr><td>[Nahum] (NAM)</td><td>[Habakkuk] [HAB]</td><td>[Zephaniah] [ZEP]</td></tr><tr><td>[Haggai] [HAG]</td><td>[Zechariah] [ZEC]</td><td>[Malachi] [MAL]</td></tr></table>
+<table border="1"><tr><t>Genèse [Genesis] [GEN]</td><t>Exode [Exodus] [EXO]</td><t>Lévitique [Leviticus] [LEV]</td></tr><tr><t>Nombres [Numbers] (NUM)</td><t>Deutéronome [Deuteronomy] (DEU)</td><t>Josué [Joshua] [JOS]</td></tr><tr><t>Juges [Judges] (JDG)</td><t>Ruth [RUT]</td><t>1 Samuel [1SA]</td></tr><tr><t>2 Samuel [2SA]</td><t>1 Rois [1 Kings] [1KI]</td><t>2 Rois [2 Kings] [2KI]</td></tr><tr><t>1 Chroniques [1 Chronicles] [1CH]</td><t>2 Chroniques [2 Chronicles] [2CH]</td><t>Esdras [Ezra] [EZR]</td></tr><tr><t>Néhémie [Nehemiah] [NEH]</td><t>Esther [EST]</td><t>Job [JOB]</td></tr><tr><t>Psaumes [Psalms] [PSA]</td><t>Proverbes [Proverbs] [PRO]</td><t>Ecclésiaste [Ecclesiastes] (ECC) </td></tr><tr><t>Cantique des cantiques [Song of Songs] [SNG]</td><t>Ésaïe [Isaiah] [ISA]</td><t>Jérémie [Jeremiah] [JER]</td></tr><tr><t>Lamentations [LAM]</td><t>Ézékiel [Ezekiel] [EZK]</td><t>Daniel [DAN]</td></tr><tr><t>Osée [Hosea] [HOS]</td><t>Joël [JOL]</td><t>Amos [AMO]</td></tr><tr><t>Abdias [Obadiah] (OBA)</td><t>Jonas [Jonah] (JON)</td><t>Michée [Micah] (MIC)</td></tr><tr><t>Nahoum [Nahum] (NAM)</td><t>Habacuc [Habakkuk] [HAB]</td><t>Sophonie [Zephaniah] [ZEP]</td></tr><tr><t>Aggée [Haggai] [HAG]</td><t>Zacharie [Zechariah] [ZEC]</td><t>Malachie [Malachi] [MAL]</td></tr></table>
+<p contentType="en">New Testament</p>
+<p contentType="fr">Nouveau Testament</p>
+<table border="1"><tr><td>[Matthew] [MAT]</td><td>[Mark] [MRK]</td><td>[Luke] [LUK]</td></tr><tr><td>[John] [JHN]</td><td>[Acts] [ACT]</td><td>[Romans] [ROM]</td></tr><tr><td>[1 Corinthians] [1CO]</td><td>[2 Corinthians] [2CO]</td><td>[Galatians] [GAL]</td></tr><tr><td>[Ephesians] [EPH]</td><td>[Philippians] (PHP</td><td>Colossians (COL)</td></tr><tr><td>[1 Thessalonians] (1TH)</td><td>[2 Thessalonians] (2TH)</td><td>[1 Timothy] (1TI)</td></tr><tr><td>[2 Timothy] (2TI)</td><td>[Titus] (TIT)</td><td>[Philemon] (PHM)</td></tr><tr><td>[Hebrews] (HEB)</td><td>[James] (JAS)</td><td>[1 Peter] (1PE)</td></tr><tr><td>[2 Peter] (2PE)</td><td>[1 John] (1JN)</td><td>[2 John] (2JN)</td></tr><tr><td>[3 John] (3JN)</td><td>Jude (JUD)</td><td>[Revelation] (REV)</td></tr></table>
+<table border="1"><tr><t>Matthieu [Matthew] [MAT]</td><t>Marc [Mark] [MRK]</td><t>Luc [Luke] [LUK]</td></tr><tr><t>Jean [John] [JHN]</td><t>Actes [Acts] [ACT]</td><t>Romains [Romans] [ROM]</td></tr><tr><t>1 Corinthiens [1 Corinthians] [1CO]</td><t>1 Corinthiens [2 Corinthians] [2CO]</td><t>Galates [Galatians] [GAL]</td></tr><tr><t>Éphésiens [Ephesians] [EPH]</td><t>Philippiens [Philippians] (PHP</td><t>Colossiens Colossians (COL)</td></tr><tr><t>1 Thessaloniciens [1 Thessalonians] (1TH)</td><t>1 Thessaloniciens [2 Thessalonians] (2TH)</td><t>1 Timothée [1 Timothy] (1TI)</td></tr><tr><t>2 Timothée [2 Timothy] (2TI)</td><t>Tite [Titus] (TIT)</td><t>Philémon [Philemon] (PHM)</td></tr><tr><t>Hébreux [Hebrews] (HEB)</td><t>Jacques [James] (JAS)</td><t>1 Pierre [1 Peter] (1PE)</td></tr><tr><t>2 Pierre [2 Peter] (2PE)</td><t>1 Jean [1 John] (1JN)</td><t>2 Jean [2 John] (2JN)</td></tr><tr><t>3 Jean [3 John] (3JN)</td><t>Jude (JUD)</td><t>Apocalypse [Revelation] (REV)</td></tr></table>
+</appendix>
+<appendix id="sChadSpecChar">
+<secTitle>
+<object contentType="en" type="t-en">Chad special characters</object>
+<object contentType="fr" type="t-fr">Les caractères de Tchad Unicode </object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_Chad</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_Tchad</object>
+</shortTitle>
+<p contentType="en">Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p>
+<p contentType="fr">Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus d’une touche. </p>
+<p contentType="en">The table below shows the special characters in Chad and the combination of keys needed for each character.</p>
+<p contentType="fr">Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère.</p>
+<table border="1"><tr><td colspan="2">Les caractères du Tchad</td><td colspan="2">The tones</td></tr><tr><td colspan="2">Type … to have</td><td colspan="2">Type … to have</td></tr><tr><td>;’ ’</td><td>;n ŋ</td><td>]</td><td>à low tone</td></tr><tr><td>;b ɓ</td><td>;o ɔ</td><td>[</td><td>á high tone</td></tr><tr><td>;c ç</td><td>;p œ</td><td>=</td><td>ā mid tone</td></tr><tr><td>;d ɗ</td><td>;y ƴ</td><td>^</td><td>â falling tone</td></tr><tr><td>;e ɛ</td><td/><td>|</td><td>ǎ rising tone</td></tr><tr><td>;f ə</td><td/><td>#</td><td>ä umlaut</td></tr><tr><td>;h ɦ</td><td/><td>~</td><td>ã tilda</td></tr><tr><td>;k ɨ</td><td/><td>_</td><td>a̰ under tilda</td></tr><tr><td>;m ɲ</td><td/><td>`</td><td>a̧ cédille</td></tr></table>
+<table border="1"><tr><t>Les caractères du Tchad</td><t>Les tons</td></tr><tr><t>Tapez … pour avoir</td><t>Tapez … pour avoir</td></tr><tr><t>;’ ’ </td><t>;nŋ</td><t> ]</td><t>à  ton bas</td></tr><tr><t>;b ɓ</td><t>;oɔ</td><t> [</td><t>á  ton haut</td></tr><tr><t>;cç</td><t>;pœ</td><t> =</td><t>ā  ton moyen</td></tr><tr><t>;dɗ</td><t>;yƴ</td><t> ^</td><t>â  ton descendant</td></tr><tr><t>;eɛ</td><t> </td><t> |</td><t>ǎ  ton montant</td></tr><tr><t>;fə</td><t> </td><t> #</td><t>ä  umlaut</td></tr><tr><t>;hɦ</td><t> </td><t> ~</td><t>ã  tilde</td></tr><tr><t>;kɨ</td><t> </td><t> _</td><t>a̰  sous tilde</td></tr><tr><t>;mɲ</td><t> </td><t> `</td><t>a̧  cédille</td></tr></table>
+<p contentType="en">To type the other characters as below:</p>
+<p contentType="fr">Taper les autres caractères spéciaux de la façon suivante :</p>
+<table border="1"><tr><td>Type</td><td>to have</td><td/><td>type</td><td>to have</td></tr><tr><td>;]</td><td>]</td><td/><td>;;</td><td>;</td></tr><tr><td>;[</td><td>[</td><td/><td>;{</td><td>“</td></tr><tr><td>;=</td><td>=</td><td/><td>;}</td><td>”</td></tr><tr><td>;^</td><td>^</td><td/><td>;(</td><td>’</td></tr><tr><td>;|</td><td>|</td><td/><td>;)</td><td>’</td></tr><tr><td>;#</td><td>#</td><td/><td>;&lt;[1]</td><td>«</td></tr><tr><td>;~</td><td>~</td><td/><td>;&gt;</td><td>»</td></tr><tr><td>;_</td><td>_</td><td/><td>;,</td><td>‹</td></tr><tr><td>;`</td><td>`</td><td/><td>;.</td><td>›</td></tr></table>
+<table border="1"><tr><t>Taper</td><t>pour avoir</td><t> </td><t>Tapez</td><t>pour avoir</td></tr><tr><t>;]</td><t>]</td><t> </td><t>;;</td><t>;</td></tr><tr><t>;[</td><t>[</td><t> </td><t>;{</td><t>“</td></tr><tr><t>;=</td><t>=</td><t> </td><t>;}</td><t>”</td></tr><tr><t>;^</td><t>^</td><t> </td><t>;(</td><t>’</td></tr><tr><t>;|</td><t>|</td><t> </td><t>;)</td><t>’</td></tr><tr><t>;#</td><t>#</td><t> </td><t>;&lt;1</td><t>«</td></tr><tr><t>;~</td><t>~</td><t> </td><t>;&gt;</td><t>»</td></tr><tr><t>;_</td><t>_</td><t> </td><t>;,</td><t>‹</td></tr><tr><t>;`</td><t>`</td><t> </td><t>;.</td><t>›</td></tr></table>
+</appendix>
+<appendix id="sMarkers">
+<secTitle>
+<object contentType="en" type="t-en">Common USFM Markers</object>
+<object contentType="fr" type="t-fr">USFM Marqueurs fréquents </object>
+</secTitle>
+<shortTitle>
+<object contentType="en" type="t-en">Paratext_8_3-6_USFM</object>
+<object contentType="fr" type="t-fr">Paratext_8_3-6_USFM</object>
+</shortTitle>
+<p contentType="en">\c chapter</p>
+<p contentType="fr">\c chapitre</p>
+<p contentType="en">\v verse</p>
+<p contentType="fr">\v verset</p>
+<p contentType="en">\p paragraph (small indent)</p>
+<p contentType="fr">\p paragraphe (petit retrait)</p>
+<p contentType="en">\m same paragraph (return to the margin)</p>
+<p contentType="fr">\m même paragraphe (retour à la ligne, mais sans retrait)</p>
+<p contentType="en">\s1 section title</p>
+<p contentType="fr">\s1 sous-titre</p>
+<p contentType="en">\r parallel references</p>
+<p contentType="fr">\r  références parallèles</p>
+<p contentType="en">\q1 quotation (poetry level 1)</p>
+<p contentType="fr">\q1 poésie niveau 1</p>
+<p contentType="en">\q2 quotation (poetry level 2)</p>
+<p contentType="fr">\q2 poésie niveau 2</p>
+<p contentType="en">\h header</p>
+<p contentType="fr">\h entête (header)</p>
+<p contentType="en">\mt1 main title</p>
+<p contentType="fr">\mt1 titre principal</p>
+<p contentType="en">\mt2 secondary title</p>
+<p contentType="fr">\mt2 titre secondaire</p>
+<p contentType="en">\k .... \k* keyword (in the glossary)</p>
+<p contentType="fr">\k .... \k* mot-clé dans glossaire (dans le glossaire)</p>
+<p contentType="en">\w ... \w* indicates a word in the glossary (in the text)</p>
+<p contentType="fr">\w ... \w* mot qui est dans le glossaire (dans le texte)</p>
+<p contentType="en">Introductions</p>
+<p contentType="fr">Introductions</p>
+<p contentType="en">\ip paragraph</p>
+<p contentType="fr">\ip paragraphe </p>
+<p contentType="en">\is section heading</p>
+<p contentType="fr">\is section heading</p>
+<p contentType="en">\io1 outline 1</p>
+<p contentType="fr">\io1 outline 1</p>
+<p contentType="en">\ili1 list level 1</p>
+<p contentType="fr">\ili1 list level 1</p>
+<p contentType="en">\ili2 list level 2</p>
+<p contentType="fr">\ili2 list level 2</p>
+<p contentType="en"/>

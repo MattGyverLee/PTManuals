@@ -1,5 +1,7 @@
-Special text
-PT12ASpec
+((Paratext_8_3-6_Stage6| <-- Stage 6: Finalizing for Publication))  | ((Paratext_8_3-6_BibleBooks|Three letter abbreviations--> ))
+
+!Special text 
+
 * Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).
 * Matt 5.3-10; The beatitudes. Often set in poetic form.
 * Matt 6.9-13; The Lord's prayer. Often set in poetic form.
@@ -55,4 +57,7 @@ PT12ASpec
 * Rev 19.1-8: A series of declarations. Often set in poetic form.
 * Rev 19.16: A sign. Often set centered, in small caps.
 * Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]
+[1] For Keyman << for « and >> for », ;< for ‹ and ;> for ›
 [2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+
+((Paratext_8_3-6_Stage6| <-- Stage 6: Finalizing for Publication))  | ((Paratext_8_3-6_BibleBooks|Three letter abbreviations--> ))

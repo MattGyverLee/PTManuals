@@ -1,0 +1,475 @@
+<p contentType="fr"><object type="tItalic">Introduction </object></p>
+<p contentType="fr"><object type="tItalic">But </object></p>
+<p contentType="fr">Les participants traiteront leur traduction à l’aide de Paratext 8, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Ce manuel ***</p>
+<p contentType="fr"><object type="tItalic">Objectifs  </object></p>
+<p contentType="fr">À la fin de ce cours, le participant sera capable de : </p>
+   <ol>
+      <li contentType="fr"><object contentType="fr" type="t-fr">Étape 1 : Première ébauche </object></li>
+      <li contentType="fr"><object contentType="fr" type="t-fr">Étape 2 : Vérification par l’équipe </object></li>
+   </ol>
+   <section1><object contentType="fr">Étape 3 : Préparation pour le conseiller</object></section1>
+<p contentType="fr"><object type="tItalic">Faire des retraductions </object></p>
+   <ul>
+      <li contentType="fr">Retraduction 1 (libre) </li>
+      <li contentType="fr">Retraduction 2 (mot à mot) </li>
+   </ul>
+<p contentType="fr"><object type="tItalic">Faire d’autres vérifications </object></p>
+   <ul>
+      <li contentType="fr">vérifier des références, textes cités, numérations, erreurs de ponctuation en paires correspondances, citations  </li>
+      <li contentType="fr">vérifications d’orthographe </li>
+   </ul>
+   <section1><object contentType="fr">Étape 4 : Vérification par un conseiller</object></section1>
+<p contentType="fr">Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p>
+   <section1><object contentType="fr">Étape 5 : Tester/réviser avec la communauté</object></section1>
+   <ul>
+      <li contentType="fr">Rapport de progrès à faire </li>
+      <li contentType="fr">Rapport de Termes bibliques à faire </li>
+   </ul>
+   <section1><object contentType="fr">Étape 6 : Finalisation pour la publication</object></section1>
+   <ul>
+      <li contentType="fr">Ajouter des illustrations et légendes </li>
+      <li contentType="fr">Trouver les noms des villes pour les cartes </li>
+      <li contentType="fr">Ajouter l’introduction au NT / Bible </li>
+      <li contentType="fr">Vérifier les passages parallèles </li>
+      <li contentType="fr">Vérifier que tous les contrôles sont complets </li>
+      <li contentType="fr">Vérification finale des noms propres </li>
+      <li contentType="fr">Les chiffres, l’argent, les poids et les mesures </li>
+      <li contentType="fr">Vérification du formatage </li>
+   </ul>
+<p contentType="fr">Étape 3 : Préparation pour le conseiller</p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="fr">Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base. </p>
+<img src="i.png"> 
+<p contentType="fr">Les modules suivant vous aidera avec ces étapes :</p>
+   <ul>
+      <li contentType="fr">RT1: Retraductions 1 </li>
+      <li contentType="fr">RT2 : Retraductions 2 mot à mot </li>
+      <li contentType="fr">BC3: Effectuer les vérifications de base  – à faire </li>
+   </ul>
+   <secTitle><object contentType="fr" type="t-fr">RT1 : Retraductions 1 </object></secTitle>
+   <table border="1"><tr><td>Créez un nouveau projet pour la retraduction </td><td>Créez une glose interlinéaire <br>mot à mot </td><td>Corriger les gloses</td><td>Exporter / approuver le verset </td><td>Éditez le projet RT en traduction libre </td></tr></table>
+<p contentType="fr"><object type="tItalic">Introduction  </object></p>
+<p contentType="fr">En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot. </p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ?  </object></p>
+<p contentType="fr">Vous avez saisi, vérifié et révisé votre traduction dans Paratext. Votre administrateur doit créer un projet pour la retraduction. </p>
+<p contentType="fr"><object type="tItalic">Pourquoi est-il important ?  </object></p>
+<p contentType="fr">Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connait pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.  </p>
+<p contentType="fr"><object type="tItalic">Que ferez-vous ? </object></p>
+<p contentType="fr">Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction. </p>Résumé  
+<p contentType="fr">Ce module vous montre comment : </p>
+<p contentType="fr">La tâche </p>
+<p contentType="fr">Résumé de pas </p>
+<p contentType="fr">Créer un nouveau projet pour la retraduction <br>(première fois seulement par l’administrateur) </p>
+   <ul>
+      <li contentType="fr">Fichier &gt; Nouveau Projet  </li>
+      <li contentType="fr">Cliquez le bouton<object type="tKw"> </object><object type="tKw">Édition</object>  </li>
+      <li contentType="fr">Saisissez le nom complet et un nom raccourci puis cliquez sur OK  </li>
+      <li contentType="fr">Choisissez la langue pour votre retraduction (p.ex. française) </li>
+      <li contentType="fr">Choisissez la versification </li>
+      <li contentType="fr">Pour le type de projet, choisissez « retraduction » </li>
+      <li contentType="fr">Choisissez votre projet du liste « Based on » (basé sur). </li>
+      <li contentType="fr">Cliquez sur l’onglet Livres </li>
+      <li contentType="fr">Choisissez les livres désirés </li>
+      <li contentType="fr">OK encore  </li>
+   </ul>
+<p contentType="fr">
+      <framedUnit type="tTeacher" contentType="fr">Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite la registration de votre projet.
+      </framedUnit> </p>
+<p contentType="fr">Saisir votre retraduction</p>
+   <ul>
+      <li contentType="fr">Ouvrez votre projet </li>
+      <li contentType="fr">Ouvrez votre retraduction </li>
+      <li contentType="fr">Arrange les fenêtres côté à côté pour facilement voir les deux fenêtres. </li>
+      <li contentType="fr">Cliquez dans la fenêtre de retraduction (le verset dans votre projet est surligné) </li>
+      <li contentType="fr">Saisissez la retraduction dans chaque verset (après la case à cocher). </li>
+      <li contentType="fr">Continuez à saisir chaque verset.  </li>
+   </ul>
+<p contentType="fr">Marquer le chapitre comme Achevé</p>
+<p contentType="fr">Quand vous avez fini le chapitre</p>De la barre d’outils en haut de la fenêtre de retraduction, cliquez sur la coche. <img src="i.png"> 
+<p contentType="fr">Choisissez <object type="tKw">Marquer tous les versets du chapitre comme achevés</object>. </p>
+<p contentType="fr">Toutes les cases du chapitre seront cochées en vert.</p>
+<p contentType="fr">Quand une modification est faite dans votre projet</p>Paratext détectera tout changement à votre texte (quand le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge <img src="i.png">et d’ajouter des questions à l’état de la retraduction dans le plan de projet.
+   <ul>
+      <li contentType="fr">Cliquez dans un verset avec un point d’interrogation rouge. </li>
+      <li contentType="fr">Revoyez et corrigez la retraduction. </li>
+      <li contentType="fr">Cliquez sur le point d’interrogation rouge </li>
+   </ul>
+<p contentType="fr">Il change à une coche verte</p>
+<p contentType="fr">Afficher les différences pour les versets périmés</p>Cliquez sur l’icône ab dans la barre d’outils pour voir les différences. 
+<p contentType="fr">Une fenêtre de comparaison s’affiche.</p>
+<img src="i.png"> 
+<p contentType="fr">Passer aux différences suivantes</p>• Cliquez sur les flèches haut et bas pour passer aux différences précédentes ou suivantes. <img src="i.png"> 
+<p contentType="fr">Vérifiez votre plan de projet </p>
+   <ul>
+      <li contentType="fr">Cliquez sur l’icône du plan de projet </li>
+      <li contentType="fr">(les vérifications de la retraduction arrière sont à la fin de la phase 4) </li>
+   </ul>
+<p contentType="fr">Le nombre de problèmes est affiché </p>
+<img src="i.png"> 
+<p contentType="fr">Vérification de versets de la retraduction (dans le plan du projet)</p>Cliquez sur le lien d’issues de « back translation verse check » 
+<p contentType="fr">Une liste de résultats s’affiche de toutes les erreurs.</p>Corrigez toutes les erreurs. 
+<p contentType="fr">Statut de la retraduction dans le plan du projet</p>
+   <ul>
+      <li contentType="fr">Cliquez sur le lien « Back translation status complete » </li>
+      <li contentType="fr">La fenêtre de retraduction s’affiche avec le curseur dans le premier verset avec des problèmes.  </li>
+      <li contentType="fr">Corrigez le problème et passez au verset dépassé suivant en cliquant sur les flèches de la barre d’outils.  </li>
+   </ul>
+<p contentType="fr"><object type="tItalic">Tâche d’apprentissage </object></p>
+<p contentType="fr">Les cases à cocher dans une retraduction peuvent avoir un certain nombre de symboles différents. </p>
+<p contentType="fr">Consultez la rubrique Aide sur les symboles et les symboles suivants: «Quels symboles peuvent se produire dans les cases à cocher de statut dans une retraduction?» </p>
+   <table border="1"><tr><td>A</td><td><img src="i.png"> </td><td> </td><td>1</td><td>numéro de verset incohérent</td></tr><tr><td>B</td><td><img src="i.png"> </td><td> </td><td>2</td><td>pas de texte/verse no.</td></tr><tr><td>C</td><td><img src="i.png"> </td><td> </td><td>3</td><td>inachevé (unfinished)</td></tr><tr><td>D</td><td><img src="i.png"> </td><td> </td><td>4</td><td>Achevé (Finished)</td></tr><tr><td>E</td><td><img src="i.png"> </td><td> </td><t>5</td><t>Dépassé (Out of date)</td></tr></table>
+<p contentType="fr">Réponses: A3, B4, C5, D1, E2</p>
+   <secTitle><object contentType="fr" type="t-fr">RT2 : Retraductions 2 (mot à mot) </object></secTitle>
+   <table border="1"><tr><t>Créez un nouveau projet pour <br>la retraduction </td><t>Créez une glose interlinéaire <br>mot à mot </td><t>Corriger les gloses</td><t>Exporter / <br>approuver le verset </td></tr></table>
+<p contentType="fr"><object type="tItalic">Introduction  </object></p>
+<p contentType="fr">Le module précédent a expliqué comment créer une retraduction qui exprime ce que le lecteur comprend quand il lit ou entend le texte. Il existe un autre type de retraduction qui est parfois utilisé et qui est un mot à mot retraduction. Certains consultants peuvent demander ce style de retraduction. Vous pouvez utiliser la fonction générateur d’interlinéaire de projet. </p>
+<p contentType="fr">N.B. En Paratext 8 vous ne pouvez qu’utiliser le générateur d’interlinéaire avec des projets inscrits. </p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ?  </object></p>
+<p contentType="fr">Vous avez saisi, vérifié et révisé votre traduction dans Paratext afin qu’elle soit prête pour une vérification du conseiller. Avant de commencer, votre administrateur doit créer un projet pour la retraduction mot à mot. [Ceci est distinct de la retraduction libre dans le module précédent.]  </p>
+<p contentType="fr"><object type="tItalic">Pourquoi est-il important ?  </object></p>
+<p contentType="fr">Votre consultant doit avoir une copie de votre traduction dans une langue qu’il peut comprendre. La retraduction effectuée dans le module précédent est très utile, mais il y a des moments où une traduction littérale est plus utile. </p>
+<p contentType="fr"><object type="tItalic">Que ferez-vous ? </object></p>
+<p contentType="fr">Premièrement, on utilisera la fonction du générateur d’Interlinéaire de projet pour créer automatiquement une glose interlinéaire mot à mot du texte. L’ordinateur est bon, mais il fait encore beaucoup d’erreurs. Ensuite, vous corrigez les gloses proposées si nécessaire. Vous voulez que les mots soient traduits correctement bien que l’ordre des mots ne soit pas correct pour cette langue. Quand vous êtes contents du texte, vous pouvez l’exporter dans un autre projet.  </p>Résumé  
+<p contentType="fr">Ce module vous montre comment :  </p>
+<p contentType="fr">Créer un nouveau projet pour la retraduction mot à mot <br>(première fois seulement par l’administrateur) </p>
+   <ul>
+      <li contentType="fr">Fichier &gt; Nouveau Projet  </li>
+      <li contentType="fr">Cliquez le bouton<object type="tKw"> </object><object type="tKw">Édition</object>  </li>
+      <li contentType="fr">Saisissez le nom complet et un nom raccourci puis cliquez sur OK  </li>
+      <li contentType="fr">Choisissez la langue pour votre retraduction (p.ex. français) </li>
+      <li contentType="fr">Choisissez la versification </li>
+      <li contentType="fr">Pour le type de projet, choisissez « retraduction » </li>
+      <li contentType="fr">Choisissez votre projet comme ce que c’est basé sur </li>
+      <li contentType="fr">Cliquez sur l’onglet Livres </li>
+      <li contentType="fr">Choisissez les livres désirés </li>
+      <li contentType="fr">OK encore</li>
+   </ul>
+<p contentType="fr"><framedUnit type="tTeacher" contentType="fr"><p contentType="fr">Ce projet n’est pas besoin d’être registré parce ce qu’il hérite la registration de votre projet. [Vous aurez deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p></framedUnit>
+<p contentType="fr">Créer une glose interlinéaire mot à mot</p>
+<p contentType="fr">[◙ RT01]</p>
+   <ul>
+      <li contentType="fr">Cliquez dans votre projet </li>
+      <li contentType="fr"><object type="tKw">Fichier</object> &gt; <object type="tKw">Ouvrir</object> le <object type="tKw">générateur d’Interlinéaire de projet</object>   </li>
+      <li contentType="fr">Choisissez votre projet comme le texte à partir duquel générer l’interlinéaire </li>
+      <li contentType="fr">Choisissez soit un texte ressource dans la langue du conseiller pour le texte modèle
+         (soit votre projet de retraduction libre)  </li>
+      <li contentType="fr">Cliquez l’onglet <object type="tKw">Avancé</object>   </li>
+      <li contentType="fr">Cochez « Exporter automatiquement les versets approuvés » </li>
+      <li contentType="fr">Choisissez le projet pour la retraduction mot à mot </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">OK</object>   </li>
+   </ul>
+<p contentType="fr">Confirmer et corriger l’interlinéaire </p>
+<p contentType="fr">[◙ RT02]</p>
+<p contentType="fr">
+      <framedUnit type="tTeacher" contentType="fr">Vous n’avez pas besoin de confirmer les gloses correctes, seulement corriger les incorrectes.</framedUnit> </p>
+<p contentType="fr">Pour corriger les gloses incorrectes </p>
+   <ul>
+      <li contentType="fr">Cliquez sur la glose </li>
+      <li contentType="fr">Soit cliquez une glose sur la liste <br>soit tapez une glose dans la case de texte   </li>
+      <li contentType="fr">Cliquez sur Entrée  </li>
+   </ul>
+<p contentType="fr">Traduire/gloser une expression </p>
+<p contentType="fr">[◙ RT03]</p>
+   <ul>
+      <li contentType="fr">Cliquez entre les deux mots </li>
+      <li contentType="fr">Cliquez sur l’icône « Lier mots »  </li>
+      <li contentType="fr">Cliquez sur la ligne rouge en bas </li>
+      <li contentType="fr"><img src="i.png">Saisissez la glose  Saisissez la glose   </li>
+   </ul>
+<p contentType="fr">Ajouter des mots supplémentaires </p>
+<p contentType="fr">[◙ RT04]</p>
+   <ul>
+      <li contentType="fr">Cliquez entre deux gloses  </li>
+      <li contentType="fr">Saisissez la glose  </li>
+   </ul>
+<p contentType="fr">Spécifier la morphologie </p>
+<p contentType="fr">[◙ RT05]</p>
+   <ul>
+      <li contentType="fr">Cliquez sur un mot dans la ligne de la langue de la traduction  </li>
+      <li contentType="fr">Cliquez sur « Ajouter analyse de mot »  </li>
+      <li contentType="fr">Ajouter des espaces entre les morphèmes et « + » aux limites du morphème  </li>
+      <li contentType="fr">Cliquez OK  </li>
+   </ul>
+<p contentType="fr">Exporter/approuver le texte </p>
+<p contentType="fr">[◙ RT06]</p>
+   <ul>
+      <li contentType="fr">Cliquer sur <object type="tKw">Approuver le verset</object>   </li>
+      <li contentType="fr">Pour continuer, cliquez <object type="tKw">Prochain verset non approuvé</object>   </li>
+   </ul>
+   <secTitle><object contentType="fr" type="t-fr">CT : Comparer les textes </object></secTitle>
+   <table border="1"><tr><t>Marquer un point de repère<br>dans l’historique du projet</td><t>Comparaison <br>des différences</td></tr></table>
+<p contentType="fr"><object type="tItalic">Introduction </object></p>
+<p contentType="fr">Dans ce module, vous apprendrez comment enregistrer les versions anciennes de votre texte pour les revoir plus tard. </p>
+<p contentType="fr"><object type="tItalic">Où en sommes-nous ? </object></p>
+<p contentType="fr">Vous avez travaillé sur votre texte dans Paratext et vous êtes arrivé au un point important du projet. </p>
+<p contentType="fr"><object type="tItalic">Pourquoi cette aptitude est-elle importante ? </object></p>
+<p contentType="fr">Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Après avoir « marqué un point de repère dans l’historique du projet », vous pouvez comparer les anciennes versions du texte avec le texte actuel. </p>
+<p contentType="fr"><object type="tItalic">Qu’est-ce qu’on va faire ? </object></p>
+<p contentType="fr">Vous allez marquer un point de repère dans l’historique du projet auquel vous pourrez revenir plus tard afin de comparer votre travail. </p>Résumé 
+<p contentType="fr">Ce module vous montre comment :</p>
+<p contentType="fr">Tâche</p>
+<p contentType="fr">Résumé des étapes</p>
+<p contentType="fr">Sauvegarder à chaque étape majeure de votre projet</p>
+<p contentType="fr">[◙ GF01]</p>
+   <ul>
+      <li contentType="fr">Cliquez dans votre fenêtre de projet (dans Paratext ) </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Projet, </object>sélectionnez <object type="tKw">Marquer un point de repère dans l’historique du projet.</object>  </li>
+      <li contentType="fr">Tapez un commentaire qui décrit le point de repère dans l’historique du projet. </li>
+   </ul>
+<p contentType="fr">N.B. C’est bon de commencer le commentaire avec quelques symboles, comme ###, pour bien trouver les points dans la liste.  </p>Cliquez sur <object type="tKw">OK</object>. 
+<p contentType="fr">Voir les différences entre deux points (ou versions)</p>
+<p contentType="fr">[◙ GF02]</p>Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Comparer</object> <object type="tKw">textes...</object> 
+<p contentType="fr"><object type="tKw"></object></p>Cliquez sur le bouton <object type="tKw">Sélectionner</object>. <img src="i.png">Choisissez votre point désiré dans l’historique. Choisissez votre point désiré dans l’historique. 
+<p contentType="fr">
+      <framedUnit type="tTeacher" contentType="fr">L’écran changera et montrera les différences entre les deux versions. Chaque partie du texte qui a été supprimée est barrée. Chaque partie de texte qui a été ajoutée est soulignée.
+      </framedUnit> </p>
+<p contentType="fr">
+<p contentType="fr"><object type="tItalic">Étape 4 : Vérification par un conseiller</object></p> </p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="fr">La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluer votre texte, prendre des notes, réviser vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet. </p><img src="i.png"> 
+<p contentType="fr">Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p>
+<p contentType="fr">Étape 5 : Tester/réviser avec la communauté </p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="fr">La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés. </p><img src="i.png"> 
+<p contentType="fr">Les modules suivants vous aideront avec cette étape:</p>
+   <ul>
+      <li contentType="fr">Rapport —  progrès de projet — à faire </li>
+      <li contentType="fr">Rapport — termes clés — à faire </li>
+   </ul>
+<p contentType="fr">Étape 6 : Finalisation pour la publication</p>
+<p contentType="fr"><object type="tItalic">​Introduction </object></p>
+<p contentType="fr">La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales. </p><img src="i.png"> 
+<p contentType="fr">Qu’est-ce que vous allez faire ?</p>
+   <ul>
+      <li contentType="fr">Ajouter des illustrations et légendes </li>
+      <li contentType="fr">Trouver les noms des villes pour les cartes </li>
+      <li contentType="fr">Ajouter l’introduction au NT / Bible </li>
+      <li contentType="fr">Vérifier les passages parallèles </li>
+      <li contentType="fr">Vérifier que tous les contrôles sont complets </li>
+      <li contentType="fr">Vérification finale des noms propres </li>
+      <li contentType="fr">Les chiffres, l’argent, les poids et les mesures </li>
+      <li contentType="fr">Vérification du formatage: ... </li>
+   </ul>Résumé 
+<p contentType="fr">Ce module vous montre comment :</p>
+<p contentType="fr">Ajouter des illustrations et légendes</p>
+   <ul>
+      <li contentType="fr">Dans votre projet, allez au verset désiré. </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Insérer</object>, choisissez <object type="tKw">Image</object>  </li>
+      <li contentType="fr">Saisissez une <object type="tKw">légende</object> pour être imprimé avec l’image.[1]  </li>
+      <li contentType="fr">Entrez une <object type="tKw">description</object> en français de l’image (ne pas être imprimé) [2].  </li>
+      <li contentType="fr">Indiquez si l’image doit remplir la largeur d’une colonne ou d’une page. [3] </li>
+      <li contentType="fr">Permets d’entrer des informations sur l’emplacement de l’image. [4] [Facultatif]  </li>
+      <li contentType="fr">Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [5] </li>
+      <li contentType="fr">Paratext va remplir la référence de chapitre et verset qui concerne l’image. [6] </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">Parcourir</object>... pour rechercher le fichier de l’image. [7]  </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">OK</object>.  </li>
+   </ul>
+<p contentType="fr">Trouver les noms des villes pour les cartes</p>
+   <ul>
+      <li contentType="fr">Cliquez dans votre projet. </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Termes bibliques</object>  </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Fichier</object>, choisissez <object type="tKw">Sélectionner liste de termes</object>  </li>
+      <li contentType="fr">Double-cliquez sur NTMaps Biblical Terms </li>
+      <li contentType="fr">Ajouter les équivalents comme normaux. </li>
+   </ul>
+<p contentType="fr">Ajouter l’introduction au NT / Bible</p>Tapez l’introduction du NT dans le livre <object type="tKw">INT</object> 
+<p contentType="fr">Vérifier les passages parallèles</p>voir module PP 
+<p contentType="fr">Vérifier que tous les contrôles sont complets</p>
+   <ul>
+      <li contentType="fr">Ouvre le plan du projet. </li>
+      <li contentType="fr">Vérifiez qu’il n’y a plus d’issues pour les vérifications. </li>
+      <li contentType="fr">Refaites les inventaires. </li>
+      <li contentType="fr">[<object type="tKw">Vérifications</object> &gt; <object type="tKw">Effectuer les vérifications de base</object>.]  </li>
+   </ul>
+<p contentType="fr">La liste de mots</p>
+   <ul>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Vérifier l’orthographe</object> &gt; <object type="tKw">All checks</object>  </li>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Rechercher des mots mal liés ou mal divisés</object>  </li>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Rechercher mots pareils</object>  </li>
+   </ul>
+<p contentType="fr">Vérification finale des noms propres</p>
+   <ul>
+      <li contentType="fr">Ouvrez l’outil termes bibliques </li>
+      <li contentType="fr">Sélectionnez la liste termes bibliques principaux </li>
+      <li contentType="fr">Choisissez équivalents manquants (missing renderings)  </li>
+      <li contentType="fr">Faites un filtre de noms propres </li>
+      <li contentType="fr">Vérifier que tous les noms ont un équivalent. </li>
+   </ul>
+<p contentType="fr">Les chiffres, l’argent, les poids et les mesures</p>
+   <ul>
+      <li contentType="fr">Cliquez dans votre projet. </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Outils</object>, choisissez <object type="tKw">Termes bibliques</object>  </li>
+      <li contentType="fr">Dans le menu <object type="tKw">Fichier</object>, choisissez <object type="tKw">Sélectionner liste de termes</object>  </li>
+      <li contentType="fr">Double-cliquez sur le nom de la liste </li>
+      <li contentType="fr">Ajouter les équivalents comme normaux. </li>
+   </ul>
+<p contentType="fr">Vérification du formatage: ...</p>
+   <ul>
+      <li contentType="fr">Refaites le module VM : Vérification de mise en page d’étape 2. </li>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Listes récapitulatives</object> &gt; <object type="tKw">Versets longs/Versets courts</object>  </li>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Listes récapitulatives</object> &gt; Word or phrase (mots ou expression)  </li>
+   </ul>
+<p contentType="fr">Penser à</p>
+   <ul>
+      <li contentType="fr">Taille de page </li>
+      <li contentType="fr">Police et taille de police </li>
+      <li contentType="fr">Colonnes </li>
+      <li contentType="fr">Césure de mots (hyphenation) </li>
+   </ul>
+   <ul>
+      <li contentType="fr">Vérifiez chaque élément en Paratext </li>
+      <li contentType="fr">introductions </li>
+      <li contentType="fr">glossaire </li>
+      <li contentType="fr">… </li>
+      <li contentType="fr">images </li>
+      <li contentType="fr">droit d’auteur </li>
+      <li contentType="fr">cartes </li>
+      <li contentType="fr">créateur de cartes </li>
+   </ul>
+   <secTitle><object contentType="fr">PP : Comparer passages parallèles</object></secTitle>
+<p contentType="fr"><object type="tItalic">Introduction </object></p>
+<p contentType="fr">Il y a des milles des passages dans un NT où le même événement est décrié ou qui citent un autre verset. On doit comparer ces textes pour vérifier qu’il est cohérent. </p>Où en sommes-nous ?
+<p contentType="fr">Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller. </p>
+<p contentType="fr"><object type="tItalic">​Pourquoi cette aptitude est-elle importante ? </object></p>
+<p contentType="fr">Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujours être exactement le même. Paratext peut vous surligner quand la forme du texte est la même, mais c’est le sens (et pas nécessairement la forme) qui est important. Souvent ces comparaisons sont faites après avoir traduit les passages parce qu’on ne veut pas être influencé par ce que peut être une mauvaise traduction. Mais il y a des fois qu’on veut voir un autre passage d’un différent livre en même temps. </p>
+<p contentType="fr"><object type="tItalic">​Qu’est-ce qu’on va faire ? </object></p>
+<p contentType="fr">Vous utilisez l’outil Textes parallèle pour comparer les textes. Grâce aux nouvelles cases on peut savoir quels passages sont déjà finis et aussi s’il un passage était changé après vous l’avez vérifié. </p>
+<p contentType="fr">Vous pouvez également voir un autre passage dans une fenêtre (qui ne déroule pas avec les autres fenêtres) pendant que vous traduisez un passage.  </p>Résume 
+<p contentType="fr">Ce module vous montre comment :</p>
+<p contentType="fr">Tâche </p>
+<p contentType="fr">Résumé des étapes</p>
+<p contentType="fr">Configuration </p>Ouvrir la fenêtre de Textes parallèles 
+   <ul>
+      <li contentType="fr">Naviguez au livre/chapitre/verset voulu. </li>
+      <li contentType="fr">Outil &gt; Textes parallèles </li>
+   </ul>
+<p contentType="fr">Sélectionner des Textes comparatifs </p>
+   <ul>
+      <li contentType="fr">Cliquez sur le bouton Textes comparatifs  </li>
+      <li contentType="fr">Cliquez sur une ressource (à gauche) </li>
+      <li contentType="fr">Cliquez sur la flèche droite </li>
+      <li contentType="fr">Répétez si nécessaire </li>
+      <li contentType="fr">Cliquez sur OK </li>
+   </ul>
+<p contentType="fr">Afficher les textes sources</p>
+   <ul>
+      <li contentType="fr">Cliquez sur bouton Texte hébreu/grec </li>
+      <li contentType="fr">Choisissez comme désiré </li>
+   </ul>
+<p contentType="fr">Filtres</p>Choisissez les filtres comme désiré:  [All references, Current book, Synoptic gospels] 
+<p contentType="fr">Voir des passages</p>Cliquez dans une ligne dans la partie en haut. 
+<p contentType="fr">Les textes s’affichent en bas.</p>
+<p contentType="fr">Le texte en vert montre qu’il y a les mots exactement la même dans d’un autre passage.</p>
+<p contentType="fr">Le texte en jaune n’est pas exact, mais vient de la même racine.</p>
+<p contentType="fr">Si le texte est en vert en grec votre texte doit être la même.</p>
+<p contentType="fr">Normalement, si le texte est diffèrent en grec, votre texte doit être diffèrent, mais pas toujours.</p>
+<p contentType="fr">Pour faire des corrections</p>
+   <ul>
+      <li contentType="fr">Cliquez sur le lien bleu « ‘Edition » </li>
+      <li contentType="fr">Faites les corrections. </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">OK.</object>   </li>
+   </ul>
+<p contentType="fr">Copier un texte</p>
+   <ul>
+      <li contentType="fr">Cliquez sur le lien bleu « <object type="tKw">Édition</object> »  </li>
+      <li contentType="fr">Sélectionnez le texte </li>
+      <li contentType="fr">Copiez (ctrl+c) </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">OK.</object>   </li>
+      <li contentType="fr">Cliquez sur le lien bleu d’autre texte </li>
+      <li contentType="fr">Sélectionnez le texte </li>
+      <li contentType="fr">Collez (ctrl+v) </li>
+      <li contentType="fr">Cliquez sur <object type="tKw">OK.</object>  </li>
+   </ul>
+<p contentType="fr">Faites attention s’il y a plus un verset. On ne veut pas copier le \v.</p>
+<p contentType="fr">Marquer un texte comme fini</p>Cliquez sur la case pour le cocher. 
+<p contentType="fr">Identifier les passages qui ont été modifiés après avoir marqué comme finis</p>
+   <ul>
+      <li contentType="fr">Dans l’outil de Passage parallèle  </li>
+      <li contentType="fr">Changez le filtre de passage au « Changed Text » </li>
+   </ul><img src="i.png"> Cliquez sur ab 
+<p contentType="fr">une fenêtre de comparaison s’affiche en Paratext.</p>
+   <ul>
+      <li contentType="fr">Modifiez le texte si nécessaire. </li>
+      <li contentType="fr">Retourner à l’outil passages parallèles (avec la barre des tâches) </li>
+      <li contentType="fr">Cliquez sur la case pour le cocher est marqué comme fini. </li>
+   </ul>
+<p contentType="fr">Comparer les textes pendant la traduction</p>
+   <ul>
+      <li contentType="fr">Cliquez dans votre projet. </li>
+      <li contentType="fr"><object type="tKw">Outils</object> &gt; <object type="tKw">Aperçu Rapide</object>  </li>
+      <li contentType="fr">Le groupe est automatiquement « aucune » </li>
+      <li contentType="fr">Changez la référence à un autre passage.  </li>
+      <li contentType="fr">Pour voir un troisième passage,  </li>
+   </ul>
+<p contentType="fr">Voir un troisième passage</p>
+   <ul>
+      <li contentType="fr">Ouvrez votre projet un deuxième fois [File-Ouvrir projet/ressource] </li>
+      <li contentType="fr">Puis changer la groupe de défilement de [A] au « Aucun »/None. </li>
+      <li contentType="fr"><img src="i.png">  </li>
+   </ul>
+<p contentType="fr">Savez-vous ce que signifient les couleurs et les symboles? Faites correspondre les symboles avec leurs significations pour le volet supérieur et inférieur:</p>
+<p contentType="fr">Volet supérieur        Volet inférieur</p>
+   <table border="1"><tr><t>1   MAT 1:1 (noir)   </td><t>a</td><t>Approuvé</td><t>1 </td><t><img src="i.png"> </td><t>A</td><t>Fini</td></tr><tr><t>2   MAT 1:1 (vert)    </td><t>b</td><t>Changé depuis approuvé</td><t>2 </td><t><img src="i.png"> </td><t>B</td><t>pas de permission</td></tr><tr><t>3   MAT 1:1 (gris)     </td><t>c</td><t>pas de texte ou no. verset manquant</td><t>3 </td><t><img src="i.png"> </td><t>C</td><t>pas de texte/no. de verset</td></tr><tr><t>4   MAT 1:1  (rouge)      </td><t>d</td><t>ne fait pas partie du projet</td><t>4 </td><t><img src="i.png"> </td><t>D</td><t>pas fini</td></tr><tr><t>5   MAT 1:1 (rouge)       </td><t>e</td><t>pas encore approuvé</td><t>5 </td><t><img src="i.png"> </td><t>E</td><t>périmé</td></tr><tr><t>  </td><t> </td><t> </td><t>6 </td><t>pas de case</td><t>F</td><t>Verset manquant</td></tr></table>
+<p contentType="fr">Réponses: Upper pane: 1e, 2a, 3d, 4c, 5b, Lower pane: 1B, 2D, 3A, 4E, 5F, 6C</p>
+   <secTitle><object contentType="fr" type="t-fr">Annexe - Livres de la Bible </object></secTitle>
+   <secTitle><object contentType="fr" type="t-fr">Abréviations en trois lettres  </object></secTitle>
+<p contentType="fr">Ancien Testament</p>
+   <table border="1"><tr><t>Genèse [Genesis] [GEN]</td><t>Exode [Exodus] [EXO]</td><t>Lévitique [Leviticus] [LEV]</td></tr><tr><t>Nombres [Numbers] (NUM)</td><t>Deutéronome [Deuteronomy] (DEU)</td><t>Josué [Joshua] [JOS]</td></tr><tr><t>Juges [Judges] (JDG)</td><t>Ruth [RUT]</td><t>1 Samuel [1SA]</td></tr><tr><t>2 Samuel [2SA]</td><t>1 Rois [1 Kings] [1KI]</td><t>2 Rois [2 Kings] [2KI]</td></tr><tr><t>1 Chroniques [1 Chronicles] [1CH]</td><t>2 Chroniques [2 Chronicles] [2CH]</td><t>Esdras [Ezra] [EZR]</td></tr><tr><t>Néhémie [Nehemiah] [NEH]</td><t>Esther [EST]</td><t>Job [JOB]</td></tr><tr><t>Psaumes [Psalms] [PSA]</td><t>Proverbes [Proverbs] [PRO]</td><t>Ecclésiaste [Ecclesiastes] (ECC) </td></tr><tr><t>Cantique des cantiques [Song of Songs] [SNG]</td><t>Ésaïe [Isaiah] [ISA]</td><t>Jérémie [Jeremiah] [JER]</td></tr><tr><t>Lamentations [LAM]</td><t>Ézékiel [Ezekiel] [EZK]</td><t>Daniel [DAN]</td></tr><tr><t>Osée [Hosea] [HOS]</td><t>Joël [JOL]</td><t>Amos [AMO]</td></tr><tr><t>Abdias [Obadiah] (OBA)</td><t>Jonas [Jonah] (JON)</td><t>Michée [Micah] (MIC)</td></tr><tr><t>Nahoum [Nahum] (NAM)</td><t>Habacuc [Habakkuk] [HAB]</td><t>Sophonie [Zephaniah] [ZEP]</td></tr><tr><t>Aggée [Haggai] [HAG]</td><t>Zacharie [Zechariah] [ZEC]</td><t>Malachie [Malachi] [MAL]</td></tr></table>
+<p contentType="fr">Nouveau Testament</p>
+   <table border="1"><tr><t>Matthieu [Matthew] [MAT]</td><t>Marc [Mark] [MRK]</td><t>Luc [Luke] [LUK]</td></tr><tr><t>Jean [John] [JHN]</td><t>Actes [Acts] [ACT]</td><t>Romains [Romans] [ROM]</td></tr><tr><t>1 Corinthiens [1 Corinthians] [1CO]</td><t>1 Corinthiens [2 Corinthians] [2CO]</td><t>Galates [Galatians] [GAL]</td></tr><tr><t>Éphésiens [Ephesians] [EPH]</td><t>Philippiens [Philippians] (PHP</td><t>Colossiens Colossians (COL)</td></tr><tr><t>1 Thessaloniciens [1 Thessalonians] (1TH)</td><t>1 Thessaloniciens [2 Thessalonians] (2TH)</td><t>1 Timothée [1 Timothy] (1TI)</td></tr><tr><t>2 Timothée [2 Timothy] (2TI)</td><t>Tite [Titus] (TIT)</td><t>Philémon [Philemon] (PHM)</td></tr><tr><t>Hébreux [Hebrews] (HEB)</td><t>Jacques [James] (JAS)</td><t>1 Pierre [1 Peter] (1PE)</td></tr><tr><t>2 Pierre [2 Peter] (2PE)</td><t>1 Jean [1 John] (1JN)</td><t>2 Jean [2 John] (2JN)</td></tr><tr><t>3 Jean [3 John] (3JN)</td><t>Jude (JUD)</td><t>Apocalypse [Revelation] (REV)</td></tr></table>
+   <secTitle><object contentType="fr" type="t-fr">Les caractères de Tchad Unicode </object></secTitle>
+<p contentType="fr">Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus d’une touche.  </p>
+<p contentType="fr">Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère. </p>
+   <table border="1"><tr><t>Les caractères du Tchad</td><t>Les tons</td></tr><tr><t>Tapez … pour avoir</td><t>Tapez … pour avoir</td></tr><tr><t>;’ ’ </td><t>;nŋ</td><t> ]</td><t>à  ton bas</td></tr><tr><t>;b ɓ</td><t>;oɔ</td><t> [</td><t>á  ton haut</td></tr><tr><t>;cç</td><t>;pœ</td><t> =</td><t>ā  ton moyen</td></tr><tr><t>;dɗ</td><t>;yƴ</td><t> ^</td><t>â  ton descendant</td></tr><tr><t>;eɛ</td><t> </td><t> |</td><t>ǎ  ton montant</td></tr><tr><t>;fə</td><t> </td><t> #</td><t>ä  umlaut</td></tr><tr><t>;hɦ</td><t> </td><t> ~</td><t>ã  tilde</td></tr><tr><t>;kɨ</td><t> </td><t> _</td><t>a̰  sous tilde</td></tr><tr><t>;mɲ</td><t> </td><t> `</td><t>a̧  cédille</td></tr></table>
+<p contentType="fr">Taper les autres caractères spéciaux de la façon suivante :</p>
+   <table border="1"><tr><t>Taper</td><t>pour avoir</td><t> </td><t>Tapez</td><t>pour avoir</td></tr><tr><t>;]</td><t>]</td><t> </td><t>;;</td><t>;</td></tr><tr><t>;[</td><t>[</td><t> </td><t>;{</td><t>“</td></tr><tr><t>;=</td><t>=</td><t> </td><t>;}</td><t>”</td></tr><tr><t>;^</td><t>^</td><t> </td><t>;(</td><t>’</td></tr><tr><t>;|</td><t>|</td><t> </td><t>;)</td><t>’</td></tr><tr><t>;#</td><t>#</td><t> </td><t>;&lt;1</td><t>«</td></tr><tr><t>;~</td><t>~</td><t> </td><t>;&gt;</td><t>»</td></tr><tr><t>;_</td><t>_</td><t> </td><t>;,</td><t>‹</td></tr><tr><t>;`</td><t>`</td><t> </td><t>;.</td><t>›</td></tr></table>
+   <secTitle><object contentType="fr" type="t-fr">USFM Marqueurs fréquents </object></secTitle>
+<p contentType="fr">\c chapitre</p>
+<p contentType="fr">\v verset</p>
+<p contentType="fr">\p paragraphe (petit retrait)</p>
+<p contentType="fr">\m même paragraphe (retour à la ligne, mais sans retrait)</p>
+<p contentType="fr">\s1 sous-titre</p>
+<p contentType="fr">\r  références parallèles </p>
+<p contentType="fr">\q1 poésie niveau 1</p>
+<p contentType="fr">\q2 poésie niveau 2</p>
+<p contentType="fr">\h entête (header)</p>
+<p contentType="fr">\mt1 titre principal</p>
+<p contentType="fr">\mt2 titre secondaire</p>
+<p contentType="fr">\k .... \k* mot-clé dans glossaire (dans le glossaire)</p>
+<p contentType="fr">\w ... \w* mot qui est dans le glossaire (dans le texte)</p>
+   <secTitle><object contentType="fr">Introductions</object><object contentType="fr"></object></secTitle>
+   <secTitle><object contentType="fr">\ip        paragraphe </object><object contentType="fr"></object></secTitle>
+   <secTitle><object contentType="fr">\is        section heading</object><object contentType="fr"></object></secTitle>
+   <secTitle><object contentType="fr">\io1        outline 1</object><object contentType="fr"></object></secTitle>
+   <secTitle><object contentType="fr">\ili1        list level 1</object><object contentType="fr"></object></secTitle>
+<p contentType="fr">\ili2        list level 2</p>
+<p contentType="fr">Index</p>
+<p contentType="fr">gestion des fichiers</p>
+<p contentType="fr">différences entre deux points (ou versions)        20</p>
+<p contentType="fr">sauvegarder à chaque étape majeure de votre projet        20</p>
+<p contentType="fr">retraduction</p>
+<p contentType="fr">ajouter des mots supplémentaires        17</p>
+<p contentType="fr">confirmer et corriger l’interlinéaire        17</p>
+<p contentType="fr">créer une glose interlinéaire mot à mot        17</p>
+<p contentType="fr">exporter/approuver le texte        18</p>
+<p contentType="fr">spécifier la morphologie        18</p>
+<p contentType="fr">traduire/gloser une expression        17</p>
+<p contentType="fr">textes parallèles</p>
+<p contentType="fr">faire des corrections        28</p>
+<p contentType="fr">ouvrir la fenêtre de Textes parallèles        28</p>
+<p contentType="fr">sélectionner des Textes comparatifs        28</p>
+<p contentType="fr"><object type="tItalic">Table des matières</object></p>
+<p contentType="fr">Introduction        5</p>
+<p contentType="fr">Étape 3 : Préparation pour le conseiller        9</p>
+<p contentType="fr">RT1 : Retraductions 1        10</p>
+<p contentType="fr">RT2 : Retraductions 2 (mot à mot)        15</p>
+<p contentType="fr">CT : Comparer les textes        19</p>
+<p contentType="fr">Étape 4 : Vérification par un conseiller        21</p>
+<p contentType="fr">Étape 5 : Tester/réviser avec la communauté        22</p>
+<p contentType="fr">Étape 6 : Finalisation pour la publication        23</p>
+<p contentType="fr">PP : Comparer passages parallèles        27</p>
+<p contentType="fr">Annexe - Livres de la Bible        31</p>
+<p contentType="fr">Les caractères de Tchad Unicode        33</p>
+<p contentType="fr">USFM Marqueurs fréquents        34</p>
+<p contentType="fr">1 Pour Keyman &lt;&lt; pour « et &gt;&gt; pour », ;&lt; pour ‹ et ;&gt; pour ›</p>
+</html>
