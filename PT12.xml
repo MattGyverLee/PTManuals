@@ -9,7 +9,10 @@ automaticallywrapinterlinears="yes"
 version="2.28.0"
 ><frontMatter
 ><title
->Paratext 8</title
+><object
+type="tPT"
+></object
+></title
 ><shortTitle
 >Paratext_8_1-2</shortTitle
 ><subtitle
@@ -77,10 +80,22 @@ type="t-fr"
 ></secTitle
 ><p
 contentType="en"
->The participants will process their translation with the help of Paratext 8, a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7.5 et 8.</p
+>The participants will process their translation with the help of <object
+type="tPT"
+></object
+> , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between <object
+type="tPTPrev"
+></object
+> et <object
+type="tPT"
+></object
+>.</p
 ><p
 contentType="fr"
->Les participants traiteront leur traduction à l’aide de Paratext 8, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
+>Les participants traiteront leur traduction à l’aide de <object
+type="tPT"
+></object
+> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
 ></section1
 ><section1
 id="s3"
@@ -103,15 +118,24 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
->Start Paratext </object
+type="tsub"
+>Start <object
+type="tPT"
+></object
+> </object
 ></pc
 ><ul
 ><li
 contentType="en"
->Start the Paratext program using a desktop icon.</li
+>Start the <object
+type="tPT"
+></object
+> program using a desktop icon.</li
 ><li
->Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau.</li
+>Lancer le programme <object
+type="tPT"
+></object
+> à l’aide de l’icône sur le bureau.</li
 ></ul
 ><p
 contentType="en"
@@ -122,13 +146,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Open projects and resources to understand the text before translating</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Ouvrir des projets et des ressources pour comprendre le texte avant de traduire </object
 ></pc
 ><ul
@@ -148,13 +172,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Enter the translation</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Saisir la traduction </object
 ></pc
 ><ul
@@ -204,13 +228,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Basic checks</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Vérifications de base </object
 ></pc
 ><ul
@@ -230,13 +254,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Project progress</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Project progrès </object
 ></pc
 ><ul
@@ -256,13 +280,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Proper names</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Noms propres </object
 ></pc
 ><ul
@@ -282,35 +306,33 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Biblical terms consistent</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Termes bibliques </object
 ></pc
-><p
-contentType="fr"
->**missing**</p
 ><ul
 ><li
 contentType="en"
 >Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.</li
 ><li
+contentType="fr"
 >Utiliser la fenêtre de termes bibliques et l’outil de termes bibliques pour assurer que l’utilisation des termes est cohérente. </li
 ></ul
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Checks</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Vérifications </object
 ></pc
 ><ul
@@ -339,13 +361,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Using notes</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Utiliser des remarques</object
 ></pc
 ><ul
@@ -365,13 +387,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Print draft</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Imprimer des ébauches </object
 ></pc
 ><ul
@@ -391,13 +413,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduce yourself</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Se présenter </object
 ></pc
 ><p
@@ -477,20 +499,23 @@ border="1"
 ></table
 ><p
 contentType="en"
->While the facilitators install Paratext on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.</p
+>While the facilitators install <object
+type="tPT"
+></object
+> on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.</p
 ><p
 contentType="fr"
 >**missing**</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >For each module</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pour chaque module </object
 ></pc
 ><ul
@@ -690,23 +715,29 @@ contentType="en"
 >Introduction</p
 ><p
 contentType="fr"
->Introduction </p
+>Introduction</p
 ><p
 contentType="en"
->As you work with your text in Paratext you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.</p
+>As you work with your text in <object
+type="tPT"
+></object
+> you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.</p
 ><p
 contentType="fr"
->Vous voulez travailler sur votre texte en Paratext et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
+>Vous voulez travailler sur votre texte en <object
+type="tPT"
+></object
+> et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -714,17 +745,20 @@ contentType="en"
 >We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.</p
 ><p
 contentType="fr"
->Avant de pouvoir faire ceci, Paratext et les ressources diverses doivent avoir été installés et un projet pour vos données doit avoir été créé.</p
+>Avant de pouvoir faire ceci, <object
+type="tPT"
+></object
+> et les ressources diverses doivent avoir été installés et un projet pour vos données doit avoir été créé.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -736,27 +770,36 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What are you going to do?</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
 contentType="en"
->You will start the Paratext program and open a saved combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.</p
+>You will start the <object
+type="tPT"
+></object
+> program and open a saved combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.</p
 ><p
 contentType="fr"
 >On va lancer le logiciel Paratext, puis ouvrir une combinaison des fenêtres qu’est déjà enregistré. Si nécessaire vous pouvez modifier la disposition des fenêtres et réenregistrer la disposition.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -769,7 +812,10 @@ id="s4"
 ><object
 contentType="en"
 type="t-en"
->Load the Paratext program</object
+>Load the <object
+type="tPT"
+></object
+> program</object
 ><object
 contentType="en"
 type="t-fr"
@@ -783,13 +829,22 @@ src="12imgeng/image3.png"
 ><ul
 ><li
 contentType="en"
->Double-click on Paratext 8 icon on the desktop OR</li
+>Double-click on <object
+type="tPT"
+></object
+> icon on the desktop OR</li
 ><li
 contentType="fr"
->Double-cliquez sur l’icône Paratext 8 sur le bureau </li
+>Double-cliquez sur l’icône <object
+type="tPT"
+></object
+> sur le bureau </li
 ><li
 contentType="en"
->(From the Start menu, choose Paratext 8)</li
+>(From the Start menu, choose <object
+type="tPT"
+></object
+> )</li
 ><li
 contentType="fr"
 >**missing**</li
@@ -810,10 +865,16 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Click on the Window menu</li
+>Click on the <object
+type="tmenu"
+>Window</object
+> menu</li
 ><li
 contentType="fr"
->Cliquez sur le menu Fenêtre  </li
+>Cliquez sur le menu <object
+type="tmenu"
+>Fenêtre</object
+>  </li
 ><li
 contentType="en"
 >Choose a saved text combination.</li
@@ -854,9 +915,6 @@ contentType="en"
 ><p
 contentType="fr"
 >Si vous n’avez pas encore enregistré une combinaison de fenêtres, on vous suggère de faire comme ci-dessous</p
-><p
-contentType="en"
->***</p
 ></section1
 ><section1
 id="s7"
@@ -873,71 +931,139 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Window &gt; Unstacked</li
+><object
+type="tmenu"
+>Window</object
+> &gt; <object
+type="tmenu"
+>Unstacked</object
+></li
 ><li
 contentType="fr"
->Fenêtre &gt; <br
-></br
-><br
-></br
->Non disposées </li
+><object
+type="tmenu"
+>Fenêtre</object
+> &gt; <object
+type="tmenu"
+>Non disposées</object
+> </li
 ><li
 contentType="en"
 >Open the 5 windows as follows:</li
 ><li
 contentType="fr"
->Ouvrez 5 fenêtres comme suit :  </li
+>Ouvrez 5 fenêtres comme suit :</li
 ></ul
 ><p
 contentType="en"
 >5 =your project <br
 ></br
->(File &gt; Open project/resource</p
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open project/resource</object
+></p
 ><p
 contentType="fr"
 >5 = votre projet <br
 ></br
->(Fichier &gt; Ouvrir projet/ressource</p
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir projet/ressource</object
+></p
 ><p
 contentType="en"
 >1 = Renderings <br
 ></br
->(File &gt; Open Biblical Terms renderings)</p
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Biblical Terms renderings</object
+>)</p
 ><p
 contentType="fr"
 >1 = équivalents <br
 ></br
->(Fichier &gt; Ouvrir les termes équivalents aux termes bibliques)</p
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir les termes équivalents aux termes bibliques</object
+>)</p
 ><p
 contentType="en"
 >2 = Source text <br
 ></br
->(File &gt; Open Source language text)</p
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Source language text</object
+>)</p
 ><p
 contentType="fr"
 >2 = texte source <br
 ></br
->(Fichier &gt; Ouvrir le texte source)</p
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir le texte source</object
+>)</p
 ><p
 contentType="en"
 >3 = Dictionary <br
 ></br
->(File &gt; Open source language dictionary )</p
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open source language dictionary </object
+>)</p
 ><p
 contentType="fr"
 >3 = dictionnaire <br
 ></br
->(Fichier &gt; Ouvrir un dictionnaire de langue source)</p
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir un dictionnaire de langue source</object
+>)</p
 ><p
 contentType="en"
 >4= Text collection <br
 ></br
->(File &gt; Open project/resource in Text Collection)</p
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open project/resource in Text Collection</object
+>)</p
 ><p
 contentType="fr"
 >4 = ressources en collection de textes <br
 ></br
->(Fichier &gt; Ouvrir projet/ressource en collection de textes)</p
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir projet/ressource en collection de textes</object
+>)</p
 ><ul
 ><li
 contentType="en"
@@ -968,10 +1094,22 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Window &gt; Saved text combination</li
+><object
+type="tmenu"
+>Window</object
+> &gt; <object
+type="tmenu"
+>Saved text combination</object
+></li
 ><li
 contentType="fr"
->Fenêtre &gt; Enregistrer la disposition des fenêtres </li
+><object
+type="tmenu"
+>Fenêtre</object
+> &gt; <object
+type="tmenu"
+>Enregistrer la disposition des fenêtres </object
+></li
 ><li
 contentType="en"
 >Type a name <br
@@ -984,10 +1122,16 @@ contentType="fr"
 >[ou pour réenregistrer, choisissez un nom existant] </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> </li
 ></ul
 ></section1
 ><section1
@@ -1011,10 +1155,16 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Window – Delete text combination</li
+><object
+type="tmenu"
+>Window</object
+> – Delete text combination</li
 ><li
 contentType="fr"
->Fenêtre — Supprimer la disposition des fenêtres </li
+><object
+type="tmenu"
+>Fenêtre</object
+> — Supprimer la disposition des fenêtres </li
 ><li
 contentType="en"
 >Choose the name of the saved combination.</li
@@ -1023,10 +1173,16 @@ contentType="fr"
 >Choisissez le nom de disposition enregistré. </li
 ><li
 contentType="en"
->Click Delete</li
+>Click <object
+type="tmenu"
+>Delete</object
+></li
 ><li
 contentType="fr"
->Cliquez sur Supprimer </li
+>Cliquez sur <object
+type="tmenu"
+>Supprimer</object
+> </li
 ></ul
 ></section1
 ><section1
@@ -1037,9 +1193,9 @@ contentType="en"
 type="t-en"
 >Open resources in a Text collection [◙ SD05]</object
 ><object
-contentType="en"
+contentType="fr"
 type="t-fr"
->**missing**</object
+>Ouvrir Projet/Ressource en collection de textes</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -1056,7 +1212,13 @@ contentType="dn"
 ><ul
 ><li
 contentType="en"
->File &gt; Open Project/Resource in Text collection<br
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Project/Resource in Text collection</object
+><br
 ></br
 ><img
 src="12imgeng/image5.png"
@@ -1064,9 +1226,13 @@ src="12imgeng/image5.png"
 ></li
 ><li
 contentType="fr"
->Fichier &gt; <br
-></br
->Ouvrir Projet/Ressource en collection de textes<br
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir Projet/Ressource en collection de textes</object
+><br
 ></br
 ><img
 src="12imgfr/image5.png"
@@ -1114,7 +1280,10 @@ contentType="fr"
 >Cliquez sur un lien bleu pour remplir le deuxième volet. </p
 ><p
 contentType="fr"
->En Paratext 8 on peut changer l’affichage à aperçu/formaté/normale.</p
+>En <object
+type="tPT"
+></object
+> on peut changer l’affichage à aperçu/formaté/normale.</p
 ></section1
 ><section1
 id="s11"
@@ -1140,10 +1309,22 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->File &gt; Open Source Language Dictionary</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Source Language Dictionary</object
+></li
 ><li
 contentType="fr"
->Fichier &gt; Ouvrir dictionnaire de langue source </li
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir dictionnaire de langue source </object
+></li
 ><li
 contentType="en"
 >Choose « A Concise Greek-English Dictionary of the New Testament »</li
@@ -1152,10 +1333,16 @@ contentType="fr"
 >Choisissez « A Concise Greek-English Dictionary of the New Testament » </li
 ><li
 contentType="en"
->View &gt; choose a language (e.g. Français)</li
+>View &gt; <object
+type="tmenu"
+>choose a language (e.g. Français</object
+>)</li
 ><li
 contentType="fr"
->Affichage &gt; français </li
+>Affichage &gt; <object
+type="tmenu"
+>français </object
+></li
 ></ul
 ></section1
 ><section1
@@ -1201,7 +1388,7 @@ src="12imgeng/image6.png"
 ><li
 contentType="en"
 >Choose <object
-type="tKw"
+type="tmenu"
 >Add to project biblical terms for</object
 ></li
 ><li
@@ -1221,10 +1408,16 @@ contentType="fr"
 >Modifier la glose si nécessaire </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK  </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>  </li
 ><li
 contentType="en"
 >Change to the Biblical Terms Tool</li
@@ -1326,31 +1519,34 @@ type="t-fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><p
 contentType="en"
->You use the Project Plan to help organise your work and see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in Paratext 8.]</p
+>You use the Project Plan to help organise your work and see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in <object
+type="tPT"
+></object
+> .]</p
 ><p
 contentType="fr"
 >On utilise le plan du projet pour nous aider à organiser notre travail et pour voir les taches à faire prochainement. Dès qu’on a fini une tâche, on la note comme fini pour qu’il soit dans le rapport des tâches accompli. [Si vous avez utilisé une version précédente, vous allez voir que c’est bien amélioré en Paratext 8.]</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where are we?</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -1364,13 +1560,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why is this important?</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -1382,13 +1578,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What are we going to do?</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -1397,12 +1593,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Les administrateurs peuvent également apporter des ajustements au plan si nécessaire.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -1445,24 +1647,42 @@ type="t-fr"
 ><ul
 ><li
 contentType="fr"
->Cliquez sur le bouton « Assignments and Progress » <img
+>Cliquez sur le bouton « <object
+type="tmenu"
+>Assignments and Progress</object
+> » <img
 src="12imgeng/image7.png"
 ></img
 > <br
 ></br
 >OU<br
 ></br
->[Projet &gt; Assignments and progress]</li
+>[<object
+type="tmenu"
+>Projet</object
+> &gt; <object
+type="tmenu"
+>Assignments and progress]</object
+></li
 ><li
 contentType="en"
->Click "Assignments and Progress" button <img
+>Click "<object
+type="tmenu"
+>Assignments and Progress</object
+>" button <img
 src="12imgeng/image7.png"
 ></img
 > <br
 ></br
 >OR<br
 ></br
->[From the Project menu, select Assignments and progress]</li
+>[From the <object
+type="tmenu"
+>Project</object
+> menu, select <object
+type="tmenu"
+>Assignments and progress</object
+>]</li
 ></ul
 ><ul
 ><li
@@ -1681,17 +1901,29 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Click the blue link "Setup required"</li
+>Click the blue link "<object
+type="tmenu"
+>Setup required</object
+>"</li
 ><li
 contentType="fr"
->Cliquez sur le lien bleu « Setup required »</li
+>Cliquez sur le lien bleu « <object
+type="tmenu"
+>Setup required</object
+> »</li
 ></ul
 ><p
 contentType="en"
->Paratext with run the appropriate inventory or open the settings for that check.</p
+><object
+type="tPT"
+></object
+> with run the appropriate inventory or open the settings for that check.</p
 ><p
 contentType="fr"
->Paratext va soit lancer l’inventaire soit afficher le paramètre approprié.</p
+><object
+type="tPT"
+></object
+> va soit lancer l’inventaire soit afficher le paramètre approprié.</p
 ><ul
 ><li
 contentType="en"
@@ -1724,14 +1956,20 @@ type="t-en"
 contentType="fr"
 type="t-fr"
 >Vérifications — erreurs</object
-> </secTitle
+></secTitle
 ><ul
 ><li
 contentType="en"
->Click on the blue link “ …. issues”</li
+>Click on the blue link “ <object
+type="tmenu"
+>…. issues</object
+>”</li
 ><li
 contentType="fr"
->Cliquez sur le lien bleu « … issues »</li
+>Cliquez sur le lien bleu « <object
+type="tmenu"
+>… issues</object
+> »</li
 ><li
 contentType="fr"
 >Une liste de problème s’affiche.</li
@@ -1752,7 +1990,13 @@ contentType="en"
 >Return to the Project plan.</li
 ><li
 contentType="fr"
->Fichier &gt; Enregistrez tout. (ou Ctrl+S) </li
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Enregistrez tout. (ou Ctrl+S</object
+>) </li
 ><li
 contentType="fr"
 >Retournez au plan de projet. </li
@@ -1828,28 +2072,40 @@ border="1"
 ></tr
 ></table
 ></tablenumbered
-><p
+><pc
 contentType="fr"
->Introduction </p
-><p
-contentType="en"
->Introduction</p
-><p
-contentType="en"
->This module explains how to keyboard your draft translations into a project which has already been created in Paratext.</p
-><p
-contentType="fr"
->Ce module explique comment vous pouvez saisir votre traduction (taper les données) dans un projet existant de Paratext 8.</p
+><object
+type="tItalic"
+>Introduction</object
+></pc
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tItalic"
+>Introduction</object
+></pc
+><p
+contentType="en"
+>This module explains how to keyboard your draft translations into a project which has already been created in <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Ce module explique comment vous pouvez saisir votre traduction (taper les données) dans un projet existant de <object
+type="tPT"
+></object
+> .</p
+><pc
+contentType="en"
+><object
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -1861,13 +2117,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -1879,18 +2135,30 @@ contentType="fr"
 ><pc
 contentType="fr"
 ><object
-type="tSub"
->Ce qui a changé en passant de Paratext 7.5 à 8  </object
+type="tsub"
+>Ce qui a changé en passant de <object
+type="tPTPrev"
+></object
+> à <object
+type="tPT"
+></object
+></object
 ></pc
 ><p
 contentType="fr"
 >Envoyer/recevoir a changé. On peut programmer envoyer/recevoir de se lancer régulièrement.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tmenu"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tmenu"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -1903,21 +2171,33 @@ id="sloadprog"
 ><object
 contentType="en"
 type="t-en"
->Load the Paratext program</object
+>Load the <object
+type="tPT"
+></object
+> program</object
 > <object
 contentType="fr"
 type="t-en"
->Lancer le programme Paratext </object
+>Lancer le programme <object
+type="tPT"
+></object
+> </object
 ></secTitle
 ><p
 contentType="dn"
 >Does this need to be repeated?</p
 ><p
 contentType="en"
->Double-click on Paratext 8 icon on the desktop OR</p
+>Double-click on <object
+type="tPT"
+></object
+> icon on the desktop OR</p
 ><p
 contentType="fr"
->Double-cliquez sur l’icône Paratext 8 sur le bureau.</p
+>Double-cliquez sur l’icône <object
+type="tPT"
+></object
+> sur le bureau.</p
 ><p
 contentType="en"
 ><img
@@ -1926,7 +2206,10 @@ src="12imgeng/image3.png"
 ></p
 ><p
 contentType="en"
->(From the Start menu, choose Paratext 8)</p
+>(From the Start menu, choose <object
+type="tPT"
+></object
+> )</p
 ></section1
 ><section1
 id="sGoToABiblicalVerse"
@@ -1963,14 +2246,14 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >project book chapter verse</object
 ></p
 ><pc
 contentType="fr"
 ><object
-type="tSub"
-> projet  livre chapitre verset</object
+type="tsub"
+>projet  livre chapitre verset</object
 ></pc
 ><p
 ><img
@@ -2019,7 +2302,7 @@ contentType="en"
 >If it is not editable, try changing the view (see below).</li
 ><li
 contentType="fr"
->Si votre projet n’est pas partagé et ce n’est pas Modifiable, essayer de changer l’affichage (voir ci-dessous).  </li
+>Si votre projet n’est pas partagé et ce n’est pas modifiable, essayer de changer l’affichage (voir ci-dessous).  </li
 ></ul
 ></section1
 ><section1
@@ -2039,23 +2322,47 @@ contentType="fr"
 >[◙ SD02]</p
 ><p
 contentType="en"
->Paratext 8 has five views. All but the Preview view are editable.</p
+><object
+type="tPT"
+></object
+> has five views. All but the Preview view are editable.</p
 ><p
 contentType="fr"
->Paratext 8 a cinq affichages. Seul le mode Aperçu n’est pas modifiable.</p
+><object
+type="tPT"
+></object
+> a cinq affichages. Seul le mode Aperçu n’est pas modifiable.</p
 ><ul
 ><li
 contentType="en"
->Ctrl + E -or-</li
+><object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>E</object
+> -or-</li
 ><li
 contentType="fr"
->Ctrl +  E —ou—</li
+><object
+type="tkey"
+>Ctrl</object
+> +  <object
+type="tkey"
+>E</object
+> —ou—</li
 ><li
 contentType="en"
->From the View menu, choose the view (usually Standard).</li
+>From the <object
+type="tmenu"
+>View</object
+> menu, choose the view (usually Standard).</li
 ><li
 contentType="fr"
->Dans le menu Affichage, choisissez l’affichage que vous préférez.</li
+>Du menu <object
+type="tmenu"
+>Affichage</object
+>, choisissez l’affichage que vous préférez.</li
 ></ul
 ></section1
 ><section1
@@ -2095,21 +2402,30 @@ contentType="en"
 >(or for MS-Keyboards choose TR or SQ/TZ/AF…)</li
 ><li
 contentType="en"
->Type the keys as in the table on page 83.</li
+>Type the keys as in the table in <appendixRef
+app="sChadSpecChar"
+></appendixRef
+>.</li
 ><li
 contentType="fr"
 >Saisissez les touches comme dans les tableaux à la page 85. </li
 ></ul
 ><p
 contentType="en"
->Note : You can use View&gt; Highlight Invalid Characters to highlight invalide characters.</p
+>Note : You can use <object
+type="tmenu"
+>View</object
+> &gt; <object
+type="tmenu"
+>Highlight Invalid Characters to highlight invalide characters.</object
+></p
 ><p
 contentType="fr"
 >Note : Vous pouvez utiliser le menu <object
-type="tKw"
+type="tmenu"
 >Affichage</object
->&gt; <object
-type="tKw"
+> &gt; <object
+type="tmenu"
 >Highlight Invalid Characters</object
 > (surligner les caractères invalides) pour mettre en surbrillance des caractères invalides dans le texte.</p
 ></section1
@@ -2143,13 +2459,28 @@ contentType="fr"
 >Déplacez votre curseur à la fin du paragraphe qui est au-dessus du titre.</li
 ><li
 contentType="en"
->Type Enter ou type « \ »</li
+>Type Enter ou type « <object
+type="ttyped"
+>\</object
+> »</li
 ><li
 contentType="fr"
->Appuyez sur Entrée ou Saisissez « \ » </li
+>Appuyez sur Entrée ou Saisissez « <object
+type="ttyped"
+>\</object
+> » </li
 ><li
 contentType="en"
->Type the marker (e.g. s1 or ip) « Enter » (or select it from the list).</li
+>Type the marker (e.g. <object
+type="ttyped"
+>s1</object
+> or <object
+type="ttyped"
+>ip</object
+>) « <object
+type="tkey"
+>Enter</object
+> » (or select it from the list).</li
 ><li
 contentType="fr"
 >Saisissez le marquer (comme s1) « Entrée » (ou le sélectionnez de la liste). </li
@@ -2158,26 +2489,38 @@ contentType="en"
 >Type the text</li
 ><li
 contentType="fr"
->Saisissez le texte  </li
+>Saisissez le texte</li
 ><li
 contentType="en"
 >Add a paragraph marker after the text<br
 ></br
->(for example : \p)</li
+>(for example : <object
+type="ttyped"
+>\p</object
+>)</li
 ><li
 contentType="fr"
 >Ajoutez un marqueur de paragraphe <br
 ></br
->(par exemple : \p) </li
+>(par exemple : <object
+type="ttyped"
+>\p</object
+>) </li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
->You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example \q1).</p
+>You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example <object
+type="ttyped"
+>\q1</object
+>).</p
 ><p
 contentType="fr"
->Vous devez toujours avoir un marqueur USFM après un titre et avant les versets. C’est habituellement \p (paragraphe), mais peut être autre chose (par exemple \q1).</p
+>Vous devez toujours avoir un marqueur USFM après un titre et avant les versets. C’est habituellement \p (paragraphe), mais peut être autre chose (par exemple <object
+type="ttyped"
+>\q1</object
+>).</p
 ></framedUnit
 ></section1
 ><section1
@@ -2204,16 +2547,34 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Press « Enter »</li
+>Press « <object
+type="tkey"
+>Enter</object
+> »</li
 ><li
 contentType="fr"
->Appuyez sur « Entrée » </li
+>Appuyez sur « <object
+type="tkey"
+>Entrée</object
+> » </li
 ><li
 contentType="en"
->Type p « Enter »</li
+>Type <object
+type="ttyped"
+>p</object
+> « <object
+type="tkey"
+>Enter</object
+> »</li
 ><li
 contentType="fr"
->Saisissez p « Entrée » </li
+>Saisissez <object
+type="ttyped"
+>p</object
+> « <object
+type="tkey"
+>Entrée</object
+> » </li
 ></ul
 ></section1
 ><section1
@@ -2240,14 +2601,38 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->File&gt;Save All –or- Ctrl + S</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Save All</object
+> –or- <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>S</object
+></li
 ><li
 contentType="fr"
->Fichier&gt;Enregistrer tout ou Ctrl + S </li
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Enregistrer tout</object
+> ou <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>S</object
+> </li
 ></ul
 ></section1
 ><section1
-id="s"
+id="sFootnotes"
 ><secTitle
 ><object
 contentType="en"
@@ -2270,14 +2655,29 @@ contentType="fr"
 ></br
 ><br
 ></br
->référence apparaît dans votre texte. Pour insérer une note de bas de page, utilisez le menu Insérer.</p
+>référence apparaît dans votre texte. Pour insérer une note de bas de page, utilisez le menu <object
+type="tmenu"
+>Insérer</object
+>.</p
 ><ul
 ><li
 contentType="en"
->Insert &gt; Footnote</li
+><object
+type="tmenu"
+>Insert</object
+> &gt; <object
+type="tmenu"
+>Footnote</object
+></li
 ><li
 contentType="fr"
->Insérer &gt; Note de bas de page,</li
+><object
+type="tmenu"
+>Insérer</object
+> &gt; <object
+type="tmenu"
+>Note de bas de page,</object
+></li
 ><li
 contentType="en"
 >A set of footnote markers is added in the box below the text<br
@@ -2301,10 +2701,16 @@ src="12imgeng/image14.png"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Type the text after the \ft</p
+>Type the text after the <object
+type="ttyped"
+>\ft</object
+></p
 ><p
 contentType="fr"
->Saisir le texte du note après \ft</p
+>Saisir le texte du note après <object
+type="ttyped"
+>\ft</object
+></p
 ></framedUnit
 ><p
 contentType="en"
@@ -2357,6 +2763,7 @@ src="12imgeng/image15.png"
 ></img
 ></li
 ><li
+contentType="fr"
 >Cliquez sur l’icône Envoyer/Recevoir <img
 src="12imgeng/image15.png"
 ></img
@@ -2371,10 +2778,22 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->File &gt; Send/Receive project(s)</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Send/Receive project(s</object
+>)</li
 ><li
 contentType="fr"
->Fichier &gt; Envoyer/Recevoir projet(s) </li
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Envoyer/Recevoir projet(s</object
+>) </li
 ><li
 contentType="en"
 >Check that the USB key is chosen</li
@@ -2383,7 +2802,10 @@ contentType="fr"
 >Vérifiez que la clé est choisie </li
 ><li
 contentType="en"
->Click Send/Receive.<br
+>Click <object
+type="tmenu"
+>Send/Receive</object
+>.<br
 ></br
 ><img
 src="12imgeng/image16.png"
@@ -2396,7 +2818,10 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Cliquez sur Envoyer/Recevoir.<br
+>Cliquez sur le bouton <object
+type="tmenu"
+>Envoyer/Recevoir</object
+>.<br
 ></br
 ><img
 src="12imgfr/image16.png"
@@ -2436,24 +2861,90 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->The arrow keys, ← ↑ → ↓ <br
+>The arrow keys, <object
+type="tkey"
+>←</object
+> <object
+type="tkey"
+>↑</object
+> <object
+type="tkey"
+>→</object
+> <object
+type="tkey"
+>↓</object
+> <br
 ></br
->Home, End, PgUp, et PgDn, <br
+><object
+type="tkey"
+>Home</object
+>, <object
+type="tkey"
+>End</object
+>, <object
+type="tkey"
+>PgUp</object
+>, et <object
+type="tkey"
+>PgDn</object
+>, <br
 ></br
->F8 (chapter), F9 (book)</li
+><object
+type="tkey"
+>F8</object
+> (chapter), <object
+type="tkey"
+>F9</object
+> (book)</li
 ><li
 contentType="fr"
->Les touches flèches, ← ↑ → ↓ <br
+>Les touches flèches, <object
+type="tkey"
+>←</object
+> <object
+type="tkey"
+>↑</object
+> <object
+type="tkey"
+>→</object
+> <object
+type="tkey"
+>↓</object
+> <br
 ></br
->début (Home), fin (End), PgPréc, et PgSuiv, <br
+><object
+type="tkey"
+>début</object
+> (Home), <object
+type="tkey"
+>fin</object
+> (End), <object
+type="tkey"
+>PgPréc</object
+>, et <object
+type="tkey"
+>PgSuiv</object
+>, <br
 ></br
->F8 (chapitre), F9 (livre) </li
+><object
+type="tkey"
+>F8</object
+> (chapitre), <object
+type="tkey"
+>F9</object
+> (livre) </li
 ><li
 contentType="en"
->or Ctrl + any of those keys</li
+>or <object
+type="tkey"
+>Ctrl</object
+> + any of those keys</li
 ><li
 contentType="fr"
->ou Ctrl + les touches </li
+>ou <object
+type="tkey"
+>Ctrl</object
+> + les touches </li
 ></ul
 ></section1
 ><section1
@@ -2547,13 +3038,13 @@ border="1"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><p
@@ -2565,49 +3056,55 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
 contentType="en"
->You have drafted and entered your text in Paratext. Now you will draft and enter some glossary entries to explain some terms.</p
+>You have drafted and entered your text in <object
+type="tPT"
+></object
+>. Now you will draft and enter some glossary entries to explain some terms.</p
 ><p
 contentType="fr"
->Vous avez entré et vérifié votre texte dans Paratext. Maintenant, vous voulez ajouter des mots importants dans le glossaire.</p
+>Vous avez entré et vérifié votre texte dans <object
+type="tPT"
+></object
+>. Maintenant, vous voulez ajouter des mots importants dans le glossaire.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
 contentType="en"
->It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tools also keeps track of the changes to the glossary.</p
+>It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tool also keeps track of the changes to the glossary.</p
 ><p
 contentType="fr"
 >C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil Termes bibliques, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -2621,10 +3118,19 @@ contentType="en"
 >Summary</p
 ><p
 contentType="fr"
->Ce qui a changé en passant de Paratext 7 à 8  </p
+>Ce qui a changé en passant de <object
+type="tPTPrev"
+></object
+> à <object
+type="tPT"
+></object
+></p
 ><p
 contentType="fr"
->Avant 7.3 il fallait ajouter les mots et leurs marqueurs manuellement dans le livre de GLO. Paratext ajoute les marqueurs pour vous à partir <br
+>Avant 7.3 il fallait ajouter les mots et leurs marqueurs manuellement dans le livre de GLO. <object
+type="tPT"
+></object
+> ajoute les marqueurs pour vous à partir <br
 ></br
 >de l’outil Termes bibliques.</p
 ><p
@@ -2651,7 +3157,13 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Biblical terms ...</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Biblical terms...</object
+></li
 ></ul
 ></section1
 ><section1
@@ -2671,10 +3183,22 @@ contentType="fr"
 >Accédez à un verset qui contient le mot/terme que vous voulez dans le glossaire. </li
 ><li
 contentType="en"
->Right-click and choose « View Biblical Terms », then « Current Verset(s) »</li
+>Right-click and choose "<object
+type="tmenu"
+>View Biblical Terms</object
+>", then "<object
+type="tmenu"
+>Current Verset(s)</object
+>"</li
 ><li
 contentType="fr"
->Cliquez à droite et choisissez « Afficher les termes bibliques », puis choisissez « Verset(s) actuel(s) » </li
+>Cliquez à droite et choisissez « <object
+type="tmenu"
+>Afficher les termes bibliques</object
+> », puis choisissez «<object
+type="tmenu"
+> Verset(s) actuel(s)</object
+> » </li
 ><li
 contentType="en"
 >Check that you have the correct list open (p.ex. NT Key Biblical Terms [SIL])</li
@@ -2689,7 +3213,10 @@ contentType="fr"
 >Double-cliquez sur le mot dans la liste du haut</li
 ><li
 contentType="en"
->Click the « Glossary » tab<br
+>Click the "<object
+type="tmenu"
+>Glossary</object
+>" tab<br
 ></br
 ><img
 src="12imgeng/image17.png"
@@ -2698,7 +3225,7 @@ src="12imgeng/image17.png"
 ><li
 contentType="fr"
 >Cliquez sur l’onglet « <object
-type="tKw"
+type="tmenu"
 >Glossaire</object
 > »<br
 ></br
@@ -2718,16 +3245,19 @@ contentType="en"
 ><li
 contentType="fr"
 >Saisissez la <object
-type="tKw"
+type="tmenu"
 >Définition [2]</object
 > </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquer sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ></ul
@@ -2777,11 +3307,14 @@ contentType="fr"
 >Double-cliquez sur le mot dans la liste en haut </li
 ><li
 contentType="en"
->Click the « Glossary » tab</li
+>Click the "<object
+type="tmenu"
+>Glossary</object
+>" tab</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet « <object
-type="tKw"
+type="tmenu"
 >Glossaire</object
 > » </li
 ><li
@@ -2798,10 +3331,16 @@ contentType="fr"
 >Choisissez l’entrée du glossaire </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> </li
 ></ul
 ></section1
 ><section1
@@ -2814,7 +3353,10 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->Afficher le glossaire Dans Paratext </object
+>Afficher le glossaire Dans <object
+type="tPT"
+></object
+> </object
 ></secTitle
 ><p
 contentType="en"
@@ -2895,17 +3437,23 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Biblical terms...</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Biblical terms...</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Termes</object
 > <object
-type="tKw"
+type="tmenu"
 >bibliques</object
 >... </li
 ><li
@@ -2916,11 +3464,14 @@ contentType="fr"
 >Double-cliquez sur le mot dans la liste en haut </li
 ><li
 contentType="en"
->Click the « Glossary » tab</li
+>Click the "<object
+type="tmenu"
+>Glossary</object
+>" tab</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet « <object
-type="tKw"
+type="tmenu"
 >Glossaire</object
 > » </li
 ><li
@@ -2931,10 +3482,16 @@ contentType="fr"
 >Modifiez la définition </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
->Cliquez sur OK. </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. </li
 ></ul
 ></section1
 ><section1
@@ -3004,7 +3561,7 @@ type="t-fr"
 >VT1 : Vérifications de base  </object
 ></secTitle
 ><p
-contentType="en"
+contentType="dn"
 >(from Project Plan or Checking menu)</p
 ><tablenumbered
 contentType="en"
@@ -3022,13 +3579,13 @@ border="1"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><p
@@ -3040,13 +3597,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -3058,13 +3615,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -3076,13 +3633,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -3095,7 +3652,10 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->In Paratext 8 the easiest way to run check is from the project plan.</p
+>In <object
+type="tPT"
+></object
+>, the easiest way to run check is from the project plan.</p
 ></framedUnit
 ><framedUnit
 contentType="fr"
@@ -3117,12 +3677,21 @@ type="t-fr"
 contentType="en"
 >It is also possible to do the checks from the checking menu. You use this method if you need to run the checks on more than one book at a time.</li
 ></ul
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="fr"
->Résumé Ce module vous montre comment :</p
-><p
+>Ce module vous montre comment :</p
+><pc
 contentType="en"
->Summary</p
+><object
+type="tsub"
+>Summary</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -3155,10 +3724,16 @@ src="12imgeng/image19.png"
 ></li
 ><li
 contentType="en"
->If there are any « issues » (errors), click the blue link to the right</li
+>If there are any "<object
+type="tmenu"
+>issues</object
+>" (errors), click the blue link to the right</li
 ><li
 contentType="fr"
->S’il y a des « issues » (erreurs), cliquez le lien bleu à droit  </li
+>S’il y a des « <object
+type="tmenu"
+>issues</object
+> » (erreurs), cliquez le lien bleu à droit  </li
 ></ul
 ><p
 contentType="fr"
@@ -3205,10 +3780,16 @@ contentType="fr"
 >Continuez jusqu’à il n’y a plus d’erreurs. </li
 ><li
 contentType="en"
->Click « Rerun » button to check that all the errors have been corrected.</li
+>Click "<object
+type="tmenu"
+>Rerun</object
+>" button to check that all the errors have been corrected.</li
 ><li
 contentType="fr"
->Cliquez sur le bouton « Relancer » pour vérifier toutes les erreurs sont corrigés. </li
+>Cliquez sur le bouton « <object
+type="tmenu"
+>Relancer</object
+> » pour vérifier toutes les erreurs sont corrigés. </li
 ><li
 contentType="en"
 >Close the results list window.</li
@@ -3264,40 +3845,52 @@ contentType="en"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base </object
 > </li
 ><li
 contentType="en"
->Checking &gt; Run basic checks</li
+>Checking &gt; <object
+type="tmenu"
+>Run basic checks</object
+></li
 ><li
 contentType="fr"
 >Cocher seulement<object
-type="tKw"
+type="tmenu"
 >Numérotage Chapitre/verset</object
 > </li
 ><li
 contentType="en"
->Check the Chapter/verse numbers</li
+>Check only <object
+type="tmenu"
+>Chapter/verse numbers</object
+></li
 ><li
 contentType="en"
 >Uncheck any other checks</li
 ><li
 contentType="en"
->Click the button beside Choose Books</li
+>Click the button beside <object
+type="tmenu"
+>Choose Books</object
+></li
 ><li
 contentType="en"
->If necessary, click Choose… and choose the book you want to check</li
+>If necessary, click <object
+type="tmenu"
+>Choose…</object
+> and choose the book you want to check</li
 ><li
 contentType="en"
 >Click OK</li
 ><li
 contentType="fr"
 >Cliquez sur<object
-type="tKw"
+type="tmenu"
 > OK</object
 > </li
 ></ul
@@ -3334,10 +3927,16 @@ contentType="fr"
 >Continuez jusqu’à il n’y a plus d’erreurs. </li
 ><li
 contentType="en"
->Click « Rerun » button to check that all the errors have been corrected.</li
+>Click "<object
+type="tmenu"
+>Rerun</object
+>" button to check that all the errors have been corrected.</li
 ><li
 contentType="fr"
->Cliquez sur le bouton « Relancer » pour vérifier toutes les erreurs sont corrigés. </li
+>Cliquez sur le bouton « <object
+type="tmenu"
+>Relancer</object
+> » pour vérifier toutes les erreurs sont corrigés. </li
 ><li
 contentType="en"
 >Close the results list window.</li
@@ -3361,12 +3960,18 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; Markers Inventory</li
+>Checking &gt; <object
+type="tmenu"
+>Markers Inventory</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
->Vérification &gt; Inventaire de marqueurs</object
+type="tmenu"
+>Vérification &gt; <object
+type="tmenu"
+>Inventaire de marqueurs</object
+></object
 > </li
 ></ul
 ><p
@@ -3381,14 +3986,17 @@ contentType="en"
 >Close the marker inventory.</li
 ><li
 contentType="en"
->Checking &gt; Run Basic Checks</li
+>Checking &gt; <object
+type="tmenu"
+>Run Basic Checks</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base </object
 > </li
 ><li
@@ -3397,16 +4005,19 @@ contentType="en"
 ><li
 contentType="fr"
 >Cochez seulement<object
-type="tKw"
+type="tmenu"
 > Marqueurs</object
 > </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ><li
@@ -3435,7 +4046,7 @@ contentType="en"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><p
@@ -3444,24 +4055,30 @@ contentType="en"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><p
 contentType="en"
->For the project plan to work well, you need to mark the tasks you have finished. This allows Paratext to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
+>For the project plan to work well, you need to mark the tasks you have finished. This allows <object
+type="tPT"
+></object
+> to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><p
 contentType="en"
 >You will open the assignments and progress window and update the progress made. You will then produce a report.</p
-><p
+><pc
 contentType="en"
->Summary</p
+><object
+type="tsub"
+>Summary</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -3490,22 +4107,40 @@ contentType="en"
 type="t-en"
 >Change an assignment</object
 ></secTitle
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 ><img
 src="12imgeng/image21.png"
 ></img
 >This can only be done by a project administrator.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
->From the Project menu, select Assignments and Progress....</li
+>From the <object
+type="tmenu"
+>Project</object
+> menu, select <object
+type="tmenu"
+>Assignments and Progress....</object
+></li
 ><li
 contentType="en"
->From the first drop-down list at the top left of the dialog, select All Tasks.</li
+>From the first drop-down list at the top left of the dialog, select <object
+type="tmenu"
+>All Tasks</object
+>.</li
 ><li
 contentType="en"
->In the "Assigned to" column, use the drop-down list to choose who will have responsibility for the task or check (listed in the "Task/Check" column at the far left).</li
+>In the "<object
+type="tmenu"
+>Assigned to</object
+>" column, use the drop-down list to choose who will have responsibility for the task or check (listed in the "<object
+type="tmenu"
+>Task/Check</object
+>" column at the far left).</li
 ></ul
 ></section1
 ><section1
@@ -3519,13 +4154,22 @@ type="t-en"
 ><ul
 ><li
 contentType="en"
->From the Tools menu, select Project Health Report....</li
+>From the <object
+type="tmenu"
+>Tools</object
+> menu, select <object
+type="tmenu"
+>Project Health Report...</object
+>.</li
 ><li
 contentType="en"
 >Choose the project(s) to report</li
 ><li
 contentType="en"
->Click OK. <br
+>Click <object
+type="tmenu"
+>OK</object
+>. <br
 ></br
 >The report will contain a column for each project you selected.</li
 ></ul
@@ -3541,7 +4185,10 @@ type="t-en"
 ><ul
 ><li
 contentType="en"
->From the Project menu, select View team progress charts....</li
+>From the <object
+type="tmenu"
+>Project</object
+> menu, select View team progress charts....</li
 ><li
 contentType="en"
 >Use the first dropdown box to choose the type of chart</li
@@ -3589,18 +4236,18 @@ type="t-fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><p
 contentType="en"
->The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatings checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.<br
+>The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.<br
 ></br
 ><img
 src="12imgeng/image22.png"
@@ -3608,10 +4255,12 @@ src="12imgeng/image22.png"
 ></p
 ><p
 contentType="fr"
->La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe, notes bibliques notes pour enregistrer vos questions, des discussions et des décisions.<img
-src="i.png"
+>La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe, notes bibliques notes pour enregistrer vos questions, des discussions et des décisions.<br
+></br
+><img
+src="12imgfr/image21.png"
 ></img
-> </p
+></p
 ><p
 contentType="en"
 >The following modules will help you in this stage :</p
@@ -3621,46 +4270,102 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->PN: Proper nouns</li
+><sectionRef
+sec="sPN"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->NP : Noms propres </li
+><sectionRef
+sec="sPN"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->SP: Spell checking</li
+><sectionRef
+sec="sSP"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->VO : Vérification de l’orthographe </li
+><sectionRef
+sec="sSP"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->BT: Biblical terms Checks</li
+><sectionRef
+sec="BTTerms"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->TB : Termes bibliques cohérents </li
+><sectionRef
+sec="BTTerms"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->FC: Format checks</li
+><sectionRef
+sec="sFcFormattingChecks"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->VM : Vérification de mise en page </li
+><sectionRef
+sec="sFcFormattingChecks"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->BC: Basic checks</li
+><sectionRef
+sec="sBC2"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->VB2 : Vérifications de base 2 </li
+><sectionRef
+sec="sBC2"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->PD: Print draft</li
+><sectionRef
+sec="sPD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->IE : Impression d’ébauche </li
+><sectionRef
+sec="sPD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->UN: Using notes</li
+><sectionRef
+sec="sUNUsingNotes"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->UN : Utilisation des remarques </li
+><sectionRef
+sec="sUNUsingNotes"
+showTitle="full"
+></sectionRef
+></li
 ></ul
 ></chapter
 ><chapter
@@ -3675,12 +4380,18 @@ contentType="fr"
 type="t-fr"
 >NP : Noms propres </object
 ></secTitle
-><p
+><pc
 contentType="en"
->Introduction</p
-><p
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
 contentType="fr"
->Introduction </p
+><object
+type="tsub"
+>Introduction</object
+></pc
 ><p
 contentType="en"
 >In this module, you will check that the proper names have been transliterated consistently.</p
@@ -3690,13 +4401,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -3708,13 +4419,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -3726,13 +4437,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -3758,12 +4469,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous filtrez la liste de termes bibliques principaux de noms propres. Puis vous allez taper les règles de translittération et ajouter les propositions de noms. Puis vous allez vérifier les versets.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -3791,14 +4508,20 @@ contentType="fr"
 >Cliquez dans votre projet </li
 ><li
 contentType="en"
->Tools &gt; Biblical Terms ...</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Biblical Terms ...</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Termes bibliques...</object
 > </li
 ></ul
@@ -3818,24 +4541,34 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->File &gt; Select Biblical terms list</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Select Biblical terms list</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Sélectionner liste de termes</object
 > </li
 ><li
 contentType="en"
->Double-click the « Major Biblical Terms (Current Project Setting » list</li
+>Double-click the "<object
+type="tmenu"
+>Major Biblical Terms (Current Project Setting)</object
+>" list</li
 ><li
 contentType="fr"
->Double-cliquez sur la liste <br
-></br
->Termes bibliques principaux  </li
+>Double-cliquez sur la liste <object
+type="tmenu"
+>Termes bibliques principaux</object
+>  </li
 ></ul
 ></section1
 ><section1
@@ -3853,11 +4586,14 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Click the « Comparative Texts » button on the toolbar.</li
+>Click the "<object
+type="tmenu"
+>Comparative Texts</object
+>" button on the toolbar.</li
 ><li
 contentType="fr"
 >Cliquez le bouton <object
-type="tKw"
+type="tmenu"
 >Textes comparatifs</object
 > sur la barre d’outils. <img
 src="12imgfr/image22.png"
@@ -3865,17 +4601,23 @@ src="12imgfr/image22.png"
 > </li
 ><li
 contentType="en"
->Choose your reference text, then click à .</li
+>Choose your reference text, then click à ***.</li
 ><li
 contentType="fr"
->Choisissez un texte et puis cliquez sur  . </li
+>Choisissez un texte et puis cliquez sur <object
+type="tmenu"
+></object
+> . </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -3901,7 +4643,10 @@ contentType="fr"
 >Cliquez sur le deuxième bouton de filtre  </li
 ><li
 contentType="en"
->Choose Chapters Assigned to Me</li
+>Choose <object
+type="tmenu"
+>Chapters Assigned to Me</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <img
@@ -3910,11 +4655,14 @@ src="12imgfr/image23.png"
 > </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ></ul
@@ -3942,7 +4690,10 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="fr"
->Note : Si vous voulez voir les termes avec l’alphabet romanisé, vous pouvez changer l’affichage des termes grecs ou hébreux en utilisant Affichage &gt; Translitérer termes.</p
+>Note : Si vous voulez voir les termes avec l’alphabet romanisé, vous pouvez changer l’affichage des termes grecs ou hébreux en utilisant Affichage &gt; <object
+type="tmenu"
+>Translitérer termes.</object
+></p
 ></framedUnit
 ><ul
 ><li
@@ -3956,32 +4707,44 @@ contentType="fr"
 >Cliquez sur le premier bouton de filtre </li
 ><li
 contentType="en"
->In the dialog box, under Categories…</li
+>In the dialog box, under <object
+type="tmenu"
+>Categories…</object
+></li
 ><li
 contentType="fr"
->Dans la boîte de dialogue, sous Catégories… </li
+>Dans la boîte de dialogue, sous <object
+type="tmenu"
+>Catégories…</object
+> </li
 ><li
 contentType="fr"
 >Choisissez « <object
-type="tKw"
+type="tmenu"
 >Nouveau Filtre</object
 > » </li
 ><li
 contentType="en"
->Select « Names »</li
+>Select « <object
+type="tmenu"
+>Names</object
+> »</li
 ><li
 contentType="fr"
 >Sélectionnez « <object
-type="tKw"
+type="tmenu"
 >Noms propres</object
 > »</li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >  </li
 ></ul
@@ -4001,15 +4764,24 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Adapt Names</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Adapt Names</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > <object
-type="tKw"
->&gt; Modifier les noms propres</object
+type="tmenu"
+>&gt; <object
+type="tmenu"
+>Modifier les noms propres</object
+></object
 > </li
 ><li
 contentType="en"
@@ -4033,9 +4805,6 @@ contentType="en"
 src="12imgeng/image23.png"
 ></img
 ></p
-><p
-contentType="dn"
->Need English Screenshot</p
 ></section1
 ><section1
 id="sEnterTheChangesForTheIndividualLetters"
@@ -4076,41 +4845,62 @@ contentType="en"
 >Work through the « Adapted name » column in the right pane.</li
 ><li
 contentType="fr"
->Pour chaque nom propre, si la modification n’est pas juste, cliquez sur « Nom propre modifié » et précisez la modification juste.  </li
+>Pour chaque nom propre, si la modification n’est pas juste, cliquez sur « <object
+type="tmenu"
+>Nom propre modifié</object
+> » et précisez la modification juste.</li
 ><li
 contentType="en"
 >For each name,</li
 ><li
 contentType="en"
->if the adapted name is incorrect, click on the name in the Adapted Name column,</li
+>if the adapted name is incorrect, click on the name in the <object
+type="tmenu"
+>Adapted Name</object
+> column,</li
 ><li
 contentType="en"
->edit the name and click OK</li
+>edit the name and click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="en"
->Once the name is correct, click in the « Approved » column.</li
+>Once the name is correct, click in the "<object
+type="tmenu"
+>Approved</object
+>" column.</li
 ><li
 contentType="fr"
 >Une fois qu’un nom modifié est juste, cliquez sur « <object
-type="tKw"
+type="tmenu"
 >Approuvé</object
-> » pour empêcher qu’il ne soit changé de nouveau.  </li
+> » pour empêcher qu’il ne soit changé de nouveau.</li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ></ul
 ><p
 contentType="en"
->Paratext will propose a name (in red) in the rendering column.</p
+><object
+type="tPT"
+></object
+> will propose a name (in red) in the rendering column.</p
 ><p
 contentType="fr"
->Paratext va remplir un mot en rouge pour tous les noms.</p
+><object
+type="tPT"
+></object
+> proposera un mot en rouge pour tous les noms.</p
 ></section1
 ><section1
 id="sEnsureYourTextIsConsistent"
@@ -4145,11 +4935,17 @@ contentType="fr"
 >Sélectionnez le(s) mot(s) dans votre texte (en bas) qui est (sont) l’équivalent de ce nom. </li
 ><li
 contentType="en"
->Click on Add rendering button or Ctrl+A</li
+>Click on Add rendering button or <object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>A</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Ajouter équivalents</object
 > (<img
 src="12imgfr/add.png"
@@ -4157,7 +4953,10 @@ src="12imgfr/add.png"
 >)</li
 ><li
 contentType="en"
->Correct as necessary, click OK</li
+>Correct as necessary, click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Corrigez les autres versets si nécessaire. </li
@@ -4208,7 +5007,10 @@ type="t-en"
 framedtype="tTeacher"
 ><p
 contentType="en"
->There are times when a verse is correctly translated even though you haven’t used the name. For example, a pronoun is used instead of the name. In this case you need to tell Paratext that it is correct (that is, deny that the rendering is missing).</p
+>There are times when a verse is correctly translated even though you haven’t used the name. For example, a pronoun is used instead of the name. In this case you need to tell <object
+type="tPT"
+></object
+> that it is correct (that is, deny that the rendering is missing).</p
 ><p
 contentType="fr"
 >Il arrive qu’un verset soit traduit correctement sans utiliser le nom réel. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas un équivalent de ce mot précis dans ce verset.</p
@@ -4223,23 +5025,21 @@ src="12imgeng/image24.png"
 ><li
 contentType="fr"
 >Cliquez sur la croix rouge <img
-src="i.png"
+src="12imgeng/image24.png"
 ></img
 > à la fin du verset. </li
 ><li
 contentType="en"
->The cross turn into green tick with a red cross</li
+>The cross turn into green tick (check) with a red cross <img
+src="12imgeng/image25.png"
+></img
+>.</li
 ><li
 contentType="fr"
 >La croix rouge X se transforme en <img
-src="i.png"
-></img
-> (et/ou le verset disparaît de la liste). </li
-><li
-><img
 src="12imgeng/image25.png"
 ></img
-></li
+> (et/ou le verset disparaît de la liste). </li
 ><li
 contentType="en"
 >If you clicked on the red cross by mistake, click again on the icon <img
@@ -4248,17 +5048,26 @@ src="12imgeng/image26.png"
 ></li
 ><li
 contentType="fr"
->Si vous avez cliqué sur la croix rouge par erreur, cliquez de nouveau sur <img
-src="i.png"
+>Si vous avez cliqué sur la croix rouge par erreur, cliquez de nouveau sur <img
+src="12imgeng/image26.png"
 ></img
 > pour retourner à la croix rouge. </li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
->Note : Paratext doesn’t find names in the introductions, headings, footnotes, captions or glossary.</p
+>Note : <object
+type="tPT"
+></object
+> doesn’t find names in the introductions, headings, footnotes, captions or glossary.</p
 ><p
 contentType="fr"
->Note : Paratext ne vérifie pas les noms dans l’introduction, les en-têtes, les notes de bas de page, les légendes et le glossaire.</p
+>Note : <object
+type="tPT"
+></object
+> ne vérifie pas les noms dans l’introduction, les en-têtes, les notes de bas de page, les légendes et le glossaire.</p
+></framedUnit
 ></section1
 ><section1
 id="sRecall3"
@@ -4270,7 +5079,7 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->VO : Vérification de l’orthographe </object
+></object
 ></secTitle
 ><ul
 ><li
@@ -4284,16 +5093,25 @@ contentType="en"
 >After entering the _______ changes then __________ the adapted names.</li
 ><li
 contentType="en"
->Paratext then enters a __________ rendering for all the names.</li
+><object
+type="tPT"
+></object
+> then enters a __________ rendering for all the names.</li
 ><li
 contentType="en"
 >You then work through the list ___________ and/or adding renderings and making sure that all verses are _______________.</li
 ><li
 contentType="en"
->You can add a rendering by selecting the text and pressing Ctrl+__.</li
+>You can add a rendering by selecting the text and pressing <object
+type="tkey"
+>Ctrl</object
+>+__.</li
 ><li
 contentType="en"
->If a pronoun is used you can ______ the rending by clicking on the X.</li
+>If a pronoun is used you can ______ the rending by clicking on the <img
+src="12imgeng/image24.png"
+></img
+>.</li
 ></ul
 ><p
 contentType="en"
@@ -4307,6 +5125,10 @@ id="sSP"
 contentType="en"
 type="t-en"
 >SP : Spell Checking</object
+><object
+contentType="fr"
+type="t-fr"
+>VO : Vérification de l’orthographe</object
 ></secTitle
 ><tablenumbered
 contentType="en"
@@ -4324,7 +5146,10 @@ colspan="5"
 ><td
 >Approve spelling of common words</td
 ><td
->Check the words that Paratext thinks are wrong</td
+>Check the words that <object
+type="tPT"
+></object
+> thinks are wrong</td
 ><td
 >Check similar words</td
 ><td
@@ -4352,7 +5177,10 @@ colspan="5"
 ><td
 >Approuvez les mots fréquents</td
 ><td
->Vérifiez ce que Paratext pense être erroné</td
+>Vérifiez ce que <object
+type="tPT"
+></object
+> pense être erroné</td
 ><td
 >Vérifiez les mots pareillement écrits</td
 ><td
@@ -4369,49 +5197,61 @@ colspan="5"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 > </pc
 ><p
 contentType="en"
->This module explains how to check for spelling mistakes in the text you have typed into you project in Paratext 8.</p
+>This module explains how to check for spelling mistakes in the text you have typed into you project in <object
+type="tPT"
+></object
+> .</p
 ><p
 contentType="fr"
->Ce module explique comment utiliser une fonctionnalité de Paratext 8 pour la vérification des fautes d’orthographe.</p
+>Ce module explique comment utiliser une fonctionnalité de <object
+type="tPT"
+></object
+> pour la vérification des fautes d’orthographe.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
 contentType="en"
->You have type your text in Paratext and have done some checks but there may still be spelling mistakes in the text.</p
+>You have type your text in <object
+type="tPT"
+></object
+> and have done some checks but there may still be spelling mistakes in the text.</p
 ><p
 contentType="fr"
->Vous avez saisi votre texte dans Paratext et vous l’avez examiné pour déceler les fautes de frappe et les erreurs de composition. Mais il peut encore rester un certain nombre d’erreurs d’orthographe.</p
+>Vous avez saisi votre texte dans <object
+type="tPT"
+></object
+> et vous l’avez examiné pour déceler les fautes de frappe et les erreurs de composition. Mais il peut encore rester un certain nombre d’erreurs d’orthographe.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why is this important?</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette fonction est-elle importante ? </object
 ></pc
 ><p
@@ -4423,45 +5263,72 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
 contentType="en"
->Firstly you need to configure the wordlist to build up a base of correct words. Then you can get Paratext to show red squiggly lines under the words it does not know. You can then work through your text, either correcting mistakes or telling Paratext that the words are correct.</p
+>Firstly you need to configure the wordlist to build up a base of correct words. Then you can get <object
+type="tPT"
+></object
+> to show red squiggly lines under the words it does not know. You can then work through your text, either correcting mistakes or telling <object
+type="tPT"
+></object
+> that the words are correct.</p
 ><p
 contentType="fr"
 >Vous devez d’abord configurer la liste de mots pour avoir une base de mots avec une orthographe correcte. Puis vous pouvez configurer l’ordinateur pour qu’il souligne les fautes d’orthographe à l’aide de lignes ondulées rouges dans le texte. Vous pouvez ensuite les corriger du texte. Vous pouvez ensuite faire diverses vérifications à la liste de mots.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
->What has changed in Paratext 8 </object
+type="tsub"
+>What has changed in <object
+type="tPT"
+></object
+> </object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
->Ce qui a changé en passant de Paratext 7.5 à 8  </object
+type="tsub"
+>Ce qui a changé en passant de <object
+type="tPTPrev"
+></object
+> à <object
+type="tPT"
+></object
+></object
 ></pc
 ><p
 contentType="en"
->Paratext 8 has a number of specific checks that you can run on the wordlist. It can also highlight invalid characters in you text.</p
+><object
+type="tPT"
+></object
+> has a number of specific checks that you can run on the wordlist. It can also highlight invalid characters in you text.</p
 ><p
 contentType="fr"
->Paratext 8 a diverses vérifications à la liste de mots. Il peut également souligner les caractères invalides dans le texte.</p
-><p
+><object
+type="tPT"
+></object
+> a diverses vérifications à la liste de mots. Il peut également souligner les caractères invalides dans le texte.</p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -4502,18 +5369,24 @@ contentType="en"
 >In Paratext</p
 ><p
 contentType="fr"
->**missing**</p
+>Dans Paratext</p
 ><ul
 ><li
 contentType="en"
->Tools &gt; Wordlist</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Wordlist</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Liste de mots</object
 > </li
 ></ul
@@ -4522,17 +5395,26 @@ contentType="en"
 >In the Wordlist</p
 ><p
 contentType="fr"
->**missing**</p
+>Dans le Liste des Mots</p
 ><ul
 ><li
 contentType="en"
->Tools &gt; Approve spelling of common words</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Approve spelling of common words</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
-> &gt; Approuvez l’orthographe des mots fréquents </li
+> &gt; <object
+type="tmenu"
+>Approuvez l’orthographe des mots fréquents </object
+></li
 ><li
 contentType="en"
 >Enter a number</li
@@ -4552,16 +5434,28 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> </li
 ><li
 contentType="en"
->Click Yes (to confirm that you can’t undo)</li
+>Click <object
+type="tmenu"
+>Yes</object
+> (to confirm that you can’t undo)</li
 ><li
 contentType="fr"
->Cliquez sur Oui </li
+>Cliquez sur <object
+type="tmenu"
+>Oui</object
+> </li
 ></ul
 ></section2
 ><section2
@@ -4570,12 +5464,21 @@ id="sCheckTheWordsThatParatextThinksAre"
 ><object
 contentType="en"
 type="t-en"
->Check the words that Paratext thinks are incorrect [◙ VO01b]</object
+>Check the words that <object
+type="tPT"
+></object
+> thinks are incorrect [◙ VO01b]</object
 > <object
 contentType="fr"
 type="t-fr"
->Vérifier les mots que Paratext pense être erronés [◙ VO01b] </object
+>Vérifier les mots que <object
+type="tPT"
+></object
+> pense être erronés [◙ VO01b] </object
 ></secTitle
+><p
+contentType="dn"
+>Fix Icons</p
 ><p
 contentType="en"
 >In the Wordlist</p
@@ -4585,14 +5488,20 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Check spelling</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Check spelling</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Vérifier l’orthographe</object
 > </li
 ></ul
@@ -4602,7 +5511,13 @@ contentType="en"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Spell check &gt; All checks</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Spell check &gt; All checks</object
+></li
 ><li
 contentType="en"
 >Click on a word in the top pane.</li
@@ -4623,13 +5538,19 @@ src="12imgeng/image27.png"
 ></li
 ><li
 contentType="en"
->If the word is incorrect, but Paratext has suggested the correct word, then click the blue link for the correct word.</li
+>If the word is incorrect, but <object
+type="tPT"
+></object
+> has suggested the correct word, then click the blue link for the correct word.</li
 ><li
 contentType="fr"
 >Si incorrect — cliquez sur la croix rouge X et corriger </li
 ><li
 contentType="en"
->If the word is incorrect, and Paratext hasn’t suggested the correct word, click on the red checkbox X and correct the word.</li
+>If the word is incorrect, and <object
+type="tPT"
+></object
+> hasn’t suggested the correct word, click on the red checkbox X and correct the word.</li
 ><li
 contentType="fr"
 >Si on veut remplacer le mot par l’un des mots bleus soulignés, cliquez sur le mot.</li
@@ -4652,46 +5573,61 @@ contentType="en"
 >In the Wordlist</p
 ><p
 contentType="en"
->Tools &gt; Find Similar Words</p
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Find Similar Words</object
+></p
 ><ul
 ><li
 contentType="fr"
 >Dans la liste de mots, 1.<object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Rechercher mots semblables</object
 ></li
 ><li
 contentType="en"
->Enter letters which sound alike separated by / (e.g. s/sh/z)</li
+>Enter letters which sound alike separated by / (e.g. <object
+type="ttyped"
+>s</object
+>/<object
+type="ttyped"
+>sh</object
+>/<object
+type="ttyped"
+>z</object
+>)</li
 ><li
 contentType="fr"
->Remplissez la boîte de dialogue avec les paires de <br
-></br
->lettres qui peuvent être confondues </li
+>Remplissez la boîte de dialogue avec les paires de lettres qui peuvent être confondues </li
 ></ul
-><framedUnit
-contentType="fr"
-framedtype="tTeacher"
-><p
-contentType="fr"
->Selon votre langue, cochez ou décochez « ne pas tenir compte des signes diacritiques lors de la comparaison des mots ».</p
-></framedUnit
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 >Depending on your language, tick or untick « Ignore all diacritics when comparing words ».</p
+><p
+contentType="fr"
+>Selon votre langue, cochez ou décochez « ne pas tenir compte des signes diacritiques lors de la comparaison des mots ».</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
 ></ul
 ><p
 contentType="en"
@@ -4704,12 +5640,6 @@ contentType="en"
 contentType="fr"
 >Vérifiez les mots comme au-dessus. </li
 ></ul
-><p
-contentType="en"
->Spell checking – from the text</p
-><p
-contentType="fr"
->Vérification d’orthographe — dans le texte</p
 ></section2
 ></section1
 ><section1
@@ -4718,11 +5648,11 @@ id="sSpellChecking"
 ><object
 contentType="en"
 type="t-en"
->Spell checking [◙ VO02]</object
+>Spell checking – from the text [◙ VO02]</object
 > <object
 contentType="fr"
 type="t-fr"
->Vérifier l’orthographe [◙ VO02] </object
+>Vérifier l’orthographe — dans le texte [◙ VO02] </object
 ></secTitle
 ><p
 contentType="en"
@@ -4730,13 +5660,19 @@ contentType="en"
 ><ul
 ><li
 contentType="en"
->Checking &gt; Display spelling</li
+><object
+type="tmenu"
+>Checking</object
+> &gt; <object
+type="tmenu"
+>Display spelling</object
+></li
 ><li
 ><object
-type="tKw"
+type="tmenu"
 >Vérification </object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Afficher l’orthographe</object
 ></li
 ></ul
@@ -4746,9 +5682,6 @@ contentType="en"
 ><p
 contentType="fr"
 >Un mètre de progrès s’affiche puis tous les mots inconnus ou incorrects sont soulignés avec les lignes ondulées rouges.</p
-><p
-contentType="fr"
->Dans Paratext</p
 ></section1
 ><section1
 id="sMakingCorrections"
@@ -4762,6 +5695,9 @@ contentType="fr"
 type="t-fr"
 >Corrections des erreurs [◙ VO02]</object
 ></secTitle
+><p
+contentType="fr"
+>Dans Paratext</p
 ><ul
 ><li
 contentType="en"
@@ -4784,24 +5720,26 @@ contentType="en"
 >from the list</li
 ><li
 contentType="fr"
->Saisissez la correction ou choisissez <br
-></br
->un mot dans<br
-></br
-> la liste </li
+>Saisissez la correction ou choisissez un mot de la liste </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
 ><p
 contentType="en"
->When possible, it is better to use the spelling check even when making minor corrections as Paratext will remember the correction and can apply the correction if it happens again.</p
+>When possible, it is better to use the spelling check even when making minor corrections as <object
+type="tPT"
+></object
+> will remember the correction and can apply the correction if it happens again.</p
 ><p
 contentType="fr"
 >C’est préférable d’utiliser « vérifier l’orthographe » au lieu de corriger les mots un par un dans le texte.</p
@@ -4809,52 +5747,58 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->When there is more than one correction, a dialog box is displayed. Choose as appropriate: <br
-></br
->Yes = changes this verse and looks for the next<br
-></br
->No = skips this verse and looks for the next<br
-></br
->Yes to all – is too dangerous, DON’T use it<br
-></br
->Cancel = stops changing any more</p
-><p
-contentType="fr"
->C’est mieux parce que Paratext va se rappeler la correction pour l’appliquer aussi dans les autres chapitres. Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin <br
-></br
-><object
-type="tKw"
->Oui</object
-> = change ce verset et cherchent d’autres.</p
-></framedUnit
-><p
-contentType="fr"
-><object
-type="tKw"
->Non</object
-> = ne change pas ce verset, mais cherchent d’autres<br
-></br
-><object
-type="tKw"
->Oui à tous</object
-> est trop dangereux ne l’utilisez pas<br
-></br
-><object
-type="tKw"
->Annuler</object
-> = arrête d’ici, ne change rien d’autre</p
-></section1
-><section1
-id="sSPCB"
-><secTitle
->Spell checking - current book</secTitle
+>When there is more than one correction, a dialog box is displayed. Choose as appropriate: </p
 ><p
 contentType="en"
->Spell checking – current book</p
+><object
+type="tmenu"
+>Yes</object
+> = changes this verse and looks for the next<br
+></br
+><object
+type="tmenu"
+>No</object
+> = skips this verse and looks for the next<br
+></br
+><object
+type="tmenu"
+>Yes to all</object
+> – is too dangerous, DON’T use it<br
+></br
+><object
+type="tmenu"
+>Cancel</object
+> = stops changing any more</p
 ><p
 contentType="fr"
->Vérification d’orthographe — du livre actuel</p
-><section2
+>C’est mieux parce que <object
+type="tPT"
+></object
+> va se rappeler la correction pour l’appliquer aussi dans les autres chapitres. Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin </p
+><p
+contentType="fr"
+><object
+type="tmenu"
+>Oui</object
+> = change ce verset et cherche d’autres.<br
+></br
+><object
+type="tmenu"
+>Non</object
+> = ne change pas ce verset, mais cherche d’autres<br
+></br
+><object
+type="tmenu"
+>Oui à tous</object
+> est trop dangereux. Ne l’utilisez pas!<br
+></br
+><object
+type="tmenu"
+>Annuler</object
+> = arrête d’ici, ne change rien d’autre</p
+></framedUnit
+></section1
+><section1
 id="sSpellCheckingCurrentBook"
 ><secTitle
 ><object
@@ -4864,18 +5808,21 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->Vérifier l’orthographe du livre actuel [◙ VO02b]</object
+>Vérifier l’orthographe – du livre actuel [◙ VO02b]</object
 ></secTitle
 ><ul
 ><li
 contentType="en"
->Checking &gt; Spell Check Current Book</li
+>Checking &gt; <object
+type="tmenu"
+>Spell Check Current Book</object
+></li
 ><li
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Vérifier l’orthographe du livre actuel</object
 > </li
 ></ul
@@ -4888,9 +5835,6 @@ contentType="en"
 contentType="fr"
 >Une fenêtre s’affiche avec une liste de plusieurs mots suspects du livre actuel.</p
 ></framedUnit
-><p
-contentType="dn"
->French Screenshot</p
 ><p
 contentType="en"
 ><img
@@ -4929,7 +5873,6 @@ contentType="en"
 ><p
 contentType="fr"
 >Vérification d’orthographe — dans la liste de mots</p
-></section2
 ></section1
 ><section1
 id="sUsingTheNewChecks"
@@ -4949,14 +5892,20 @@ contentType="en"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Spell check &gt;</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Spell check &gt;</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Vérifier l’orthographe</object
 > </li
 ><li
@@ -4969,10 +5918,12 @@ src="12imgeng/image29.png"
 ></li
 ><li
 contentType="fr"
->Choisissez la vérification désirée (voir dessous)<img
-src="i.png"
+>Choisissez la vérification désirée (voir dessous).<br
+></br
+><img
+src="12imgfr/image31.png"
 ></img
->  </li
+></li
 ></ul
 ><p
 contentType="en"
@@ -4989,10 +5940,16 @@ contentType="fr"
 >Faites les corrections comme ci-dessus </li
 ><li
 contentType="en"
->Click « More items available » to see more words.</li
+>Click "<object
+type="tmenu"
+>More items available</object
+>" to see more words.</li
 ><li
 contentType="fr"
->Cliquez sur « Encore des éléments disponibles » pour afficher des mots supplémentaires. </li
+>Cliquez sur « <object
+type="tmenu"
+>Encore des éléments disponibles</object
+> » pour afficher des mots supplémentaires. </li
 ><li
 contentType="en"
 >Continue as needed.</li
@@ -5001,29 +5958,36 @@ contentType="fr"
 >Continuez si nécessaire. </li
 ><li
 contentType="en"
->When the list is finished, a message is displayed</li
-><li
-contentType="fr"
->Quand la liste est vide, un message s’affiche </li
-></ul
-><p
-contentType="en"
+>When the list is finished, a message is displayed<br
+></br
 ><img
 src="12imgeng/image30.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+>Quand la liste est vide, un message s’affiche.<br
+></br
+><img
+src="12imgfr/image32.png"
+></img
+></li
+></ul
 ><p
 contentType="fr"
-><img
-src="i.png"
-></img
-> </p
+></p
 ><ul
 ><li
 contentType="en"
->Click Yes.</li
+>Click <object
+type="tmenu"
+>Yes</object
+>.</li
 ><li
->Oui (Yes).</li
+>Oui (<object
+type="tmenu"
+>Yes</object
+>).</li
 ></ul
 ></section1
 ><section1
@@ -5048,7 +6012,7 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->Missing Capitals (majuscules manquantes)</object
+>Majuscules manquantes</object
 ></secTitle
 ><p
 contentType="en"
@@ -5070,6 +6034,8 @@ contentType="fr"
 ><img
 src="12imgeng/image31.png"
 ></img
+><br
+></br
 >Cliquez sur le lien bleu</p
 ><ul
 ><li
@@ -5077,21 +6043,22 @@ contentType="en"
 >Click the blue link to the capitalised form</li
 ><li
 contentType="fr"
+>Cliquez sur le lien bleu qui convient.Cliquez sur le lien bleu qui convient. <br
+></br
 ><img
-src="i.png"
+src="12imgfr/image34.png"
 ></img
->Cliquez sur le lien bleu qui convient.Cliquez sur le lien bleu qui convient. </li
+></li
 ></ul
-><p
-contentType="en"
-><img
-src="12imgeng/image32.png"
-></img
-></p
 ><ul
 ><li
 contentType="en"
->Click the appropriate blue link <ul
+>Click the appropriate blue link<br
+></br
+><img
+src="12imgeng/image32.png"
+></img
+> <ul
 ><li
 contentType="en"
 ><object
@@ -5185,10 +6152,34 @@ type="t-fr"
 ></secTitle
 ><p
 contentType="en"
->A list of words is displayed which have the same type of problem which have already been corrected in other words. E.g. if you have already corrected "teh" as "the", and it finds "tehm" it will suggest "them".</p
+>A list of words is displayed which have the same type of problem which have already been corrected in other words. E.g. if you have already corrected "<object
+type="ttyped"
+>teh</object
+>" as "<object
+type="ttyped"
+>the</object
+>", and it finds "<object
+type="ttyped"
+>tehm</object
+>" it will suggest "<object
+type="ttyped"
+>them</object
+>".</p
 ><p
 contentType="fr"
->Une liste s’affiche des mots qui ont le même type de problème que vous avez résolu avant. P.ex. si vous aviez corrigé « teh » en « the », et il trouve « tehm » il suggérait « them ».</p
+>Une liste s’affiche des mots qui ont le même type de problème que vous avez résolu avant. P.ex. si vous aviez corrigé « <object
+type="ttyped"
+>teh</object
+> » en « <object
+type="ttyped"
+>the</object
+> », et il trouve « <object
+type="ttyped"
+>tehm</object
+> » il suggérait « <object
+type="ttyped"
+>them</object
+> ».</p
 ></section1
 ><section1
 id="sUnknown"
@@ -5223,33 +6214,46 @@ type="t-fr"
 ></secTitle
 ><p
 contentType="en"
->In the Wordlist (Tools – Wordlist)</p
+>In the Wordlist (<object
+type="tmenu"
+>Tools</object
+> – Wordlist)</p
 ><p
 contentType="fr"
->Dans la liste de mots (Outils – Liste de mots)</p
+>Dans la liste de mots (<object
+type="tmenu"
+>Outils</object
+> – Liste de mots)</p
 ><ul
 ><li
 contentType="en"
->Tools &gt; Find Incorrectly Joined or Split Words</li
-><li
-contentType="fr"
->Outils &gt; <object
-type="tKw"
->Rechercher des mots mal liés ou mal divisés</object
-> <img
-src="i.png"
-></img
-> </li
-><li
-contentType="dn"
->French Screenshot</li
-></ul
-><p
-contentType="en"
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Find Incorrectly Joined or Split Words</object
+><br
+></br
 ><img
 src="12imgeng/image33.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Outils</object
+> &gt; <object
+type="tmenu"
+>Rechercher des mots mal liés ou mal divisés</object
+> <br
+></br
+><img
+src="12imgfr/image35.png"
+></img
+> </li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -5259,21 +6263,33 @@ contentType="fr"
 >Saisissez la ponctuation si elle existe </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK. </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. </li
 ></ul
 ><p
 contentType="en"
 >A list of words is displayed with similar words grouped together.</p
 ><p
-contentType="fr"
->Une liste de mots regroupés s’affiche. </p
-><p
 contentType="en"
 ><img
 src="12imgeng/image34.png"
+></img
+></p
+><p
+contentType="fr"
+>Une liste de mots regroupés s’affiche. </p
+><p
+contentType="fr"
+><img
+src="12imgfr/maldivise.png"
 ></img
 ></p
 ></section1
@@ -5326,13 +6342,13 @@ type="t-fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><p
@@ -5344,31 +6360,37 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
 contentType="en"
->You are translating a verse in Paratext and you want to see what renderings have already been chosen for the terms in the current verse and then make sure they are consistent with other verses.</p
+>You are translating a verse in <object
+type="tPT"
+></object
+> and you want to see what renderings have already been chosen for the terms in the current verse and then make sure they are consistent with other verses.</p
 ><p
 contentType="fr"
->Vous êtes en train de traduire un verset en Paratext et vous voulez voir les équivalents qui sont déjà choisis pour les termes de verset actuel puis vérifier qu’ils sont cohérents avec les autres versets.</p
+>Vous êtes en train de traduire un verset en <object
+type="tPT"
+></object
+> et vous voulez voir les équivalents qui sont déjà choisis pour les termes de verset actuel puis vérifier qu’ils sont cohérents avec les autres versets.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -5380,13 +6402,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -5395,30 +6417,32 @@ contentType="en"
 ><p
 contentType="fr"
 >Cette méthode se résume à une courte liste des étapes :</p
-><p
+><ol
+><li
 contentType="en"
->1. Find all the ways you have rendered this term, and enter them in the renderings dialog.</p
-><p
+>Find all the ways you have rendered this term, and enter them in the renderings dialog.</li
+><li
 contentType="fr"
->1. Trouver tous les équivalents que vous avez utilisés pour ce terme, et les entrer dans la boîte de dialogue des équivalents.</p
-><p
+>Trouver tous les équivalents que vous avez utilisés pour ce terme, et les entrer dans la boîte de dialogue des équivalents.</li
+><li
 contentType="en"
->2. Choose which rendering is/are best, and record why it is best.</p
-><p
+>Choose which rendering is/are best, and record why it is best.</li
+><li
 contentType="fr"
->2. Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.</p
-><p
+>Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.</li
+><li
 contentType="en"
->3. Document why you rejected the other renderings.</p
-><p
+>Document why you rejected the other renderings.</li
+><li
 contentType="fr"
->3. Document la raison pour laquelle vous avez rejeté les autres équivalents.</p
-><p
+>Document la raison pour laquelle vous avez rejeté les autres équivalents.</li
+><li
 contentType="en"
->4. Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</p
-><p
+>Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</li
+><li
 contentType="fr"
->4. Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).</p
+>Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).</li
+></ol
 ><p
 contentType="en"
 >Repeat with next Biblical Term you find in the Biblical Terms Renderings window.</p
@@ -5427,7 +6451,10 @@ contentType="fr"
 >Répétez ce processus avec le prochain terme biblique que vous trouvez dans la fenêtre d’équivalentes de termes bibliques.</p
 ><p
 contentType="en"
->In Paratext you will</p
+>In <object
+type="tPT"
+></object
+> you will</p
 ><p
 contentType="en"
 >1. Find the way your have rendered the term in the verse and then expand to find all the ways you have rendered this term, and enter them in the renderings dialog.</p
@@ -5443,12 +6470,18 @@ contentType="en"
 ><p
 contentType="en"
 >5. Repeat with next Biblical Term you find in the Biblical Terms Renderings window.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -5476,26 +6509,38 @@ contentType="fr"
 >Cliquez dans votre projet </li
 ><li
 contentType="en"
->File &gt; Open Biblical terms rendering</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Biblical terms rendering</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Équivalents de termes bibliques</object
 > </li
 ><li
 contentType="en"
->File &gt; Select Biblical terms list</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Select Biblical terms list</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Sélectionner liste de termes</object
 >  </li
 ><li
@@ -5504,19 +6549,22 @@ contentType="en"
 ><li
 contentType="fr"
 >Choisissez la liste désirée (<object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Sélectionner la liste des termes biblique</object
 >.) </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ></ul
@@ -5601,7 +6649,7 @@ src="12imgeng/image35.png"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image36.png"
 ></img
 > </p
 ><p
@@ -5619,23 +6667,38 @@ src="12imgeng/image36.png"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image37.png"
 ></img
 > </p
 ><ul
 ><li
 contentType="en"
->Paste (ctrl+v) the rendering in the dialog box.</li
+>Paste (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>v</object
+>) the rendering in the dialog box.</li
 ><li
 contentType="fr"
->Collez (Ctrl + v) l’équivalent dans la boîte de dialogue. </li
+>Collez (<object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>v</object
+>) l’équivalent dans la boîte de dialogue. </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ></ul
@@ -5655,11 +6718,14 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Double-click on a word in the term column</li
+>Double-click on a word in the <object
+type="tmenu"
+>Term</object
+> column</li
 ><li
-contentType="en"
+contentType="fr"
 >Double-cliquez sur un mot dans la colonne <object
-type="tKw"
+type="tmenu"
 >Terme</object
 > </li
 ></ul
@@ -5676,12 +6742,17 @@ contentType="en"
 ><li
 contentType="fr"
 >À partir du deuxième champs de filtre, choisissez <object
-type="tKw"
+type="tmenu"
 >Livre actuel</object
-> <img
-src="i.png"
+> <br
+></br
+><img
+src="12imgfr/image38.png"
 ></img
-> Ajouter les équivalents de tous les versets (voir ci-dessous). </li
+></li
+><li
+contentType="fr"
+>Ajouter les équivalents de tous les versets (voir ci-dessous). </li
 ><li
 contentType="en"
 >Add renderings for the term from the verses until the terms in all verses are been identified (see below).</li
@@ -5708,10 +6779,22 @@ contentType="fr"
 >Sélectionnez l’équivalent dans le verset </li
 ><li
 contentType="en"
->Add the rendering using Ctrl+A</li
+>Add the rendering using <object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>A</object
+></li
 ><li
 contentType="fr"
->Ajoutez l’équivalent en utilisant Ctrl+A </li
+>Ajoutez l’équivalent en utilisant <object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>A</object
+> </li
 ><li
 contentType="en"
 >Continue until all terms for those verses have been identified.</li
@@ -5758,7 +6841,7 @@ contentType="en"
 ><p
 contentType="fr"
 >Cliquez sur la croix rouge <img
-src="i.png"
+src="12imgeng/image24.png"
 ></img
 > pour retourner à la croix rouge. </p
 ></section1
@@ -5779,6 +6862,7 @@ type="t-fr"
 contentType="en"
 >Double-click on the term in the top pane.</li
 ><li
+contentType="fr"
 >Double-cliquez sur le terme dans le volet en haut. </li
 ></ul
 ><p
@@ -5796,10 +6880,34 @@ contentType="fr"
 >Décidez le meilleur équivalent </li
 ><li
 contentType="en"
->Cut (ctrl+x) and paste (ctrl+v) it to the top of the dialogue box</li
+>Cut (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>x</object
+>) and paste (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>v</object
+>) it to the top of the dialogue box</li
 ><li
 contentType="fr"
->Coupez-le (Ctrl+x) et collez-le (Ctrl+v) à la première ligne de la liste.  </li
+>Coupez-le (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>x</object
+>) et collez-le (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>v</object
+>) à la première ligne de la liste.  </li
 ><li
 contentType="en"
 >Add * as necessary to combine similar renderings</li
@@ -5848,13 +6956,10 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Historique</object
-></li
-><li
-contentType="fr"
-><img
-src="i.png"
+> <img
+src="12imgfr/image39.png"
 ></img
 ></li
 ><li
@@ -5862,7 +6967,12 @@ contentType="en"
 >Type in the reason why the others were rejected and why the first was the best.</li
 ><li
 contentType="fr"
->Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. </li
+>Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. <br
+></br
+><img
+src="12imgfr/image40.png"
+></img
+></li
 ><li
 contentType="en"
 >Click OK</li
@@ -5952,15 +7062,11 @@ type="t-fr"
 >Ajouter les remarques des discussions des équivalents (discussion en cours)</object
 ></secTitle
 ><framedUnit
-contentType="en"
+contentType="fr"
 framedtype="tTeacher"
 ><p
-contentType="fr"
->If you are still deciding on the rendering you should add a rendering discussion note</p
-></framedUnit
-><framedUnit
-contentType="fr"
-framedtype="tTeacher"
+contentType="en"
+>If you are still deciding on the rendering you should add a rendering discussion note.</p
 ><p
 contentType="fr"
 >Si vous décidez définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.</p
@@ -5971,8 +7077,10 @@ contentType="en"
 >Double-click on the note icon (in the second column)</li
 ><li
 contentType="fr"
->Double-cliquez sur l’icône de remarque (dans la deuxième colonne) <img
-src="i.png"
+>Double-cliquez sur l’icône de remarque (dans la deuxième colonne) <br
+></br
+><img
+src="12imgfr/image41.png"
 ></img
 > </li
 ><li
@@ -6001,7 +7109,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -6041,7 +7149,7 @@ src="12imgeng/image38.png"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image42.png"
 ></img
 ></p
 ><p
@@ -6074,20 +7182,26 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->From your reference text, do a find (using Edit&gt;Find) and search for the term.</li
+>From your reference text, do a find (using <object
+type="tmenu"
+>Edit</object
+> &gt; <object
+type="tmenu"
+>Find</object
+>) and search for the term.</li
 ><li
 contentType="fr"
 >Cliquez dans votre texte de référence </li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Édition</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Rechercher</object
 > puis Saisissez le terme et cliquez <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -6106,16 +7220,22 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Edit &gt; Add to Project Biblical Terms, then choose your project</li
+>Edit &gt; <object
+type="tmenu"
+>Add to Project Biblical Terms</object
+>, then choose your project</li
 ><li
+contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Édition</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Ajouter aux termes bibliques du projet</object
->, puis choisissez votre projet <img
-src="i.png"
+>, puis choisissez votre projet <br
+></br
+><img
+src="12imgfr/image42.png"
 ></img
 ></li
 ></ul
@@ -6138,7 +7258,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
-type="tKw"
+type="tmenu"
 >Advancé</object
 > </li
 ><li
@@ -6150,7 +7270,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ><li
@@ -6162,7 +7282,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ></ul
@@ -6176,25 +7296,31 @@ contentType="fr"
 type="t-fr"
 >MP : Comparer un mot ou expression </object
 ></secTitle
-><p
+><pc
 contentType="fr"
->​Introduction </p
+>​<object
+type="tsub"
+>Introduction </object
+></pc
 ><p
 contentType="fr"
 >Dans ce module, vous allez chercher un mot ou phrase dans un projet et comparer avec la traduction de ce mot ou phrase dans un autre projet.</p
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >​Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
 contentType="fr"
->Dans Paratext 8.0 (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où « roi » se produit dans un projet français et de comparer à où « rey » se produit dans un projet espagnol.</p
+>Dans <object
+type="tPT"
+></object
+> (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où « roi » se produit dans un projet français et de comparer à où « rey » se produit dans un projet espagnol.</p
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >​Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -6217,9 +7343,12 @@ contentType="fr"
 contentType="fr"
 >masquer les correspondances. </li
 ></ul
-><p
+><pc
 contentType="fr"
->Résumé </p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="fr"
 >Ce module vous montre comment :</p
@@ -6233,13 +7362,13 @@ contentType="fr"
 ><li
 contentType="fr"
 >Dans le menu <object
-type="tKw"
+type="tmenu"
 >Outils</object
 >, pointez sur <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > et sélectionnez « <object
-type="tKw"
+type="tmenu"
 >Word or Phrase</object
 > » </li
 ></ul
@@ -6253,7 +7382,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -6263,20 +7392,20 @@ contentType="fr"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image43.png"
 ></img
 > </p
 ><ul
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Textes comparatifs</object
 >...  </li
 ><li
 contentType="fr"
 >Sélectionnez les textes que vous souhaitez comparer et cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -6286,27 +7415,34 @@ contentType="fr"
 ><p
 contentType="fr"
 >Saisissez le mot ou l’expression que vous souhaitez comparer dans la zone correspondant à chaque projet, puis cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
->. <img
-src="i.png"
+>. <br
+></br
+><img
+src="12imgfr/image44.png"
 ></img
 > </p
 ><p
 contentType="fr"
 >Une fenêtre s’affiche et le bouton <object
-type="tKw"
+type="tmenu"
 >Masquer des correspondances</object
 > s’affiche sur la barre d’outils. <img
-src="i.png"
+src="12imgfr/image45.png"
 ></img
-> <object
-type="tKw"
->Masquer les correspondances</object
-> pour afficher uniquement les références où le nombre d’occurrences du mot ou de l’expression diffère. </p
+> </p
 ><p
 contentType="fr"
->La liste montre où chacun de ces éléments se trouve dans chaque verset. Les mots où les phrases sont mis en surbrillance en bleu clair.</p
+>Cliquez sur <object
+type="tmenu"
+>Masquer les correspondances</object
+> pour afficher uniquement les références où le nombre d’occurrences du mot ou de l’expression diffère. <br
+></br
+><object
+type="tresult"
+>La liste montre où chacun de ces éléments se trouve dans chaque verset. Les mots où les phrases sont mis en surbrillance en bleu clair.</object
+></p
 ><p
 contentType="fr"
 >Comparer utilisation d’un Mot ou expression dans plusieurs traductions – de l’outil termes bibliques</p
@@ -6319,17 +7455,23 @@ contentType="fr"
 >Sélectionnez un terme biblique qui a déjà un équivalent. </li
 ><li
 contentType="fr"
->Cliquez sur l’icône « Afficher les rendus pour le terme courant dans Word ou Phrase checklist » </li
+>Cliquez sur l’icône « <object
+type="tmenu"
+>Afficher les rendus pour le terme courant dans Word ou Phrase checklist</object
+> » </li
 ></ul
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image46.png"
 ></img
 > </p
 ><p
 contentType="fr"
->La boîte de dialogue « Paramètres » s’affiche avec l’équivalent déjà rempli.</p
+>La boîte de dialogue « <object
+type="tmenu"
+>Paramètres</object
+> » s’affiche avec l’équivalent déjà rempli.</p
 ><ul
 ><li
 contentType="fr"
@@ -6337,7 +7479,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -6347,7 +7489,7 @@ framedtype="tTeacher"
 ><p
 contentType="fr"
 >Si vous souhaitez comparer plus d’un mot ou d’une phrase, cliquez sur la touche <object
-type="tKw"
+type="tmenu"
 >Entrée</object
 > après chaque mot ou expression.</p
 ></framedUnit
@@ -6413,7 +7555,10 @@ contentType="fr"
 >Pourquoi est-ce important ?</p
 ><p
 contentType="fr"
->Paratext permet d’effectuer onze vérifications de base. Vous avez déjà vu les deux premières (le chapitre / les versets et les marqueurs). La prochaine série vous aide à localiser les erreurs liées à l’orthographe, la ponctuation, l’utilisation des majuscules et les mots répétés. Bien que ces erreurs n’influent pas nécessairement sur le contenu du texte, les corriger rend le texte plus facile à lire.</p
+><object
+type="tPT"
+></object
+> permet d’effectuer onze vérifications de base. Vous avez déjà vu les deux premières (le chapitre / les versets et les marqueurs). La prochaine série vous aide à localiser les erreurs liées à l’orthographe, la ponctuation, l’utilisation des majuscules et les mots répétés. Bien que ces erreurs n’influent pas nécessairement sur le contenu du texte, les corriger rend le texte plus facile à lire.</p
 ><p
 contentType="fr"
 >Ce que vous allez faire</p
@@ -6434,12 +7579,18 @@ contentType="fr"
 contentType="fr"
 >corriger toutes les erreurs. </li
 ></ul
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="fr"
 >Ce module vous montre comment :</p
@@ -6455,12 +7606,15 @@ contentType="en"
 type="t-en"
 >Confirmer la configuration</object
 ></secTitle
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 >Note: Before you can run the other basic checks some form of setup must be done by your Administrator.</p
 ><p
 contentType="fr"
 >N. B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.</p
+></framedUnit
 ><p
 contentType="fr"
 >L’installation peut être un inventaire, des règles ou des paramètres</p
@@ -6481,10 +7635,16 @@ type="t-fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->These inventories show what is currently in your text, that is, both the good and the bad. You need to work through the inventory and tell Paratext which elements are correct (valid) and which are errors (invalid).</p
+>These inventories show what is currently in your text, that is, both the good and the bad. You need to work through the inventory and tell <object
+type="tPT"
+></object
+> which elements are correct (valid) and which are errors (invalid).</p
 ><p
 contentType="fr"
->Ces inventaires montrent ce que vous avez dans votre texte, c’est-à-dire qu’ils montrent tous les bons caractères et les erreurs. Vous devez travailler en utilisant les inventaires et enseigner à Paratext lesquels des éléments sont bons (valides) et lesquels sont des erreurs (non valides).</p
+>Ces inventaires montrent ce que vous avez dans votre texte, c’est-à-dire qu’ils montrent tous les bons caractères et les erreurs. Vous devez travailler en utilisant les inventaires et enseigner à <object
+type="tPT"
+></object
+> lesquels des éléments sont bons (valides) et lesquels sont des erreurs (non valides).</p
 ></framedUnit
 ><p
 contentType="fr"
@@ -6507,10 +7667,10 @@ contentType="en"
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
@@ -6519,13 +7679,16 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ><li
 contentType="fr"
 >Faites les corrections nécessaires. </li
 ></ul
+><p
+contentType="dn"
+>Needs to be moved.</p
 ><p
 contentType="en"
 >Details for the checks</p
@@ -6557,50 +7720,47 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; Character inventory</li
+>Checking &gt; <object
+type="tmenu"
+>Character inventory</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
->Inventaire</object
-> <object
-type="tKw"
->de</object
-> <object
-type="tKw"
->caractères</object
-> </li
+type="tmenu"
+>Inventaire de caractères</object
+>  </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 > </li
 ><li
 contentType="fr"
 >Cochez « <object
-type="tKw"
+type="tmenu"
 >Caractères</object
 > » </li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ><li
@@ -6632,14 +7792,20 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; Punctuation Inventory</li
+><object
+type="tmenu"
+>Checking</object
+> &gt; <object
+type="tmenu"
+>Punctuation Inventory</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire de signes de ponctuation</object
 >,  </li
 ><li
@@ -6658,32 +7824,35 @@ contentType="fr"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image49.png"
 ></img
 > </p
 ><ul
 ><li
 contentType="en"
->Checking &gt; Run Basic Checks</li
+>Checking &gt; <object
+type="tmenu"
+>Run Basic Checks</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 > </li
 ><li
 contentType="fr"
 >Cochez «<object
-type="tKw"
+type="tmenu"
 > Ponctuation</object
 > » </li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ><li
@@ -6706,10 +7875,10 @@ contentType="fr"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire d’erreurs ponctuation en paires correspondantes</object
 > :  </li
 ><li
@@ -6718,28 +7887,28 @@ contentType="fr"
 ><li
 contentType="fr"
 >Si nécessaire, cliquez sur <object
-type="tKw"
+type="tmenu"
 >Options...</object
 > pour ajouter d’autres paires </li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 > </li
 ><li
 contentType="fr"
 >Cochez « <object
-type="tKw"
+type="tmenu"
 >Erreurs de ponctuation en paires correspondantes </object
 >» </li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ><li
@@ -6772,44 +7941,47 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; Repeated words inventory:</li
+>Checking &gt; <object
+type="tmenu"
+>Repeated words inventory:</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire de mots répétés</object
 > :  </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 > </li
 ><li
 contentType="fr"
 >Cochez « <object
-type="tKw"
+type="tmenu"
 >Mots répétés</object
 > » </li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ><li
@@ -6837,51 +8009,55 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="fr"
->Il y a trois***quatre inventaires concernant des <br
-></br
->majuscules, mais une seule vérification.</p
+>Il y a trois***quatre inventaires concernant des majuscules, mais une seule vérification.</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
->Checking&gt; Markers Missing Final Sentence Punctuation</li
+>Checking&gt; <object
+type="tmenu"
+>Markers Missing Final Sentence Punctuation</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >***</object
 > </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
 contentType="en"
->Checking&gt; Markers followed by a lower case letter</li
+>Checking&gt; <object
+type="tmenu"
+>Markers followed by a lower case letter</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire des marqueurs suivis d’une minuscule</object
 > </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
@@ -6890,40 +8066,43 @@ contentType="en"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire de signes de ponctuation suivis d’une minuscule</object
 > </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
 contentType="en"
->Checking&gt; Mixed Capitalization</li
+>Checking&gt; <object
+type="tmenu"
+>Mixed Capitalization</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Inventaire de mise en majuscules mixte</object
 > </li
 ><li
 contentType="fr"
 >Pour chaque élément, choisissez <object
-type="tKw"
+type="tmenu"
 >Valide</object
 > ou <object
-type="tKw"
+type="tmenu"
 >Non valide</object
 >. </li
 ><li
@@ -6931,32 +8110,41 @@ contentType="en"
 >For each item on the list, choose Valid or Non valid.</li
 ><li
 contentType="en"
->Checking &gt; Run Basic Checks</li
+>Checking &gt; <object
+type="tmenu"
+>Run Basic Checks</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Vérification</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 > </li
 ><li
 contentType="en"
->Check « Capitalization »</li
+>Check « <object
+type="tmenu"
+>Capitalization</object
+> »</li
 ><li
 contentType="fr"
 >Cochez « <object
-type="tKw"
+type="tmenu"
 >Mise en majuscules</object
 > » </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ><li
@@ -7007,7 +8195,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -7016,11 +8204,7 @@ contentType="en"
 >However it is preferable to use the wordlist or the spell checker to correct all the errors at once.</p
 ><p
 contentType="fr"
->Pensez à utiliser la Liste de mots ou afficher l’orthographe pour corriger <br
-></br
-><br
-></br
->toutes les erreurs.</p
+>Pensez à utiliser la Liste de mots ou afficher l’orthographe pour corriger toutes les erreurs.</p
 ><section2
 id="sRevision"
 ><secTitle
@@ -7035,17 +8219,25 @@ type="t-fr"
 ></secTitle
 ><p
 contentType="en"
->There are many basic checks in Paratext 8. The table below summarizes the setup needed for each of the checks.</p
+>There are many basic checks in <object
+type="tPT"
+></object
+>. The table below summarizes the setup needed for each of the checks.</p
 ><p
 contentType="fr"
->Il y a plusieurs vérifications de bases en Paratext 8. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque vérification de base remplissez ce tableau</p
+>Il y a plusieurs vérifications de bases en <object
+type="tPT"
+></object
+>. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque vérification de base remplissez ce tableau</p
+><tablenumbered
+id="ntCheck"
 ><table
 border="1"
 ><tr
-><td
->Check</td
-><td
->Setup</td
+><th
+>Check</th
+><th
+>Setup</th
 ></tr
 ><tr
 ><td
@@ -7124,15 +8316,18 @@ border="1"
 >none</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+id="ntCheckTableFR"
 ><table
 border="1"
 ><tr
-><td
->Vérification</td
-><td
->Faire avant</td
-><td
->…  quoi ?</td
+><th
+>Vérification</th
+><th
+>Faire avant</th
+><th
+>…  quoi ?</th
 ></tr
 ><tr
 ><td
@@ -7212,7 +8407,10 @@ border="1"
 ><td
 >paramètres</td
 ><td
->Projet &gt; Paramètres de références bibliques</td
+>Projet &gt; <object
+type="tmenu"
+>Paramètres de références bibliques</object
+></td
 ></tr
 ><tr
 ><td
@@ -7220,7 +8418,10 @@ border="1"
 ><td
 >règle</td
 ><td
->Vérification &gt; Règles de Guillemets</td
+>Vérification &gt; <object
+type="tmenu"
+>Règles de Guillemets</object
+></td
 ></tr
 ><tr
 ><td
@@ -7228,7 +8429,10 @@ border="1"
 ><td
 >paramètres</td
 ><td
->Vérification &gt; Paramètres de chiffres</td
+>Vérification &gt; <object
+type="tmenu"
+>Paramètres de chiffres</object
+></td
 ></tr
 ><tr
 ><td
@@ -7239,6 +8443,7 @@ border="1"
 > </td
 ></tr
 ></table
+></tablenumbered
 ><p
 contentType="en"
 >It is possible to run all the checks at the same time, however when running the checks for the first time it is better to run them one at a time to avoid large list of errors.</p
@@ -7260,19 +8465,25 @@ contentType="fr"
 type="t-fr"
 >VM : Vérification de mise en page </object
 ></secTitle
-><p
+><pc
 contentType="en"
->Introduction</p
-><p
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
 contentType="fr"
->Introduction </p
+><object
+type="tsub"
+>Introduction </object
+></pc
 ><p
 contentType="fr"
 >Dans ce module, vous apprendrez à trouver et à corriger les erreurs de mise en forme et de mise en page.</p
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
@@ -7281,7 +8492,7 @@ contentType="fr"
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -7290,7 +8501,7 @@ contentType="fr"
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -7319,7 +8530,7 @@ contentType="en"
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Résumé </object
 ></pc
 ><p
@@ -7352,26 +8563,32 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Checklists &gt; choose the desired list</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checklists</object
+> &gt; choose the desired list</li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > &gt; choisissez la liste désirée </li
 ><li
 contentType="fr"
 >Ajoutez un texte comparatif (si voulu) en cliquant sur le bouton <object
-type="tKw"
+type="tmenu"
 >Textes comparatifs</object
 > </li
 ><li
 contentType="fr"
 >Sélectionnez la plage (si nécessaire) en utilisant le bouton <object
-type="tKw"
+type="tmenu"
 >Sélectionner plage</object
 > </li
 ></ul
@@ -7385,12 +8602,15 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tItalic"
+type="tmenu"
 >Edit</object
 > link to correct any errors</li
 ><li
 contentType="fr"
->Cliquez sur le lien « modifier » pour corriger des problèmes vus </li
+>Cliquez sur le lien « <object
+type="tmenu"
+>modifier</object
+> » pour corriger des problèmes vus </li
 ><li
 contentType="fr"
 >Cliquez sur le lien de référence pour voir plus de contexte  </li
@@ -7400,13 +8620,14 @@ contentType="en"
 >Close the list</p
 ><p
 contentType="fr"
->Fermer la liste<br
-></br
->Après avoir fini la liste, fermez-le en cliquant X </p
+>Fermer la liste</p
 ><ul
 ><li
 contentType="en"
 >When you have finished with the list, close it by clicking the X at the top right corner of the window.</li
+><li
+contentType="fr"
+>Après avoir fini la liste, fermez-le en cliquant X </li
 ></ul
 ></section1
 ><section1
@@ -7460,17 +8681,26 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Checklists &gt; Markers</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checklists</object
+> &gt; <object
+type="tmenu"
+>Markers</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Marqueurs</object
 > </li
 ><li
@@ -7479,7 +8709,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Choisissez votre texte de référence comme le <object
-type="tKw"
+type="tmenu"
 >texte comparatif</object
 > </li
 ><li
@@ -7488,9 +8718,14 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquer sur <object
-type="tKw"
+type="tmenu"
 >Paramètres</object
-> </li
+> <br
+></br
+><img
+src="12imgfr/image47.png"
+></img
+></li
 ></ul
 ><p
 contentType="en"
@@ -7500,9 +8735,6 @@ src="12imgeng/image39.png"
 ></p
 ><p
 contentType="fr"
-><img
-src="i.png"
-></img
 > </p
 ><ul
 ><li
@@ -7530,13 +8762,13 @@ contentType="en"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Cliquez sur </object
 ><object
-type="tKw"
+type="tmenu"
 >OK</object
 ><object
-type="tKw"
+type="tmenu"
 >.</object
 > <br
 ></br
@@ -7558,17 +8790,26 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Tools &gt; Checklists &gt; Markers</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checklists</object
+> &gt; <object
+type="tmenu"
+>Markers</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Marqueurs</object
 > </li
 ><li
@@ -7583,7 +8824,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquer sur <object
-type="tKw"
+type="tmenu"
 >Paramètres</object
 > </li
 ></ul
@@ -7596,7 +8837,7 @@ src="12imgeng/image055.jpg"
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image48.png"
 ></img
 > </p
 ><ul
@@ -7606,7 +8847,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 > </li
 ><li
@@ -7663,7 +8904,7 @@ type="t-fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction</object
 ></pc
 ><p
@@ -7675,31 +8916,34 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ? </object
 ></pc
 ><p
 contentType="en"
->You have entered and checked your translation in Paratext and are now ready to print out a copy. Your project must be registered before you can print.</p
+>You have entered and checked your translation in <object
+type="tPT"
+></object
+> and are now ready to print out a copy. Your project must be registered before you can print.</p
 ><p
 contentType="fr"
 >Vous avez travaillé sur votre texte dans Paratext. Maintenant, vous voulez l’imprimer pour le donner aux réviseurs ou pour la vérification.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why this is important</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
 ></pc
 ><p
@@ -7711,13 +8955,13 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -7755,19 +8999,34 @@ contentType="en"
 >Make sure you have completed a markers check before printing a draft.</p
 ><p
 contentType="fr"
->Votre projet doit être inscrit dans le registre de Paratext pour imprimer une ébauche.</p
+>Votre projet doit être inscrit dans le registre de <object
+type="tPT"
+></object
+> pour imprimer une ébauche.</p
 ><p
 contentType="fr"
 >Assurez-vous d’avoir fait la vérification des marqueurs avant d’imprimer l’ébauche.</p
 ><ul
 ><li
 contentType="en"
->File &gt; Print Draft</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Print Draft</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
->Fichier &gt; Imprimer ébauche...</object
+type="tmenu"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Imprimer ébauche...</object
+></object
 > </li
 ><li
 contentType="en"
@@ -7786,85 +9045,128 @@ contentType="fr"
 >Vérifiez que le(s) chapitre(s) que vous souhaitez imprimer est (sont) visible(s) </li
 ><li
 contentType="en"
->Choose the page settings as follows :</li
-><li
-contentType="fr"
->Choisissez les paramètres : </li
+>Choose the page settings as follows :<ul
 ><li
 contentType="en"
 >Page size: <br
 ></br
->210mm, 297mm (A4) ou <br
+><object
+type="ttyped"
+>210mm, 297mm (A4)</object
+> ou <br
 ></br
->148mm, 210mm (A5)</li
+><object
+type="ttyped"
+>148mm, 210mm (A5)</object
+></li
+><li
+contentType="en"
+>Columns : <object
+type="ttyped"
+>1</object
+></li
+><li
+contentType="en"
+>Margins : <br
+></br
+><object
+type="ttyped"
+>25 mm (for A4)</object
+> or <br
+></br
+><object
+type="ttyped"
+>12 mm for A5</object
+></li
+><li
+contentType="en"
+>Text body font: <object
+type="ttyped"
+>Charis SIL</object
+> (or <object
+type="ttyped"
+>Charis SIL Compact</object
+>)</li
+><li
+contentType="en"
+>Size: <object
+type="ttyped"
+>10 (or 11)</object
+></li
+><li
+contentType="en"
+>Line spacing: <br
+></br
+><object
+type="ttyped"
+>1.0 (for single spacing)</object
+></li
+></ul
+></li
+><li
+contentType="fr"
+>Choisissez les paramètres : <ul
 ><li
 contentType="fr"
 >Taille de page : <br
 ></br
 ><object
-type="tKw"
+type="ttyped"
 >210mm, 297mm (A4) </object
->ou<object
-type="tKw"
-> </object
-><br
+> ou<br
 ></br
 ><object
-type="tKw"
+type="ttyped"
 >148mm, 210mm (A5)</object
 > </li
 ><li
-contentType="en"
->Columns : 1</li
-><li
 contentType="fr"
->Colonnes : 1 </li
-><li
-contentType="en"
->Margins : <br
-></br
->25 mm (for A4) or <br
-></br
->12 mm for A5</li
+>Colonnes : <object
+type="ttyped"
+>1</object
+> </li
 ><li
 contentType="fr"
 >Marges : <br
 ></br
->25 mm (pour A4) ou <br
+><object
+type="ttyped"
+>25 mm (pour A4)</object
+> ou <br
 ></br
->12 mm pour A5 </li
-><li
-contentType="en"
->Text body font: Charis SIL (or Charis SIL Compact)</li
+><object
+type="ttyped"
+>12 mm pour A5</object
+> </li
 ><li
 contentType="fr"
 >Police du corps du texte : <object
-type="tKw"
+type="ttyped"
 >Charis SIL</object
-> (ou Charis SIL Compact) </li
-><li
-contentType="en"
->Size: 10 (or 11)</li
+> (ou <object
+type="ttyped"
+>Charis SIL Compact</object
+>) </li
 ><li
 contentType="fr"
->Taille : 10 (or 11) </li
-><li
-contentType="en"
->Line spacing: <br
-></br
->1.0 (for single spacing)</li
+>Taille : <object
+type="ttyped"
+>10 (or 11)</object
+> </li
 ><li
 contentType="fr"
 >Interligne : <br
 ></br
 ><object
-type="tKw"
+type="ttyped"
 >Double ou simple</object
 > </li
+></ul
+></li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
-type="tKw"
+type="tmenu"
 >Avancé</object
 > </li
 ><li
@@ -7875,29 +9177,32 @@ contentType="fr"
 >Choisissez ce que vous voulez dans les En-tête de page. </li
 ><li
 contentType="fr"
->Cliquez pour coches « Pages en vis-à-vis » </li
+>Cliquez pour coches « <object
+type="ttyped"
+>Pages en vis-à-vis</object
+> » </li
 ><li
 contentType="fr"
 >Faites les autres choix selon les besoins. </li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.  </li
+><li
+contentType="en"
+>Click OK and wait, the file will open in your PDF reader.</li
 ><li
 contentType="fr"
 >Cliquez sur OK et attendez l’ouverture du lecteur PDF. </li
 ><li
+contentType="en"
+>If there are marker error a message box will appear. Click No, then correct the errors and try again.</li
+><li
 contentType="fr"
 >S’il y a des erreurs avec des marqueurs par exemple, une boîte s’affiche. Cliquez sur Non, puis corrigez les erreurs et reprendre. </li
-><li
-contentType="en"
->Click OK and wait, the file will open in your PDF reader.</li
 ></ul
-><p
-contentType="en"
->If there are marker error a message box will appear. Click No, then correct the errors and try again.</p
 ></section1
 ><section1
 id="sPrintPdf"
@@ -7920,81 +9225,97 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->File &gt; Print.</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Print.</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
->Fichier &gt; Imprimer</object
+type="tmenu"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Imprimer</object
+></object
 >. </li
 ><li
 contentType="en"
->For A5</li
-><li
-contentType="fr"
->Pour A5  </li
+>For A5<ul
 ><li
 contentType="en"
 >Choose Booklet</li
 ><li
-contentType="fr"
->Choisissez Livret </li
-><li
 contentType="en"
 >Orientation : portrait</li
+></ul
+></li
+><li
+contentType="fr"
+>Pour A5<ul
+><li
+contentType="fr"
+>Choisissez Livret </li
 ><li
 contentType="fr"
 >Orientation : paysage </li
 ></ul
-><p
+></li
+><li
 contentType="en"
->To print double-sided</p
-><p
-contentType="fr"
->Pour imprimer recto verso</p
-><ul
+>To print double-sided:<ul
 ><li
 contentType="en"
 >Click the Properties button</li
 ><li
-contentType="fr"
->Cliquez sur le bouton Propriétés  </li
-><li
 contentType="en"
 >Choose Finition/Finishing</li
-><li
-contentType="fr"
->Choisissez Finition/Finishing  </li
 ><li
 contentType="en"
 >Choose Print on both sides</li
 ><li
-contentType="fr"
->Deux côtés </li
-><li
 contentType="en"
 >Orientation Landscape</li
+><li
+contentType="en"
+>Click OK</li
+></ul
+></li
+><li
+contentType="fr"
+>Pour imprimer recto verso<ul
+><li
+contentType="fr"
+>Cliquez sur le bouton Propriétés  </li
+><li
+contentType="fr"
+>Choisissez Finition/Finishing  </li
+><li
+contentType="fr"
+>Deux côtés </li
 ><li
 contentType="fr"
 >Orientation Paysage </li
 ><li
-contentType="en"
->Click OK</li
-><li
 contentType="fr"
 >Cliquez sur OK </li
+></ul
+></li
 ></ul
 ><p
 contentType="en"
 >If you need to use spaces before complex punctuation the ask for changes to be made in your PrintDraftChanges.txt</p
 ><p
-contentType="fr"
->Dans Adobe</p
+contentType="dn"
+>Still not sure I know what this is about</p
 ><p
 contentType="fr"
->Si un espace n’est pas ajouté avant ou après un signe de ponctuation complexe, demandez à <br
-></br
->l’encadreur de copier PrintDraftChanges.txt</p
+>Si un espace n’est pas ajouté avant ou après un signe de ponctuation complexe, demandez à l’encadreur de copier PrintDraftChanges.txt</p
 ></section1
 ><section1
 id="sCopyPdfFileToAUsbStick"
@@ -8006,7 +9327,10 @@ type="t-en"
 ></secTitle
 ><p
 contentType="en"
->Paratext saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p
+><object
+type="tPT"
+></object
+> saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p
 ><p
 contentType="en"
 >There are many ways to copy files. One method is described below.</p
@@ -8017,7 +9341,7 @@ contentType="en"
 ></ul
 ><p
 contentType="en"
->Window Explorer opens.</p
+>Windows Explorer opens.</p
 ><ul
 ><li
 contentType="en"
@@ -8095,31 +9419,37 @@ border="1"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Introduction </object
 ></pc
 ><p
 contentType="en"
->As you are translating and checking you may want to make comments on various errors or issues. You may also want to record your discussions on key terms and spelling issues. Paratext allows you to record these comments either in the text, the Biblical terms list or the wordlist.</p
+>As you are translating and checking you may want to make comments on various errors or issues. You may also want to record your discussions on key terms and spelling issues. <object
+type="tPT"
+></object
+> allows you to record these comments either in the text, the Biblical terms list or the wordlist.</p
 ><p
 contentType="fr"
->Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous avez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. Paratext vous permet d’enregistrer de tels commentaires directement dans le texte, dans la liste des termes bibliques ou dans la liste des mots.</p
+>Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous avez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. <object
+type="tPT"
+></object
+> vous permet d’enregistrer de tels commentaires directement dans le texte, dans la liste des termes bibliques ou dans la liste des mots.</p
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where we are</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous ?  </object
 ></pc
 ><p
@@ -8128,22 +9458,25 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous êtes en train de saisir ou de réviser votre texte, votre liste de mots ou vos mots-clés et vous devez faire des commentaires sur un problème que vous avez observé</p
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 >Attention: Notes and footnotes are very different. Footnotes are printed in the New Testament whereas notes are for questions and comments and are not printed in the New Testament.</p
 ><p
 contentType="fr"
 >Attention :  Les remarques décrites ci-dessus sont très différentes des notes de bas de page. Ces dernières apparaissent dans la Bible alors que les notes servent à conserver les questions et les commentaires et ne s’affichent pas dans la Bible.  </p
+></framedUnit
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What you are going to do</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >​Qu’est-ce qu’on va faire ? </object
 ></pc
 ><p
@@ -8209,26 +9542,32 @@ type="t-fr"
 ></secTitle
 ><p
 contentType="en"
->You can choose from many different icons for your project notes in Paratext :</p
+>You can choose from many different icons for your project notes in <object
+type="tPT"
+></object
+> :</p
 ><p
 contentType="fr"
 ><img
-src="i.png"
+src="12imgfr/image50.png"
 ></img
 > </p
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="fr"
 >Astuce : Ne prenez pas trop d’icônes !</p
+></framedUnit
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >An icon can have four different colours or shapes</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Les différentes formes d’icônes </object
 ></pc
 ><p
@@ -8526,17 +9865,8 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->***</object
+>Définir des types de remarques</object
 ></secTitle
-><p
-contentType="fr"
->Tâches</p
-><p
-contentType="fr"
->Résumé des étapes</p
-><p
-contentType="fr"
->Définir des types de remarques</p
 ><p
 contentType="en"
 >(One must be an Administrator)</p
@@ -8546,23 +9876,35 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Project &gt; Propject proprities and settings</li
+><object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Propject proprities and settings</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
->Project &gt; Propriétés et paramètres de projet</object
+type="tmenu"
+><object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Propriétés et paramètres de projet</object
+></object
 > </li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
-type="tKw"
+type="tmenu"
 >Remarque</object
 > </li
 ><li
 contentType="fr"
 >Cliquez sur le bouton<object
-type="tKw"
+type="tmenu"
 > Ajouter étiquette</object
 > <br
 ></br
@@ -8573,19 +9915,19 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur<object
-type="tKw"
+type="tmenu"
 > l’icône</object
 > de la nouvelle ligne </li
 ><li
 contentType="fr"
 >Choisissez <object
-type="tKw"
+type="tmenu"
 >l’icône </object
 >désirée </li
 ><li
 contentType="fr"
 >Cliquez sur<object
-type="tKw"
+type="tmenu"
 > « Nom »</object
 > </li
 ><li
@@ -8621,16 +9963,16 @@ contentType="fr"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Insérer </object
 >&gt; <object
-type="tKw"
+type="tmenu"
 >Remarque</object
 > </li
 ><li
 contentType="fr"
->Choisissez l’étiquette pour la remarque<img
-src="i.png"
+>Choisissez l’étiquette pour la remarque <img
+src="12imgfr/image61.png"
 ></img
 > </li
 ><li
@@ -8639,7 +9981,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -8665,17 +10007,23 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->File &gt; Open Notes...</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Notes...</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Ouvrir</object
 > <object
-type="tKw"
+type="tmenu"
 >les remarques</object
 >...  </li
 ><li
@@ -8684,7 +10032,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ></ul
@@ -8721,12 +10069,6 @@ contentType="fr"
 type="t-fr"
 >Ajouter des commentaires dans une remarque ouverte dans le texte [◙ UR02]</object
 ></secTitle
-><p
-contentType="fr"
-><img
-src="i.png"
-></img
-> </p
 ><ul
 ><li
 contentType="en"
@@ -8737,19 +10079,29 @@ src="12imgeng/image55.png"
 ><li
 contentType="fr"
 >Cliquez sur l’icône (<img
-src="i.png"
+src="12imgeng/image55.png"
 ></img
->) dans le texte.</li
+>) dans le texte.<br
+></br
+><object
+type="tresult"
+>Le remarque s'ouvre.</object
+></li
 ></ul
 ><p
 contentType="fr"
->Le remarque est ouvert.</p
+>Saisissez le commentaire <br
+></br
+><img
+src="12imgfr/image64.png"
+></img
+></p
 ><p
 contentType="fr"
->Saisissez le commentaire <img
-src="i.png"
-></img
->OK.</p
+><object
+type="tmenu"
+>OK</object
+>.</p
 ></section1
 ><section1
 id="sAddCommentsFromANotesWindow"
@@ -8774,7 +10126,7 @@ src="12imgeng/image56.png"
 ><p
 contentType="fr"
 >Cliquez sur l’icône (<img
-src="i.png"
+src="12imgfr/image65.png"
 ></img
 >) dans le texte.</p
 ><p
@@ -8783,23 +10135,21 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Type your comments in the textbox.</li
-><li
-contentType="fr"
->Saisissez un commentaire dans la case de texte en bas. </li
-></ul
-><p
-contentType="en"
+>Type your comments in the textbox.<br
+></br
 ><img
 src="12imgeng/image57.png"
 ></img
-></p
-><p
+></li
+><li
 contentType="fr"
+>Saisissez un commentaire dans la case de texte en bas.<br
+></br
 ><img
-src="i.png"
+src="12imgfr/image66.png"
 ></img
-> </p
+></li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -8828,7 +10178,7 @@ src="12imgeng/image55.png"
 ><li
 contentType="fr"
 >Cliquez sur l’icône (<img
-src="i.png"
+src="12imgeng/image55.png"
 ></img
 >) dans le texte. </li
 ><li
@@ -8839,10 +10189,16 @@ contentType="fr"
 >Saisissez le commentaire </li
 ><li
 contentType="en"
->Click « Assign to »</li
+>Click "<object
+type="tmenu"
+>Assign to</object
+>"</li
 ><li
 contentType="fr"
->Cliquez sur « Affecter à » </li
+>Cliquez sur « <object
+type="tmenu"
+>Affecter à</object
+> » </li
 ><li
 contentType="en"
 >Choose as desired</li
@@ -8851,11 +10207,14 @@ contentType="fr"
 >Choisissez comme désiré </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ></ul
@@ -8881,10 +10240,16 @@ contentType="fr"
 >Ouvrez la remarque </li
 ><li
 contentType="en"
->Click the « Multiple » button</li
+>Click the "<object
+type="tmenu"
+>Multiple</object
+>" button</li
 ><li
 contentType="fr"
->Cliquer sur le bouton « Multiple » </li
+>Cliquer sur le bouton « <object
+type="tmenu"
+>Multiple</object
+> » </li
 ><li
 contentType="en"
 >Choose the projects</li
@@ -8893,11 +10258,14 @@ contentType="fr"
 >Choisissez les projets </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ><li
@@ -8908,16 +10276,10 @@ contentType="en"
 >Click OK again to close the dialog box.</li
 ><li
 contentType="fr"
-><object
-type="tKw"
->Cliquez sur </object
-><object
-type="tKw"
+>Cliquez sur <object
+type="tmenu"
 >OK </object
-><object
-type="tKw"
->encore pour fermer la boîte de dialogue.</object
-> </li
+> encore pour fermer la boîte de dialogue. </li
 ></ul
 ></section1
 ><section1
@@ -8963,7 +10325,7 @@ src="12imgeng/image58.png"
 ><li
 contentType="fr"
 >Cliquez sur le bouton rattacher <img
-src="i.png"
+src="12imgeng/image58.png"
 ></img
 > </li
 ><li
@@ -8974,13 +10336,21 @@ contentType="fr"
 >Cliquez sur le mot à attacher </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>La remarque est attachée au mot.</object
+></li
 ></ul
 ></section1
 ><section1
@@ -8995,20 +10365,17 @@ contentType="fr"
 type="t-fr"
 >Marquer une remarque comme étant résolue [◙ UR04] </object
 ></secTitle
-><p
-contentType="fr"
->La remarque est attachée au mot.</p
 ><ul
 ><li
 contentType="en"
 >Click on the icon (<img
 src="12imgeng/image55.png"
 ></img
-></li
+>) in the text</li
 ><li
 contentType="fr"
 >Cliquez sur l’icône (<img
-src="i.png"
+src="12imgeng/image55.png"
 ></img
 >) dans le texte. </li
 ><li
@@ -9019,26 +10386,32 @@ contentType="fr"
 >Saisissez un autre commentaire si nécessaire. </li
 ><li
 contentType="en"
->Click Resolve button <img
+>Click the <object
+type="tmenu"
+>Resolve</object
+> button <img
 src="12imgeng/image59.png"
 ></img
 ></li
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
->Résoudre</object
+type="tmenu"
+>Résoudre remarque</object
 > <img
-src="i.png"
+src="12imgfr/image68.png"
 ></img
 > </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > </li
 ></ul
@@ -9070,14 +10443,20 @@ contentType="fr"
 >Filtrez les remarques comme vous le souhaitez. </li
 ><li
 contentType="en"
->File &gt; Print</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Print</object
+></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Imprimer</object
 > </li
 ><li
@@ -9088,11 +10467,14 @@ contentType="fr"
 >Choisissez l’imprimante et les options désirés. </li
 ><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. </li
 ><li
@@ -9120,7 +10502,10 @@ contentType="en"
 >Click the small red x</li
 ><li
 contentType="en"
->Click Yes to permanently delete you comment.</li
+>Click <object
+type="tmenu"
+>Yes</object
+> to permanently delete you comment.</li
 ><li
 contentType="en"
 >If there are more comments, continue to delete the next comment.</li
@@ -10002,7 +11387,7 @@ id="italic"
 ></type
 ><type
 font-weight="bold"
-id="tKw"
+id="tmenu"
 ></type
 ><type
 id="t-en"
@@ -10023,6 +11408,10 @@ font-weight="bold"
 id="tBold"
 ></type
 ><type
+font-weight="bold"
+id="tkey"
+></type
+><type
 font-style="italic"
 font-weight="bold"
 id="tBoldItalic"
@@ -10038,11 +11427,15 @@ types="tSmallCaps"
 ><type
 font-style="italic"
 font-weight="bold"
-id="tSub"
+id="tsub"
 ></type
 ><type
 font-style="italic"
 id="tItalic"
+></type
+><type
+font-style="italic"
+id="tresult"
 ></type
 ><type
 cssSpecial="text-decoration:none"
@@ -10088,7 +11481,7 @@ xsl-foSpecial="text-decoration=&quot;line-through&quot;"
 XeLaTeXSpecial="subscript"
 cssSpecial="vertical-align:sub;"
 font-size="65%"
-id="tSubscript"
+id="tsubscript"
 xsl-foSpecial="baseline-shift='sub'"
 ></type
 ><type
@@ -10112,6 +11505,10 @@ id="tPT"
 before="Paratext 7"
 id="tPTPrev"
 ></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
 ><comment
 >Add your custom types here.</comment
 ></types
@@ -10120,6 +11517,19 @@ id="tPTPrev"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+><framedType
+backgroundcolor="#add8e6"
+description="Interface Translation Note"
+id="translation"
 indent-after=".125in"
 indent-before=".125in"
 innerbottommargin=".03in"

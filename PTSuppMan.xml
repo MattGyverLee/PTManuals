@@ -246,13 +246,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Where We are</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Où en sommes-nous</object
 ></p
 ><p
@@ -270,13 +270,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Why is this Important</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ?</object
 ></p
 ><p
@@ -332,13 +332,13 @@ contentType="fr"
 ><p
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >What are you going to do?</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tSub"
+type="tsub"
 >Qu’est-ce qu’on va faire ?</object
 ></p
 ><p
@@ -394,7 +394,7 @@ contentType="fr"
 ><li
 contentType="en"
 >After you agree to the license terms, click <object
-type="tKw"
+type="tmenu"
 >Install</object
 >.<br
 ></br
@@ -413,7 +413,7 @@ type="tItalic"
 ><li
 contentType="en"
 >If a dialog appears and asks for your permission, click <object
-type="tKw"
+type="tmenu"
 >Yes</object
 > or provide the credentials as required.<br
 ></br
@@ -426,13 +426,13 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Install </object
 >(Installer).</li
 ><li
 contentType="fr"
 >Si une boîte de dialogue apparaît et demande votre permission, cliquez sur <object
-type="tKw"
+type="tmenu"
 >Oui/Yes</object
 > ou fournissez les informations d’identification nécessaires. <br
 ></br
@@ -443,7 +443,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Next</object
 > (Suivant) <br
 ></br
@@ -474,28 +474,28 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Next (suivant)</object
 >, puis <object
-type="tKw"
+type="tmenu"
 >Install</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Finish</object
 > et puis <object
-type="tKw"
+type="tmenu"
 >Close (Fermer)</object
 >.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Finish</object
 > and then <object
-type="tKw"
+type="tmenu"
 >Close</object
 >.</li
 ><li
@@ -587,10 +587,10 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur le lien <object
-type="tKw"
+type="tmenu"
 >Register</object
 >/<object
-type="tKw"
+type="tmenu"
 >Inscription</object
 ></li
 ><li
@@ -636,7 +636,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -661,7 +661,7 @@ contentType="en"
 ><p
 contentType="fr"
 >Mise à jour manuelle de votre version existante de Paratext Les nouveaux fichiers de mise à jour ont une extension .<object
-type="tKw"
+type="tmenu"
 >msp</object
 > au lieu de PUD ou SPUD comme dans le passé.</p
 ></framedUnit
@@ -675,13 +675,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Double-click on the <object
-type="tKw"
+type="tmenu"
 >msp</object
 > file to install the update.</li
 ><li
 contentType="fr"
 >Double-cliquez sur le fichier <object
-type="tKw"
+type="tmenu"
 >msp</object
 > pour installer la mise à jour.</li
 ></ul
@@ -926,13 +926,13 @@ contentType="en"
 ><li
 contentType="fr"
 >Tous les utilisateurs doivent envoyer / recevoir dans <object
-type="tKw"
+type="tmenu"
 >Paratext 7</object
 > (et cessez alors de travailler dans Paratext 7).</li
 ><li
 contentType="en"
 >All users must do send/receive <object
-type="tKw"
+type="tmenu"
 >in <object
 type="tPTPrev"
 ></object
@@ -944,7 +944,7 @@ type="tPTPrev"
 ><li
 contentType="fr"
 >Tous les utilisateurs doivent envoyer / recevoir dans <object
-type="tKw"
+type="tmenu"
 >Paratext 7</object
 > (et cessez alors de travailler dans Paratext 7).</li
 ><li
@@ -956,7 +956,7 @@ contentType="fr"
 ><li
 contentType="en"
 >The Administrator then loads <object
-type="tKw"
+type="tmenu"
 ><object
 type="tPT"
 ></object
@@ -965,25 +965,25 @@ type="tPT"
 ><li
 contentType="fr"
 >L'administrateur lance <object
-type="tKw"
+type="tmenu"
 >Paratext 8.</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Open Project/Resource</object
 ></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Ouvrir projet/ressource</object
 ></li
 ><li
@@ -1040,7 +1040,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 > to start Migrating the Project.<br
 ></br
@@ -1067,7 +1067,7 @@ type="tPT"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > pour lancer la migration du projet.</li
 ></ul
@@ -1096,13 +1096,13 @@ type="t-fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Register online</object
 > button</li
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Register Online</object
 > (Inscription en ligne)</li
 ><li
@@ -1141,7 +1141,7 @@ contentType="en"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Scope (L’étendue) </object
 >Est-ce que le projet sera une Bible complète ou une Bible complète comprenant l'apocryphe, le Nouveau Testament ou tout autre groupe de livres.</li
 ><li
@@ -1208,7 +1208,7 @@ contentType="fr"
 ><li
 contentType="en"
 >To submit the registration, click <object
-type="tKw"
+type="tmenu"
 >Submit</object
 >.<br
 ></br
@@ -1219,7 +1219,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Submit Registration </object
 >(Soumettre un enregistrement)</li
 ></ul
@@ -1239,7 +1239,7 @@ contentType="fr"
 ><p
 contentType="en"
 >Or Click <object
-type="tKw"
+type="tmenu"
 >Migrate later</object
 > to back out of migrating and finish your preparations.</p
 ><framedUnit
@@ -1301,10 +1301,10 @@ contentType="fr"
 ><li
 contentType="en"
 >Put a <object
-type="tKw"
+type="tmenu"
 >check</object
 > in these boxes if they are true, then click <object
-type="tKw"
+type="tmenu"
 >Migrate now</object
 > to proceed.</li
 ><li
@@ -1325,7 +1325,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cochez ces cases si elles sont vraies, puis cliquez sur <object
-type="tKw"
+type="tmenu"
 >Migrate Now</object
 > (Migrer maintenant) pour continuer.</li
 ></ul
@@ -1337,7 +1337,7 @@ contentType="en"
 ><p
 contentType="fr"
 >Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez sur «<object
-type="tKw"
+type="tmenu"
 >Migrate later</object
 > (Migrer plus tard», puis terminez vos préparatifs.</p
 ></framedUnit
@@ -1356,22 +1356,22 @@ contentType="fr"
 ><p
 contentType="en"
 >Now your colleagues can go to <object
-type="tKw"
+type="tmenu"
 ><object
 type="tPT"
 ></object
 ></object
 >and do a <object
-type="tKw"
+type="tmenu"
 >Send/Receive</object
 > to receive the migrated project.</p
 ><p
 contentType="fr"
 >Maintenant, vos collègues peuvent aller à <object
-type="tKw"
+type="tmenu"
 >Paratext 8</object
 > et faire un <object
-type="tKw"
+type="tmenu"
 >envoyer / recevoir</object
 > pour recevoir le projet migré.</p
 ><p
@@ -1408,7 +1408,7 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Language identifier</object
 >: After you click “Migrate now”, <object
 type="tPT"
@@ -1417,7 +1417,7 @@ type="tPT"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Identificateur de langue: </object
 >Après avoir cliqué sur «Migrer maintenant», Paratext 8 peut vous dire qu'il faut spécifier un identificateur de langue pour votre projet.</li
 ></ul
@@ -1426,22 +1426,22 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 >You can verify what the language name and language identifier are for your project by going to <object
-type="tKw"
+type="tmenu"
 >Project</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Project Properties and settings</object
 >, and looking at the <object
-type="tKw"
+type="tmenu"
 >language settings</object
 >. The language identifier is in brackets after the language name.</p
 ><p
 contentType="fr"
 >Vous pouvez vérifier le nom de la langue et l'identificateur de langue de votre projet en allant dans <object
-type="tKw"
+type="tmenu"
 >Projet</object
 >&gt; <object
-type="tKw"
+type="tmenu"
 >Propriétés et paramètres du projet</object
 > et en consultant les paramètres de langue. L'identifiant de la langue est soit entre parenthèses après le nom de la langue ou en-dessous le nom.</p
 ></framedUnit
@@ -1449,7 +1449,7 @@ type="tKw"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Books</object
 > The project properties and settings has a “Books” tab, you specify here the books that you plan to track their progress in your project.<br
 ></br
@@ -1460,10 +1460,10 @@ src="supimgeng\image6.png"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Livres</object
 >: Les propriétés et paramètres du projet comportent un onglet «<object
-type="tKw"
+type="tmenu"
 >Livres</object
 >», vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.<br
 ></br
@@ -1477,13 +1477,13 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 >You can choose book by book, or specify <object
-type="tKw"
+type="tmenu"
 >Old Testament</object
 >, <object
-type="tKw"
+type="tmenu"
 >New Testament</object
 >, <object
-type="tKw"
+type="tmenu"
 >Deuterocanon</object
 > by using the buttons. You can change this list of books later on in the project if your plans for the project change.</p
 ><p
@@ -1524,22 +1524,22 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Open Project</object
 ></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier&gt; Ouvrir un projet/ressource</object
 ></li
 ><li
 contentType="en"
 >Click ““<object
-type="tKw"
+type="tmenu"
 >Show <object
 type="tPTPrev"
 ></object
@@ -1548,7 +1548,7 @@ type="tPTPrev"
 ><li
 contentType="fr"
 >Cliquez sur<object
-type="tKw"
+type="tmenu"
 > « Afficher les projets Paratext 7 »</object
 ></li
 ><li
@@ -1557,13 +1557,13 @@ contentType="en"
 ><li
 contentType="fr"
 >Choisissez<object
-type="tKw"
+type="tmenu"
 ></object
 >le projet à migrer.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Migrate Now</object
 ><br
 ></br
@@ -1582,7 +1582,7 @@ type="tPT"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Migrate now </object
 >(migrer maintenant)</li
 ></ul
@@ -1599,7 +1599,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Migrate Now</object
 ></li
 ><li
@@ -1608,13 +1608,13 @@ contentType="fr"
 ><li
 contentType="fr"
 >Le bouton <object
-type="tKw"
+type="tmenu"
 >Migrate Now</object
 > sera actif quand vous avez répondu à toutes les questions.</li
 ><li
 contentType="fr"
 >Lorsque vous cliquez sur <object
-type="tKw"
+type="tmenu"
 >Migrate Now </object
 >(Migrer maintenant), le projet sera migré vers le dossier Paratext 8 et prêt à être utilisé. Le statut d’inscription déterminera les fonctionnalités qui sont disponibles pour le projet.</li
 ></ul
@@ -1836,7 +1836,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Enter your <object
-type="tKw"
+type="tmenu"
 >Google account password</object
 >.</li
 ><li
@@ -1845,7 +1845,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >yes</object
 > to authorize the Paratext site to use your profile information.<br
 ></br
@@ -1856,7 +1856,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Yes</object
 > pour autoriser Paratext à utiliser votre profile. <br
 ></br
@@ -1898,7 +1898,7 @@ type="t-fr"
 ><li
 contentType="en"
 >Click the appropriate circle to choose your <object
-type="tKw"
+type="tmenu"
 >registration type</object
 > (new registration, previous <object
 type="tPTPrev"
@@ -1921,7 +1921,7 @@ type="tItalic"
 ><li
 contentType="en"
 >Choose your <object
-type="tKw"
+type="tmenu"
 >organization</object
 > from the list, or if you are not a member you can leave this blank.</li
 ><li
@@ -1938,7 +1938,7 @@ contentType="en"
 ><li
 contentType="en"
 >Select your <object
-type="tKw"
+type="tmenu"
 >country</object
 >.</li
 ><li
@@ -1947,13 +1947,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Enter if relevant your <object
-type="tKw"
+type="tmenu"
 >field entity and your superviso</object
 >r</li
 ><li
 contentType="en"
 >Explain <object
-type="tKw"
+type="tmenu"
 >why</object
 > you want to use Paratext.</li
 ><li
@@ -1968,7 +1968,7 @@ contentType="fr"
 ><li
 contentType="en"
 >When finished, click “<object
-type="tKw"
+type="tmenu"
 >Register</object
 >”<br
 ></br
@@ -1979,7 +1979,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Register (S’inscrire)</object
 > <br
 ></br
@@ -2076,13 +2076,13 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Users</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >+Register New User</object
 > <br
 ></br
@@ -2101,7 +2101,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Create</object
 > (Créer)</li
 ></ul
@@ -2168,7 +2168,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click on <object
-type="tKw"
+type="tmenu"
 >Settings</object
 >.<br
 ></br
@@ -2179,7 +2179,7 @@ src="supimgeng\image9.png"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Settings </object
 >(paramètres).</li
 ><li
@@ -2188,13 +2188,13 @@ contentType="en"
 type="tPT"
 ></object
 >, click ‘<object
-type="tKw"
+type="tmenu"
 >Settings</object
 >”. Beside <object
 type="tPT"
 ></object
 >, click ‘<object
-type="tKw"
+type="tmenu"
 >Settings</object
 >”.<br
 ></br
@@ -2205,7 +2205,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >À droit de Paratext 8, cliquez sur ‘<object
-type="tKw"
+type="tmenu"
 >Settings</object
 >”.<br
 ></br
@@ -2220,10 +2220,10 @@ src="i.png"
 ><li
 contentType="en"
 >Click on the <object
-type="tKw"
+type="tmenu"
 >Generate button</object
 > to generate a new code Click on the <object
-type="tKw"
+type="tmenu"
 >Generate button</object
 > to generate a new code<br
 ></br
@@ -2239,7 +2239,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Generate</object
 > pour générer un nouveau code. <br
 ></br
@@ -2319,19 +2319,19 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Registration Information</object
 > and paste the code there.</li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 >&gt; <object
-type="tKw"
+type="tmenu"
 >Modifier les informations d'inscription </object
 >et collez le code.</li
 ></ul
@@ -2367,7 +2367,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click on <object
-type="tKw"
+type="tmenu"
 >Users</object
 ><br
 ></br
@@ -2382,7 +2382,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >“+ Register new user”</object
 > button.<br
 ></br
@@ -2413,7 +2413,7 @@ contentType="en"
 ><li
 contentType="en"
 >When competed, click “<object
-type="tKw"
+type="tmenu"
 >Create</object
 >”<br
 ></br
@@ -2560,10 +2560,10 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >New Project</object
 ><br
 ></br
@@ -2579,10 +2579,10 @@ src="supimgeng\image13.png"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 >&gt; <object
-type="tKw"
+type="tmenu"
 >Nouveau projet</object
 > <br
 ></br
@@ -2611,7 +2611,7 @@ type="t-fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Edit</object
 > button<br
 ></br
@@ -2627,7 +2627,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Edit</object
 > (Modifier)<br
 ></br
@@ -2657,10 +2657,10 @@ contentType="en"
 ><li
 contentType="fr"
 >Dans la section <object
-type="tKw"
+type="tmenu"
 >Nom complet</object
 >, donnez au projet un nom et puis un <object
-type="tKw"
+type="tmenu"
 >Nom abrégé</object
 > correspondant.</li
 ></ul
@@ -2699,7 +2699,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click on <object
-type="tKw"
+type="tmenu"
 >New</object
 ><br
 ></br
@@ -2718,7 +2718,7 @@ contentType="fr"
 src="i.png"
 ></img
 >La boîte de dialogue <object
-type="tKw"
+type="tmenu"
 >Choose Language Identifier </object
 >(choisir l’identifiant de la langue) s’affiche..<br
 ></br
@@ -2737,19 +2737,19 @@ src="supimgeng\image17.png"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >New</object
 ></li
 ><li
 contentType="en"
 >Click in the <object
-type="tKw"
+type="tmenu"
 >Search</object
 > box</li
 ><li
 contentType="fr"
 >Cliquez dans la zone de <object
-type="tKw"
+type="tmenu"
 >Search</object
 > (recherche)</li
 ><li
@@ -2781,7 +2781,7 @@ contentType="fr"
 >Cliquez sur votre langue dans la liste.<br
 ></br
 >Paratext ajoutera le nom de la langue dans la zone <object
-type="tKw"
+type="tmenu"
 >Language Name</object
 >.</li
 ><li
@@ -2790,13 +2790,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -2882,13 +2882,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Register online</object
 > to go to the registration page</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Register Online</object
 > (Inscription en ligne) pour accéder à la page d'inscription</li
 ><li
@@ -2900,7 +2900,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Register </object
 >to submit.<br
 ></br
@@ -2911,13 +2911,13 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Register</object
 > (Inscrire) pour soumettre.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 > to create the new project.</li
 ><li
@@ -2931,7 +2931,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > pour créer le nouveau projet.</li
 ></ul
@@ -2978,13 +2978,13 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Project &gt; Project Properties and settings</object
 ></li
 ><li
 contentType="en"
 >Click the “<object
-type="tKw"
+type="tmenu"
 >Manage registration</object
 >” link.<br
 ></br
@@ -3115,10 +3115,10 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >File</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Download/Install resources</object
 >.<br
 ></br
@@ -3129,10 +3129,10 @@ type="tItalic"
 ><li
 contentType="fr"
 >Du menu <object
-type="tKw"
+type="tmenu"
 >Fichier, </object
 >choisissez<object
-type="tKw"
+type="tmenu"
 > Installer des ressources</object
 >. <br
 ></br
@@ -3166,13 +3166,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Download/Install</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Download/Install</object
 ></li
 ></ul
@@ -3193,10 +3193,10 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >File</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Download/Install resources</object
 >.<br
 ></br
@@ -3207,10 +3207,10 @@ type="tItalic"
 ><li
 contentType="fr"
 >Du menu <object
-type="tKw"
+type="tmenu"
 >Fichier, </object
 >choisissez<object
-type="tKw"
+type="tmenu"
 > Installer des ressources</object
 >. <br
 ></br
@@ -3221,25 +3221,25 @@ type="tItalic"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Folder</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Folder </object
 >(Dossier)</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Browse</object
 >.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Parcourir</object
 >.</li
 ><li
@@ -3257,13 +3257,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Download/Install</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Download/Install</object
 ></li
 ></ul
@@ -3417,22 +3417,22 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Project</object
 ><object
-type="tKw"
+type="tmenu"
 >&gt; Project plan settings</object
 ></li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Manage plans</object
 ></li
 ><li
 contentType="en"
 >Click below <object
-type="tKw"
+type="tmenu"
 >Show Base Plan</object
 ><br
 ></br
@@ -3443,7 +3443,7 @@ src="supimgeng\image20.png"
 ><li
 contentType="fr"
 >Cliquez sur Afficher le plan de base (<object
-type="tKw"
+type="tmenu"
 >Show base plan</object
 >)</li
 ><li
@@ -3455,7 +3455,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Copy Plan</object
 > arrow.<br
 ></br
@@ -3466,13 +3466,13 @@ src="supimgeng\image21.png"
 ><li
 contentType="fr"
 >Cliquez sur la flèche Copier le plan (<object
-type="tKw"
+type="tmenu"
 >Copy Plan</object
 >).</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ><br
 ></br
@@ -3483,7 +3483,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >. <br
 ></br
@@ -3521,10 +3521,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[Project</object
 ><object
-type="tKw"
+type="tmenu"
 >&gt; Project plan settings</object
 ></li
 ><li
@@ -3533,7 +3533,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Manage plans]</object
 ></li
 ><li
@@ -3558,7 +3558,7 @@ contentType="en"
 ><li
 contentType="fr"
 >***Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Delete stage</object
 > pour supprimer l’étage</li
 ><li
@@ -3597,16 +3597,16 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Project plan</object
 ></li
 ><li
 contentType="en"
 >Click on the <object
-type="tKw"
+type="tmenu"
 >Checks</object
 > tab<br
 ></br
@@ -3649,34 +3649,34 @@ contentType="en"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Project Plan</object
 ></li
 ><li
 contentType="fr"
 >Du menu <object
-type="tKw"
+type="tmenu"
 >Projet</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Paramètres de l’état d’avancement du projet</object
 ></li
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Stages</object
 > / Tasks tab.</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet Étape/Tâches (<object
-type="tKw"
+type="tmenu"
 >Stages</object
 ><object
-type="tKw"
+type="tmenu"
 >/Tasks</object
 >)</li
 ><li
@@ -3707,13 +3707,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -3738,7 +3738,7 @@ contentType="en"
 contentType="en"
 >Click on the <object
 contentType="en"
-type="tKw"
+type="tmenu"
 >Add task</object
 ></li
 ><li
@@ -3746,7 +3746,7 @@ type="tKw"
 ><li
 >Click <object
 contentType="en"
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
@@ -3755,7 +3755,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Add task</object
 > (ajouter une tâche)</li
 ><li
@@ -3764,7 +3764,7 @@ contentType="fr"
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -3785,7 +3785,7 @@ type="t-fr"
 ><li
 contentType="en"
 >Click on the <object
-type="tKw"
+type="tmenu"
 >Stage</object
 >/Tasks tab</li
 ><li
@@ -3802,19 +3802,19 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Remove Task</object
 > button</li
 ><li
 contentType="fr"
 >Cliquez sur le bouton ***supprimer la tâche (<object
-type="tKw"
+type="tmenu"
 >Remove task</object
 >)</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -3889,16 +3889,16 @@ contentType="fr"
 ><li
 contentType="fr"
 >Dans — le menu <object
-type="tKw"
+type="tmenu"
 >Projet</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Paramètres de progrès du projet</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
-type="tKw"
+type="tmenu"
 >Checks</object
 > (vérifications)</li
 ><li
@@ -3925,19 +3925,19 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Assignments and Progress</object
 ></li
 ><li
 contentType="fr"
 >Dans le menu <object
-type="tKw"
+type="tmenu"
 >Projet</object
 >, choisissez Affectations et progrès (<object
-type="tKw"
+type="tmenu"
 >Assignments and progress</object
 >)</li
 ><li
@@ -3963,13 +3963,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -3990,10 +3990,10 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Project</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Project properties and settings</object
 ></li
 ><li
@@ -4002,13 +4002,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Books</object
 > tab</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet Livres (<object
-type="tKw"
+type="tmenu"
 >Books) </object
 ></li
 ><li
@@ -4020,13 +4020,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ></ul
@@ -4056,79 +4056,79 @@ contentType="fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >File</object
 > menu, select <object
-type="tKw"
+type="tmenu"
 >Open Project/Resource</object
 >.</li
 ><li
 contentType="fr"
 >1. Dans le menu <object
-type="tKw"
+type="tmenu"
 >Fichier</object
 >, sélectionnez <object
-type="tKw"
+type="tmenu"
 >Ouvrir projet/ressource</object
 >.</li
 ><li
 contentType="en"
 >Select project DEST and click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="fr"
 >2.Choisissez le projet DEST et cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, select <object
-type="tKw"
+type="tmenu"
 >Project Plan</object
 >....</li
 ><li
 contentType="fr"
 >3.Dans le menu <object
-type="tKw"
+type="tmenu"
 >Projet</object
 >, sélectionnez <object
-type="tKw"
+type="tmenu"
 >Paramètres de progrès du projet</object
 >....</li
 ><li
 contentType="en"
 >At the upper right of the dialog, click<object
-type="tKw"
+type="tmenu"
 ></object
 ><object
-type="tKw"
+type="tmenu"
 >Manage Plans...</object
 ><object
-type="tKw"
+type="tmenu"
 >.</object
 ></li
 ><li
 contentType="fr"
 >4.Cliquez sur Gérer les plans (<object
-type="tKw"
+type="tmenu"
 >Manage Plans</object
 >)</li
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >"Show Base Plan"</object
 > drop-down, select the project plan for the ORIG project.</li
 ><li
 contentType="fr"
 >5.Dans la liste déroulante « Afficher le plan de base (<object
-type="tKw"
+type="tmenu"
 >Show base plan</object
 >) », sélectionnez le plan de projet pour le projet ORIG.</li
 ><li
@@ -4139,7 +4139,7 @@ contentType="en"
 ><li
 contentType="fr"
 >6.Dans la partie Plan actuelle (<object
-type="tKw"
+type="tmenu"
 >Current plan</object
 >), cliquez sur la ligne après laquelle vous voulez insérer la tâche.<br
 ></br
@@ -4170,7 +4170,7 @@ contentType="en"
 ><li
 contentType="fr"
 >8.Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > pour fermer la boîte de dialogue « Gérer les plans ».</li
 ><li
@@ -4184,7 +4184,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >9.Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 > pour fermer la boîte de dialogue « Plan du projet ».<br
 ></br
@@ -4227,10 +4227,10 @@ contentType="en"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Assignments and Progress</object
 >.</li
 ><li
@@ -4638,13 +4638,13 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Tools</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Advanced</object
 >, then <object
-type="tKw"
+type="tmenu"
 >Convert Project</object
 ><br
 ></br
@@ -4679,7 +4679,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Enter the new short name for the project in <object
-type="tKw"
+type="tmenu"
 >[1]</object
 >.</li
 ><li
@@ -4702,7 +4702,7 @@ type="t-fr"
 ><p
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[2]</object
 > Select this if you have deleted files (such as large illustration files) that you no longer want to be part of project history and no longer want in the project repository.</p
 ><p
@@ -4724,7 +4724,7 @@ type="t-fr"
 ><p
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[3] </object
 >Select this if you have edited the project with Paratext Live and want to replace names in the project history.</p
 ><p
@@ -4746,7 +4746,7 @@ type="t-fr"
 ><p
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[4] </object
 >Select this to convert a standard project encoding to Unicode. <br
 ></br
@@ -4779,7 +4779,7 @@ type="t-fr"
 ><p
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[5] </object
 >Select Composed (NFC) or one of the options in the drop-down list if the data in your project was created using a mix of composed and decomposed characters. (See the Guide for more details).</p
 ><p
@@ -4802,7 +4802,7 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[6] </object
 >Select the name of the user you want to replace from the drop-down list.</li
 ><li
@@ -4811,7 +4811,7 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[7] </object
 >Enter the name of a registered Paratext user in this box.</li
 ><li
@@ -4820,7 +4820,7 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[8] </object
 >Add, a summary of the replacement appears, with a "Remove" button.<br
 ></br
@@ -4828,7 +4828,7 @@ type="tKw"
 ><li
 contentType="fr"
 >[8] Cliquez sur Add, un résumé du remplacement s’affiche avec un bouton <object
-type="tKw"
+type="tmenu"
 >Remove</object
 > « Supprimer ».</li
 ><li
@@ -4858,10 +4858,10 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >[9] </object
 >Click <object
-type="tKw"
+type="tmenu"
 >OK </object
 >to convert the project.<br
 ></br
@@ -4970,13 +4970,13 @@ contentType="en"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Insert</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Cross references</object
 > then <object
-type="tKw"
+type="tmenu"
 >Extract cross references</object
 ></li
 ><li
@@ -4985,7 +4985,7 @@ contentType="en"
 ><li
 contentType="en"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ><br
 ></br
@@ -5011,10 +5011,10 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, select <object
-type="tKw"
+type="tmenu"
 >Scripture Reference Settings</object
 >.</li
 ><li
@@ -5029,7 +5029,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ></ul
@@ -5050,28 +5050,28 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, select <object
-type="tKw"
+type="tmenu"
 >Language Settings</object
 > …</li
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Other Characters</object
 > tab.</li
 ><li
 contentType="en"
 >In the <object
-type="tKw"
+type="tmenu"
 >Verse segment characters</object
 > box, enter at least six different characters separated by spaces.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -5092,19 +5092,19 @@ type="t-fr"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Tools</object
 > menu, point to <object
-type="tKw"
+type="tmenu"
 >Cross References</object
 >, and then select <object
-type="tKw"
+type="tmenu"
 >Insert Cross References</object
 >.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Browse</object
 >....</li
 ><li
@@ -5113,7 +5113,7 @@ contentType="en"
 ><li
 contentType="en"
 >Select the file, and click <object
-type="tKw"
+type="tmenu"
 >Open</object
 >.</li
 ><li
@@ -5133,7 +5133,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ><br
 ></br
@@ -5311,7 +5311,7 @@ id="italic"
 ></type
 ><type
 font-weight="bold"
-id="tKw"
+id="tmenu"
 ></type
 ><type
 id="t-en"
@@ -5392,7 +5392,7 @@ xsl-foSpecial="text-decoration=&quot;line-through&quot;"
 XeLaTeXSpecial="subscript"
 cssSpecial="vertical-align:sub;"
 font-size="65%"
-id="tSubscript"
+id="tsubscript"
 xsl-foSpecial="baseline-shift='sub'"
 ></type
 ><type
@@ -5420,7 +5420,7 @@ id="tPTPrev"
 font-size="10pt"
 font-style="italic"
 font-weight="bold"
-id="tSub"
+id="tsub"
 ></type
 ><comment
 >Add your custom types here.</comment
@@ -5445,7 +5445,7 @@ spacebefore=".0in"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Title:</object
 > <object
 type="tPT"
@@ -5454,7 +5454,7 @@ type="tPT"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Genre:</object
 > Teaching material</pc
 ><pc
@@ -5463,7 +5463,7 @@ contentType="en"
 ><pc
 contentType="en"
 ><object
-type="tSub"
+type="tsub"
 >Copyright:</object
 > This training manual is licensed under a <link
 href="http://creativecommons.org/licenses/by/4.0/"

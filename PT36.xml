@@ -46,11 +46,11 @@ id="sIntSt1"
 ><object
 contentType="en"
 type="t-en"
->Introduction and Stage 3</object
+>Book Introduction</object
 > <object
 contentType="fr"
 type="t-fr"
-> </object
+>Introduction du Manuel </object
 ></secTitle
 ><shortTitle
 ><object
@@ -79,7 +79,10 @@ contentType="en"
 >The participants will process their translation with the help of Paratext, a program created for entering, storing, and checking the translated texts. The course follows the six stages of translation as given in the SIL plan. The first two stages were covered in an earlier manual. This manual covers stages 3-6.</p
 ><p
 contentType="fr"
->Les participants traiteront leur traduction à l’aide de Paratext 8, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Ce manuel ***</p
+>Les participants traiteront leur traduction à l’aide de <object
+type="tPT"
+></object
+> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Ce manuel ***</p
 ></chapter
 ><chapter
 id="scourseObjectives"
@@ -90,7 +93,7 @@ type="t-en"
 >Course Objectives</object
 > <object
 contentType="fr"
-type="tItalic"
+type="t-fr"
 >Objectifs</object
 ></secTitle
 ><p
@@ -99,24 +102,24 @@ contentType="en"
 ><p
 contentType="fr"
 >À la fin de ce cours, le participant sera capable de :</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Stage 3: Prepare for a consultant check</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Étape 3 : Préparation pour le conseiller</object
-></p
+></pc
 ><p
 contentType="en"
 >1.Prepare a back translation</p
 ><p
 contentType="fr"
->Faire des retraductions </p
+>Faire des retraductions</p
 ><ul
 ><li
 contentType="en"
@@ -136,7 +139,7 @@ contentType="en"
 >2.Complete other checks</p
 ><p
 contentType="fr"
->Faire d’autres vérifications </p
+>Faire d’autres vérifications</p
 ><ul
 ><li
 contentType="en"
@@ -151,36 +154,36 @@ contentType="en"
 contentType="fr"
 >vérifications d’orthographe</li
 ></ul
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Stage 4: Consultant Check</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Étape 4 : Vérification par un conseiller</object
-></p
+></pc
 ><p
 contentType="en"
 >All the tasks for this step have been covered in previous modules.</p
 ><p
 contentType="fr"
 >Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Stage 5: Community testing</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Étape 5 : Tester/réviser avec la communauté</object
-></p
+></pc
 ><ul
 ><li
 contentType="en"
@@ -195,18 +198,18 @@ contentType="en"
 contentType="fr"
 >Rapport de Termes bibliques à faire</li
 ></ul
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Stage 6: Finalising for publication</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Étape 6 : Finalisation pour la publication</object
-></p
+></pc
 ><ul
 ><li
 contentType="en"
@@ -257,24 +260,54 @@ contentType="en"
 contentType="fr"
 >Vérification du formatage</li
 ></ul
-><p
+></chapter
+></part
+><part
+id="Stage3"
+><secTitle
+><object
 contentType="en"
->Stage 3: Preparing for the Consultant check</p
-><p
+type="t-en"
+>Stage 3: Preparing for the Consultant check</object
+><object
 contentType="fr"
->Étape 3 : Préparation pour le conseiller</p
-><p
+type="t-fr"
+>Étape 3 : Préparation pour le conseiller</object
+></secTitle
+><shortTitle
+><object
+contentType="en"
+type="t-en"
+>Paratext_8_3-6_Stage3</object
+><object
+contentType="fr"
+type="t-fr"
+>Paratext_8_3-6_Étape3</object
+></shortTitle
+><chapter
+id="s3Intro"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Introduction to Stage 3</object
+><object
+contentType="fr"
+type="t-fr"
+>Introduction à Étape 3</object
+></secTitle
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >In this third stage of a translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.</p
@@ -335,6 +368,9 @@ contentType="fr"
 type="t-fr"
 >RT1 : Retraductions 1 </object
 ></secTitle
+><tablenumbered
+contentType="en"
+id="ntBTMap"
 ><table
 border="1"
 ><tr
@@ -354,6 +390,10 @@ border="1"
 >Project plan</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntRTMap"
 ><table
 border="1"
 ><tr
@@ -371,54 +411,55 @@ border="1"
 >Éditez le projet RT en traduction libre</td
 ></tr
 ></table
-><p
+></tablenumbered
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >This module explains how to draft a back translation into a separate Paratext project and keep it up-to-date. [The next module will explain how to do a word by word gloss of the translation using the project interlinearizer.]</p
 ><p
 contentType="fr"
 >En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Où en sommes-nous ? </object
-></p
+></pc
 ><p
 contentType="en"
 >You have typed, checked and revised your translation in Paratext and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your back translation.</p
 ><p
 contentType="fr"
 >Vous avez saisi, vérifié et révisé votre traduction dans Paratext. Votre administrateur doit créer un projet pour la retraduction.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why is this important?</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Pourquoi est-il important ? </object
-></p
+></pc
 ><p
 contentType="en"
 >Your text needs to be check by a consultant. But because the consultant does not know your language, you need to translate your text back into a language they can understand. This is where the term back translation comes from. The consult will use this translation to help the team improve your exegetical choices in the text.</p
@@ -428,18 +469,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connait pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What will you do?</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Que ferez-vous ? </object
-></p
+></pc
 ><ul
 ><li
 contentType="en"
@@ -460,12 +501,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.</p
-><p
+><pc
 contentType="en"
->Summary</p
-><p
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
 contentType="fr"
->Résumé</p
+><object
+type="tsub"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -494,10 +541,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >New Project</object
 ></li
 ><li
@@ -506,16 +553,16 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 > Edit</object
 ></li
 ><li
 contentType="fr"
 >Cliquez le bouton<object
-type="tKw"
+type="tmenu"
 > </object
 ><object
-type="tKw"
+type="tmenu"
 >Édition</object
 ></li
 ><li
@@ -527,7 +574,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
@@ -560,7 +607,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Books</object
 > tab</li
 ><li
@@ -575,7 +622,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
@@ -584,7 +631,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Create Books</object
 > link</li
 ><li
@@ -695,7 +742,7 @@ src="36imgfr/image3.png"
 ><li
 contentType="en"
 >Choose <object
-type="tKw"
+type="tmenu"
 >Mark All Verses in Chapter as Finished</object
 >.<br
 ></br
@@ -706,7 +753,7 @@ type="tItalic"
 ><li
 contentType="fr"
 >Choisissez <object
-type="tKw"
+type="tmenu"
 >Marquer tous les versets du chapitre comme achevés</object
 >. <br
 ></br
@@ -957,7 +1004,7 @@ type="t-en"
 contentType="fr"
 type="t-fr"
 ><object
-type="tItalic"
+type="tsub"
 >Tâche d’apprentissage </object
 ></object
 ></secTitle
@@ -1181,18 +1228,18 @@ border="1"
 >approuver le verset</td
 ></tr
 ></table
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >The previous module explained how to create a back translation that expresses what a reader understands when he reads or hears the text. There is another type of back translation that is sometimes used and that is a word-for-word style back translation. Some consultants may ask for this style of back translation. If you need to make one of these, you can use Paratext’s project Interlinearizer function. <br
@@ -1206,55 +1253,58 @@ contentType="fr"
 >Le module précédent a expliqué comment créer une retraduction qui exprime ce que le lecteur comprend quand il lit ou entend le texte. Il existe un autre type de retraduction qui est parfois utilisé et qui est un mot à mot retraduction. Certains consultants peuvent demander ce style de retraduction. Vous pouvez utiliser la fonction générateur d’interlinéaire de projet.</p
 ><p
 contentType="fr"
->N.B. En Paratext 8 vous ne pouvez qu’utiliser le générateur d’interlinéaire avec des projets inscrits.</p
-><p
+>N.B. En <object
+type="tPT"
+></object
+> vous ne pouvez qu’utiliser le générateur d’interlinéaire avec des projets inscrits.</p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Où en sommes-nous ? </object
-></p
+></pc
 ><p
 contentType="en"
 >You have typed, checked and revised your translation in Paratext and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your word for word back translation. [This is separate from the readable back translation in the previous module.]</p
 ><p
 contentType="fr"
 >Vous avez saisi, vérifié et révisé votre traduction dans Paratext afin qu’elle soit prête pour une vérification du conseiller. Avant de commencer, votre administrateur doit créer un projet pour la retraduction mot à mot. [Ceci est distinct de la retraduction libre dans le module précédent.]</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why this is important</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Pourquoi est-il important ? </object
-></p
+></pc
 ><p
 contentType="en"
 >Your consultant needs to have a copy of your translation in a language they can understand. The back translation done in the previous module is very useful but there are times when a literal translation is more helpful.</p
 ><p
 contentType="fr"
 >Votre consultant doit avoir une copie de votre traduction dans une langue qu’il peut comprendre. La retraduction effectuée dans le module précédent est très utile, mais il y a des moments où une traduction littérale est plus utile.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What you will do</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Que ferez-vous ? </object
-></p
+></pc
 ><p
 contentType="en"
 >You will use the project interlineariser to produce a word for word gloss of the text. Firstly, you will setup the interlineariser, and then correct any errors. The computer’s initial guesses are often wrong but it learns as it goes and becomes quite accurate quickly. The idea is for the gloss to be correct even though the word order is not correct. When you are happy with the verse you can export it to the back translation project.</p
@@ -1295,10 +1345,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >New Project</object
 ></li
 ><li
@@ -1307,19 +1357,19 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 ></object
 ><object
-type="tKw"
+type="tmenu"
 >Edition</object
 ></li
 ><li
 contentType="fr"
 >Cliquez le bouton<object
-type="tKw"
+type="tmenu"
 > </object
 ><object
-type="tKw"
+type="tmenu"
 >Édition</object
 ></li
 ><li
@@ -1331,7 +1381,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
@@ -1361,7 +1411,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Books</object
 > tab</li
 ><li
@@ -1376,7 +1426,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
@@ -1385,7 +1435,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Create Books</object
 > link</li
 ><li
@@ -1436,10 +1486,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Open Project interlineariser</object
 ><br
 ></br
@@ -1450,13 +1500,13 @@ src="36imgeng\image16.png"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Fichier</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Ouvrir</object
 > le <object
-type="tKw"
+type="tmenu"
 >générateur d’Interlinéaire de projet</object
 ></li
 ><li
@@ -1474,13 +1524,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Advanced</object
 > tab</li
 ><li
 contentType="fr"
 >Cliquez l’onglet <object
-type="tKw"
+type="tmenu"
 >Avancé</object
 ></li
 ><li
@@ -1498,13 +1548,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ></ul
@@ -1728,25 +1778,25 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Approve and export to</object
 >***</li
 ><li
 contentType="fr"
 >Cliquer sur <object
-type="tKw"
+type="tmenu"
 >Approuver le verset</object
 ></li
 ><li
 contentType="en"
 >To continue, click <object
-type="tKw"
+type="tmenu"
 >Next Unapproved Verse</object
 ></li
 ><li
 contentType="fr"
 >Pour continuer, cliquez <object
-type="tKw"
+type="tmenu"
 >Prochain verset non approuvé</object
 ></li
 ></ul
@@ -1792,39 +1842,39 @@ contentType="en"
 type="t-en"
 >Compare Text</object
 ></secTitle
-><p
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction </object
-></p
+></pc
 ><p
 contentType="fr"
 >Dans ce module, vous apprendrez comment enregistrer les versions anciennes de votre texte pour les revoir plus tard.</p
-><p
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Où en sommes-nous ? </object
-></p
+></pc
 ><p
 contentType="fr"
 >Vous avez travaillé sur votre texte dans Paratext et vous êtes arrivé au un point important du projet.</p
-><p
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Pourquoi cette aptitude est-elle importante ? </object
-></p
+></pc
 ><p
 contentType="fr"
 >Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Après avoir « marqué un point de repère dans l’historique du projet », vous pouvez comparer les anciennes versions du texte avec le texte actuel.</p
-><p
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Qu’est-ce qu’on va faire ? </object
-></p
+></pc
 ><p
 contentType="fr"
 >Vous allez marquer un point de repère dans l’historique du projet auquel vous pourrez revenir plus tard afin de comparer votre travail.</p
@@ -1855,11 +1905,11 @@ contentType="fr"
 >Cliquez dans votre fenêtre de projet (dans Paratext )</li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Projet, </object
 >sélectionnez <object
-type="tKw"
+type="tmenu"
 >Marquer un point de repère dans l’historique du projet.</object
 ></li
 ><li
@@ -1872,7 +1922,7 @@ contentType="fr"
 ><p
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</p
 ></section1
@@ -1896,26 +1946,26 @@ contentType="fr"
 >[◙ GF02]</p
 ><p
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Outils</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Comparer</object
 > <object
-type="tKw"
+type="tmenu"
 >textes...</object
 ></p
 ><p
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 ></object
 ></p
 ><p
 contentType="fr"
 >Cliquez sur le bouton <object
-type="tKw"
+type="tmenu"
 >Sélectionner</object
 >.</p
 ><p
@@ -1943,39 +1993,39 @@ contentType="en"
 type="t-en"
 >BC3: Basic checks 3</object
 ></secTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
+></pc
 ><p
 contentType="en"
 >In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
+></pc
 ><p
 contentType="en"
 >You have typed your translation into Paratext. Make sure you have done the checks described in modules BC1 and BC2 before continuing.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why this is important</object
-></p
+></pc
 ><p
 contentType="en"
 >Paratext has eleven basic checks. You have already seen the first six checks. This last set of checks help you find errors related to material refered from other books. You want to be sure the references are accurate so that the reader can find those passages.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What you are going to do</object
-></p
+></pc
 ><p
 contentType="en"
 >As before, most of the checks require some setup to be done by your administrator. In this module you will:</p
@@ -1990,12 +2040,12 @@ contentType="en"
 contentType="en"
 >Correct any errors.</li
 ></ul
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Summary</object
-></p
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -2017,10 +2067,10 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Unmatched pairs of punctuation</object
 >:<br
 ></br
@@ -2031,31 +2081,31 @@ type="tItalic"
 ><li
 contentType="en"
 >If necessary, click <object
-type="tKw"
+type="tmenu"
 >Options...</object
 > to add other pairs.</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking &gt; Run Basic Checks</object
 ></li
 ><li
 contentType="en"
 >Check “<object
-type="tKw"
+type="tmenu"
 >Unmatched pairs of punctuation</object
 >”</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
@@ -2081,7 +2131,7 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Project &gt; Scripture reference settings</object
 ><br
 ></br
@@ -2100,7 +2150,7 @@ type="tItalic"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Book names</object
 > tab<br
 ></br
@@ -2114,34 +2164,34 @@ contentType="en"
 ><li
 contentType="en"
 >Choose <object
-type="tKw"
+type="tmenu"
 >Abbreviations</object
 >[2] and [3] for both cross-references and references</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Run Basic Checks</object
 ></li
 ><li
 contentType="en"
 >Click « <object
-type="tKw"
+type="tmenu"
 >References »</object
 ></li
 ><li
 contentType="en"
 >Click<object
-type="tKw"
+type="tmenu"
 > OK</object
 ></li
 ><li
@@ -2173,7 +2223,7 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking &gt; Number settings</object
 ></li
 ><li
@@ -2190,25 +2240,25 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Run basic checks</object
 ></li
 ><li
 contentType="en"
 >Click « <object
-type="tKw"
+type="tmenu"
 >Numbers»</object
 ></li
 ><li
 contentType="en"
 >Click<object
-type="tKw"
+type="tmenu"
 ></object
 ><object
-type="tKw"
+type="tmenu"
 > OK</object
 ></li
 ></ul
@@ -2234,10 +2284,10 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Quotation rules</object
 ></li
 ><li
@@ -2246,13 +2296,13 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Check Flag all quotes near other errors [5]</object
 ></li
 ><li
 contentType="en"
 >Click<object
-type="tKw"
+type="tmenu"
 > OK.</object
 ></li
 ></ul
@@ -2269,19 +2319,19 @@ type="t-en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking &gt; Basic checks</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Quotations</object
 ></li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.<br
 ></br
@@ -2298,7 +2348,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Rerun</object
 > button to confirm you have corrected the error.</li
 ></ul
@@ -2321,19 +2371,19 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking &gt; Basic checks</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Quoted text</object
 ></li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.<br
 ></br
@@ -2372,18 +2422,18 @@ contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape4</object
 ></shortTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >The fourth stage of a translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in the project plan.</p
@@ -2431,18 +2481,18 @@ contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape5</object
 ></shortTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.</p
@@ -2466,7 +2516,7 @@ contentType="en"
 >The following modules will help you in this stage:</p
 ><p
 contentType="fr"
->Les modules suivants vous aideront avec cette étape:</p
+>Les modules suivants vous aideront avec cette étape :</p
 ><ul
 ><li
 contentType="en"
@@ -2489,51 +2539,51 @@ contentType="en"
 type="t-en"
 >PPR: Progress report</object
 ></secTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
+></pc
 ><p
 contentType="en"
 >In this module you will create a progress report.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
+></pc
 ><p
 contentType="en"
 >As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will project a report.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why this is important</object
-></p
+></pc
 ><p
 contentType="en"
 >Your administrators and funders need accurate reports of your progress.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What are you going to do?</object
-></p
+></pc
 ><p
 contentType="en"
 >Check that your project plan is up-to-date.</p
 ><p
 contentType="en"
 >Produce several reports.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Summary</object
-></p
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -2569,10 +2619,10 @@ type="t-en"
 ><li
 contentType="en"
 >From the <object
-type="tKw"
+type="tmenu"
 >Project</object
 > menu, choose <object
-type="tKw"
+type="tmenu"
 >Team progress chart</object
 ></li
 ><li
@@ -2597,7 +2647,7 @@ type="tItalic"
 ><li
 contentType="en"
 >Click the <object
-type="tKw"
+type="tmenu"
 >Print</object
 > menu</li
 ><li
@@ -2606,7 +2656,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -2620,48 +2670,48 @@ contentType="en"
 type="t-en"
 >BTR: Biblical key terms report</object
 ></secTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
+></pc
 ><p
 contentType="en"
 >One task in this stage is to produce a report of the changes made in the key biblical terms.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
+></pc
 ><p
 contentType="en"
 >In working on your translation you have identified and changed a number of key biblical terms.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why this is important</object
-></p
+></pc
 ><p
 contentType="en"
 >Although you can’t use Paratext to write the report, it can produce of list of the terms that you have been dealing with and may need to include in your report.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What are you going to do?</object
-></p
+></pc
 ><p
 contentType="en"
 >In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Summary</object
-></p
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -2680,10 +2730,10 @@ contentType="en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > – <object
-type="tKw"
+type="tmenu"
 >Biblical Terms tool</object
 ></li
 ><li
@@ -2709,10 +2759,10 @@ type="t-en"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Save as HTML</object
 ></li
 ><li
@@ -2721,13 +2771,13 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Save</object
 ></li
 ><li
 contentType="en"
 >Open the file in <object
-type="tKw"
+type="tmenu"
 >Word</object
 ></li
 ></ul
@@ -2775,7 +2825,7 @@ contentType="en"
 ><li
 contentType="en"
 >Choose <object
-type="tKw"
+type="tmenu"
 >Rendering Description</object
 ></li
 ><li
@@ -2821,20 +2871,24 @@ id="s6intro"
 ><object
 contentType="en"
 type="t-en"
-></object
+>Introduction to Stage 6</object
+><object
+contentType="fr"
+type="t-fr"
+>Introduction à Étape 6</object
 ></secTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.<br
@@ -2851,12 +2905,12 @@ contentType="fr"
 src="36imgfr/image17.png"
 ></img
 ></p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What you will do</object
-></p
+></pc
 ><p
 contentType="fr"
 >Qu’est-ce que vous allez faire ?</p
@@ -2910,14 +2964,17 @@ contentType="en"
 contentType="fr"
 >Vérification du formatage: ...</li
 ></ul
-><ul
-><li
+><pc
 contentType="en"
->Summary</li
-><li
+><object
 contentType="en"
->Résumé</li
-></ul
+type="t-en"
+>Summary</object
+><object
+contentType="fr"
+type="t-fr"
+>Résumé</object
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -2946,19 +3003,19 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Insert</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Figure</object
 ></li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Insérer</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Image</object
 ></li
 ></ul
@@ -2975,7 +3032,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Saisissez une <object
-type="tKw"
+type="tmenu"
 >légende</object
 > pour être imprimé avec l’image.[1]</li
 ><li
@@ -2984,7 +3041,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Entrez une <object
-type="tKw"
+type="tmenu"
 >description</object
 > en français de l’image (ne pas être imprimé) [2].</li
 ><li
@@ -3011,25 +3068,25 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Browse...</object
 > then find figure/illustration file. [6]</li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >Parcourir</object
 >... pour rechercher le fichier de l’image. [7]</li
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ></ul
@@ -3053,37 +3110,37 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Biblical Terms</object
 ></li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Outils</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Termes bibliques</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Select Biblical Terms List</object
 ></li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Fichier</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Sélectionner liste de termes</object
 ></li
 ><li
@@ -3107,10 +3164,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Save as HTML</object
 ></li
 ><li
@@ -3125,7 +3182,7 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >Save</object
 >.</li
 ><li
@@ -3167,7 +3224,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Tapez l’introduction du Bible dans le livre <object
-type="tKw"
+type="tmenu"
 >INT</object
 ></li
 ></ul
@@ -3190,7 +3247,7 @@ contentType="en"
 >See module PP: Parallel passages</li
 ><li
 contentType="fr"
->voir module PP</li
+>Voir module PP</li
 ></ul
 ></section1
 ><section1
@@ -3209,10 +3266,10 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Checking</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Run basic checks</object
 ></li
 ><li
@@ -3224,7 +3281,7 @@ contentType="en"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK</object
 >.</li
 ><li
@@ -3242,10 +3299,10 @@ contentType="fr"
 ><li
 contentType="fr"
 >[<object
-type="tKw"
+type="tmenu"
 >Vérifications</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Effectuer les vérifications de base</object
 >.]</li
 ></ul
@@ -3256,31 +3313,31 @@ contentType="fr"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Vérifier l’orthographe</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >All checks</object
 ></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Rechercher des mots mal liés ou mal divisés</object
 ></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Rechercher mots pareils</object
 ></li
 ></ul
@@ -3301,10 +3358,10 @@ type="t-fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Biblical Terms</object
 ></li
 ><li
@@ -3352,37 +3409,37 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Biblical Terms</object
 ></li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Outils</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Termes bibliques</object
 ></li
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >File</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Select Biblical Terms List</object
 ></li
 ><li
 contentType="fr"
->Dans le menu <object
-type="tKw"
+>Du menu <object
+type="tmenu"
 >Fichier</object
 >, choisissez <object
-type="tKw"
+type="tmenu"
 >Sélectionner liste de termes</object
 ></li
 ><li
@@ -3418,22 +3475,22 @@ contentType="fr"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Versets longs/Versets courts</object
 ></li
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Listes récapitulatives</object
 > &gt; Word or phrase (mots ou expression)</li
 ></ul
@@ -3492,54 +3549,54 @@ contentType="fr"
 type="t-fr"
 >PP : Comparer passages parallèles</object
 ></secTitle
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Introduction </object
-></p
+></pc
 ><p
 contentType="en"
 >There are thousands of passage in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.</p
 ><p
 contentType="fr"
 >Il y a des milles des passages dans un NT où le même événement est décrié ou qui citent un autre verset. On doit comparer ces textes pour vérifier qu’il est cohérent.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Where we are</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Où en sommes-nous ?</object
-></p
+></pc
 ><p
 contentType="en"
 >Normally you will have translated and checked the text of both books with a consultant first. Though there are times that you will want to compare the other verses before you translate the second passage.</p
 ><p
 contentType="fr"
 >Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Why this is important</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Pourquoi cette aptitude est-elle importante ? </object
-></p
+></pc
 ><p
 contentType="en"
 >The parallel passages need to be consistent but they do not always need to be exactly the same. The Parallel Passages tool displays the various passages and highlights the text which is the same. But it is the meaning (not necessarily the form) that is important.</p
@@ -3549,18 +3606,18 @@ contentType="fr"
 ><p
 contentType="en"
 >Normally you would make the comparisons made after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >What you are going to do</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >​Qu’est-ce qu’on va faire ? </object
-></p
+></pc
 ><ul
 ><li
 contentType="en"
@@ -3581,18 +3638,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous pouvez également voir un autre passage dans une fenêtre (qui ne déroule pas avec les autres fenêtres) pendant que vous traduisez un passage.</p
-><p
+><pc
 contentType="en"
 ><object
-type="tItalic"
+type="tsub"
 >Summary</object
-></p
-><p
+></pc
+><pc
 contentType="fr"
 ><object
-type="tItalic"
+type="tsub"
 >Résume</object
-></p
+></pc
 ><p
 contentType="en"
 >This module shows you how to:</p
@@ -3621,10 +3678,10 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-type="tKw"
+type="tmenu"
 >Tools</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Parallel passages</object
 ><br
 ></br
@@ -3830,13 +3887,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ></ul
@@ -3869,7 +3926,7 @@ contentType="en"
 ><li
 contentType="fr"
 >Cliquez sur le lien bleu « <object
-type="tKw"
+type="tmenu"
 >Édition</object
 > »</li
 ><li
@@ -3887,13 +3944,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ><li
@@ -3917,13 +3974,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-type="tKw"
+type="tmenu"
 >OK.</object
 ></li
 ></ul
@@ -4059,10 +4116,10 @@ type="tItalic"
 ><li
 contentType="fr"
 ><object
-type="tKw"
+type="tmenu"
 >Outils</object
 > &gt; <object
-type="tKw"
+type="tmenu"
 >Aperçu Rapide</object
 ></li
 ><li
@@ -5686,7 +5743,7 @@ id="tHr"
 ></type
 ><type
 font-weight="bold"
-id="tKw"
+id="tmenu"
 ></type
 ><type
 id="t-en"
@@ -5767,7 +5824,7 @@ xsl-foSpecial="text-decoration=&quot;line-through&quot;"
 XeLaTeXSpecial="subscript"
 cssSpecial="vertical-align:sub;"
 font-size="65%"
-id="tSubscript"
+id="tsubscript"
 xsl-foSpecial="baseline-shift='sub'"
 ></type
 ><type
@@ -5790,6 +5847,11 @@ id="tPT"
 ><type
 before="Paratext 7"
 id="tPTPrev"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tsub"
 ></type
 ><comment
 >Add your custom types here.</comment
