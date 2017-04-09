@@ -9,7 +9,15 @@ automaticallywrapinterlinears="yes"
 version="2.28.0"
 ><frontMatter
 ><title
->Paratext 8</title
+><object
+contentType="en"
+type="t-en"
+>Multilingual Manuel</object
+><object
+contentType="fr"
+type="t-fr"
+>Manuel multilingue</object
+></title
 ><subtitle
 ><object
 contentType="fr"
@@ -99,11 +107,11 @@ id="sObj1"
 ><object
 contentType="en"
 type="t-en"
->Mix and Match</object
+>Mix and Match lists</object
 ><object
 contentType="fr"
 type="t-fr"
->Melange</object
+>Listes Melangé</object
 ></secTitle
 ><p
 contentType="dn"
@@ -193,163 +201,163 @@ type="tKw"
 >la vérification d’orthographe</object
 > et de la liste de mots.</li
 ></ol
-><section2
-id="sOBOu"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->2nd Level Sections</object
-><object
-contentType="fr"
-type="t-fr"
->Sections de deuxième niveau.</object
-></secTitle
-><p
-contentType="fr"
->Voila</p
-></section2
 ></section1
 ></chapter
 ><chapter
-id="cnext"
+id="cempty"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Thing</object
+>Empty Objects</object
 ><object
 contentType="fr"
 type="t-fr"
->Chose</object
+>Objets vides</object
 ></secTitle
-><p
->It is possible to alternate images.</p
-><p
->Or even to put an image mid-paragraph.</p
-><section1
-id="sOBIntro"
-><secTitle
->Introduction</secTitle
+><framedUnit
+framedtype="ftSample"
 ><p
 contentType="en"
->Gooof</p
+>If all content in a framedUnit is filtered, it will still exist in the output without my mods.</p
+></framedUnit
 ><p
-contentType="fr"
->Vous voulez travailler sur votre texte en Paratext et voir les ressources diverses. Dans ce module, vous allez apprendre comment organiser votre bureau.</p
-></section1
-><section1
+>Similarly, if all lines of an "ol" or "ul" are filtered, the output causes havoc, especially in HTML.</p
+><ul
+><li
+contentType="en"
+>English 1</li
+><li
+contentType="en"
+>English 2</li
+></ul
+></chapter
+><chapter
 id="sOBSum"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Summary</object
+>Tables</object
 ><object
 contentType="fr"
 type="t-fr"
->Résumé</object
+>Tableaux</object
 ></secTitle
 ><p
->Ce module vous montre comment :</p
+>Setting the Contenttype of a table does strange tings in XML mind:</p
+><p
+>Watch this:</p
+><p
+>Normal Table</p
 ><table
 border="1"
 ><tr
 ><th
-contentType="fr"
 >Tâche</th
 ><th
-contentType="fr"
 >Bilan d’étapes</th
-><th
-contentType="en"
->Steps</th
 ></tr
 ><tr
 ><td
 >Lancer le programme Paratext</td
 ><td
-contentType="fr"
 >Double-cliquez sur l’icône Paratext 7 dans le bureau</td
-><td
-contentType="en"
->First Paragraph</td
 ></tr
 ><tr
 ><td
-contentType="fr"
 >Ouvrir combinaison de fenêtres</td
 ><td
-contentType="fr"
 >Cliquez sur le menu <object
 type="tKw"
 >Fenêtre</object
 ><br
 ></br
 ></td
-><td
+></tr
+></table
+><p
+>The same table with an objectType is distorted:</p
+><table
+border="1"
 contentType="en"
-></td
+><tr
+><th
+>Tâche</th
+><th
+>Bilan d’étapes</th
 ></tr
 ><tr
 ><td
-contentType="fr"
->Créer un nouveau arrangement</td
+>Lancer le programme Paratext</td
 ><td
-contentType="fr"
->Si vous n’avez pas encore enregistré une combinaison de fenêtres, on vous suggère de faire comme au-dessous</td
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+></tr
+><tr
 ><td
-contentType="en"
-><object
+>Ouvrir combinaison de fenêtres</td
+><td
+>Cliquez sur le menu <object
 type="tKw"
->Content</object
-></td
-></tr
-><tr
-><td
-contentType="fr"
->Ouvrir et arranger les fenêtres</td
-><td
-contentType="en"
->en</td
-></tr
-><tr
-><td
-contentType="fr"
->Enregistre une combinaison de fenêtres</td
-><td
-contentType="fr"
-></td
-><td
-contentType="en"
->Paragraph Crasher<br
+>Fenêtre</object
+><br
 ></br
->thingus</td
-></tr
-><tr
-><td
-contentType="fr"
->Enregistre une combinaison de fenêtres</td
-><td
-contentType="fr"
-></td
-><td
-contentType="en"
->goo</td
-></tr
-><tr
-><td
-contentType="fr"
->Supprimer une combinaison de fenêtres</td
-><td
-contentType="fr"
-></td
-><td
-contentType="en"
 ></td
 ></tr
 ></table
-></section1
+><p
+>Thankfully, a numberedTable behaves properly.</p
+><tablenumbered
+contentType="en"
+id="ntNumbered"
+><table
+border="1"
+><tr
+><th
+>Tâche</th
+><th
+>Bilan d’étapes</th
+></tr
+><tr
+><td
+>Lancer le programme Paratext</td
+><td
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+></tr
+><tr
+><td
+>Ouvrir combinaison de fenêtres</td
+><td
+>Cliquez sur le menu <object
+type="tKw"
+>Fenêtre</object
+><br
+></br
+></td
+></tr
+></table
+></tablenumbered
+><p
+></p
+><p
+></p
+></chapter
+><chapter
+id="cimages"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Images</object
+><object
+contentType="fr"
+type="t-fr"
+>Images</object
+></secTitle
+><p
+>It is possible to alternate images.</p
+><p
+>Images need to be contained in "block" objects such as paragraphs, so they can be easily filtered by filtering the "parent" object.</p
 ></chapter
 ><backMatter
 ><glossary
@@ -507,6 +515,21 @@ id="tTeacher"
 ><comment
 >Add your custom types here.</comment
 ></types
+><framedTypes
+><framedType
+backgroundcolor="#FAF0E6"
+description="sample output"
+id="ftSample"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".125in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".125in"
+spaceafter=".125in"
+spacebefore=".125in"
+></framedType
+></framedTypes
 ><contentControl
 ><contentTypes
 ><contentType
@@ -527,11 +550,11 @@ id="Teacher"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
