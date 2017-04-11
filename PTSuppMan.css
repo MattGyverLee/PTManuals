@@ -91,7 +91,7 @@ li.lower-roman {
 .typeitalic{
         font-style:italic;
 }
-.typetKw{
+.typetmenu{
         font-weight:bold;
 }
 .typet-en{
@@ -143,7 +143,7 @@ li.lower-roman {
 .typetStrikethrough{
         text-decoration:line-through;
 }
-.typetSubscript{
+.typetsubscript{
         vertical-align:sub;
         font-size:65%;
 }
@@ -158,7 +158,7 @@ li.lower-roman {
 }
 .typetPTPrev{
 }
-.typetSub{
+.typetsub{
         font-size:10pt;
         font-style:italic;
         font-weight:bold;
@@ -224,13 +224,13 @@ li.lower-roman {
         border-top:1.5pt solid gray;
         padding-top:1cm;
         text-align:center;
-no}
+}
 .subtitleOne {
         font-size:14pt;
         font-weight:bold;
         padding-top:.25in;
         text-align:center;
-no}
+}
 .author {
         font-style:italic;
         text-align:center;
@@ -261,41 +261,41 @@ no}
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-no}
+}
 .abstract {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-no}
+}
 .acknowledgementsfrontMatter {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-no}
+}
 .preface {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
         text-align:center;
-no}
+}
 .numberpart {
         font-size:18pt;
         font-weight:bold;
         border-top:1.5pt solid gray;
         padding-bottom:10.8pt;
         text-align:center;
-no}
+}
 .partTitle {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
         text-align:center;
-no}
+}
 .partContents {
         margin-top:10pt;
         margin-bottom:10pt;
@@ -307,13 +307,13 @@ no}
         border-top:1.5pt solid gray;
         padding-bottom:10.8pt;
         text-align:center;
-no}
+}
 .chapterTitle {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
         text-align:center;
-no}
+}
 .section1 {
 }
 .sectionTitlesection1 {
@@ -331,7 +331,7 @@ yes        padding-bottom:10pt;
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section3 {
 }
 .sectionTitlesection3 {
@@ -341,7 +341,7 @@ no}
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section4 {
 }
 .sectionTitlesection4 {
@@ -349,7 +349,7 @@ no}
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section5 {
 }
 .sectionTitlesection5 {
@@ -357,7 +357,7 @@ no}
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section6 {
 }
 .sectionTitlesection6 {
@@ -365,7 +365,7 @@ no}
         padding-bottom:10pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .numberappendix {
         font-size:18pt;
         font-weight:bold;
@@ -373,13 +373,13 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .appendixTitle {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
         text-align:center;
-no}
+}
 .acknowledgementsbackMatter {
         font-size:18pt;
         font-weight:bold;
@@ -387,7 +387,7 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .glossaryTitle {
         font-size:18pt;
         font-weight:bold;
@@ -395,7 +395,7 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .referencesTitle {
         font-size:18pt;
         font-weight:bold;
@@ -403,7 +403,7 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .references {
         font-size:10pt;
         text-indent:-.25in;
@@ -416,7 +416,7 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .endnotesTitle {
         font-size:18pt;
         font-weight:bold;
@@ -424,7 +424,7 @@ no}
         padding-bottom:10.8pt;
         padding-top:12pt;
         text-align:center;
-no}
+}
 .example{
         margin-right:.125in;
         margin-left:.125in;

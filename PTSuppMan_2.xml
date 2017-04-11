@@ -254,7 +254,7 @@ contentType="en"
 >You have already installed <object
 type="tPTPrev"
 ></object
-> and now want to install <object
+>  and now want to install <object
 type="tPT"
 ></object
 >.</p
@@ -301,15 +301,9 @@ contentType="fr"
 ><li
 ><ul
 ><li
->My Paratext Projects (<object
-type="tPTPrev"
-></object
->)</li
+></li
 ><li
->My Paratext 8 Projects (<object
-type="tPT"
-></object
->)</li
+></li
 ></ul
 ></li
 ><li
@@ -390,7 +384,7 @@ type="tPT"
 >.</p
 ><p
 contentType="fr"
->N.B. Vous n’avez pas besoin de désinstaller Paratext 7 ou une version antérieure, mais il faut désinstaller une version antérieure de Paratext 8.</p
+>Installation de Paratext 8 N.B. Vous n’avez pas besoin de désinstaller Paratext 7 ou une version antérieure, mais il faut désinstaller une version antérieure de Paratext 8.</p
 ></framedUnit
 ><ul
 ><li
@@ -401,13 +395,7 @@ contentType="fr"
 >Double-cliquez sur le fichier d’installation (disponible à https://pt8.paratext.org/download ).</li
 ><li
 contentType="en"
->Click, “I agree to the license terms”,</li
-><li
-contentType="fr"
->Cochez « I agree to the licence terms » (j’accepte les termes de la licence)</li
-><li
-contentType="en"
->Click <object
+>After you agree to the license terms, click <object
 type="tmenu"
 >Install</object
 >.<br
@@ -418,10 +406,7 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Cliquez sur <object
-type="tmenu"
->Install</object
->(Installer). <br
+>Cochez « I agree to the licence terms » (j’accepte les termes de la licence) <br
 ></br
 ><object
 type="tItalic"
@@ -432,13 +417,20 @@ contentType="en"
 >If a dialog appears and asks for your permission, click <object
 type="tmenu"
 >Yes</object
-> or provide the credentials as required.</li
-><li
-contentType="fr"
+> or provide the credentials as required.<br
+></br
 ><object
 type="tItalic"
->A welcome message is displayed.</object
+>The Destination Folder step appears. </object
 ></li
+><li
+>Accept the defaults for the folder.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Install </object
+>(Installer).</li
 ><li
 contentType="fr"
 >Si une boîte de dialogue apparaît et demande votre permission, cliquez sur <object
@@ -451,16 +443,6 @@ type="tItalic"
 >Un message de bienvenue s’affiche.</object
 ></li
 ><li
->Click <object
-type="tmenu"
->Next</object
-> <br
-></br
-><object
-type="tItalic"
->The destination folder step appears.</object
-></li
-><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
@@ -471,8 +453,6 @@ type="tmenu"
 type="tItalic"
 >L’étape « Dossier de destination » s’affiche</object
 ></li
-><li
->Accept the defaults for the folder.</li
 ><li
 contentType="fr"
 >Acceptez les valeurs par défaut du dossier.</li
@@ -494,15 +474,6 @@ contentType="fr"
 ></framedUnit
 ><ul
 ><li
-contentType="en"
->Click  <object
-type="tmenu"
->Next</object
->, then <object
-type="tmenu"
->Install</object
-></li
-><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
@@ -512,15 +483,6 @@ type="tmenu"
 >Install</object
 ></li
 ><li
-contentType="en"
->Click <object
-type="tmenu"
->Finish</object
-> and then <object
-type="tmenu"
->Close</object
->.</li
-><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
@@ -528,6 +490,15 @@ type="tmenu"
 > et puis <object
 type="tmenu"
 >Close (Fermer)</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Finish</object
+> and then <object
+type="tmenu"
+>Close</object
 >.</li
 ><li
 contentType="en"
@@ -556,7 +527,7 @@ type="tPTPrev"
 ><object
 contentType="fr"
 type="t-fr"
->Inscription d’un utilisateur de Paratext 7 (à la première exécution de Paratext)</object
+>Inscription d’un utilisateur de Paratext 7</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -568,6 +539,8 @@ type="tPT"
 >.</p
 ><p
 contentType="fr"
+>(à la première exécution de Paratext)<br
+></br
 >Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 8.</p
 ></framedUnit
 ><ul
@@ -595,7 +568,7 @@ type="tItalic"
 ></li
 ><li
 contentType="en"
->Go to https://registry.paratext.org</li
+>Go to http://p8.paratext.org/registration</li
 ><li
 contentType="fr"
 >Dans votre navigateur web, Accédez à https://registry.paratext.org <br
@@ -630,7 +603,7 @@ contentType="fr"
 >Tapez le nom d’utilisateur</li
 ><li
 contentType="en"
->Type in (or copy) the user’s <object
+>Type in the user’s <object
 type="tPTPrev"
 ></object
 > registration code</li
@@ -642,24 +615,26 @@ contentType="en"
 >Copy the new code</li
 ><li
 contentType="fr"
->Copier le nouveau code de Paratext 8</li
+>Copier le nouveau code de Paratext 8 <br
+></br
+><object
+type="tItalic"
+>Retournez à Paratext</object
+></li
 ><li
 contentType="en"
 >Return to Paratext</li
 ><li
-contentType="fr"
->Retournez à Paratext</li
-><li
 contentType="en"
->Paratext will paste the code</li
+>Paratext will paste the code<br
+></br
+><object
+type="tItalic"
+>Paratext is ready for use.</object
+></li
 ><li
 contentType="fr"
 >Paratext va coller le code</li
-><li
->Click <object
-type="tmenu"
->OK</object
-></li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -5545,11 +5520,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

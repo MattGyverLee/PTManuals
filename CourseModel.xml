@@ -245,7 +245,7 @@ type="t-fr"
 >Tableaux</object
 ></secTitle
 ><p
->Setting the Contenttype of a table does strange tings in XML mind:</p
+>Setting the ContenttType of a table does strange tings in XML mind:</p
 ><p
 >Watch this:</p
 ><p
@@ -358,6 +358,13 @@ type="t-fr"
 >It is possible to alternate images.</p
 ><p
 >Images need to be contained in "block" objects such as paragraphs, so they can be easily filtered by filtering the "parent" object.</p
+><p
+><citation
+ref="Lee2015b"
+></citation
+></p
+><p
+></p
 ></chapter
 ><backMatter
 ><glossary
@@ -377,6 +384,36 @@ type="t-fr"
 ><endnotes
 ></endnotes
 ><references
+><refAuthor
+citename="Lee"
+name="Lee, Matthew"
+><refWork
+id="Lee2015a"
+><refDate
+>2015</refDate
+><refTitle
+>Pap1</refTitle
+><paper
+><conference
+>conference</conference
+><location
+>location</location
+></paper
+></refWork
+><refWork
+id="Lee2015b"
+><refDate
+>2015</refDate
+><refTitle
+>Pap2</refTitle
+><paper
+><conference
+>conference</conference
+><location
+>location</location
+></paper
+></refWork
+></refAuthor
 ></references
 ><index
 ></index

@@ -323,7 +323,7 @@ textalign="center"
 >Body Layout</comment
 ><headerFooterPageStyles
 font-family="Times New Roman"
-font-size="9pt"
+font-size="10pt"
 font-style="italic"
 ><headerFooterFirstPage
 ><header
@@ -585,12 +585,19 @@ textalign="center"
 ><comment
 >Document Content Layout</comment
 ><paragraphLayout
+spacebefore="0pt"
+spaceafter="6pt"
+indent-before="0.0in"
 ></paragraphLayout
 ><exampleLayout
 indent-after=".125in"
 indent-before=".125in"
 ></exampleLayout
 ><listLayout
+indent-after=".225in"
+indent-before="2.525in"
+spacebetween="3pt"
+spaceafter="6pt"
 ></listLayout
 ><sectionRefLayout
 ></sectionRefLayout
