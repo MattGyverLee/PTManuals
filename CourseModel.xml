@@ -38,10 +38,6 @@ contentType="fr"
 contentType="en"
 label="Contents"
 ></contents
-><contents
-contentType="fr"
-label="Contenu"
-></contents
 ></frontMatter
 ><chapter
 id="cIntro"
@@ -568,6 +564,7 @@ spacebefore=".125in"
 ></framedType
 ></framedTypes
 ><contentControl
+showOnlyChosenItemsInEditor="no"
 ><contentTypes
 ><contentType
 id="en"

@@ -585,19 +585,16 @@ textalign="center"
 ><comment
 >Document Content Layout</comment
 ><paragraphLayout
-spacebefore="0pt"
 spaceafter="6pt"
-indent-before="0.0in"
+spacebefore="0pt"
 ></paragraphLayout
 ><exampleLayout
 indent-after=".125in"
 indent-before=".125in"
 ></exampleLayout
 ><listLayout
-indent-after=".225in"
-indent-before="2.525in"
+indent-before="3cm"
 spacebetween="3pt"
-spaceafter="6pt"
 ></listLayout
 ><sectionRefLayout
 ></sectionRefLayout

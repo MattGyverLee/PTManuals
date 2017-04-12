@@ -451,6 +451,7 @@ type="tItalic"
 >Un message de bienvenue s’affiche.</object
 ></li
 ><li
+contentType="en"
 >Click <object
 type="tmenu"
 >Next</object
@@ -472,6 +473,7 @@ type="tItalic"
 >L’étape « Dossier de destination » s’affiche</object
 ></li
 ><li
+contentType="en"
 >Accept the defaults for the folder.</li
 ><li
 contentType="fr"
@@ -495,7 +497,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click  <object
+>Click <object
 type="tmenu"
 >Next</object
 >, then <object
@@ -802,11 +804,11 @@ type="tPT"
 > use different send/receive servers so there is no way for a project to be shared with some users on Paratext and some users on <object
 type="tPT"
 ></object
->.</p
+>. It is also hoped that the old (Paratext 7) server will be closed down soon. So it is important to migrate as soon as possible.</p
 ><p
 contentType="fr"
 xml:lang="fr"
->Pour que toutes les fonctionnalités de Paratext 8 soient opérationnelles, votre projet doit être migré. Paratext 7 et Paratext 8 utilisent des serveurs d’envoyer/recevoir différents et on espère que l’ancien serveur sera progressivement éliminé. Il est donc important de migrer rapidement.</p
+>Pour que toutes les fonctionnalités de Paratext 8 soient opérationnelles, votre projet doit être migré. Paratext 7 et Paratext 8 utilisent des serveurs d’envoyer/recevoir différents alors il n'y a aucun moyen de partager avec les utilisateurs de Paratext 7 et Paratext 8. On espère egalement que l’ancien serveur sera progressivement éliminé. Il est donc important de migrer rapidement.</p
 ><p
 contentType="en"
 >Users can have both <object
@@ -823,17 +825,26 @@ type="tPT"
 ></object
 >.</p
 ><p
+contentType="fr"
+>Les utilisateurs peuvent avoir Paratext 7 et Paratext 8 installé en même temps, et utiliser l'un ou l'autre, mais aucun projet ne peut être partagé avec des utilisateurs de Paratext 7 et d'autres avec Paratext 8.</p
+><p
 contentType="en"
 >Once you have migrated the project, everyone on the team needs to get the migrated project, and only do work in <object
 type="tPT"
 ></object
 > from then on.</p
 ><p
+contentType="fr"
+>Dès que vous avez migré le projet, tout le monde doit recevoir le project migré, et ne travaille qu'à partir de Paratext 8.</p
+><p
 contentType="en"
 >You need to have a good Internet connection to migrate the project, but if you usually work without an Internet connection, you can keep working that way in <object
 type="tPT"
 ></object
 > once the project is migrated.</p
+><p
+contentType="fr"
+>Pour migrer un projet, il faut avoir une bonne connexion Internet . Mais si vous travaillez habituellement sans une connexion Internet, vous pouvez continuer dès que le projet est migré.</p
 ><p
 contentType="en"
 ><object
@@ -848,60 +859,23 @@ type="tItalic"
 ></p
 ><p
 contentType="en"
->To migrate a shared project:</p
+>You will</p
 ><p
 contentType="fr"
 >Vous allez</p
 ><ul
 ><li
+contentType="en"
+>migrate a shared project</li
+><li
+contentType="en"
+>migrate a non-shared project</li
+><li
 contentType="fr"
 >migrer un projet partagé:</li
 ><li
 contentType="fr"
->envoyer/recevoir en Paratext 8</li
-><li
-contentType="fr"
 >migrer un projet non partagé:</li
-><li
-contentType="en"
-xml:lang="en"
->You must do a send and receive in <object
-type="tPTPrev"
-></object
-> from all team members in <object
-type="tPTPrev"
-></object
-> prior to migration to <object
-type="tPT"
-></object
->.</li
-><li
-contentType="en"
-xml:lang="en"
->Get the most authoritative data on one computer by doing send and receive between all the computers.</li
-><li
-contentType="en"
->One computer on the team initiates the migration</li
-><li
-contentType="en"
->The rest of the team gets the project in <object
-type="tPT"
-></object
-> via Send/Receive.</li
-><li
-contentType="en"
->Once the project is shared, all team members should only use PT 8 for that project from then on.</li
-></ul
-><p
-contentType="en"
->To migrate a non-shared project:</p
-><ul
-><li
-contentType="en"
->Open the project</li
-><li
-contentType="en"
->Click Migrate</li
 ></ul
 ></section1
 ><section1
@@ -948,14 +922,11 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 >All your users have to migrate at the same time.</p
+><p
+contentType="fr"
+>Tout vos utilisateurs doivent migrer en même temps.</p
 ></framedUnit
 ><ul
-><li
-contentType="fr"
->Tous les utilisateurs doivent envoyer / recevoir dans <object
-type="tmenu"
->Paratext 7</object
-> (et cessez alors de travailler dans Paratext 7).</li
 ><li
 contentType="en"
 >All users must do send/receive <object
@@ -1029,9 +1000,6 @@ src="supimgeng\image2.png"
 contentType="fr"
 >Cliquez sur la case en bas pour afficher les projets Paratext 7 <br
 ></br
-><img
-src="i.png"
-></img
 ></li
 ><li
 contentType="en"
@@ -1103,8 +1071,10 @@ contentType="fr"
 >La boîte de dialogue Migrer le projet partagé s'affiche.<br
 ></br
 ><img
-src="i.png"
+src="supimgfr\image3.png"
 ></img
+><br
+></br
 >Paratext 8 peut vous dire que le projet doit être inscrit (s'il n'est pas préenregistré) et doit être migré vers Paratext 8.</p
 ></section2
 ><section2

@@ -574,6 +574,8 @@ textalign="center"
 ><contentLayout
 ><comment
 >Document Content Layout</comment
+><paragraphLayout
+></paragraphLayout
 ><exampleLayout
 indent-after=".125in"
 indent-before=".125in"
