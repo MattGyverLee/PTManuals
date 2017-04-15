@@ -22,11 +22,27 @@ body {
             border-style:solid;
             border-color:black;
 }
+        
+.framedTypetranslation{
+        background-color:#add8e6;
+            margin-top:.0in;
+            margin-bottom:.0in;
+            margin-left:.125in;
+            margin-right:.125in;
+            padding-top:.03in;
+            padding-bottom:.03in;
+            padding-left:.125in;
+            padding-right:.125in;
+            text-align:left;
+            border-width:1px;
+            border-style:solid;
+            border-color:black;
+}
         .footnote{
     font-size:8pt;
 }
 .paragraph_indent {
-text-indent:1em;
+text-indent:0em;
 }
 .dt {
         font-weight:bold;
@@ -91,7 +107,7 @@ li.lower-roman {
 .typeitalic{
         font-style:italic;
 }
-.typetKw{
+.typetmenu{
         font-weight:bold;
 }
 .typet-en{
@@ -105,6 +121,9 @@ li.lower-roman {
 .typetBold{
         font-weight:bold;
 }
+.typetkey{
+        font-weight:bold;
+}
 .typetBoldItalic{
         font-style:italic;
         font-weight:bold;
@@ -114,11 +133,14 @@ li.lower-roman {
 }
 .typetGrammaticalGloss{
 }
-.typetSub{
+.typetsub{
         font-style:italic;
         font-weight:bold;
 }
 .typetItalic{
+        font-style:italic;
+}
+.typetresult{
         font-style:italic;
 }
 .typetNoOverline{
@@ -147,7 +169,7 @@ li.lower-roman {
 .typetStrikethrough{
         text-decoration:line-through;
 }
-.typetSubscript{
+.typetsubscript{
         vertical-align:sub;
         font-size:65%;
 }
@@ -162,8 +184,17 @@ li.lower-roman {
 }
 .typetPTPrev{
 }
+.typettyped{
+        font-family:"Courier New";
+}
+.typetlink{
+        color:#0033cc;
+        text-decoration:underline;
+        font-style:normal;
+        font-weight:normal;
+}
 .paragraph {
-        text-indent:1em;
+        text-indent:0em;
 }
 .blockquote {
         margin-left:10mm;
@@ -318,8 +349,8 @@ no}
 .sectionTitlesection1 {
         font-size:12pt;
         font-weight:bold;
-yes        padding-bottom:10pt;
-        padding-top:2pt;
+yes        padding-bottom:3pt;
+        padding-top:10pt;
         text-align:left;
 }
 .section2 {
@@ -327,20 +358,20 @@ yes        padding-bottom:10pt;
 .sectionTitlesection2 {
         font-size:10pt;
         font-weight:bold;
-        padding-bottom:10pt;
+yes        padding-bottom:3pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section3 {
 }
 .sectionTitlesection3 {
         font-size:10pt;
         font-style:italic;
         font-weight:bold;
-        padding-bottom:10pt;
+yes        padding-bottom:3pt;
         padding-top:10pt;
         text-align:left;
-no}
+}
 .section4 {
 }
 .sectionTitlesection4 {

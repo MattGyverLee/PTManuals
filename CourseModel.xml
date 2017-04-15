@@ -51,11 +51,186 @@ contentType="fr"
 type="t-fr"
 >Titre du Chapitre</object
 ></secTitle
+><ul
+><li
+>Danger</li
+><li
+>Danger</li
+></ul
 ><p
 >By defining ContentType for an element, you can selectively hide it.</p
 ><p
 contentType="dn"
 >This is a developer's note (content type "dn"), It will only print if you tell it to.</p
+><example
+num="x-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..chapter.1..example.1."
+><interlinear
+><phrase
+><words
+><iword
+><item
+lang="lVernacular"
+type="txt"
+></item
+><morphemes
+><morphset
+><morph
+type="prefix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="root"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="suffix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+></morphset
+></morphemes
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="pos"
+></item
+></iword
+><iword
+><item
+lang="lVernacular"
+type="txt"
+></item
+><morphemes
+><morphset
+><morph
+type="prefix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="root"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="suffix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+></morphset
+></morphemes
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="pos"
+></item
+></iword
+><iword
+><item
+lang="lVernacular"
+type="punct"
+>.</item
+></iword
+></words
+><item
+lang="lGloss"
+type="gls"
+></item
+></phrase
+></interlinear
+></example
 ><p
 contentType="en"
 >This Text is in English (contentType "en"), and shows in green.</p
@@ -96,6 +271,104 @@ id="sMonoSec"
 ><p
 contentType="dn"
 >Beware, if a whole section is filtered, embedded content in another language will not be shown.</p
+></section1
+><section1
+id="sObj1first"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mix and Match lists</object
+><object
+contentType="fr"
+type="t-fr"
+>Listes Melangé</object
+></secTitle
+><ul
+><li
+contentType="en"
+>Start ParaTEXT using an icon on the desktop.</li
+><li
+contentType="fr"
+>Lancer le programme Paratext 7 à l’aide de l’icône du bureau.</li
+><li
+contentType="en"
+>Effectively use the navigation toolbar to navigate to the desired book, chapter, or verse.</li
+><li
+contentType="fr"
+>Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique de référence désiré.</li
+><li
+contentType="en"
+>Type text in an open project within USFM markers such as \c, \v, etc. in an appropriate view.</li
+><li
+contentType="fr"
+>Taper le texte dans un projet ouvert dans les marqueurs USFM tels que \c, \v, etc. dans un affichage approprié.</li
+><li
+contentType="en"
+>Use a keyboarding system (Microsoft Keyboards, or Keyman) to type special characters.</li
+><li
+contentType="fr"
+>Utiliser un système de clavier (MS-claviers ou Keyman) pour saisir les caractères spéciaux.</li
+><li
+contentType="en"
+>Add additional elements such as section titles.</li
+><li
+contentType="fr"
+>Ajouter des éléments supplémentaires tels que les titres de section.</li
+></ul
+><p
+contentType="dn"
+>It is also possible to mix in an Ordered list. This looks strange in edit mode, but will work properly later.</p
+><ol
+><li
+contentType="en"
+>Open supplementary resources, for example English bibles.</li
+><li
+contentType="fr"
+>Ouvrir des ressources supplémentaires, par exemple des Bibles françaises.</li
+><li
+contentType="en"
+>Arrange multiple windows on the screen.</li
+><li
+contentType="fr"
+>Organiser plusieurs fenêtres sur l’écran.</li
+><li
+contentType="en"
+>Use Send/Receive to back up the project on the Internet or on a USB key.</li
+><li
+contentType="fr"
+>Utiliser la fonction d’envoyer/recevoir pour sauvegarder le projet sur Internet ou une clé USB.</li
+><li
+contentType="en"
+>Run Verifications to assure that all chapters and verses are present.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.</li
+><li
+contentType="en"
+>Run Verifications to guarantee that the text is correctly marked (markers, styles, etc.).</li
+><li
+contentType="fr"
+>Exécuter la vérification afin de garantir que les éléments de texte soient correctement marqués (marqueurs, styles, etc.).</li
+><li
+contentType="en"
+>Run Verifications to see that all characters and punctuation symbols are valid in the target language with help from the Inventories.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les caractères et les signes de ponctuation sont valides pour la langue cible à l’aide de différents inventaires.</li
+><li
+contentType="en"
+>Correct spelling mistakes using <object
+type="tKw"
+>Spell Check</object
+></li
+><li
+contentType="fr"
+>Vérifier les fautes d’orthographe à l’aide de <object
+type="tKw"
+>la vérification d’orthographe</object
+> et de la liste de mots.</li
+></ol
 ></section1
 ><section1
 id="sObj1"

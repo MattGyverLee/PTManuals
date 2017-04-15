@@ -26,7 +26,7 @@
 ><footerMargin
 >10mm</footerMargin
 ><paragraphIndent
->1em</paragraphIndent
+>0em</paragraphIndent
 ><blockQuoteIndent
 >10mm</blockQuoteIndent
 ><lineSpacing
@@ -469,7 +469,7 @@ font-size="12pt"
 font-weight="bold"
 linebefore="yes"
 spaceafter="10pt"
-spacebefore="2pt"
+spacebefore="3pt"
 textalign="start"
 ></sectionTitleLayout
 ></section1Layout
@@ -479,8 +479,9 @@ showNumber="yes"
 ><sectionTitleLayout
 font-size="10pt"
 font-weight="bold"
+linebefore="yes"
 spaceafter="10pt"
-spacebefore="10pt"
+spacebefore="3pt"
 textalign="start"
 ></sectionTitleLayout
 ></section2Layout
@@ -490,8 +491,9 @@ showNumber="yes"
 font-size="10pt"
 font-style="italic"
 font-weight="bold"
+linebefore="yes"
 spaceafter="10pt"
-spacebefore="10pt"
+spacebefore="3pt"
 textalign="start"
 ></sectionTitleLayout
 ></section3Layout
@@ -587,13 +589,14 @@ textalign="center"
 ><paragraphLayout
 spaceafter="6pt"
 spacebefore="0pt"
+spacebetween="0pt"
 ></paragraphLayout
 ><exampleLayout
 indent-after=".125in"
 indent-before=".125in"
 ></exampleLayout
 ><listLayout
-indent-before="3cm"
+indent-before="6em"
 spacebetween="3pt"
 ></listLayout
 ><sectionRefLayout

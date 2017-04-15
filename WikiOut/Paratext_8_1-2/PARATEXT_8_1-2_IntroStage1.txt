@@ -6,12 +6,12 @@
 ----
 !!1.1: Goal 
 
-The participants will process their translation with the help of Paratext 8, a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7.5 et 8.
+The participants will process their translation with the help of Paratext 8 , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7 et Paratext 8.
 ----
 !!1.2: Course Objectives 
 
-At the end of the course, the participant will be able to:Start Paratext 
-* Start the Paratext program using a desktop icon.
+At the end of the course, the participant will be able to:Start Paratext 8 
+* Start the Paratext 8 program using a desktop icon.
 * Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau.
 Stage 1 : DraftingOpen projects and resources to understand the text before translating
 * Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.
@@ -29,8 +29,7 @@ Stage 1 : DraftingOpen projects and resources to understand the text before tran
 Stage 2 : Team checkingProper names
 * Transliterate proper names.
 * Check that proper names are consistent.Biblical terms consistent
-* Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.
-* Utiliser la fenêtre de termes bibliques et l’outil de termes bibliques pour assurer que l’utilisation des termes est cohérente. Checks
+* Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.Checks
 * Use Checklists to correct any formatting problems in section breaks and headings, paragraph breaks, layout and indents.
 * Run various checks to make sure all the characters, punctuation, capitalisation and repeated words are valid.
 * (Administrators need to setup the inventories/settings as required).
@@ -38,7 +37,6 @@ Stage 2 : Team checkingProper names
 * Add project notes as needed to communicate with other team members and/or consultants.
 * Add project, Spelling and Biblical term notes to discuss various issues and record the decisions made.Print draft
 * Produce and print PDF file for reviewers.
-* Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs. 
 Introductions, setupIntroduce yourself
 The participant and facilitators should introduce themselves giving:
 * their name
@@ -47,7 +45,7 @@ The participant and facilitators should introduce themselves giving:
 * what was the first and last (most recent) version of Paratext that you have used.
 ||5.0 |6.0 |7.0 |7.1 |7.2 |7.3 |7.4 |7.5 |8 
 1998 |2003 |2008 |2010 |2011 |2012 |2013 |2014 |2017 ||
-While the facilitators install Paratext on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.For each module
+While the facilitators install Paratext 8 on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.For each module
 * Do a revision activity of the previous module.
 * Present the introduction (read, sketch, PowerPoint, etc.)
 * If a skill is quite simple, ask a participant to come and demonstrate the skill.
@@ -65,42 +63,38 @@ There are several stages in a translation project. In this first stage you will 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image2.png" class=img-responsive}
 The following modules will help you in this stage :
 * OB: Organising your desktop
-* PP1: Project plan – the next task
+* PP1: Project plan — the next task
 * KD: Keyboarding your draft
 * GL: Adding glossary items
-* BC1: Basic checks – chapter/verse and markers.
-* PP2 : Project plan – complete a task
-!2: OD : Organising your desktop 
+* BC1: Basic checks — chapter/verse and markers.
+* PP2 : Project plan — complete a task
+!2: OD : Organising your desktop
 
-||Start %%%Paratext |Use combinations of windows |Open your project |Open resources (source text, texts collection…) |Create a list of verses from the source text ||
 Introduction
-As you work with your text in Paratext you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.Where we are
+As you work with your text in Paratext 8 you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.Where we are
 We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.Why this is important
 The translator who organises his/her desktop well has all the resources necessary for his/her work.What are you going to do?
-You will start the Paratext program and open a saved combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.
-Summary
+You will start the Paratext 8 program and open a previously saved text combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.Summary
 This module shows you how to:
 ----
-!!2.1: Load the Paratext programLancer le programme Paratext
+!!2.1: Load the Paratext 8 programLancer le programme Paratext
 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
 * Double-click on Paratext 8 icon on the desktop OR
-* (From the Start menu, choose Paratext 8)
+* (From the Start menu, choose Paratext 8 )
 ----
-!!2.2: Open a saved text combination 
+!!2.2: Open a saved text combination
 
 * Click on the Window menu
 * Choose a saved text combination.
-* Your screen should look like the picture below
-* (if not, see the following page).
+* Your screen should look like the picture below (if not, see the following page).
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image4.png" class=img-responsive}
 ----
 !!2.3: Create a new text combination
 
 If you haven’t already saved a text combination, then we recommend you do the following:
-***
 ----
-!!2.4: Open and arrange the windows 
+!!2.4: Open and arrange the windows
 
 * Window > Unstacked
 * Open the 5 windows as follows:
@@ -111,21 +105,21 @@ If you haven’t already saved a text combination, then we recommend you do the 
 4= Text collection (File > Open project/resource in Text Collection)
 * Arrange the windows as desired.
 ----
-!!2.5: Save the text combination 
+!!2.5: Save the text combination
 
 Once the windows are arranged as desired:
 * Window > Saved text combination
 * Type a name [or to replace an existing combination, choose the existing name]
 * Click OK
 ----
-!!2.6: Delete a text combination 
+!!2.6: Delete a text combination
 
 If you want to delete a saved combination,
 * Window – Delete text combination
 * Choose the name of the saved combination.
 * Click Delete
 ----
-!!2.7: Open resources in a Text collection [◙ SD05]**missing**
+!!2.7: Open resources in a Text collection
 
 {BOX(bg="#FFE6FF" width="60%")}
 With Paratext, it is possible to have several project/resources open at the same time. However, rather than having too many windows, it is better to have severals text in one window.{BOX}
@@ -137,7 +131,7 @@ With Paratext, it is possible to have several project/resources open at the same
 * Click OK
 You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.
 ----
-!!2.8: Open a dictionary 
+!!2.8: Open a dictionary
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can open a source language dictionary with glosses in other languages.{BOX}
@@ -145,43 +139,44 @@ You can open a source language dictionary with glosses in other languages.{BOX}
 * Choose « A Concise Greek-English Dictionary of the New Testament »
 * View > choose a language (e.g. Français)
 ----
-!!2.9: Make a list of verses of a specific term from the source language text [◙ SD06] 
+!!2.9: Make a list of verses of a specific term from the source language text
 
-You can have a list of verses for a specific Greek word
+{BOX(bg="#FFE6FF" width="60%")}
+You can have a list of verses for a specific Greek/Hebrew word.{BOX}
 * Right-click on a lemma (blue word) in the source language text window
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image6.png" class=img-responsive}
-* Choose __Add to project biblical terms for__
+* Choose Add to project biblical terms for
 * Choose your project
 * Edit the gloss if necessary
 * Click OK
 * Change to the Biblical Terms Tool
 * Double-click on the term.
 ----
-!!2.10: Recall 
+!!2.10: Recall
 
 * The translators who ________ their desktops have all the _________ they need for their work.
 * You use the __________ menu to save or delete _____________ of text.
 * To open windows you use the __________ menu.
-Open Biblical terms equivalents
-Open Source language text
-Open Source language dictionary
-Open Project/resource in collection of texts
-Open Project/resource
+* 
+* Open Biblical terms equivalents
+* Open Source language text
+* Open Source language dictionary
+* Open Project/resource in collection of texts
+* Open Project/resource
 * You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, the choosing _____ the your project .
-!3: PP1 : Project Plan and progress 
+!3: PP1 : Project Plan and progress
 Introduction
-You use the Project Plan to help organise your work and see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in Paratext 8.]Where are we?
+You use the Project Plan to help organise your work and see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in Paratext 8 .]Where are we?
 Before you can use the plan it must have been configured.[This is usually done by your project administrator who will add the appropriate organisational plan and configure it for your team.]Why is this important?
 There are so many tasks to be done in a translation project. It is important to have a system to make sure these are all done. Now that your plan has been configured, you can use the plan to see what tasks have been assigned to you to be done next. Then when you finish the task, you can mark the task as completed and see the next task to do. You can use this information to generate reports for supervisers and donors (see PP2: Project plan reporting).What are we going to do?
-You will mark a variety of tasks as complete. The exact steps will vary slightly depending on whether the task is set to once per project, once per book, or by chapter. The place to mark progress for all types of tasks is the Status column.
-Summary
+You will mark a variety of tasks as complete. The exact steps will vary slightly depending on whether the task is set to once per project, once per book, or by chapter. The place to mark progress for all types of tasks is the Status column.Summary
 This module shows you how to:
 ----
-!!3.1: Make sure your project is active Cliquez dans votre projet. 
+!!3.1: Make sure your project is active
 
 * Click in your project.
 ----
-!!3.2: View tasks that need to be done 
+!!3.2: View tasks that need to be done
 
 * Click "Assignments and Progress" button {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image7.png" class=img-responsive} OR[From the Project menu, select Assignments and progress]
 * From the first dropdown menu, choose either My tasks or All tasks{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image8.png" class=img-responsive}
@@ -193,12 +188,14 @@ The list of tasks shows the uncompleted tasks.-
 * Identify the next task for you need to do.
 * Check that it is not waiting for another task.
 * Do the task (see other modules if necessary).
+* 
+* 
 ----
 !!3.4: Mark a task as complete Mark a book task as completed
 
 !!!3.4.1: 
 
-* Click on the checkmark to the left of the status.
+* Click on the checkmark to the left of the status.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image9.png" class=img-responsive}
 It should turn solid to show it is completed.
 !!!3.4.2: Mark a chapter task as completed 
@@ -208,41 +205,35 @@ It should turn solid to show it is completed.
 * To mark other chapters as complete you can click on the word Completed.
 A dialog box is displayed with a list of the chapters.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
 * Check the chapters that have been completed.
-* To mark some verses only, click to the right and check the individual verses.
+* **To mark some verses only, click to the right and check the individual verses.
 ----
-!!3.5: Checks 
+!!3.5: Checks
 
 * If the task is a check, the status of the check will either say setup required or it will show number of remaining issues.
 A check is complete when there are No issues.
-!!!3.5.1: Checks - setup required  
+!!!3.5.1: Checks - setup required
 
-* Click the blue link "Setup required"
-Paratext with run the appropriate inventory or open the settings for that check.
+* Click the blue link "Setup required"''Paratext 8 will run the appropriate inventory or open the settings for that check.''
 * Complete the setup as appropriate.
 * Close the window when finished.
 If there is more than one inventory you will need to set them up manually from the Checking menu.
-!!!3.5.2: Checks – issues  
+!!!3.5.2: Checks – issues 
 
 * Click on the blue link “ …. issues”
 * Make the necessary corrections.
 * Close the list result.
+* File > Save all (ou Ctrl+s).
 * Return to the Project plan.
 * The check is considered complete with there are 0 issues.
 !4: KD: Keyboarding your draft
-
-||Run Paratext |Add text |Views |Add other USFM |Save |Footnotes |Moving your cursor |Send/Receive ||
-Introduction
-This module explains how to keyboard your draft translations into a project which has already been created in Paratext.Where we are
+''Introduction''
+This module explains how to keyboard your draft translations into a project which has already been created in Paratext 8.Where we are
 We are about to keyboard text into an existing project. Before you can do that, someone must have already installed the program and created a project for your data.Why this is important
-This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.
-Summary
+This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.Summary
 This module shows you how to:
 ----
-!!4.1: Load the Paratext program 
+!!4.1: Load the Paratext 8 program 
 
-Double-click on Paratext 8 icon on the desktop OR
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
-(From the Start menu, choose Paratext 8)
 ----
 !!4.2: Go to a Biblical verse [◙ SD01] 
 
@@ -254,8 +245,8 @@ project book chapter verse
 ----
 !!4.3: Check that the project is editable 
 
-Look at the titlebar of your project.
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image13.png" class=img-responsive}
+Look at the titlebar of your project.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image13.png" class=img-responsive}
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image13.png" class=img-responsive}
 The titlebar should either have your name or the word (Editable).
 * If your project is shared and your name is not on the titlebar, you should talk with your project administrator.
 * If it is not editable, try changing the view (see below).
@@ -271,11 +262,11 @@ Paratext 8 has five views. All but the Preview view are editable.
 {BOX(bg="#FFE6FF" width="60%")}
 Some orthographic characters are not found on the keyboard. To type these characters you need to press more than one key.{BOX}
 * Change your keyboard system as needed on your computer.
-* If you are using keyman then choose Tchad Unicode (or for MS-Keyboards choose TR or SQ/TZ/AF…)
-* Type the keys as in the table on page 83.
-Note : You can use View> Highlight Invalid Characters to highlight invalide characters.
+* If you are using Keyman then choose Tchad Unicode (or for MS-Keyboards choose TR or SQ/TZ/AF…)
+* Type the keys as in the table in .
+Note : You can use View > Highlight Invalid Characters to highlight invalide characters.
 ----
-!!4.6: Adding text in another marker such as title or introduction [◙ SD03a] 
+!!4.6: Adding text in another marker (such as title or introduction) 
 
 Each piece of text needs to have a marker. The markers for the chapters and verses are already in your project. When you want to add text such as headings, or introductions etc you need to also add the appropriate marker as follows:
 * Move your cursor to the end of the previous paragraph :
@@ -290,6 +281,7 @@ You must always have a USFM marker after a title and before the verse. This is u
 
 {BOX(bg="#FFE6FF" width="60%")}
 Dividing the text into paragraphs:{BOX}
+* do we need to say move the cursor to where you want to split it?
 * Press « Enter »
 * Type p « Enter »
 ----
@@ -297,31 +289,32 @@ Dividing the text into paragraphs:{BOX}
 
 {BOX(bg="#FFE6FF" width="60%")}
 It is important to save your work regularly.{BOX}
-* File>Save All –or- Ctrl + S
+* File > Save All –or- Ctrl + S
 ----
-!!4.9: Insert Footnotes [◙ SD03] 
+!!4.9: Insert Footnotes 
 
-You can add footnotes in the text at the place where you want the reference to appear.
+{BOX(bg="#FFE6FF" width="60%")}
+You can add footnotes in the text at the place where you want the reference to appear.{BOX}
 * Insert > Footnote
 * A set of footnote markers is added in the box below the text{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image14.png" class=img-responsive}
 {BOX(bg="#FFE6FF" width="60%")}
 Type the text after the \ft{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
 If you hover your mouse over the superscript letter the text of the footnote will be displayed in a tip box.
-To change the footnote, click the superscript letter in the text. To delete the footnote you can delete the superscript letter.
+To change the footnote, click the superscript letter in the text. To delete the footnote you can delete the superscript letter.{BOX}
 ----
 !!4.10: Send/receive to a USB stick to backup your data [◙ SD04] 
 
 {BOX(bg="#FFE6FF" width="60%")}
-It is essential to have a second copy of your translation. This is done by doing a send/receive to a USB key as follows:{BOX}
-Insert your USB key into your computer.
+It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:{BOX}
+If used, insert your USB key into your computer.
 * Click the Send/Receive icon {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image15.png" class=img-responsive}
-* Cliquez sur l’icône Envoyer/Recevoir {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image15.png" class=img-responsive} pour faire Envoyer/Recevoir suivant les paramètres précédent.  
 or
 * File > Send/Receive project(s)
-* Check that the USB key is chosen
-* Click Send/Receive.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image16.png" class=img-responsive}''The computer will make a copy of your files onto your USB key. A progress meter will be displayed. A message box will only appear if there are any problems.''
+* Choose either Internet Server or USB drive (as desired)
+* Click Send/Receive.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image16.png" class=img-responsive}''The computer will make a copy of your files. A progress meter will be displayed. A message box will only appear if there are any problems.''
 ----
-!!4.11: Moving your cursor efficiently. 
+!!4.11: Moving your cursor efficiently 
 
 {BOX(bg="#FFE6FF" width="60%")}
 A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.{BOX}
@@ -335,88 +328,76 @@ To add a different marker (such as section heading) you press _______.
 To add paragraph marker you type ________.
 To insert a footnote, you use the _______ menu and choose ______________.
 To send/receive, you use the ________ menu then ________________.
-Answers : view, enter, enter, Insert, Footnote, File, Send/receive
-!5: GL: Glossary 
-
-||Add an entry |Edit an entry ||Introduction
+[Answers : view, enter, enter, Insert, Footnote, File, Send/receive]
+!5: GL: Glossary
+Introduction
 This module explains how to add entries to the glossary using the Biblical terms tool.Where we are
-You have drafted and entered your text in Paratext. Now you will draft and enter some glossary entries to explain some terms.Why this is important
-It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tools also keeps track of the changes to the glossary.What you are going to do
+You have drafted and entered your text in Paratext 8. Now you will draft and enter some glossary entries to explain some terms.Why this is important
+It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tool also keeps track of the changes to the glossary.What you are going to do
 You will use the Biblical terms tool to add a rendering for the term and then use the glossary tab to enter the citation form and the definition.
 Summary
 This module shows you how to:
 ----
-!!5.1: Open the Biblical Terms tool 
+!!5.1: 
 
-* Tools > Biblical terms ...
-----
-!!5.2: Add an entry [◙ GL01]
-
-* Move to a verse which contains the terms you want to add to the glossary.
-* Right-click and choose « View Biblical Terms », then « Current Verset(s) »
+* Move to a verse which contains the term you want to add to the glossary.
+* Right-click and choose "View Biblical Terms", then "Current Verset(s)"
 * Check that you have the correct list open (p.ex. NT Key Biblical Terms [SIL])
 * Double-click on the term in the list in the top pane
-* Click the « Glossary » tab{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image17.png" class=img-responsive}
+* Click the "Glossary" tab{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image17.png" class=img-responsive}
 * Type the citation form of the term [1]
 * Type the Definition [2]
-* Click OK
-The word and the definition will be added to the glossary in alphabetical order.
+* Click OK ''The word and the definition will be added to the glossary in alphabetical order.''
 ----
-!!5.3: Link an existing entry [◙ GL02] 
+!!5.2: Link an existing entry [◙ GL02] 
 
 {BOX(bg="#FFE6FF" width="60%")}
 If the word is already in the glossary, you can link a term to the existing entry.{BOX}
 * Check that you have the correct list (ex. NT Key Biblical terms [SIL])
 * Double-click on the word in the list in the top pane
-* Click the « Glossary » tab
+* Click the "Glossary" tab
 * Click the down arrow near the citation form [1]
 * Choose the entry from the glossary
 * Click OK
 ----
-!!5.4: View the glossary  
+!!5.3: View the glossary  
 
 In Paratext
 * Use the navigation bar to change the book{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image18.png" class=img-responsive}
 * Choose the GLO book
 ----
-!!5.5: Edit an entry – in the GLO book [◙ GL03] 
+!!5.4: Edit an entry – in the GLO book [◙ GL03] 
 
 In Paratext
 * Open the GLO book
 * Edit the text as normal.
 ----
-!!5.6: Edit an entry – in the Biblical Terms [◙ GL04] 
+!!5.5: Edit an entry – in the Biblical Terms [◙ GL04] 
 
 * Tools > Biblical terms...
 * Double-click on the word in the list in the top pane.
-* Click the « Glossary » tab
+* Click the "Glossary" tab
 * Edit la définition
 * Click OK.
 ----
-!!5.7: Add a Biblical Term  
+!!5.6: Add a Biblical Term 
 
 * see page 61***
 ----
-!!5.8: Recall
+!!5.7: Recall
 
 * You open the Biblical Terms tool from the ________ menu.
 * The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.
 * To view the glossary, you change to the _____ book (after Revelation).
 Answers: Tools, Edit Rendering, double-click, top, GLO
 !6: BC1 : Basic checks
-
-(from Project Plan or Checking menu)
-||Basic checks: Chapter/verse |Basic checks: markers ||Introduction 
-In this module, you will check the chapters/verses and the markers.Where we are
+Introduction 
+In this module, you will check the chapters/verses and the markers using two methods: the Project plan and the Checking menu.Where we are
 You have typed your text in Paratext. Now you want to start checking. In this module we start with the first two basic checks.Why this is important
 These checks allow you to be sure that you have all the chapters and verses and that the other markers are correct. Doing these checks allows you to complete the Drafting stage. It is important to run the chapter/verse check first because all the other checks depend on it.What you are going to do
-You are going to run the first two basic checks using two different methods.
-{BOX(bg="#FFE6FF" width="60%")}
-In Paratext 8 the easiest way to run check is from the project plan.{BOX}
+You are going to run the first two basic checks using two different methods.The easiest way is to run the checks from the project plan. However, you can also do the checks from the checking menu if you need to check more than one book at a time.
 ----
-!!6.1: 
-
-* It is also possible to do the checks from the checking menu. You use this method if you need to run the checks on more than one book at a time.
+!!6.1: Running checks from the project plan
 Summary
 This module shows you how to:
 ----
@@ -424,13 +405,12 @@ This module shows you how to:
 
 It is easier to run the checks from the project plan.
 * View the project plan by clicking on the icon (at the top right of your project window).{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image19.png" class=img-responsive}
-* If there are any « issues » (errors), click the blue link to the right
-A windows appears with a list of the errors.
+* If there are any "issues" (errors), click the blue link to the right{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image20.png" class=img-responsive}A windows appears with a list of the errors.
 * Double-click a line in the list.
 * Correct the error in your project.
 * Double-click the next line in the list.
 * Continue for all the errors.
-* Click « Rerun » button to check that all the errors have been corrected.
+* Click "Rerun" button to check that all the errors have been corrected.
 * Close the results list window.
 * Continue with the markers check.
 ----
@@ -439,40 +419,37 @@ A windows appears with a list of the errors.
 {BOX(bg="#FFE6FF" width="60%")}
 If you want to check more than one book at a time, you can run the checks from the checking menu.{BOX}
 ----
-!!6.4: « Chapter/ Verse » [◙ VT01] 
+!!6.4: « Chapter/ Verse »
 
-* Click on your project window
+* Click in your project window
 * Checking > Run basic checks
-* Check the Chapter/verse numbers
+* Check only Chapter/verse numbers
 * Uncheck any other checks
 * Click the button beside Choose Books
 * If necessary, click Choose… and choose the book you want to check
-* Click OK
-A windows appears with a list of the errors.
+* Click OK''A windows appears with a list of the errors.''
 * Double-click a line in the list.
 * Correct the error in your project.
 * Double-click the next line in the list.
 * Continue for all the errors.
-* Click « Rerun » button to check that all the errors have been corrected.
+* Click "Rerun" button to check that all the errors have been corrected.
 * Close the results list window.
 ----
 !!6.5: Markers check  
 
-* Checking > Markers Inventory
-The list shows an overview of the markers in your text.
+* Checking > Markers Inventory''The list shows an overview of the markers in your text.''
 * Close the marker inventory.
 * Checking > Run Basic Checks
 * Check the Markers
 * Click OK
 * Correct any errors.
-!7: PP2 : Project progress
+!7: PP2: Project progress
 
 Introduction
 In this module, you will learn how to update your progress and create a progress report.Where we are
 You have been working on your translation and have finished a task. You now want to update your progress.Why this is important
-For the project plan to work well, you need to mark the tasks you have finished. This allows Paratext to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.What you are going to do
-You will open the assignments and progress window and update the progress made. You will then produce a report.
-Summary
+For the project plan to work well, you need to mark the tasks you have finished. This allows Paratext 8 to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.What you are going to do
+You will open the assignments and progress window and update the progress made. You will then produce a report.Summary
 This module shows you how to:
 ----
 !!7.1: How to make sure the progress of the plan is up to date
@@ -482,7 +459,8 @@ This module shows you how to:
 ----
 !!7.2: Change an assignment
 
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image21.png" class=img-responsive}This can only be done by a project administrator.
+{BOX(bg="#FFE6FF" width="60%")}
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image21.png" class=img-responsive}This can only be done by a project administrator.{BOX}
 * From the Project menu, select Assignments and Progress....
 * From the first drop-down list at the top left of the dialog, select All Tasks.
 * In the "Assigned to" column, use the drop-down list to choose who will have responsibility for the task or check (listed in the "Task/Check" column at the far left).

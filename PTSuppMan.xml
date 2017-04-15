@@ -40,165 +40,6 @@ label="Contenu"
 ></contents
 ></frontMatter
 ><chapter
-id="cnext"
-><secTitle
-><object
-contentType="en"
-type="t-en"
-xml:lang="en"
->Introduction</object
-><object
-contentType="fr"
-type="t-fr"
->Introduction</object
-></secTitle
-><section1
-id="s"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Goal</object
-><object
-contentType="fr"
-type="t-fr"
->But</object
-></secTitle
-><p
-contentType="en"
->The participants will perform various administrative tasks involved in installing <object
-type="tPT"
-></object
-> and migrating users and projects from <object
-type="tPTPrev"
-></object
-> (including setup of the project plan).</p
-><p
-contentType="fr"
->Préparer un projet <object
-type="tPTPrev"
-></object
-> et ses utilisateurs pour la migration vers Paratext 8.</p
-></section1
-><section1
-id="sGoal"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Course Objectives</object
-><object
-contentType="fr"
-type="t-fr"
->Objectives du Cours</object
-></secTitle
-><p
-contentType="en"
->At the end of the course, the participant will be able to:</p
-><p
-contentType="fr"
->À la fin de ce cours, le participant sera capable de :</p
-><p
-contentType="en"
->Install <object
-type="tPT"
-></object
-></p
-><p
-contentType="fr"
->Installer Paratext 8</p
-><p
-contentType="en"
->Migrate projects from ParaTExt 7</p
-><p
-contentType="fr"
->Migrer des projets de Paratext 7 à 8</p
-><ul
-><li
-contentType="en"
->Prepare a <object
-type="tPTPrev"
-></object
-> project and its users for migration to <object
-type="tPT"
-></object
-></li
-><li
-contentType="en"
->Register users and projects</li
-><li
-contentType="fr"
->Inscrire les utilisateurs et projets</li
-><li
-contentType="en"
->Migrate shared and unshared projects from <object
-type="tPTPrev"
-></object
-></li
-><li
-contentType="fr"
->Migrer des projets partagé et non partagé</li
-><li
->Install resources</li
-><li
-contentType="fr"
->Installation des ressources</li
-></ul
-><p
-contentType="en"
->Configure the Project Plan</p
-><p
-contentType="fr"
->Configuration du plan du projet</p
-><ul
-><li
-contentType="en"
->Add an organisational base plan</li
-><li
-contentType="fr"
->Ajouter un plan de base</li
-><li
-contentType="en"
->Customise the plan</li
-><li
-contentType="fr"
->Personnaliser le plan</li
-><li
-contentType="en"
->Assign tasks</li
-><li
-contentType="fr"
->Affecter des tâches</li
-></ul
-><p
-contentType="en"
->Configure the Project Plan</p
-><p
-contentType="fr"
->Configurer le plan du projet</p
-><ul
-><li
-contentType="en"
->Migrate both a shared and non-shared project</li
-><li
-contentType="fr"
->Migrer des projets partagé et non partagé</li
-></ul
-><p
-contentType="en"
->Convert a project</p
-><p
-contentType="fr"
->Convertir un projet</p
-><p
-contentType="en"
->Create a new project</p
-><p
-contentType="fr"
->Création d'un nouveau projet</p
-></section1
-></chapter
-><chapter
 id="cInstall"
 ><secTitle
 ><object
@@ -213,18 +54,18 @@ contentType="fr"
 type="t-fr"
 >IP : Installation de Paratext 8</object
 ></secTitle
-><section1
-id="sISIntroduction"
-><secTitle
-><object
+><p
 contentType="en"
-type="t-en"
->Introduction</object
 ><object
-contentType="fr"
-type="t-fr"
+type="tsub"
 >Introduction</object
-></secTitle
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></p
 ><p
 contentType="en"
 ><object
@@ -361,6 +202,18 @@ type="tPTPrev"
 ><p
 contentType="fr"
 >Vous allez installer Paratext 8 (sans désinstaller Paratext 7). Vous allez également faire une mise à jour à partir d’un fichier MSP.</p
+><section1
+id="sISIntroduction"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Introduction</object
+><object
+contentType="fr"
+type="t-fr"
+>Introduction</object
+></secTitle
 ></section1
 ><section1
 id="sISInstall"
@@ -1011,7 +864,9 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Choisissez le projet à migrer.</li
+>Choisissez le projet à migrer.<br
+></br
+>Il sera probablement décrit comme "v7, non-inscrit." (titalic@@)</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -1029,7 +884,7 @@ type="tPT"
 > will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.</p
 ><p
 contentType="fr"
->Il sera probablement décrit comme "v7, non-inscrit." Il peut être décrit comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais sauter la partie sur l'enregistrement.</p
+>Il peut être décrit comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais sauter la partie sur l'enregistrement.</p
 ></framedUnit
 ><ul
 ><li
@@ -1046,6 +901,7 @@ type="tItalic"
 ></br
 ><img
 src="supimgeng\image3.png"
+width="8cm"
 ></img
 ><br
 ></br
@@ -1072,6 +928,7 @@ contentType="fr"
 ></br
 ><img
 src="supimgfr\image3.png"
+width="8cm"
 ></img
 ><br
 ></br
@@ -1109,9 +966,6 @@ contentType="en"
 contentType="fr"
 >Remplissez le formulaire web. (Les champs marqués d'un astérisque sont obligatoires.)</li
 ><li
-contentType="fr"
->***Remplissez le formulaire (avec le nom, description, langue, définir l’étendue, type de traduction, pays, organisation).</li
-><li
 contentType="en"
 >Short name: You cannot change the project short name,</li
 ><li
@@ -1131,7 +985,7 @@ type="tPT"
 > requires a language identifier for your language. Use the search in the language name to find the ethnologue code for your language. You can modify the language name, or use the “advanced” to specify or create additional information about the language.</li
 ><li
 contentType="fr"
->Utilisez la Search (recherche) dans le nom de la langue pour trouver le code ethnologue pour votre langue.</li
+>Paratext 8 nécessite un identifiant de langue pour votre langue. Utilisez la Search (recherche) dans le nom de la langue pour trouver le code ethnologue pour votre langue.</li
 ><li
 contentType="en"
 >Scope refers to whether the project will be a complete Bible, or complete Bible including apocrypha, or New Testament, or some other grouping of books. You can add more books to your project scope later as this can be changed after registration.</li
@@ -1206,7 +1060,7 @@ contentType="fr"
 contentType="en"
 >To submit the registration, click <object
 type="tmenu"
->Submit</object
+>Submit Registration</object
 >.<br
 ></br
 ><object
@@ -1230,34 +1084,6 @@ width="5in"
 ><p
 contentType="fr"
 >Un message s’affiche « Projet enregistré avec succès. »</p
-><p
-contentType="fr"
->Le registre devrait vous dire le projet inscrit avec succès. (Vous devrez peut-être faire défiler jusqu'au haut de la page pour voir ceci).</p
-><p
-contentType="en"
->Or Click <object
-type="tmenu"
->Migrate later</object
-> to back out of migrating and finish your preparations.</p
-><framedUnit
-framedtype="tTeacher"
-><p
-contentType="en"
->When you are ready, go through the migration again. Clicking “Migrate later” will not cancel the project registration if you just submitted it, you can skip the registration steps and go on to migration</p
-></framedUnit
-></section2
-><section2
-id="sMigRep"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Migrating a registered project</object
-><object
-contentType="fr"
-type="t-fr"
->Migration d'un projet inscrit.</object
-></secTitle
 ><ul
 ><li
 contentType="en"
@@ -1281,9 +1107,25 @@ type="tItalic"
 >Il devrait détecter que le projet est maintenant enregistré et vous en informer.</object
 ></li
 ></ul
+></section2
+><section2
+id="sMigRep"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Migrating a registered project</object
+><object
+contentType="fr"
+type="t-fr"
+>Migration d'un projet inscrit.</object
+></secTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
+><p
+contentType="en"
+>If you have just registered your project, you can continue with the migration. If not, then open the project you want to migrate.</p
 ><p
 contentType="fr"
 >Si vous venez d’inscrire votre projet, vous pouvez continuer avec la migration. Sinon ouvrir le projet à migrer.</p
@@ -1384,9 +1226,6 @@ framedtype="tTeacher"
 contentType="fr"
 >Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
 ></framedUnit
-><p
-contentType="fr"
->***Paramètres supplémentaires du projet</p
 ></section2
 ></section1
 ><section1
@@ -1399,7 +1238,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Parametres du projet</object
+>Parametres supplémentaires du projet</object
 ></secTitle
 ><ul
 ><li
@@ -1431,7 +1270,7 @@ type="tmenu"
 >, and looking at the <object
 type="tmenu"
 >language settings</object
->. The language identifier is in brackets after the language name.</p
+>. The language identifier is either in brackets after the language name, or listed separately below the name.</p
 ><p
 contentType="fr"
 >Vous pouvez vérifier le nom de la langue et l'identificateur de langue de votre projet en allant dans <object
@@ -1464,9 +1303,6 @@ type="tmenu"
 >Livres</object
 >», vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.<br
 ></br
-><img
-src="i.png"
-></img
 ></li
 ></ul
 ><framedUnit
@@ -1488,8 +1324,10 @@ contentType="fr"
 >Vous pouvez choisir un livre par livre, ou spécifier Ancien Testament, Nouveau Testament, Deuterocanon en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.</p
 ></framedUnit
 ><p
+>Note: Once you have migrated your project, you need to migrate the back translation and any other daughter projects (one after the other).</p
+><p
 contentType="fr"
->N.B. Après avoir migrer votre projet, il faut migrer la retraduction, et tous les projet filles l’un après l’autre..</p
+>N.B. Après avoir migrer votre projet, il faut migrer la retraduction, et tous les projet filles l’un après l’autre.</p
 ></section1
 ><section1
 id="sMIgNS"
@@ -1516,6 +1354,9 @@ contentType="fr"
 ></framedUnit
 ><ul
 ><li
+contentType="en"
+>Run Paratext 8</li
+><li
 contentType="fr"
 >Lancez Paratext 8</li
 ><li
@@ -1525,7 +1366,7 @@ type="tmenu"
 >File</object
 > &gt; <object
 type="tmenu"
->Open Project</object
+>Open Project/Resource</object
 ></li
 ><li
 contentType="fr"
@@ -1535,7 +1376,7 @@ type="tmenu"
 ></li
 ><li
 contentType="en"
->Click ““<object
+>Click "<object
 type="tmenu"
 >Show <object
 type="tPTPrev"
@@ -1546,7 +1387,7 @@ type="tPTPrev"
 contentType="fr"
 >Cliquez sur<object
 type="tmenu"
-> « Afficher les projets Paratext 7 »</object
+> Show Paratext 7 projects (Afficher les projets Paratext 7)</object
 ></li
 ><li
 contentType="en"
@@ -1581,7 +1422,9 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Migrate now </object
->(migrer maintenant)</li
+>(migrer maintenant)<br
+></br
+>Lorsque vous cliquez sur "Migrage Now" le projet sera migré vers le dossier Paratext 8 prêt à être utilisé. Le statut d’enregistrement déterminera les fonctionnalité qui sont disponibles pour le projet.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -1595,25 +1438,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="fr"
->Cliquez sur le bouton <object
-type="tmenu"
->Migrate Now</object
 ></li
-><li
-contentType="fr"
->Vous devez répondre à une série de questions (similaire au partage de départ en Paratext 7).</li
-><li
-contentType="fr"
->Le bouton <object
-type="tmenu"
->Migrate Now</object
-> sera actif quand vous avez répondu à toutes les questions.</li
-><li
-contentType="fr"
->Lorsque vous cliquez sur <object
-type="tmenu"
->Migrate Now </object
->(Migrer maintenant), le projet sera migré vers le dossier Paratext 8 et prêt à être utilisé. Le statut d’inscription déterminera les fonctionnalités qui sont disponibles pour le projet.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -1632,6 +1457,9 @@ type="tPT"
 type="tPTPrev"
 ></object
 > from their computer if they don't need it for other projects.</p
+><p
+contentType="fr"
+>Rappelez-vous, personne ne devrait plus éditer le projet dans Paratext 7. Ce serait un effort gaspillé car personne d'autre ne verra leurs changements. Pour aider les membres de votre équipe à se souvenir de cela, vous pourriez les faire supprimer le projet de leur Paratext 7 une fois qu'ils l'ont obtenu en Paratext 8. Ou peut-être qu'ils peuvent désinstaller Paratext 7 de leur ordinateur s'ils n'en ont pas besoin pour d'autres projets.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -1710,13 +1538,19 @@ contentType="en"
 >Projects may be registered by the administrator (or a consultant serving as an administrator)</p
 ><p
 contentType="fr"
->D’autres organisations / utilisateurs sont avisées de vos actions et pourraient s’opposer à BoG (Board of Governors). Des informations de base sur les métadonnées du projet sont accessibles à tous les membres de la communauté de Paratext. Si votre projet n’est pas inscrit, vous n’aurez pas accès à</p
+>Les projets peuvent être inscrit par l'administrateur (ou un conseillère servant d'administrateur.</p
 ><p
 contentType="en"
 >Other organizations/users are notified and may object to BoG. Basic project metadata information is available to all in ParaTExt community</p
 ><p
+contentType="fr"
+>D’autres organisations / utilisateurs sont avisées de vos actions et pourraient s’opposer à BoG (Board of Governors). Des informations de base sur les métadonnées du projet sont accessibles à tous les membres de la communauté de Paratext. Si votre projet n’est pas inscrit, vous n’aurez pas accès à</p
+><p
 contentType="en"
 >If your project is not registered you will not have access to</p
+><p
+contentType="fr"
+>Si votre projet n’est pas inscrit, vous n’aurez pas accès à</p
 ><ul
 ><li
 contentType="en"
@@ -1802,7 +1636,13 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Accédez à registry.paratext.org</li
+>Accédez à registry.paratext.org<br
+></br
+><object
+contentType="fr"
+type="tItalic"
+>L'écran "Connexion" s'affiche.</object
+></li
 ><li
 contentType="en"
 >Enter your email account.<br
@@ -1829,7 +1669,13 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Connectez-vous à l’aide de votre adresse email (gmail)</li
+>Connectez-vous à l’aide de votre adresse email (gmail)<br
+></br
+><object
+contentType="fr"
+type="tItalic"
+>Un nouvel écran s'affiche pour demander votre mot de passe.</object
+></li
 ><li
 contentType="en"
 >Enter your <object
@@ -1859,7 +1705,7 @@ type="tmenu"
 ></br
 ><object
 type="tItalic"
->Le « New Paratext 8 User » s’affiche.</object
+>Le « New Paratext 8 User » s’affiche et vous pouvez remplir la formulaire.</object
 ></li
 ></ul
 ><framedUnit
@@ -1869,14 +1715,14 @@ contentType="en"
 >If you do not have a Google address, see section <sectionRef
 sec="sNonGoogle"
 ></sectionRef
->)</p
+></p
 ><p
 contentType="fr"
 >Si vous n’avez pas d’adresse gmail, voir section <sectionRef
 sec="sNonGoogle"
 showTitle="numberOnly"
 ></sectionRef
->)</p
+></p
 ></framedUnit
 ></section1
 ><section1
@@ -1906,14 +1752,16 @@ type="tPT"
 > registration).</li
 ><li
 contentType="fr"
->Choisissez l’un des trois choix d’utilisateur</li
+>Choisissez l’un des trois choix d’utilisateur (nouveau, déjà Paratext 7, déjà Paratext 8)</li
+><li
+contentType="en"
+>If you are a Paratext 7 user, fill-in your Paratext 7 code<br
+></br
+></li
 ><li
 contentType="fr"
 >Si vous êtes un utilisateur de Paratext 7, fournissez votre code d’enregistrement Paratext 7 <br
 ></br
-><object
-type="tItalic"
->Votre code d’enregistrement Paratext 8 s’affiche</object
 ></li
 ><li
 contentType="en"
@@ -1930,6 +1778,9 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 >Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.</p
+><p
+contentType="fr"
+>Toute personne peut s'inscrire pour utiliser Paratext, mais les personnes qui ne sont pas membres d'un organisme de traduction et qui ne sont pas membres d'un projet enregistré ne pourront utiliser toutes les fonctionnalités de Paratext et ne pourront accéder qu'à quelques ressources.</p
 ></framedUnit
 ><ul
 ><li
@@ -1940,13 +1791,19 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->Choisissez votre pays</li
+>Choisissez votre <object
+type="tmenu"
+>pays</object
+></li
 ><li
 contentType="en"
 >Enter if relevant your <object
 type="tmenu"
->field entity and your superviso</object
->r</li
+>field entity and your supervisor</object
+></li
+><li
+contentType="fr"
+>Entrez si pertinent votre entité sur le terrain et votre superviseur</li
 ><li
 contentType="en"
 >Explain <object
@@ -1977,12 +1834,12 @@ type="tItalic"
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
->Register (S’inscrire)</object
-> <br
+>Register </object
+> (S’inscrire) <br
 ></br
 ><object
 type="tItalic"
->Vous recevrez votre code d’inscription permanent par email</object
+>Vous recevrez votre code d’inscription (et également par email</object
 ></li
 ></ul
 ><framedUnit
@@ -1994,9 +1851,6 @@ contentType="en"
 contentType="fr"
 >Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le perdez, il n'y a aucun moyen de le chercher encore. (Il s'agit d'une fonctionnalité de sécurité, les codes d’utilisateur ne sont pas stockés sur le serveur pour qu'ils ne puissent pas être volés si quelqu'un attaque le serveur.)</p
 ></framedUnit
-><p
-contentType="fr"
->Inscrivez-vous à Paratext avec un compte non-google</p
 ></section1
 ><section1
 id="sNonGoogle"
@@ -2008,7 +1862,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->S'inregistrer sans un compte Google</object
+>S'inscrivez-vouz sans un compte Google</object
 ></secTitle
 ><ul
 ><li
@@ -2055,56 +1909,8 @@ contentType="en"
 >Open your email, go to the link, and proceed to register for Paratext (see above).</li
 ><li
 contentType="fr"
->Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir page 22).</li
+>Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir page 22***).</li
 ></ul
-><p
-contentType="fr"
->Comment enregistrer un utilisateur s’il n’a pas accès à Internet (ou de compte Google)</p
-><ul
-><li
-contentType="fr"
->L’Administrateur doit :</li
-><li
-contentType="fr"
->Accédez à registry.paratext.org</li
-><li
-contentType="fr"
->Connectez-vous à l’aide de votre adresse email</li
-><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->Users</object
-></li
-><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->+Register New User</object
-> <br
-></br
-><object
-type="tItalic"
->Le « New Paratext 8 User » s’affiche.</object
-><br
-></br
-><img
-src="i.png"
-></img
-></li
-><li
-contentType="fr"
->Remplissez le formulaire</li
-><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->Create</object
-> (Créer)</li
-></ul
-><p
-contentType="fr"
->Le code d’inscription pour le nouvel utilisateur sera envoyé par courrier électronique au administrateur après avoir été approuvé.</p
 ></section1
 ><section1
 id="sChangeCode"
@@ -2128,7 +1934,7 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->There are many reasons why you may need to change your Paratext code, but mainly if your computer is stolen.</p
+>There are many reasons why you may need to change your Paratext code, but especially if your computer is stolen.</p
 ><p
 contentType="fr"
 >Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.</p
@@ -2136,32 +1942,46 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Go to the registration website, registry.paratext.org.</li
+>Go to the registration website, <object
+type="tlink"
+>registry.paratext.org</object
+> .</li
 ><li
 contentType="fr"
->Accédez sur le site d'inscription<br
-></br
-><img
-src="i.png"
-></img
->, registry.paratext.org. , registry.paratext.org.</li
+>Accédez sur le site d'inscription <object
+type="tlink"
+>registry.paratext.org</object
+> .</li
 ><li
 contentType="en"
->Log in (if you are not logged in) Log in (if you are not logged in)<br
+>Log in (if you are not logged in) <br
 ></br
-><img
-src="supimgeng\image8.png"
-></img
 ></li
 ><li
 contentType="fr"
 >Se connecter (si vous n'êtes pas connecté)</li
 ><li
 contentType="en"
->Click on your user name at the top left.</li
+>Click on your user name at the top left.<br
+></br
+><img
+src="supimgeng\image8.png"
+width="2.45cm"
+></img
+><object
+contentType="en"
+type="tItalic"
+>A menu is displayed.</object
+></li
 ><li
 contentType="fr"
->Cliquez sur le nom d'utilisateur en haut à gauche.</li
+>Cliquez sur le nom d'utilisateur en haut à gauche.<br
+></br
+><object
+contentType="fr"
+type="tItalic"
+>Un menu s'affiche.</object
+></li
 ><li
 contentType="en"
 >Click on <object
@@ -2171,6 +1991,7 @@ type="tmenu"
 ></br
 ><img
 src="supimgeng\image9.png"
+width="4.5cm"
 ></img
 ></li
 ><li
@@ -2178,22 +1999,22 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Settings </object
->(paramètres).</li
+>(paramètres).<br
+></br
+><img
+src="supimgeng\image9.png"
+width="4.5cm"
+></img
+></li
 ><li
 contentType="en"
 >Beside <object
 type="tPT"
 ></object
->, click ‘<object
+>, click <object
 type="tmenu"
 >Settings</object
->”. Beside <object
-type="tPT"
-></object
->, click ‘<object
-type="tmenu"
->Settings</object
->”.<br
+>. <br
 ></br
 ><object
 type="tItalic"
@@ -2206,11 +2027,10 @@ type="tmenu"
 >Settings</object
 >”.<br
 ></br
->L'écran des détails d'enregistrement s'affiche<br
-></br
-><img
-src="i.png"
-></img
+><object
+contentType="fr"
+type="tItalic"
+>L'écran des détails d'enregistrement s'affiche</object
 ></li
 ></ul
 ><ul
@@ -2226,6 +2046,7 @@ type="tmenu"
 ></br
 ><img
 src="supimgeng\image10.png"
+width="2.57cm"
 ></img
 ><br
 ></br
@@ -2240,6 +2061,13 @@ type="tmenu"
 >Generate</object
 > pour générer un nouveau code. <br
 ></br
+><img
+src="supimgeng\image10.png"
+width="2.57cm"
+></img
+></li
+><li
+contentType="fr"
 ><object
 type="tItalic"
 >Le code sera envoyé à votre adresse email.</object
@@ -2254,10 +2082,13 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Lancer Paratext</li
-><li
+>Lancer Paratext<br
+></br
+><object
 contentType="fr"
->S'il se connecte à Internet, il détecte que l'ancien code n'est plus valide et il vous demandera de mettre à jour vos informations d'inscription.</li
+type="tItalic"
+>S'il se connecte à Internet, il détecte que l'ancien code n'est plus valide et il vous demandera de mettre à jour vos informations d'inscription.</object
+></li
 ><li
 contentType="en"
 >Go to your email, and copy the new code.</li
@@ -2301,7 +2132,7 @@ type="tItalic"
 framedtype="tTeacher"
 ><p
 contentType="en"
->You will need to do this on any other computer that you have Paratext installed on as well.</p
+>You will need to do this on any other computer that your Paratext code is installed on as well.</p
 ><p
 contentType="fr"
 >Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code de Paratext est installé.</p
@@ -2345,22 +2176,34 @@ contentType="fr"
 type="t-fr"
 >Inscrire un Utilisateur (sans address courriel)</object
 ></secTitle
-><p
-contentType="fr"
->***</p
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 >Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.</p
+><p
+contentType="fr"
+>Tout administrateur d'un projet enregistré peut créer de nouveaux enregistrements d'utilisateurs s'ils doivent ajouter des personnes à leur projet. Ces utilisateurs n'ont pas besoin d'avoir une adresse e-mail.</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
->Go to registry.paratext.org</li
+>Go to <object
+type="tlink"
+>registry.paratext.org</object
+></li
+><li
+contentType="fr"
+>Accédez à <object
+type="tlink"
+>registry.paratext.org</object
+></li
 ><li
 contentType="en"
->Log in if you are not already.</li
+>Log in if you are not already logged in.</li
+><li
+contentType="fr"
+>Connectez-vous à l’aide de votre adresse email</li
 ><li
 contentType="en"
 >Click on <object
@@ -2370,12 +2213,21 @@ type="tmenu"
 ></br
 ><img
 src="supimgeng\image11.png"
-width="6in"
+width="5in"
 ></img
 ></li
 ><li
 contentType="fr"
->**</li
+>Cliquez sur <object
+type="tmenu"
+>Users</object
+><br
+></br
+><img
+src="supimgeng\image11.png"
+width="5in"
+></img
+></li
 ><li
 contentType="en"
 >Click the <object
@@ -2394,17 +2246,37 @@ width="6in"
 ></img
 ></li
 ><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>+Register New User</object
+> <br
+></br
+><object
+type="tItalic"
+>Le « New Paratext 8 User » s’affiche.</object
+></li
+><li
+><img
+src="supimgfr\image14.png"
+width="5in"
+></img
+></li
+><li
 contentType="en"
 >Fill in their name, and the rest of their information.</li
 ><li
-contentType="en"
->You do not need to supply their email address.</li
+contentType="fr"
+>Remplissez le formulaire avec leur nom etc.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 >A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.</p
+><p
+contentType="fr"
+>Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, ils peuvent s'inscrire pour Paratext, puis vous pouvez ajouter leur nom au projet.</p
 ></framedUnit
 ><ul
 ><li
@@ -2418,12 +2290,27 @@ type="tmenu"
 type="tItalic"
 >The server should respond by e-mailing you the user code for the new user.</object
 ></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Create</object
+> (Créer)<br
+></br
+><object
+contentType="fr"
+type="tItalic"
+>Le code d’inscription pour le nouvel utilisateur sera envoyé par courrier électronique au administrateur après avoir été approuvé.</object
+></li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 >Hang onto this code, because it cannot be recovered again if you lose it.</p
+><p
+contentType="fr"
+>Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez.</p
 ></framedUnit
 ></section1
 ><section1
@@ -2441,10 +2328,10 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->If a translator is not part of a recognised organisation, she can apply to the BoG (boardofgovernors@paratext.org) to be members of "Independent Translators" pseudo organization</li
+>If a translator is not part of a recognised organisation, s/he can apply to the BoG (boardofgovernors@paratext.org) to be members of "Independent Translators" pseudo organization</li
 ><li
 contentType="fr"
->On pourra faire une demande à BoG (boardofgovernors@paratext.org) pour devenir membres de la pseudo organisation "Independent Translators"</li
+>Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG (boardofgovernors@paratext.org) pour devenir membres de la pseudo organisation "Independent Translators"</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -2518,10 +2405,13 @@ type="tPT"
 > is that projects need to be registered as well as users. This may feel like an extra complication, but it does offer benefits to users.</p
 ><p
 contentType="fr"
->Un aspect nouveau dans Paratext 8 est que les projets doivent être inscrits ainsi que les utilisateurs. Cela peut sembler une complication supplémentaire, mais il offre des avantages aux utilisateurs. Comme nous avons vu dans la section d'enregistrement des utilisateurs, l'administrateur du projet peut créer des enregistrements pour les utilisateurs dont ils souhaitent faire partie de leur projet.</p
+>Un aspect nouveau dans Paratext 8 est que les projets doivent être inscrits ainsi que les utilisateurs. Cela peut sembler une complication supplémentaire, mais il offre des avantages aux utilisateurs.</p
 ><p
 contentType="en"
 >As we saw in the user registration section, the project administrator can create registrations for users they want to be part of their project.</p
+><p
+contentType="fr"
+>Comme nous avons vu dans la section d'enregistrement des utilisateurs, l'administrateur du projet peut créer des enregistrements pour les utilisateurs dont ils souhaitent faire partie de leur projet.</p
 ><p
 contentType="en"
 ><object
@@ -2532,7 +2422,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***</object
+>Qu’est-ce qu’on va faire ?</object
 ></p
 ><p
 contentType="en"
@@ -2571,6 +2461,7 @@ type="tItalic"
 ></br
 ><img
 src="supimgeng\image13.png"
+width="5in"
 ></img
 ></li
 ><li
@@ -2586,10 +2477,13 @@ type="tmenu"
 ><object
 type="tItalic"
 >La boîte de dialogue Project properties and settings (Propriétés et paramètres de projet) s'affiche.</object
+> <br
+></br
 ><img
-src="i.png"
+src="supimgfr\image18.png"
+width="4in"
 ></img
-> Nom du projet</li
+></li
 ></ul
 ></section1
 ><section1
@@ -2614,12 +2508,19 @@ type="tmenu"
 ></br
 ><img
 src="supimgeng\image14.png"
+width="7cm"
 ></img
 ><br
 ></br
 ><object
 type="tItalic"
 >The “edit name” dialog is displayed</object
+></li
+><li
+><img
+src="supimgeng\image15.png"
+width="7cm"
+></img
 ></li
 ><li
 contentType="fr"
@@ -2629,24 +2530,21 @@ type="tmenu"
 > (Modifier)<br
 ></br
 ><img
-src="i.png"
+src="supimgfr\image19.png"
+width="7cm"
 ></img
 ><br
 ></br
 ><object
 type="tItalic"
->La boîte de dialogue "modifier le nom complet" s'affiche</object
+>La boîte de dialogue "Modifier le nom complet" s'affiche</object
+><br
+></br
 ><img
-src="i.png"
+src="supimgfr\image20.png"
 ></img
 ></li
 ></ul
-><p
-contentType="en"
-><img
-src="supimgeng\image15.png"
-></img
-></p
 ><ul
 ><li
 contentType="en"
@@ -2665,14 +2563,11 @@ type="tmenu"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server.</p
+>Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server. (However, you can convert the project to a new project with a different short name.)</p
 ><p
 contentType="fr"
->Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet.</p
+>Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet. (Cependant, vous pouvez convertir le projet vers un nouveau projet avec un nom abrégé diffèrent.)</p
 ></framedUnit
-><p
-contentType="fr"
->Spécifier la langue</p
 ></section1
 ><section1
 id="sCPLang"
@@ -2684,7 +2579,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Spécifier la langue</object
 ></secTitle
 ><ul
 ><li
@@ -2710,33 +2605,39 @@ type="tItalic"
 >The Choose language identifier box is displayed.</object
 ></li
 ><li
-contentType="fr"
-><img
-src="i.png"
-></img
->La boîte de dialogue <object
-type="tmenu"
->Choose Language Identifier </object
->(choisir l’identifiant de la langue) s’affiche..<br
-></br
-><img
-src="i.png"
-></img
-></li
-></ul
-><p
 contentType="en"
 ><img
 src="supimgeng\image17.png"
+width="6cm"
 ></img
-></p
-><ul
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >New</object
+><br
+></br
+><img
+src="supimgfr\image21.png"
+></img
+><br
+></br
+><object
+type="tItalic"
+>La boîte de dialogue <object
+type="tmenu"
+>Choose Language Identifier</object
+>(choisir l’identifiant de la langue) s’affiche...</object
+>.<br
+></br
+><img
+src="supimgfr\image22.png"
+width="6cm"
+></img
 ></li
+></ul
+><ul
 ><li
 contentType="en"
 >Click in the <object
@@ -2782,6 +2683,9 @@ type="tmenu"
 >Language Name</object
 >.</li
 ><li
+contentType="en"
+>Fill in the advaced fields if necessary.</li
+><li
 contentType="fr"
 >Remplissez les champs avancé si nécessaire.</li
 ><li
@@ -2806,9 +2710,6 @@ contentType="en"
 contentType="fr"
 >Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancées" de la boîte de dialogue des paramètres de langue..</p
 ></framedUnit
-><p
-contentType="fr"
->Type de projet</p
 ></section1
 ><section1
 id="sCPType"
@@ -2820,7 +2721,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Type de projet</object
 ></secTitle
 ><ul
 ><li
@@ -2853,9 +2754,6 @@ contentType="en"
 contentType="fr"
 >S'il s'agit d'une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</p
 ></framedUnit
-><p
-contentType="fr"
->Inscrire le nouveau projet.</p
 ></section1
 ><section1
 id="sCPRegNewProj"
@@ -2867,7 +2765,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Inscrire le nouveau projet</object
 ></secTitle
 ><ul
 ><li
@@ -2899,7 +2797,7 @@ contentType="en"
 >Click <object
 type="tmenu"
 >Register </object
->to submit.<br
+>to submit and return to Paratext.<br
 ></br
 ><object
 type="tItalic"
@@ -2910,7 +2808,12 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Register</object
-> (Inscrire) pour soumettre.</li
+> (Inscrire) pour soumettre et retournez à Paratext.<br
+></br
+><object
+type="tItalic"
+>Paratext doit "automagiquement" détecter que le projet est inscrit.</object
+></li
 ><li
 contentType="en"
 >Click <object
@@ -2919,18 +2822,30 @@ type="tmenu"
 > to create the new project.</li
 ><li
 contentType="fr"
->Retournez à Paratext. <br
-></br
-><object
-type="tItalic"
->Paratext devrait détecter que le projet est maintenant enregistré,</object
-></li
-><li
-contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
 > pour créer le nouveau projet.</li
+></ul
+><p
+contentType="en"
+>The types of projects that do not need to be registred separately:</p
+><ul
+><li
+contentType="en"
+>Projects that inherit their inscription from the parent project.</li
+><li
+contentType="en"
+>Back translations</li
+><li
+contentType="en"
+>Transliterations</li
+><li
+contentType="en"
+>Auxiliary</li
+><li
+contentType="en"
+>Consultant notes.</li
 ></ul
 ><p
 contentType="fr"
@@ -2963,20 +2878,33 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Modifier votre inscription</object
 ></secTitle
 ><p
 contentType="en"
 >As you work in your project, you can change your registration information later on.</p
+><p
+contentType="fr"
+>Lorsque vous travaillez dans votre projet, vous pouvez modifier vos informations d'inscription plus tard.</p
 ><ul
 ><li
 contentType="en"
 >From Paratext, make sure you are connected to the Internet,</li
 ><li
+contentType="fr"
+>Dans Paratext, vérifiez que vous avez une connexion Internet,</li
+><li
 contentType="en"
 ><object
 type="tmenu"
 >Project &gt; Project Properties and settings</object
+></li
+><li
+contentType="fr"
+><object
+contentType="fr"
+type="tmenu"
+>Projet&gt;Propriétés et paramètres de projet</object
 ></li
 ><li
 contentType="en"
@@ -2988,6 +2916,19 @@ type="tmenu"
 ><object
 type="tItalic"
 >This will bring up the project registration info and you can edit it. Any project administrator can edit the registration info.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur<object
+contentType="fr"
+type="tmenu"
+>Manage registration link</object
+><br
+></br
+><object
+contentType="fr"
+type="tItalic"
+>L'information de votre inscription s'affiche. Un administrateur peut modifier l'information.</object
 ></li
 ></ul
 ></section1
@@ -3078,21 +3019,21 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***Missing</object
+>Qu’est-ce qu’on va faire ?</object
 ></p
 ><ul
 ><li
 contentType="en"
->Download resources from the Internet</li
+>Download resources from the Internet.</li
 ><li
 contentType="fr"
 >Télécharger des ressources.</li
 ><li
 contentType="en"
->Install resources from a file.</li
+>Install resources from a downloaded file.</li
 ><li
 contentType="fr"
->***</li
+>Installer des ressources des fichiers déjà téléchargés.</li
 ></ul
 ></section2
 ></section1
@@ -3122,6 +3063,12 @@ type="tmenu"
 ><object
 type="tItalic"
 >A dialogue box is displayed</object
+><br
+></br
+><img
+src="supimgeng\image19.png"
+width="2in"
+></img
 ></li
 ><li
 contentType="fr"
@@ -3136,17 +3083,16 @@ type="tmenu"
 ><object
 type="tItalic"
 >Une boîte de dialogue s’affiche.</object
+><br
+></br
+><img
+src="supimgfr\image24.png"
+width="5in"
+></img
+><br
+></br
 ></li
 ></ul
-><p
-contentType="dn"
->French Screen Shot</p
-><p
-contentType="en"
-><img
-src="supimgeng\image19.png"
-></img
-></p
 ><ul
 ><li
 contentType="en"
@@ -3264,24 +3210,6 @@ type="tmenu"
 >Download/Install</object
 ></li
 ></ul
-><p
-contentType="fr"
->SLT : Les outils de langues sources</p
-><p
-contentType="fr"
->Dans Paratext 8.0 (et versions ultérieures), toutes les ressources du langage source sur le site web de Paratext (http://paratext.org/) seront installées automatiquement. En attendant, on peut copier les fichiers.</p
-><p
-contentType="fr"
->ATTENTION : Veuillez noter que ce processus est un contournement temporaire jusqu’à ce que le processus d’installation officiel soit finalisé. Rappelez que dans Paratext 8.1 nous aurons “MARBLE” au lieu de la plus simple SLT.</p
-><p
-contentType="fr"
->1. Fermez Paratext 8 puis copiez les fichiers de la clé USB.</p
-><p
-contentType="fr"
->2. Collez les fichiers au dossier ..\My Paratext 8 Projects\_Resources</p
-><p
-contentType="fr"
->3. Redémarrez Paratext et vous trouverez que les outils de langue source sont maintenant disponibles comme en Paratext 7.</p
 ></section1
 ></chapter
 ><chapter
@@ -3315,6 +3243,9 @@ type="tPT"
 ></object
 > that will impact the day-to-day work of translation teams.</p
 ><p
+contentType="fr"
+>Suivre le progrès basé sur un plan du projet est une fonctionnalité nouvelle qui sera un impact sur le travail quotidien des équipes de la traduction.</p
+><p
 contentType="en"
 ><object
 type="tItalic"
@@ -3324,11 +3255,14 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***</object
+>Où en sommes-nous</object
 ></p
 ><p
 contentType="en"
 >Before you can add the plan the project must have been created/or migrated.</p
+><p
+contentType="fr"
+>Avant d’ajouter le plan, le projet doit avoir été créé ou migré.</p
 ><p
 contentType="en"
 ><object
@@ -3342,6 +3276,15 @@ type="tItalic"
 >Pourquoi cette aptitude est-elle importante ?</object
 ></p
 ><p
+contentType="en"
+>The Project Plan feature allows the administrator to define a set of translation tasks that your translation project will follow. Paratext comes with sets of pre-defined plans from the various Bible translation organisations that you can use a starting point. However, every project is different and therefore after adding the base plan it will need to be modified for the team.</p
+><p
+contentType="en"
+>Typically, organizations want conformity at the “Stage” level in order to facilitate meaningful tracking of the progress of project across the entire organization. However, every plan will need to be customized at the task level.</p
+><p
+contentType="en"
+>If a task is important to you and your team and you want to track its progress, then it can be included in the project plan (even if it doesn't require Paratext to do the task).</p
+><p
 contentType="fr"
 >La configuration d’un plan de projet à partir de zéro est intimidante. Diverses organisations de traduction de la Bible (UBS, SIL et The Seed Company) incluront des plans “de base” qui peuvent être appliqués à des projets. Les équipes ne doivent que personnaliser ces plans dans les limites fixées par leurs organisations de parrainage. En générale, les organisations veulent la conformité au niveau de l’« étape » afin de faciliter un suivi de l’avancement du projet dans l’ensemble de l’organisation. Cependant, chaque plan devra être personnalisé au niveau des tâches.</p
 ><p
@@ -3352,15 +3295,6 @@ contentType="fr"
 >Il y a beaucoup de tâches à faire dans un projet de traduction. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet). Bien que les organisations aient un plan de base, chaque projet est différent et, par conséquent, après avoir ajouté le plan de base, il doit être modifié pour l’équipe et diverses tâches affectées aux membres de l’équipe.</p
 ><p
 contentType="en"
->The Project Plan feature allows the administrator to define a set of translation tasks that your translation project will follow. Paratext comes with sets of pre-defined plans from the various Bible translation organisations that you can use a starting point. However, every project is different and therefore after adding the base plan it will need to be modified for the team.</p
-><p
-contentType="en"
->Typically, organizations want conformity at the “Stage” level in order to facilitate meaningful tracking of the progress of project across the entire organization. However, every plan will need to be customized at the task level.</p
-><p
-contentType="en"
->If a task is important to you and your team and you want to track its progress, then it can be included in the project plan (even if it doesn't require Paratext to do the task).</p
-><p
-contentType="en"
 ><object
 type="tItalic"
 >What are you going to do?</object
@@ -3369,7 +3303,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***</object
+>Qu’est-ce qu’on va faire ?</object
 ></p
 ><p
 contentType="en"
@@ -3387,7 +3321,16 @@ contentType="en"
 ></ul
 ><p
 contentType="fr"
->Vous ajoutez le plan de base de l’organisation au projet et personnalisez le plan pour l’équipe. Vous affectez ensuite les tâches aux différents membres de l’équipe.</p
+>On utilise un combinaison de deux fonctionalities: le plan du projet et les affectations pour gerer le plan.</p
+><ul
+contentType="fr"
+><li
+>On ajoute le plan de base de l’organisation au projet</li
+><li
+>On personnalise le plan pour l’équipe.</li
+><li
+>On affect ensuite les tâches aux différents membres de l’équipe.</li
+></ul
 ></section1
 ><section1
 id="sPP1AddPlan"
@@ -3421,8 +3364,24 @@ type="tmenu"
 >&gt; Project plan settings</object
 ></li
 ><li
+contentType="fr"
+><object
+type="tmenu"
+>Projet</object
+> &gt; <object
+contentType="fr"
+type="tmenu"
+>Paramètres de l'état d'avancement du projet</object
+></li
+><li
 contentType="en"
 >Click <object
+type="tmenu"
+>Manage plans</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
 type="tmenu"
 >Manage plans</object
 ></li
@@ -3439,10 +3398,15 @@ src="supimgeng\image20.png"
 ></li
 ><li
 contentType="fr"
->Cliquez sur Afficher le plan de base (<object
+>Cliquez dessous (Afficher le plan de base) (<object
 type="tmenu"
 >Show base plan</object
->)</li
+>)<br
+></br
+><img
+src="supimgfr\image25.png"
+></img
+></li
 ><li
 contentType="en"
 >Choose your organisational base plan</li
@@ -3462,10 +3426,15 @@ src="supimgeng\image21.png"
 ></li
 ><li
 contentType="fr"
->Cliquez sur la flèche Copier le plan (<object
+>Cliquez sur la flèche (Copier le plan) (<object
 type="tmenu"
 >Copy Plan</object
->).</li
+>).<br
+></br
+><img
+src="supimgfr\image26.png"
+></img
+></li
 ><li
 contentType="en"
 >Click <object
@@ -3489,9 +3458,6 @@ type="tItalic"
 >Le plan et ses tâches sont ajoutés au projet.</object
 ></li
 ></ul
-><p
-contentType="fr"
->Supprimer le plan existant (avant d’ajouter un autre)</p
 ></section1
 ><section1
 id="sPP1RemPlan"
@@ -3503,7 +3469,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Supprimer le plan existant (avant d’ajouter un autre)</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3535,7 +3501,11 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cliquez sur Gérer les plans (Manage plans)]</li
+>Cliquez sur (Gérer les plans) <object
+contentType="fr"
+type="tmenu"
+>Manage plans</object
+>]</li
 ><li
 contentType="en"
 >Click on the last stage<br
@@ -3546,24 +3516,26 @@ src="supimgeng\image22.png"
 ></li
 ><li
 contentType="fr"
->Cliquez sur la dernière étape</li
+>Cliquez sur la dernière étape<br
+></br
+><img
+src="supimgfr\image27.png"
+></img
+></li
 ></ul
 ><ul
 ><li
 contentType="en"
->***Click the X to remove the stage</li
+>Click the X to remove the stage</li
 ><li
 contentType="fr"
->***Cliquez sur <object
-type="tmenu"
->Delete stage</object
-> pour supprimer l’étage</li
+>Cliquez sur X pour suprimmer l'étage.</li
 ><li
 contentType="en"
->Confirm you want to modify the plan.</li
+>Click Yes (twice) once to confirm you want to modify the plan, and again to confirm you want to delete the tasks in the stage.</li
 ><li
-contentType="en"
->Confirm you want to delete the stage.</li
+contentType="fr"
+>Cliquez sur Yes (deux fois) pour confirmer vous voulez modifier le plan et encore pour confirmer vous voulez suprimer les tâches.</li
 ><li
 contentType="en"
 >Repeat for remaining stages</li
@@ -3588,7 +3560,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Configurer — ajouter des vérifications à une étape</object
 ></secTitle
 ><ul
 ><li
@@ -3601,16 +3573,45 @@ type="tmenu"
 >Project plan</object
 ></li
 ><li
+contentType="fr"
+>Dans le <object
+type="tmenu"
+>Projet</object
+>, chosissez <object
+contentType="fr"
+type="tmenu"
+>Paramètres de l'état d'avancement du projet</object
+></li
+><li
 contentType="en"
 >Click on the <object
 type="tmenu"
 >Checks</object
 > tab<br
 ></br
+></li
+></ul
+><p
+contentType="en"
 ><img
 src="supimgeng\image23.png"
 ></img
-></li
+></p
+><ul
+><li
+contentType="fr"
+>Cliquez sur l'onglet <object
+type="tmenu"
+>Checks</object
+> tab</li
+></ul
+><p
+contentType="fr"
+><img
+src="supimgfr\image36.png"
+></img
+></p
+><ul
 ><li
 contentType="en"
 >For the desired check, drop down the list<br
@@ -3620,8 +3621,19 @@ src="supimgeng\image24.png"
 ></img
 ></li
 ><li
+contentType="fr"
+>For the desired check, drop down the list<br
+></br
+><img
+src="supimgeng\image24.png"
+></img
+></li
+><li
 contentType="en"
 >Choose the new stage or *none*</li
+><li
+contentType="fr"
+>Choisissez l'étape ou *None*</li
 ></ul
 ></section1
 ><section1
@@ -3699,9 +3711,6 @@ type="tItalic"
 >Vous pouvez recevoir un message de confirmation si la tâche change d’étape.</object
 ></li
 ><li
-contentType="fr"
-></li
-><li
 contentType="en"
 >Click <object
 type="tmenu"
@@ -3730,7 +3739,10 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Click on the task quick is above the new task.</li
+>Click on the task which is above the new task.</li
+><li
+contentType="fr"
+>Cliquez sur la tâche qui sera au-dessus la nouvelle tâche.</li
 ><li
 contentType="en"
 >Click on the <object
@@ -3739,25 +3751,24 @@ type="tmenu"
 >Add task</object
 ></li
 ><li
->Type the name for the task and a description.</li
-><li
->Click <object
-contentType="en"
-type="tmenu"
->OK</object
-></li
-><li
-contentType="fr"
->Cliquez sur la tâche qui sera au-dessus la nouvelle tâche.</li
-><li
 contentType="fr"
 >Cliquez sur le bouton <object
 type="tmenu"
 >Add task</object
 > (ajouter une tâche)</li
 ><li
+contentType="en"
+>Type the name for the task and a description.</li
+><li
 contentType="fr"
 >Tapez un nom pour la tâche puis une description.</li
+><li
+contentType="en"
+>Click <object
+contentType="en"
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -3786,13 +3797,21 @@ type="tmenu"
 >Stage</object
 >/Tasks tab</li
 ><li
+contentType="fr"
+>Cliquez sur l’onglet Étape/Tâches</li
+><li
 contentType="en"
 >Click on the task to delete<br
 ></br
+></li
+></ul
+><p
+contentType="en"
 ><img
 src="supimgeng\image25.png"
 ></img
-></li
+></p
+><ul
 ><li
 contentType="fr"
 >Cliquez sur la tâche à supprimer</li
@@ -3804,13 +3823,19 @@ type="tmenu"
 > button</li
 ><li
 contentType="fr"
->Cliquez sur le bouton ***supprimer la tâche (<object
+>Cliquez sur le bouton (supprimer la tâche) (<object
 type="tmenu"
 >Remove task</object
 >)</li
 ><li
 contentType="en"
 >Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
 type="tmenu"
 >OK</object
 >.</li
@@ -3939,13 +3964,19 @@ type="tmenu"
 >)</li
 ><li
 contentType="en"
->For the task to assign, click to dropdown the menu</li
+>For the task to assign, click to dropdown the menu and choose the team member to assign<br
+></br
+><img
+src="supimgeng\image26.png"
+></img
+><br
+></br
+></li
 ><li
 contentType="fr"
->Cliquez la liste roulante pour la tâche et choisissez qui doit faire la tâche (un membre ou l’équipe)</li
-><li
-contentType="en"
->Choose the team member to assign<img
+>Cliquez la liste roulante pour la tâche et choisissez qui doit faire la tâche (un membre ou l’équipe)<br
+></br
+><img
 src="supimgeng\image26.png"
 ></img
 ><br
@@ -4013,7 +4044,7 @@ contentType="en"
 >Choose the books that you want to track progress.</li
 ><li
 contentType="fr"
->Choisissez les livres.</li
+>Choisissez les livres voulés.</li
 ><li
 contentType="en"
 >Click <object
@@ -4215,12 +4246,21 @@ contentType="en"
 >For projects that have already completed a number of stages at the time of switching to <object
 type="tPT"
 ></object
-> the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, complete.</p
+> the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, as complete.</p
+><p
+contentType="fr"
+>Pour les projets qui ont déjà complété plusieurs étapes au moment de passer à <object
+type="tPT"
+></object
+> la vue de la ""table des tâches/Tasks table" et / ou la vue de la table des " affectations et des progrès (Assignments and Progress)" peuvent être utiles pour marquer plusieurs livres, étapes ou tâches, comme complété.achevé.</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
 >Click on your project.</li
+><li
+contentType="fr"
+>Cliquez dans votre projet.</li
 ><li
 contentType="en"
 >From the <object
@@ -4231,13 +4271,34 @@ type="tmenu"
 >Assignments and Progress</object
 >.</li
 ><li
+contentType="fr"
+>Dans le menu <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Assignments and Progress</object
+>.</li
+><li
 contentType="en"
->Choose Stages table view.<br
-></br
+>Choose Stages table view.</li
+></ul
+><p
 ><img
 src="supimgeng\image27.png"
 ></img
-></li
+></p
+><ul
+><li
+contentType="fr"
+>Choisissez "Stages table" .</li
+></ul
+><p
+><img
+src="supimgeng\image27.png"
+></img
+></p
+><ul
 ><li
 contentType="en"
 >Check the box for the stages of each book as appropriate.<br
@@ -4245,6 +4306,14 @@ contentType="en"
 ><object
 type="tItalic"
 >The stage will be marked as complete unless errors have been found. The errors must be corrected before the stage can be marked as completed.</object
+></li
+><li
+contentType="fr"
+>Cochez les cases pour les étapes de chaque livre comme désiré.<br
+></br
+><object
+type="tItalic"
+>L'étape sera marquée comme complète à moins que des erreurs n'aient été trouvées. Les erreurs doivent être corrigées avant que l'étape ne puisse être marqué comme complété.</object
 ></li
 ></ul
 ><framedUnit
@@ -4255,6 +4324,12 @@ contentType="en"
 type="tPT"
 ></object
 > will likely find errors for most older projects since new checks have been added.</p
+><p
+contentType="fr"
+><object
+type="tPT"
+></object
+> trouvera probablement des erreurs pour la plupart des projets plus anciens, car de nouveaux contrôles ont été ajoutés.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -4531,7 +4606,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
-></object
+>Où en sommes-nous ? </object
 ></p
 ><p
 contentType="en"
@@ -4549,14 +4624,14 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***Missing</object
+>Pourquoi cette aptitude est-elle importante ? </object
 ></p
 ><p
 contentType="en"
 >Although, it is possible to make some changes to existing projects through the project and setting dialogs, several major changes require that a new project is created. Using the convert project dialog allows the new project to keep the project history.</p
 ><p
 contentType="fr"
->***Il n’est que possible d’apporter quelques modifications au projet dans le propriétés et paramètres du projet. Ces changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil convertir projet permet le nouveau projet de garder l’historique du projet.</p
+>Il n’est que possible d’apporter quelques modifications au projet dans le propriétés et paramètres du projet. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil convertir projet permet le nouveau projet de garder l’historique du projet.</p
 ><p
 contentType="en"
 ><object
@@ -4567,7 +4642,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***Missing</object
+>Qu’est-ce qu’on va faire ? </object
 ></p
 ><p
 contentType="en"
@@ -4613,9 +4688,6 @@ contentType="en"
 contentType="fr"
 >Remplacement de vieux noms d’utilisateur <br
 ></br
-><object
-type="tItalic"
-></object
 ></li
 ></ul
 ></section1
@@ -4643,16 +4715,34 @@ type="tmenu"
 >, then <object
 type="tmenu"
 >Convert Project</object
-><br
-></br
+></li
+></ul
+><p
+contentType="en"
 ><img
 src="supimgeng\image28.png"
 ></img
-></li
+></p
+><ul
 ><li
 contentType="fr"
->Dans le menu Outils, choisissez Avancé, puis de Convert project</li
+>Dans le menu <object
+type="tmenu"
+>Outils</object
+>, choisissez <object
+type="tmenu"
+>Avancé</object
+>, puis <object
+type="tmenu"
+>Convert project</object
+></li
 ></ul
+><p
+contentType="fr"
+><img
+src="supimgfr\image39.png"
+></img
+></p
 ></section1
 ><section1
 id="sCVShortName"
@@ -4751,15 +4841,18 @@ type="tmenu"
 ><p
 contentType="fr"
 >[4] Sélectionnez cette option pour convertir un projet standard d’encodage Unicode.</p
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 ><img
 src="supimgeng\image29.png"
 ></img
->NOTE: This will not work to change the encoding if your project has a "hacked font".</p
+> NOTE: This will not work to change the encoding if your project has a "hacked font".</p
 ><p
 contentType="fr"
 >N.B. : Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composé ou décomposée.</p
+></framedUnit
 ></section1
 ><section1
 id="sCVNorm"
@@ -4781,7 +4874,10 @@ type="tmenu"
 >Select Composed (NFC) or one of the options in the drop-down list if the data in your project was created using a mix of composed and decomposed characters. (See the Guide for more details).</p
 ><p
 contentType="fr"
->[5] sélectionnez Composé [NFC] ou une des options dans la liste déroulante, si les données dans votre projet a un mélange de composé et décomposé caractères..</p
+><object
+type="tmenu"
+>[5]</object
+> sélectionnez Composé [NFC] ou une des options dans la liste déroulante, si les données dans votre projet a un mélange de composé et décomposé caractères..</p
 ></section1
 ><section1
 id="sCVVanity"
@@ -4804,7 +4900,10 @@ type="tmenu"
 >Select the name of the user you want to replace from the drop-down list.</li
 ><li
 contentType="fr"
->[6] sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.</li
+><object
+type="tmenu"
+>[6]</object
+> sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.</li
 ><li
 contentType="en"
 ><object
@@ -4813,7 +4912,10 @@ type="tmenu"
 >Enter the name of a registered Paratext user in this box.</li
 ><li
 contentType="fr"
->[7] tapez le nom d’un utilisateur inscrit de Paratext dans ce cas.</li
+><object
+type="tmenu"
+>[7]</object
+> tapez le nom d’un utilisateur inscrit de Paratext dans ce cas.</li
 ><li
 contentType="en"
 ><object
@@ -4821,22 +4923,29 @@ type="tmenu"
 >[8] </object
 >Add, a summary of the replacement appears, with a "Remove" button.<br
 ></br
+><img
+src="supimgeng\image30.png"
+></img
+><br
+></br
 ></li
 ><li
 contentType="fr"
 >[8] Cliquez sur Add, un résumé du remplacement s’affiche avec un bouton <object
 type="tmenu"
 >Remove</object
-> « Supprimer ».</li
-><li
-contentType="en"
+> « Supprimer ».<br
+></br
 ><img
 src="supimgeng\image30.png"
 ></img
 ></li
 ><li
 contentType="en"
->(Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)(Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)</li
+>(Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)</li
+><li
+contentType="fr"
+>[Si vous fait une erreur en tapant le nom dans le champ With « Avec » OU vous décidez de ne pas faire le remplacement, puis cliquez sur Remove (supprimer)].</li
 ></ul
 ></section1
 ><section1
@@ -4868,7 +4977,15 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->[9] Cliquez sur OK pour convertir le projet.</li
+><object
+type="tmenu"
+>[9]</object
+> Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour convertir le projet.<br
+></br
+>Voir la remarque dans le guide au sujet des projets partagés.</li
 ></ul
 ></section1
 ></chapter
@@ -4882,7 +4999,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->CR</object
+>RE : Renvois</object
 ></secTitle
 ><section1
 id="sCRIntroduction"
@@ -4900,6 +5017,9 @@ type="t-fr"
 contentType="en"
 >Most languages do not have access to concordances and other Bible study materials in their own languages. Adding cross references to your New Testament can greatly help your reader understand the text by helping your reader find passages on similar themes.</p
 ><p
+contentType="fr"
+>La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des références croisées à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en aidant votre lecteur à trouver des passages sur des thèmes similaires.</p
+><p
 contentType="en"
 ><object
 type="tItalic"
@@ -4909,11 +5029,14 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
-></object
+>Où en sommes-nous ? </object
 ></p
 ><p
 contentType="en"
 >Before you can insert cross references from a model text your administrator must have created all the books (and chapters and verses) in your project. They can be empty but they must be present.</p
+><p
+contentType="fr"
+>Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.</p
 ><p
 contentType="en"
 ><object
@@ -4924,11 +5047,14 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***Missing</object
+>Pourquoi cette aptitude est-elle importante ? </object
 ></p
 ><p
 contentType="en"
 >Reading the New Testament is not like reading a novel. Having access to cross references allows your reader to find similar passages on the themes. But adding cross references one by one is too tedious. The insert cross reference feature allows you to insert all the cross references at once and also converts the book names and punctuation to match your scripture reference settings. Extracting cross-references from a model text allows you to easily insert the same cross-references.</p
+><p
+contentType="fr"
+>Lire le Nouveau Testament n’est pas comme la lecture d’un roman. Avoir accès à traverser références permet à votre lecteur de trouver des passages similaires sur les thèmes. Mais l’ajout de références croisées un est trop fastidieux. L’insert de croix caractéristique de référence vous permet d’insérer toutes la Croix fait référence à la fois et convertit également les noms de livre et de la ponctuation pour correspondre à vos paramètres de référence de l’écriture.</p
 ><p
 contentType="en"
 ><object
@@ -4939,7 +5065,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->***Missing</object
+>Qu’est-ce qu’on va faire ? </object
 ></p
 ><p
 contentType="en"
@@ -4947,6 +5073,9 @@ contentType="en"
 ><p
 contentType="en"
 >If you don't have a model text with the desired cross-reference, you can create your own list and import it.</p
+><p
+contentType="fr"
+>Nous allons faire trois choses : exporter les renvois à partir d’un modèle de texte ; Assurez-vous que tous les paramètres des noms des livres et des références bibliques ont été saisis pour votre projet ; et enfin insérer les références croisées.</p
 ></section1
 ><section1
 id="sCRExtract"
@@ -4965,10 +5094,13 @@ type="t-fr"
 contentType="en"
 >Open the model text.</li
 ><li
+contentType="fr"
+>Ouvrir le projet du modele.</li
+><li
 contentType="en"
 >From the <object
 type="tmenu"
->Insert</object
+>Tools</object
 > menu, choose <object
 type="tmenu"
 >Cross references</object
@@ -4977,11 +5109,26 @@ type="tmenu"
 >Extract cross references</object
 ></li
 ><li
-contentType="en"
->Type a filename</li
+contentType="fr"
+>Dans le menu <object
+type="tmenu"
+>Outils</object
+>, choisissez <object
+type="tmenu"
+>Renvois</object
+> puis <object
+type="tmenu"
+>Extraire les renvois</object
+></li
 ><li
 contentType="en"
->Cliquez sur <object
+>Type a file name</li
+><li
+contentType="fr"
+>Saisissez un nom du fichier</li
+><li
+contentType="en"
+>Click <object
 type="tmenu"
 >OK.</object
 ><br
@@ -4989,6 +5136,17 @@ type="tmenu"
 ><object
 type="tItalic"
 >Note: Resource texts may not allow you to extract cross references.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK.</object
+><br
+></br
+><object
+type="tItalic"
+>N.B.: Les ressources ne vous permettent pas d'extraire les renvois.</object
 ></li
 ></ul
 ></section1
@@ -5002,7 +5160,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
-></object
+>Vérifier les paramètres des références bibliques</object
 ></secTitle
 ><ul
 ><li
@@ -5015,24 +5173,48 @@ type="tmenu"
 >Scripture Reference Settings</object
 >.</li
 ><li
+contentType="fr"
+>Dans le menu <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Paramètres des références bibliques</object
+>.</li
+><li
 contentType="en"
 >Verify that the following have been correctly defined for your project (edit them if necessary):</li
+><li
+contentType="fr"
+>Vérifiez que les éléments suivants ont été correctement définis pour votre projet (modifiez-les si nécessaire):</li
 ><li
 contentType="en"
 >The punctuation on the Reference Format tab.</li
 ><li
+contentType="fr"
+>Le ponctuation dans l'onglet Reference Format.</li
+><li
 contentType="en"
 >The book abbreviations on the Book Names tab.</li
+><li
+contentType="fr"
+>Les abréviations des livres dans l'onglet Noms du livre.</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >OK.</object
 ></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK.</object
+></li
 ></ul
 ></section1
 ><section1
-id="sCRLang"
+id="sRLang"
 ><secTitle
 ><object
 contentType="en"
@@ -5054,11 +5236,26 @@ type="tmenu"
 >Language Settings</object
 > …</li
 ><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Projet</object
+>, sélectionnez <object
+type="tmenu"
+>Paramètres de langue...</object
+></li
+><li
 contentType="en"
 >Click the <object
 type="tmenu"
 >Other Characters</object
 > tab.</li
+><li
+contentType="fr"
+>Cliquez l'onglet <object
+type="tmenu"
+>Autres caractères</object
+>.</li
 ><li
 contentType="en"
 >In the <object
@@ -5066,8 +5263,20 @@ type="tmenu"
 >Verse segment characters</object
 > box, enter at least six different characters separated by spaces.</li
 ><li
+contentType="fr"
+>Dans le champ <object
+type="tmenu"
+>Segments de Versets</object
+>, saissesez au moins six caractères uniques serparé par des éspaces.</li
+><li
 contentType="en"
 >Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquer sur <object
 type="tmenu"
 >OK</object
 >.</li
@@ -5099,14 +5308,41 @@ type="tmenu"
 >Insert Cross References</object
 >.</li
 ><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Outils</object
+>, choisissez <object
+type="tmenu"
+>Renvois</object
+>, puis <object
+type="tmenu"
+>Insérer les renvois</object
+>.</li
+><li
 contentType="en"
 >Click <object
 type="tmenu"
 >Browse</object
 >....</li
 ><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Browse...</object
+>.</li
+><li
 contentType="en"
->Find the .xrf file of extracted cross references.</li
+>Find the <object
+type="ttyped"
+>.xrf</object
+> file of extracted cross references.</li
+><li
+contentType="fr"
+>Naviguez vers le fichier <object
+type="ttyped"
+>.xrf</object
+> contenant des renvois extraits.</li
 ><li
 contentType="en"
 >Select the file, and click <object
@@ -5114,19 +5350,26 @@ type="tmenu"
 >Open</object
 >.</li
 ><li
-contentType="en"
->If desired, select one or more of the options:</li
-></ul
-><p
 contentType="fr"
+>Sélectionnez le ficher, puis cliquer sur <object
+type="tmenu"
+>Open</object
+>.</li
+><li
+contentType="en"
+>If desired, select one or more of the options:<br
+></br
+>(see the guide for more info)</li
+><li
+contentType="fr"
+>Si vous le désirez, sélectionnez une des cases à cocher.<br
+></br
 ><img
 src="supimgeng\image31.png"
 ></img
-></p
-><p
-contentType="en"
->(see the guide for more info)</p
-><ul
+><br
+></br
+>(Voir le guide pour d'autres informations.)</li
 ><li
 contentType="en"
 >Click <object
@@ -5138,132 +5381,20 @@ type="tmenu"
 type="tItalic"
 >If the Copyright box displays a copyright notice or required statement of acknowledgments, copy the text, and then paste it wherever you keep this kind of information for the project.</object
 ></li
-></ul
-></section1
-><section1
-id="sCRXrf"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Make your own xrf file</object
-><object
+><li
 contentType="fr"
-type="t-fr"
-></object
-></secTitle
-><ul
-><li
-contentType="en"
->Create a new text file</li
-><li
-contentType="en"
->Copy the first few lines from an existing cross reference xrf file.</li
-></ul
-><p
-contentType="en"
->Copyright = …<br
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+><br
 ></br
->Model=GNT92<br
-></br
->Versification=English<br
-></br
->VerseSegmentCount=6</p
-><ul
-><li
-contentType="en"
->Add a list of references where the first is the verse to put in the cross reference and then second is the cross reference.</li
+><object
+type="tItalic"
+>Si une boite de dialoque s'affiche contenant des droits d'auteurs ou d'autres informations, copiez les infos vers l'endroit appropriez de votre projet.</object
+></li
 ></ul
-><p
-contentType="en"
->MAT.1:23 {ISA.7:14}</p
-><p
-contentType="en"
->MAT.26:64 {DAN.7:13; PSA.110:1}</p
 ><ul
-><li
-contentType="en"
->Save the file in the cross reference folder.</li
 ></ul
-><p
-contentType="en"
->Insert the cross references – ParaTExt will fail if there are any errors.</p
-></section1
-></chapter
-><chapter
-contentType="dn"
-id="sTemplate"
-><secTitle
-><object
-contentType="en"
-type="t-en"
-></object
-><object
-contentType="fr"
-type="t-fr"
-></object
-></secTitle
-><section1
-id="sIntroduction"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Introduction</object
-><object
-contentType="fr"
-type="t-fr"
-></object
-></secTitle
-><p
-contentType="en"
-><object
-type="tItalic"
->Where We are</object
-></p
-><p
-contentType="fr"
-><object
-type="tItalic"
->***Missing</object
-></p
-><p
-contentType="en"
-><object
-type="tItalic"
->Why is this Important</object
-></p
-><p
-contentType="fr"
-><object
-type="tItalic"
->***Missing</object
-></p
-><p
-contentType="en"
-><object
-type="tItalic"
->What are you going to do?</object
-></p
-><p
-contentType="fr"
-><object
-type="tItalic"
->***Missing</object
-></p
-></section1
-><section1
-id="sSummary"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Summary</object
-><object
-contentType="fr"
-type="t-fr"
-></object
-></secTitle
 ></section1
 ></chapter
 ><backMatter
@@ -5302,6 +5433,15 @@ id="len"
 ><types
 ><comment
 >The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+XeLaTeXSpecial="underline"
+color="#0033cc"
+cssSpecial="text-decoration:underline"
+font-style="normal"
+font-weight="normal"
+id="tlink"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
 ><type
 font-style="italic"
 id="italic"
@@ -5419,6 +5559,10 @@ font-style="italic"
 font-weight="bold"
 id="tsub"
 ></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
 ><comment
 >Add your custom types here.</comment
 ></types
@@ -5427,14 +5571,14 @@ id="tsub"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
-indent-after=".125in"
-indent-before=".125in"
+indent-after="2cm"
+indent-before="2cm"
 innerbottommargin=".03in"
 innerleftmargin=".125in"
 innerrightmargin=".125in"
 innertopmargin=".03in"
-spaceafter=".0in"
-spacebefore=".0in"
+spaceafter="3pt"
+spacebefore="3pt"
 ></framedType
 ></framedTypes
 ><publishingInfo
