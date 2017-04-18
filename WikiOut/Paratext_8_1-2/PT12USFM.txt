@@ -1,25 +1,5 @@
-((PT8-Chad| <-- ))
+((PT8-Tchad| <-- ))
 
-!Common USFM Markers
+!
 
-\c chapter
-\v verse
-\p paragraph (small indent)
-\m same paragraph (return to the margin)
-\s1 section title
-\r parallel references
-\q1 quotation (poetry level 1)
-\q2 quotation (poetry level 2)
-\h header
-\mt1 main title
-\mt2 secondary title
-\k .... \k* keyword (in the glossary)
-\w ... \w* indicates a word in the glossary (in the text)
-Introductions
-\ip paragraph
-\is section heading
-\io1 outline 1
-\ili1 list level 1
-\ili2 list level 2
-
-((PT8-Chad| <-- ))
+((PT8-Tchad| <-- ))
