@@ -19,12 +19,12 @@ type="tPT"
 ><object
 contentType="fr"
 type="t-fr"
->Manuel de cours 1 &amp; 2 : (Français)</object
+>Manuel de cours : Étapes 1 &amp; 2 : (Français)</object
 ><object
 contentType="en"
 type="t-en"
 xml:lang="en"
->Course Manual 1 &amp; 2: (English)</object
+>Course Manual: Stages 1 &amp; 2: (English)</object
 ></subtitle
 ><author
 >Jenni Beadle</author
@@ -132,6 +132,7 @@ type="tPT"
 ></object
 > program using a desktop icon.</li
 ><li
+contentType="fr"
 >Lancer le programme <object
 type="tPT"
 ></object
@@ -139,10 +140,18 @@ type="tPT"
 ></ul
 ><p
 contentType="en"
->Stage 1 : Drafting</p
+><object
+contentType="en"
+type="italic"
+>Stage 1 : Drafting</object
+></p
 ><p
 contentType="fr"
->Étape 1 : Première ébauche </p
+><object
+contentType="fr"
+type="italic"
+>Étape 1 : Première ébauche </object
+></p
 ><pc
 contentType="en"
 ><object
@@ -587,6 +596,9 @@ contentType="fr"
 >Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, ajoutez à Anki.</li
 ></ul
 ><p
+contentType="dn"
+>***this needs to be a main heading of some sort!!</p
+><p
 contentType="en"
 >Stage 1 : Drafting</p
 ><p
@@ -746,24 +758,6 @@ type="tPT"
 ><p
 contentType="fr"
 >On va lancer le logiciel Paratext, puis ouvrir une disposition des fenêtres qu’est déjà enregistré. Si nécessaire vous pouvez modifier la disposition des fenêtres et réenregistrer la disposition.</p
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
-><pc
-contentType="fr"
-><object
-type="tsub"
->Résumé</object
-></pc
-><p
-contentType="en"
->This module shows you how to:</p
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="s4"
 ><secTitle
@@ -775,7 +769,7 @@ type="tPT"
 ></object
 > program</object
 ><object
-contentType="en"
+contentType="fr"
 type="t-fr"
 >Lancer le programme Paratext</object
 ></secTitle
@@ -835,16 +829,20 @@ type="tmenu"
 >  </li
 ><li
 contentType="en"
->Choose a saved text combination.</li
+>Choose a saved text combination.<br
+></br
+><object
+type="italic"
+>Your screen should look like the picture below (if not, see the following page).</object
+></li
 ><li
 contentType="fr"
->Choisissez une disposition des fenêtres qui est déjà enregistrée. </li
-><li
-contentType="en"
->Your screen should look like the picture below (if not, see the following page).</li
-><li
-contentType="fr"
->Votre écran doit ressemble à l’image ci-dessous (sinon, voir la page suivante). </li
+>Choisissez une disposition des fenêtres qui est déjà enregistrée. <br
+></br
+><object
+type="italic"
+>Votre écran doit ressemble à l’image ci-dessous (sinon, voir la page suivante). </object
+></li
 ></ul
 ><p
 contentType="en"
@@ -871,9 +869,8 @@ contentType="en"
 ><p
 contentType="fr"
 >Si vous n’avez pas encore enregistré une disposition de fenêtres, on vous suggère de faire comme ci-dessous</p
-></section1
-><section1
-id="s7"
+><section2
+id="sArrangeWindows"
 ><secTitle
 ><object
 contentType="en"
@@ -910,7 +907,10 @@ contentType="en"
 contentType="fr"
 >Ouvrez 5 fenêtres comme suit :</li
 ></ul
-><p
+><ul
+><li
+><ul
+><li
 contentType="en"
 >5 =your project <br
 ></br
@@ -918,32 +918,36 @@ contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
+contentType="en"
 type="tmenu"
 >Open project/resource</object
-></p
-><p
+></li
+><li
 contentType="fr"
 >5 = votre projet <br
 ></br
 >(<object
+contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
 >Ouvrir projet/ressource</object
-></p
-><p
+></li
+><li
 contentType="en"
 >1 = Renderings <br
 ></br
 >(<object
+contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
+contentType="en"
 type="tmenu"
 >Open Biblical Terms renderings</object
->)</p
-><p
+>)</li
+><li
 contentType="fr"
 >1 = équivalents <br
 ></br
@@ -953,8 +957,8 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Ouvrir les termes équivalents aux termes bibliques</object
->)</p
-><p
+>)</li
+><li
 contentType="en"
 >2 = Source text <br
 ></br
@@ -964,8 +968,8 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Open Source language text</object
->)</p
-><p
+>)</li
+><li
 contentType="fr"
 >2 = texte source <br
 ></br
@@ -975,51 +979,68 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Ouvrir le texte de langue source</object
->)</p
-><p
+>)</li
+><li
 contentType="en"
 >3 = Dictionary <br
 ></br
 >(<object
+contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
+contentType="en"
 type="tmenu"
->Open source language dictionary </object
->)</p
+>Open source language dictionary</object
+>)</li
+><li
 ><p
 contentType="fr"
 >3 = dictionnaire <br
 ></br
 >(<object
+contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
+contentType="fr"
 type="tmenu"
 >Ouvrir un dictionnaire de langue source</object
 >)</p
+></li
+><li
 ><p
 contentType="en"
 >4= Text collection <br
 ></br
 >(<object
+contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
+contentType="en"
 type="tmenu"
 >Open project/resource in Text Collection</object
 >)</p
+></li
+><li
 ><p
 contentType="fr"
 >4 = ressources en collection de textes <br
 ></br
 >(<object
+contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
+contentType="fr"
 type="tmenu"
 >Ouvrir projet/ressource en collection de textes</object
 >)</p
+></li
+></ul
+></li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -1028,9 +1049,9 @@ contentType="en"
 contentType="fr"
 >Arrangez les fenêtres comme vous le souhaitez</li
 ></ul
-></section1
-><section1
-id="s8"
+></section2
+><section2
+id="sSaveCombo"
 ><secTitle
 ><object
 contentType="en"
@@ -1089,6 +1110,7 @@ type="tmenu"
 >OK</object
 > </li
 ></ul
+></section2
 ></section1
 ><section1
 id="sDeleteTextColl"
@@ -1217,11 +1239,19 @@ contentType="fr"
 >Si nécessaire, changez l’ordre avec les boutons haut/bas </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
->Cliquez sur OK </li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> </li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 >You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.</p
@@ -1231,6 +1261,7 @@ contentType="fr"
 type="tPT"
 ></object
 > on peut changer l’affichage à aperçu/non-formaté/normale.</p
+></framedUnit
 ></section1
 ><section1
 id="sOpenDico"
@@ -1669,7 +1700,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Identifiez la prochaine tâche à faire. </object
+>Identifiez la prochaine tâche à faire</object
 ></secTitle
 ><p
 contentType="en"
@@ -1716,17 +1747,21 @@ contentType="en"
 type="t-en"
 >Mark a task as complete</object
 ><object
-contentType="en"
-type="t-en"
->Mark a book task as completed</object
+contentType="fr"
+type="t-fr"
+>Marquer une tâche comme achevé</object
 ></secTitle
 ><section2
 id="s18"
 ><secTitle
 ><object
+contentType="en"
+type="t-en"
+>Mark a book task as completed</object
+><object
 contentType="fr"
 type="t-fr"
->Marquer une tâche de livre comme terminée.</object
+>Marquer une tâche de livre comme terminée</object
 ></secTitle
 ><ul
 ><li
@@ -1736,6 +1771,11 @@ contentType="en"
 ><img
 src="12imgfr/image9.png"
 ></img
+><br
+></br
+><object
+type="italic"
+>It should turn solid to show it is completed.</object
 ></li
 ><li
 contentType="fr"
@@ -1746,20 +1786,12 @@ src="12imgfr/image9.png"
 ></img
 ><br
 ></br
+><object
+contentType="fr"
+type="italic"
+>Il devient plein pour montre qu’il est terminé.</object
 ></li
 ></ul
-><p
-contentType="en"
-><img
-src="12imgeng/image9.png"
-></img
-></p
-><p
-contentType="en"
->It should turn solid to show it is completed.</p
-><p
-contentType="fr"
->Il devient plein pour montre qu’il est terminé.</p
 ></section2
 ><section2
 id="sMarkComplete"
@@ -1776,38 +1808,39 @@ type="t-fr"
 ><ul
 ><li
 contentType="en"
->Click + to mark the next chapter as complete</li
-><li
-contentType="fr"
->Cliquez sur + pour marquer le prochain chapitre comme terminé</li
-></ul
-><p
-contentType="en"
+>Click + to mark the next chapter as complete<br
+></br
 ><img
 src="12imgeng/image10.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+>Cliquez sur + pour marquer le prochain chapitre comme terminé<br
+></br
+><img
+src="12imgeng/image10.png"
+></img
+></li
+></ul
 ><ul
 ><li
 contentType="en"
->To mark other chapters as complete you can click on the word Completed.</li
-><li
-contentType="fr"
->Cliquez à droite sur le mot « Completed »<br
+>To mark other chapters as complete you can click on the word Completed.<br
 ></br
-><img
-src="12imgfr/image10.png"
-></img
-> </li
-></ul
-><p
-contentType="en"
->A dialog box is displayed with a list of the chapters.<br
+><object
+type="italic"
+>A dialog box is displayed with a list of the chapters</object
+>.<br
 ></br
 ><img
 src="12imgeng/image11.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+>Cliquez à droite sur le mot « Completed »<br
+></br
 ><p
 contentType="fr"
 >Une boîte de dialogue s’affiche.<br
@@ -1816,6 +1849,13 @@ contentType="fr"
 src="12imgeng/image11.png"
 ></img
 ></p
+><br
+></br
+><img
+src="12imgfr/image10.png"
+></img
+></li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -2059,24 +2099,6 @@ contentType="en"
 ><p
 contentType="fr"
 >C’est la première étape de l’introduction de votre traduction dans l’ordinateur. Une fois que le texte a été saisi, vous pourrez exécuter divers contrôles sur le contenu et le format du texte.</p
-><pc
-contentType="en"
-><object
-type="tmenu"
->Summary</object
-></pc
-><pc
-contentType="fr"
-><object
-type="tmenu"
->Résumé</object
-></pc
-><p
-contentType="en"
->This module shows you how to:</p
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="sloadprog"
 ><secTitle
@@ -2102,7 +2124,7 @@ id="sGoToABiblicalVerse"
 ><object
 contentType="en"
 type="t-en"
->Go to a Biblical verse [◙ SD01]</object
+>Go to a Biblical verse</object
 ><object
 contentType="fr"
 type="t-fr"
@@ -2120,28 +2142,21 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Using the icons on the toolbar, change the project, book, chapter and verse as needed.</li
-><li
-contentType="fr"
->Utilisez la barre d’outils Référence pour changer le projet, le livre, le chapitre et le verset selon les besoins. </li
-></ul
-><p
-contentType="en"
-><object
-type="tsub"
->project book chapter verse</object
-></p
-><pc
-contentType="fr"
-><object
-type="tsub"
->projet  livre chapitre verset</object
-></pc
-><p
+>Using the icons on the toolbar, change the project, book, chapter and verse as needed.<br
+></br
 ><img
 src="12imgeng/image12.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+>Utilisez la barre d’outils Référence pour changer le projet, le livre, le chapitre et le verset selon les besoins. <br
+></br
+><img
+src="12imgfr\image12.png"
+></img
+></li
+></ul
 ></section1
 ><section1
 id="sCheckEditable"
@@ -2165,8 +2180,8 @@ src="12imgeng/image13.png"
 ></p
 ><p
 contentType="fr"
->Regardez la barre de titre de votre projet.</p
-><p
+>Regardez la barre de titre de votre projet.<br
+></br
 ><img
 src="12imgfr/image13.png"
 ></img
@@ -2198,7 +2213,7 @@ id="sChangingTheView"
 ><object
 contentType="en"
 type="t-en"
->Changing the view [◙ SD02]</object
+>Changing the view</object
 ><object
 contentType="fr"
 type="t-fr"
@@ -2325,11 +2340,11 @@ id="sAddingTextInAnotherMarker"
 ><object
 contentType="en"
 type="t-en"
->Adding text in another marker (such as title or introduction)</object
+>Adding text in another marker - title or introduction</object
 ><object
 contentType="fr"
 type="t-fr"
->Ajouter texte avec un autre marqueur (comme un titre ou introduction)</object
+>Ajouter texte avec un autre marqueur - titre ou introduction</object
 ></secTitle
 ><p
 contentType="en"
@@ -2619,7 +2634,7 @@ id="sSendReceiveUSB"
 ><object
 contentType="en"
 type="t-en"
->Send/receive to a USB stick to backup your data [◙ SD04]</object
+>Send/receive to a USB stick to backup your data</object
 ><object
 contentType="fr"
 type="t-fr"
@@ -2984,6 +2999,14 @@ contentType="fr"
 ><section1
 id="sAddAnEntry"
 ><secTitle
+><object
+contentType="en"
+type="t-en"
+>Add an entry</object
+><object
+contentType="fr"
+type="t-fr"
+>Ajouter une entrée</object
 ></secTitle
 ><ul
 ><li
@@ -3089,11 +3112,11 @@ id="sLinkAnExistingEntry"
 ><object
 contentType="en"
 type="t-en"
->Link an existing entry [◙ GL02]</object
+>Link an existing entry</object
 ><object
 contentType="fr"
 type="t-fr"
->Lier une entrée existante [◙ GL02] </object
+>Lier une entrée existante</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3210,11 +3233,11 @@ id="sEditAnEntry"
 ><object
 contentType="en"
 type="t-en"
->Edit an entry – in the GLO book [◙ GL03]</object
+>Edit an entry – in the GLO book</object
 ><object
 contentType="fr"
 type="t-fr"
->Modifier une entrée  – dans le livre GLO  [◙ GL03] </object
+>Modifier une entrée  – dans le livre GLO</object
 ></secTitle
 ><p
 contentType="en"
@@ -3243,11 +3266,11 @@ id="sEditAnEntryBibTerms"
 ><object
 contentType="en"
 type="t-en"
->Edit an entry – in the Biblical Terms [◙ GL04]</object
+>Edit an entry – in the Biblical Terms</object
 ><object
 contentType="fr"
 type="t-fr"
->Modifier une entrée  – dans les termes bibliques  [◙ GL04] </object
+>Modifier une entrée  – dans les termes bibliques</object
 ></secTitle
 ><ul
 ><li
@@ -5156,11 +5179,11 @@ id="sApproveTheSpellingOfCommonWords"
 ><object
 contentType="en"
 type="t-en"
->Approve the spelling of common words [◙ VO01a]</object
+>Approve the spelling of common words</object
 ><object
 contentType="fr"
 type="t-fr"
->Approuver l’orthographe des mots fréquents [◙ VO01a] </object
+>Approuver l’orthographe des mots fréquents</object
 ></secTitle
 ><p
 contentType="en"
@@ -6313,35 +6336,17 @@ contentType="en"
 ><p
 contentType="fr"
 >Répétez ce processus avec le prochain terme biblique que vous trouvez dans la fenêtre d’équivalentes de termes bibliques.</p
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
-><pc
-contentType="fr"
-><object
-type="tsub"
->Résumé</object
-></pc
-><p
-contentType="en"
->This module shows you how to:</p
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="sOpenTheBiblicalTermsRendingWindow"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Open the Biblical terms rending window [◙ VT01]</object
+>Open the Biblical terms rending window</object
 ><object
 contentType="fr"
 type="t-fr"
->Ouvrir la fenêtre d’équivalents de termes bibliques [◙ VT01] </object
+>Ouvrir la fenêtre d’équivalents de termes bibliques</object
 ></secTitle
 ><ul
 ><li
@@ -6480,7 +6485,7 @@ src="12imgeng/image35.png"
 ><br
 ></br
 ><object
-contentType="fr"
+contentType="en"
 type="tItalic"
 >The edit renderings dialog is displayed.</object
 ><br
@@ -6502,8 +6507,6 @@ src="12imgfr/image36.png"
 contentType="fr"
 type="tItalic"
 >Une boîte de dialogue s’affiche.</object
-></li
-><li
 ><img
 src="12imgfr/image37.png"
 ></img
@@ -6913,11 +6916,11 @@ id="sAddTheBiblicalTermsNotes"
 ><object
 contentType="en"
 type="t-en"
->Add the Biblical terms notes (ongoing discussion)</object
+>Add the Biblical terms notes - ongoing discussion</object
 ><object
 contentType="fr"
 type="t-fr"
->Ajouter les remarques des discussions des équivalents (discussion en cours)</object
+>Ajouter les remarques des discussions des équivalents - discussion en cours</object
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -7097,7 +7100,7 @@ type="tmenu"
 >, then choose your project<br
 ></br
 ><img
-src="12imgfr/image42.png"
+src="12imgeng/image38.png"
 ></img
 ></li
 ><li
@@ -7111,7 +7114,7 @@ type="tmenu"
 >, puis choisissez votre projet <br
 ></br
 ><img
-src="12imgeng/image38.png"
+src="12imgfr/image42.png"
 ></img
 ></li
 ></ul
@@ -7124,12 +7127,15 @@ contentType="fr"
 >Modifiez la glose comme désiré </li
 ><li
 contentType="en"
->Click on the Advanced tab</li
+>Click on the <object
+type="tmenu"
+>Advanced</object
+> tab</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
 type="tmenu"
->Advancé</object
+>Avancé</object
 > </li
 ><li
 contentType="en"
@@ -7139,7 +7145,10 @@ contentType="fr"
 >Saisissez un nom pour le terme </li
 ><li
 contentType="en"
->Click OK</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -7672,11 +7681,11 @@ id="sUsingInventoriesToSetupChecks"
 ><object
 contentType="en"
 type="t-en"
->Using inventories to setup checks [◙ VT02]</object
+>Using inventories to setup checks</object
 ><object
 contentType="fr"
 type="t-fr"
->Utiliser les inventaires pour préparer l’exécution des vérifications [◙ VT02] </object
+>Utiliser les inventaires pour préparer l’exécution des vérifications</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8187,7 +8196,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Mise en majuscules [◙ VT06] </object
+>Mise en majuscules</object
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -8816,7 +8825,7 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->Utilisation des listes récapitulatives — générique</object
+>Utilisation des listes récapitulatives - générique</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8924,11 +8933,11 @@ id="sUsingChecklist"
 ><object
 contentType="en"
 type="t-en"
->Using checklist – Section headings (\s1) </object
+>Using checklist – Section headings</object
 ><object
 contentType="fr"
 type="t-fr"
->Utilisation des listes récapitulatives — En-têtes de section (\s1)</object
+>Utilisation des listes récapitulatives - En-têtes de section</object
 ></secTitle
 ><p
 contentType="en"
@@ -9654,7 +9663,7 @@ type="italic"
 ></li
 ><li
 contentType="fr"
->Maintenez la touche Windows  + E<br
+>Maintenez la touche Windows + E<br
 ></br
 ><object
 type="italic"
@@ -9667,7 +9676,7 @@ contentType="en"
 >Go to your My Paratext 8 Projects folder.</li
 ><li
 contentType="fr"
->Accédez à dossier  My Paratext 8 Projects.</li
+>Accédez à dossier My Paratext 8 Projects.</li
 ><li
 contentType="en"
 >Double-click on your project folder</li
@@ -9685,13 +9694,13 @@ contentType="en"
 >Right-click on the desired PDF file</li
 ><li
 contentType="fr"
->Cliquez-droite sur le fichier PDF </li
+>Cliquez-droite sur le fichier PDF</li
 ><li
 contentType="en"
 >Choose Send to</li
 ><li
 contentType="fr"
->Choisissez  Envoyer vers</li
+>Choisissez Envoyer vers</li
 ><li
 contentType="en"
 >Choose your USB stick.</li
@@ -10153,15 +10162,6 @@ src="12imgeng/image53.png"
 ></tr
 ></table
 ></tablenumbered
-><pc
-contentType="en"
->Summary</pc
-><pc
-contentType="fr"
->Résumé</pc
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ></section1
 ><section1
 id="sSetupAdditionalNoteTypes"
@@ -10248,6 +10248,7 @@ type="tmenu"
 >l’icône </object
 >désirée </li
 ><li
+contentType="en"
 >Type a name for the new note type</li
 ><li
 contentType="fr"
@@ -10256,6 +10257,7 @@ type="tmenu"
 > « Nom »</object
 > et saisissez un nom </li
 ><li
+contentType="en"
 >Continue for any other new notes.</li
 ><li
 contentType="fr"
@@ -10280,10 +10282,10 @@ contentType="en"
 >Click in the text where you want the note (and select any appropriate text).</li
 ><li
 contentType="fr"
->Cliquez dans le text où vous voulez le note (et si désiré, sélectionnez du text) </li
+>Cliquez dans le text où vous voulez le note (et si désiré, sélectionnez du text)</li
 ><li
 contentType="en"
->Insert &gt; Note </li
+>Insert &gt; Note</li
 ><li
 contentType="fr"
 ><object
@@ -10363,10 +10365,10 @@ contentType="fr"
 ><object
 type="tmenu"
 >Fichier</object
-> &gt;  <object
+> &gt; <object
 type="tmenu"
 >Ouvrir les remarques</object
->...  </li
+>...</li
 ><li
 contentType="en"
 >Select your project.</li
@@ -10431,7 +10433,18 @@ contentType="en"
 >Click the icon(<img
 src="12imgeng/image55.png"
 ></img
->) in the text</li
+>) in the text<br
+></br
+><object
+contentType="en"
+type="italic"
+>The note opens.</object
+><br
+></br
+><img
+src="12imgeng\image61.png"
+></img
+></li
 ><li
 contentType="fr"
 >Cliquez sur l’icône (<img
@@ -10446,18 +10459,34 @@ type="tresult"
 ></ul
 ><p
 contentType="fr"
->Saisissez le commentaire <br
+> <br
 ></br
 ><img
 src="12imgfr/image64.png"
 ></img
 ></p
-><p
+><ul
+><li
+contentType="en"
+>Type a note</li
+><li
 contentType="fr"
-><object
+>Saisissez le commentaire</li
+><li
+contentType="en"
+>Click <object
 type="tmenu"
 >OK</object
->.</p
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+></ul
+><ul
+></ul
 ></section1
 ><section1
 id="sAddCommentsFromANotesWindow"
@@ -10469,7 +10498,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Ajouter des commentaires dans une remarque ouverte dans le texte </object
+>Ajouter des commentaires dans une remarque d'une fenêtre des remarques </object
 ></secTitle
 ><ul
 ><li
@@ -10478,16 +10507,18 @@ contentType="en"
 src="12imgeng/image56.png"
 ></img
 >)</li
-></ul
-><p
+><li
 contentType="fr"
 >Cliquez sur l’icône (<img
 src="12imgfr/image65.png"
 ></img
->) dans le texte.</p
-><p
-contentType="fr"
->Le remarque est ouvert.</p
+>) dans le texte.<br
+></br
+><object
+type="italic"
+>Le remarque est ouvert.</object
+></li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -10510,6 +10541,15 @@ src="12imgfr/image66.png"
 ><li
 contentType="en"
 >Resolve or assign the note as needed.</li
+><li
+contentType="fr"
+>Resoudre ou affectez le remarque comme désiré.</li
+><li
+contentType="en"
+>Click the arrow to collapse the note.</li
+><li
+contentType="fr"
+>Cliquez sur le flèche pour reduire le remarque..</li
 ></ul
 ></section1
 ><section1
@@ -10626,9 +10666,6 @@ type="tmenu"
 > </li
 ><li
 contentType="en"
->Open the note from the text</li
-><li
-contentType="en"
 >Click OK again to close the dialog box.</li
 ><li
 contentType="fr"
@@ -10650,12 +10687,12 @@ contentType="fr"
 type="t-fr"
 >Rattacher une remarque</object
 ></secTitle
-><p
-contentType="en"
->If the text you select when you insert a project note is later changed or deleted, the note icon moves to another location in the verse.</p
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
+><p
+contentType="en"
+>Sometimes in editing a verse, the word the note was attached to is deleted so the icon moves to the beginning of the verse. You can reattach the note to another word.</p
 ><p
 contentType="fr"
 >Parfois, en éditant un verset, le mot à qui la remarque était attachée est supprimé et l’icône est déplacé au début du verset. On peut rattacher la remarque à un autre mot.</p
@@ -10663,7 +10700,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click the note icon in the text.</li
+>Click the note icon in the text to open the note.</li
 ><li
 contentType="fr"
 >Ouvrez la remarque<br
@@ -10689,13 +10726,19 @@ contentType="en"
 >Select the word(s) to attach it to.</li
 ><li
 contentType="fr"
->Cliquez sur le mot à attacher </li
+>Cliquez sur le(s) mot(s) à attacher </li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->.</li
+>.<br
+></br
+><object
+contentType="en"
+type="italic"
+>The note is attached to the word(s).</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -10854,8 +10897,14 @@ type="t-en"
 contentType="en"
 >Click the note icon</li
 ><li
+contentType="fr"
+>Cliquez sur l’icône de la remarque</li
+><li
 contentType="en"
 >Click the small red x</li
+><li
+contentType="fr"
+>Cliquez sur le petit x rouge</li
 ><li
 contentType="en"
 >Click <object
@@ -10863,8 +10912,14 @@ type="tmenu"
 >Yes</object
 > to permanently delete you comment.</li
 ><li
+contentType="fr"
+>Cliquez sur Oui pour supprimer définitivement le commentaire.</li
+><li
 contentType="en"
 >If there are more comments, continue to delete the next comment.</li
+><li
+contentType="fr"
+>S’il y a plus qu’un commentaire, continuez à supprimer pour supprimer la remarque.</li
 ></ul
 ></section1
 ><section1
@@ -10878,19 +10933,30 @@ type="t-en"
 ><ul
 ><li
 contentType="en"
->There are four dropdown boxes on the toolbar<ul
+>There are four dropdown boxes on the toolbar</li
+><li
+contentType="fr"
+>Il y a quatre cases sur la barre d’outils <ul
 ><li
 contentType="en"
 >Notes filter</li
 ><li
+>Filtre de remarques</li
+><li
 contentType="en"
 >Verse filter</li
+><li
+>Filtre de versets</li
 ><li
 contentType="en"
 >Search</li
 ><li
+>Recherche</li
+><li
 contentType="en"
 >Sort by [verse, date, assigned to]</li
+><li
+>Trier par [verset, date, affectée à]</li
 ></ul
 ></li
 ></ul
@@ -10902,14 +10968,24 @@ id="sNotesFilter"
 contentType="en"
 type="t-en"
 >Notes filter</object
+><object
+contentType="fr"
+type="t-fr"
+>Filtre de remarques</object
 ></secTitle
 ><ul
 ><li
 contentType="en"
 >Click the first button/list</li
 ><li
+contentType="fr"
+>Cliquez sur le premier bouton/liste</li
+><li
 contentType="en"
 >Choose an existing filter as appropriate</li
+><li
+contentType="fr"
+>Choisissez un filtre existant</li
 ></ul
 ></section1
 ><section1
@@ -10919,11 +10995,18 @@ id="sDefineANewFilter"
 contentType="en"
 type="t-en"
 >Define a new filter </object
+><object
+contentType="fr"
+type="t-fr"
+>Définir un nouveau filtre de remarques</object
 ></secTitle
 ><ul
 ><li
 contentType="en"
 >Click the first button/list</li
+><li
+contentType="fr"
+>Cliquez sur le premier bouton/liste</li
 ><li
 contentType="en"
 >Choose New filter<br
@@ -10933,11 +11016,35 @@ src="12imgeng/image60.png"
 ></img
 ></li
 ><li
+contentType="fr"
+>Choisissez <object
+contentType="fr"
+type="tmenu"
+>Nouveau filtre</object
+><br
+></br
+><img
+src="12imgfr\image69.png"
+></img
+></li
+><li
 contentType="en"
 >Choose the status, tag, person and date as desired.</li
 ><li
+contentType="fr"
+>Choisissez le statut, l’étiquette, la personne, et la date comme vous le souhaite.</li
+><li
 contentType="en"
->Click OK.</li
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>  </li
 ></ul
 ></section1
 ><section1
@@ -10953,14 +11060,26 @@ type="t-en"
 contentType="en"
 >Define the filter as needed.</li
 ><li
+contentType="fr"
+>Définissez le filtre comme nécessaire.</li
+><li
 contentType="en"
 >Click in the textbox at the top left.</li
+><li
+contentType="fr"
+>Cliquez sur la case de texte en haut.</li
 ><li
 contentType="en"
 >Type a name for the filter</li
 ><li
+contentType="fr"
+>Saisissez un nom pour le filtre</li
+><li
 contentType="en"
 >Click the save icon.</li
+><li
+contentType="fr"
+>Cliquez sur l’icône de la disquette pour enregistrer.</li
 ></ul
 ></section1
 ></chapter
@@ -11699,27 +11818,8 @@ contentType="en"
 contentType="en"
 ></p
 ></appendix
-><glossary
-><p
-contentType="en"
-></p
-><dl
-><dt
->Note</dt
-><dd
->Thing</dd
-><dt
-></dt
-><dd
-></dd
-></dl
-></glossary
 ><endnotes
 ></endnotes
-><references
-></references
-><index
-></index
 ></backMatter
 ><languages
 ><language
@@ -11882,14 +11982,14 @@ xsl-foSpecial="text-decoration=&quot;underline&quot;"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
-indent-after=".125in"
-indent-before=".125in"
+indent-after="2cm"
+indent-before="2cm"
 innerbottommargin=".03in"
 innerleftmargin=".125in"
 innerrightmargin=".125in"
 innertopmargin=".03in"
-spaceafter=".0in"
-spacebefore=".0in"
+spaceafter="3pt"
+spacebefore="3pt"
 ></framedType
 ><framedType
 backgroundcolor="#add8e6"
@@ -11905,6 +12005,67 @@ spaceafter=".0in"
 spacebefore=".0in"
 ></framedType
 ></framedTypes
+><publishingInfo
+><publishingBlurb
+><pc
+contentType="en"
+><object
+type="tsub"
+>Title:</object
+> <object
+type="tPT"
+></object
+>, Participant's Manual for Paratext Stages 1-2</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
+></publishingBlurb
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
 ><contentControl
 ><contentTypes
 ><contentType

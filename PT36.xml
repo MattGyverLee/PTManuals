@@ -56,11 +56,11 @@ type="t-fr"
 ><object
 contentType="en"
 type="t-en"
->Paratext_8_3-6_IntroStage3</object
-> <object
+>Paratext_8_3-6_Intro</object
+><object
 contentType="fr"
 type="t-fr"
->Paratext_8_3-6_IntroÉtape3</object
+>Paratext_8_3-6_Intro</object
 ></shortTitle
 ><chapter
 id="sGoal"
@@ -69,7 +69,7 @@ id="sGoal"
 contentType="en"
 type="t-en"
 >Goal</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >But </object
@@ -91,7 +91,7 @@ id="scourseObjectives"
 contentType="en"
 type="t-en"
 >Course Objectives</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Objectifs</object
@@ -363,7 +363,7 @@ id="sBT1"
 contentType="en"
 type="t-en"
 >BT1: Draft a Back translation</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >RT1 : Retraductions 1 </object
@@ -661,7 +661,7 @@ id="sdraftBT"
 ><object
 contentType="en"
 type="t-en"
->Draft your back translation [◙ RT01]</object
+>Draft your back translation</object
 > <object
 contentType="fr"
 type="t-fr"
@@ -1191,7 +1191,7 @@ id="sBT2"
 contentType="en"
 type="t-en"
 >BT2: Interlinearise a project</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >RT2 : Retraductions 2 (mot à mot) </object
@@ -1467,15 +1467,12 @@ id="sconfigureTheProjectInterlineariser"
 ><object
 contentType="en"
 type="t-en"
->Configure the project interlineariser [◙ RT01]</object
+>Configure the project interlineariser</object
 > <object
 contentType="fr"
 type="t-fr"
 >Créer une glose interlinéaire mot à mot</object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT01]</p
 ><ul
 ><li
 contentType="en"
@@ -1574,15 +1571,12 @@ id="sconfirmAndCorrectThe"
 ><object
 contentType="en"
 type="t-en"
->Confirm and correct the interlinearised text [◙ RT02]</object
+>Confirm and correct the interlinearised text</object
 > <object
 contentType="fr"
 type="t-fr"
 >Confirmer et corriger l’interlinéaire </object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT02]</p
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -1641,15 +1635,12 @@ id="sTranslate"
 ><object
 contentType="en"
 type="t-en"
->Translate/gloss a phrase [◙ RT03]</object
-> <object
+>Translate/gloss a phrase</object
+><object
 contentType="fr"
 type="t-fr"
 >Traduire/gloser une expression </object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT03]</p
 ><ul
 ><li
 contentType="en"
@@ -1693,15 +1684,12 @@ id="sAddExtraWord"
 ><object
 contentType="en"
 type="t-en"
->Add extra word(s) [◙ RT04]</object
-> <object
+>Add extra words</object
+><object
 contentType="fr"
 type="t-fr"
 >Ajouter des mots supplémentaires </object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT04]</p
 ><ul
 ><li
 contentType="en"
@@ -1723,15 +1711,12 @@ id="sSpecifyTheMorphology"
 ><object
 contentType="en"
 type="t-en"
->Specify the morphology (break a word into morphemes) [◙ RT05]</object
-> <object
+>Specify the morphology - break a word into morphemes</object
+><object
 contentType="fr"
 type="t-fr"
 >Spécifier la morphologie </object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT05]</p
 ><ul
 ><li
 contentType="en"
@@ -1765,15 +1750,12 @@ id="sapproveAndExportThe"
 ><object
 contentType="en"
 type="t-en"
->Approve and Export the text [◙ RT06]</object
-> <object
+>Approve and Export the text</object
+><object
 contentType="fr"
 type="t-fr"
 >Exporter/approuver le texte </object
 ></secTitle
-><p
-contentType="fr"
->[◙ RT06]</p
 ><ul
 ><li
 contentType="en"
@@ -1896,9 +1878,6 @@ contentType="fr"
 type="t-fr"
 >Sauvegarder à chaque étape majeure de votre projet</object
 ></secTitle
-><p
-contentType="fr"
->[◙ GF01]</p
 ><ul
 ><li
 contentType="fr"
@@ -1938,12 +1917,6 @@ contentType="fr"
 type="t-fr"
 >Voir les différences entre deux points (ou versions)</object
 ></secTitle
-><p
-contentType="fr"
-></p
-><p
-contentType="fr"
->[◙ GF02]</p
 ><p
 contentType="fr"
 >Du menu <object
@@ -2055,7 +2028,7 @@ id="sunmatchedPairsOfPunctuation"
 ><object
 contentType="en"
 type="t-en"
->Unmatched pairs of Punctuation [◙ VT04]</object
+>Unmatched pairs of Punctuation</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2119,7 +2092,7 @@ id="srefs"
 ><object
 contentType="en"
 type="t-en"
->References [◙ VT08]</object
+>References</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2269,7 +2242,7 @@ id="sQuotationRules"
 ><object
 contentType="en"
 type="t-en"
->Quotation rules [◙ VT07]</object
+>Quotation rules</object
 ></secTitle
 ><p
 contentType="en"
@@ -2417,7 +2390,7 @@ type="t-fr"
 contentType="en"
 type="t-en"
 >Paratext_8_3-6_Stage4</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape4</object
@@ -3544,7 +3517,7 @@ id="sPP"
 contentType="en"
 type="t-en"
 >PP: Compare parallel passages</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >PP : Comparer passages parallèles</object
@@ -3740,8 +3713,8 @@ id="sSelectComparativeText"
 ><object
 contentType="en"
 type="t-en"
->Select comparative text(s)</object
-> <object
+>Select comparative texts</object
+><object
 contentType="fr"
 type="t-fr"
 >Sélectionner des Textes comparatifs</object
@@ -3786,7 +3759,7 @@ id="sFilters"
 contentType="en"
 type="t-en"
 >Filters</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Filtres</object
@@ -3807,7 +3780,7 @@ id="scomparePassages"
 contentType="en"
 type="t-en"
 >Compare the passages</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Voir des passages</object
@@ -3866,7 +3839,7 @@ id="stoCorrectTheText"
 contentType="en"
 type="t-en"
 >To correct the text</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Pour faire des corrections</object
@@ -3899,13 +3872,13 @@ type="tmenu"
 ></ul
 ></section1
 ><section1
-id="sCopingAText"
+id="sCopyingAText"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Coping a text</object
-> <object
+>Copying a text</object
+><object
 contentType="fr"
 type="t-fr"
 >Copier un texte</object
@@ -4001,7 +3974,7 @@ id="smarkThePassageAs"
 contentType="en"
 type="t-en"
 >Mark the passage as finished</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Marquer un texte comme fini</object
@@ -4022,7 +3995,7 @@ id="sIDChanged"
 contentType="en"
 type="t-en"
 >Identify the passages which have been changed since they were marked as finished</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Identifier les passages qui ont été modifiés après avoir marqué comme finis</object
@@ -4093,7 +4066,7 @@ id="scompareTheTextAs"
 contentType="en"
 type="t-en"
 >Compare the text as you translate</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Comparer les textes pendant la traduction</object
@@ -4137,7 +4110,7 @@ id="stoSeeAThird"
 contentType="en"
 type="t-en"
 >To see a third passage</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Voir un troisième passage</object
@@ -4194,6 +4167,9 @@ contentType="en"
 ><p
 contentType="fr"
 >Volet supérieur Volet inférieur</p
+><tablenumbered
+contentType="en"
+id="nticons"
 ><table
 border="1"
 ><tr
@@ -4308,6 +4284,10 @@ src="36imgeng\image15.png"
 >Verse missing</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntIcones"
 ><table
 border="1"
 ><tr
@@ -4422,6 +4402,7 @@ src="36imgeng\image15.png"
 >Verset manquant</td
 ></tr
 ></table
+></tablenumbered
 ><p
 contentType="en"
 >Answers:</p
@@ -4637,7 +4618,7 @@ id="aBibleBooks"
 contentType="en"
 type="t-en"
 >Three letter abbreviations</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Livres de la Bible : Abréviations en trois lettres</object
@@ -4659,6 +4640,7 @@ contentType="en"
 contentType="fr"
 >Ancien Testament</p
 ><tablenumbered
+contentType="en"
 id="ntOTEN"
 ><table
 border="1"
@@ -4769,6 +4751,7 @@ border="1"
 ></table
 ></tablenumbered
 ><tablenumbered
+contentType="fr"
 id="ntATFR"
 ><table
 border="1"
@@ -4885,6 +4868,7 @@ contentType="en"
 contentType="fr"
 >Nouveau Testament</p
 ><tablenumbered
+contentType="en"
 id="ntNTEN"
 ><table
 border="1"
@@ -4963,6 +4947,7 @@ border="1"
 ></table
 ></tablenumbered
 ><tablenumbered
+contentType="fr"
 id="ntNTFR"
 ><table
 border="1"
@@ -5048,7 +5033,7 @@ id="sChadSpecChar"
 contentType="en"
 type="t-en"
 >Chad special characters</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >Les caractères de Tchad Unicode </object
@@ -5565,7 +5550,7 @@ id="sMarkers"
 contentType="en"
 type="t-en"
 >Common USFM Markers</object
-> <object
+><object
 contentType="fr"
 type="t-fr"
 >USFM Marqueurs fréquents </object
@@ -5861,16 +5846,77 @@ id="tsub"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
-indent-after=".125in"
-indent-before=".125in"
+indent-after="2cm"
+indent-before="2cm"
 innerbottommargin=".03in"
 innerleftmargin=".125in"
 innerrightmargin=".125in"
 innertopmargin=".03in"
-spaceafter=".0in"
-spacebefore=".0in"
+spaceafter="3pt"
+spacebefore="3pt"
 ></framedType
 ></framedTypes
+><publishingInfo
+><publishingBlurb
+><pc
+contentType="en"
+><object
+type="tsub"
+>Title:</object
+> <object
+type="tPT"
+></object
+>, Participant's Manual for Stages 3-6</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
+></publishingBlurb
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
 ><contentControl
 ><contentTypes
 ><contentType

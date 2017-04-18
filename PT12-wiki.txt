@@ -1,17 +1,16 @@
 !Intro and Stage 1
 
-!1: Introduction 
+!1: Introduction
 
 ----
-!!1.1: Goal 
+!!1.1: Goal
 
 The participants will process their translation with the help of Paratext 8 , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7 et Paratext 8.
 ----
-!!1.2: Course Objectives 
+!!1.2: Course Objectives
 
 At the end of the course, the participant will be able to:Start Paratext 8 
 * Start the Paratext 8 program using a desktop icon.
-* Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau.
 Stage 1 : DraftingOpen projects and resources to understand the text before translating
 * Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.
 * Organise these windows on the screen and save as a text combination.Enter the translation
@@ -67,16 +66,15 @@ The following modules will help you in this stage :
 * GL: Adding glossary items
 * BC1: Basic checks — chapter/verse and markers.
 * PP2 : Project plan — complete a task
-!2: OD : Organising your desktop
+!2: OD: Organising your desktop
 
 Introduction
 As you work with your text in Paratext 8 you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.Where we are
 We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.Why this is important
 The translator who organises his/her desktop well has all the resources necessary for his/her work.What are you going to do?
-You will start the Paratext 8 program and open a previously saved text combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.Summary
-This module shows you how to:
+You will start the Paratext 8 program and open a previously saved text combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.
 ----
-!!2.1: Load the Paratext 8 programLancer le programme Paratext
+!!2.1: Load the Paratext 8 program
 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
 * Double-click on Paratext 8 icon on the desktop OR
@@ -85,40 +83,41 @@ This module shows you how to:
 !!2.2: Open a saved text combination
 
 * Click on the Window menu
-* Choose a saved text combination.
-* Your screen should look like the picture below (if not, see the following page).
+* Choose a saved text combination.Your screen should look like the picture below (if not, see the following page).
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image4.png" class=img-responsive}
 ----
 !!2.3: Create a new text combination
 
 If you haven’t already saved a text combination, then we recommend you do the following:
-----
-!!2.4: Open and arrange the windows
+!!!2.3.1: Open and arrange the windows
 
 * Window > Unstacked
 * Open the 5 windows as follows:
-5 =your project (File > Open project/resource
-1 = Renderings (File > Open Biblical Terms renderings)
-2 = Source text (File > Open Source language text)
-3 = Dictionary (File > Open source language dictionary )
+* 
+* 5 =your project (File > Open project/resource
+* 1 = Renderings (File > Open Biblical Terms renderings)
+* 2 = Source text (File > Open Source language text)
+* 3 = Dictionary (File > Open source language dictionary)
+* 
+* 
 4= Text collection (File > Open project/resource in Text Collection)
+* 
 * Arrange the windows as desired.
-----
-!!2.5: Save the text combination
+!!!2.3.2: Save the text combination
 
 Once the windows are arranged as desired:
 * Window > Saved text combination
 * Type a name [or to replace an existing combination, choose the existing name]
 * Click OK
 ----
-!!2.6: Delete a text combination
+!!2.4: Delete a text combination
 
 If you want to delete a saved combination,
 * Window – Delete text combination
 * Choose the name of the saved combination.
 * Click Delete
 ----
-!!2.7: Open resources in a Text collection
+!!2.5: Open resources in a Text collection
 
 {BOX(bg="#FFE6FF" width="60%")}
 With Paratext, it is possible to have several project/resources open at the same time. However, rather than having too many windows, it is better to have severals text in one window.{BOX}
@@ -128,9 +127,10 @@ With Paratext, it is possible to have several project/resources open at the same
 * Repeat as necessary.
 * If necessary, change the order using the up/down arrow buttons.
 * Click OK
-You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.
+{BOX(bg="#FFE6FF" width="60%")}
+You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.{BOX}
 ----
-!!2.8: Open a dictionary
+!!2.6: Open a dictionary
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can open a source language dictionary with glosses in other languages.{BOX}
@@ -138,7 +138,7 @@ You can open a source language dictionary with glosses in other languages.{BOX}
 * Choose « A Concise Greek-English Dictionary of the New Testament »
 * View > choose a language (e.g. Français)
 ----
-!!2.9: Make a list of verses of a specific term from the source language text
+!!2.7: Make a list of verses of a specific term from the source language text
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can have a list of verses for a specific Greek/Hebrew word.{BOX}
@@ -151,7 +151,7 @@ You can have a list of verses for a specific Greek/Hebrew word.{BOX}
 * Change to the Biblical Terms Tool
 * Double-click on the term.
 ----
-!!2.10: Recall
+!!2.8: Recall
 
 * The translators who ________ their desktops have all the _________ they need for their work.
 * You use the __________ menu to save or delete _____________ of text.
@@ -181,7 +181,7 @@ This module shows you how to:
 * From the first dropdown menu, choose either My tasks or All tasks{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image8.png" class=img-responsive}
 A list of the various tasks and checks are displayed.
 ----
-!!3.3: Identify the next task 
+!!3.3: Identify the next task
 
 The list of tasks shows the uncompleted tasks.-
 * Identify the next task for you need to do.
@@ -190,19 +190,15 @@ The list of tasks shows the uncompleted tasks.-
 * 
 * 
 ----
-!!3.4: Mark a task as complete Mark a book task as completed
+!!3.4: Mark a task as complete
 
-!!!3.4.1: 
+!!!3.4.1: Mark a book task as completed
 
-* Click on the checkmark to the left of the status.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image9.png" class=img-responsive}
-It should turn solid to show it is completed.
-!!!3.4.2: Mark a chapter task as completed 
+* Click on the checkmark to the left of the status.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}It should turn solid to show it is completed.
+!!!3.4.2: Mark a chapter task as completed
 
-* Click + to mark the next chapter as complete
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
-* To mark other chapters as complete you can click on the word Completed.
-A dialog box is displayed with a list of the chapters.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
+* Click + to mark the next chapter as complete{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
+* To mark other chapters as complete you can click on the word Completed.A dialog box is displayed with a list of the chapters.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
 * Check the chapters that have been completed.
 * **To mark some verses only, click to the right and check the individual verses.
 ----
@@ -216,7 +212,7 @@ A check is complete when there are No issues.
 * Complete the setup as appropriate.
 * Close the window when finished.
 If there is more than one inventory you will need to set them up manually from the Checking menu.
-!!!3.5.2: Checks – issues 
+!!!3.5.2: Checks – issues
 
 * Click on the blue link “ …. issues”
 * Make the necessary corrections.
@@ -228,35 +224,31 @@ If there is more than one inventory you will need to set them up manually from t
 ''Introduction''
 This module explains how to keyboard your draft translations into a project which has already been created in Paratext 8.Where we are
 We are about to keyboard text into an existing project. Before you can do that, someone must have already installed the program and created a project for your data.Why this is important
-This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.Summary
-This module shows you how to:
+This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.
 ----
-!!4.1: Load the Paratext 8 program 
+!!4.1: Load the Paratext 8 program
 
 ----
-!!4.2: Go to a Biblical verse [◙ SD01] 
+!!4.2: Go to a Biblical verse
 
 {BOX(bg="#FFE6FF" width="60%")}
 Before you can start typing your text, you need to move your cursor to the right book, chapter and verse. You use the toolbar to do this.{BOX}
-* Using the icons on the toolbar, change the project, book, chapter and verse as needed.
-project book chapter verse
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image12.png" class=img-responsive}
+* Using the icons on the toolbar, change the project, book, chapter and verse as needed.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image12.png" class=img-responsive}
 ----
-!!4.3: Check that the project is editable 
+!!4.3: Check that the project is editable
 
 Look at the titlebar of your project.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image13.png" class=img-responsive}
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image13.png" class=img-responsive}
 The titlebar should either have your name or the word (Editable).
 * If your project is shared and your name is not on the titlebar, you should talk with your project administrator.
 * If it is not editable, try changing the view (see below).
 ----
-!!4.4: Changing the view [◙ SD02] 
+!!4.4: Changing the view
 
 Paratext 8 has five views. All but the Preview view are editable.
 * Ctrl + E -or-
 * From the View menu, choose the view (usually Standard).
 ----
-!!4.5: Typing special characters 
+!!4.5: Typing special characters
 
 {BOX(bg="#FFE6FF" width="60%")}
 Some orthographic characters are not found on the keyboard. To type these characters you need to press more than one key.{BOX}
@@ -265,7 +257,7 @@ Some orthographic characters are not found on the keyboard. To type these charac
 * Type the keys as in the table in .
 Note : You can use View > Highlight Invalid Characters to highlight invalide characters.
 ----
-!!4.6: Adding text in another marker (such as title or introduction) 
+!!4.6: Adding text in another marker - title or introduction
 
 Each piece of text needs to have a marker. The markers for the chapters and verses are already in your project. When you want to add text such as headings, or introductions etc you need to also add the appropriate marker as follows:
 * Move your cursor to the end of the previous paragraph :
@@ -276,7 +268,7 @@ Each piece of text needs to have a marker. The markers for the chapters and vers
 {BOX(bg="#FFE6FF" width="60%")}
 You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example \q1).{BOX}
 ----
-!!4.7: Add paragraph breaks 
+!!4.7: Add paragraph breaks
 
 {BOX(bg="#FFE6FF" width="60%")}
 Dividing the text into paragraphs:{BOX}
@@ -284,13 +276,13 @@ Dividing the text into paragraphs:{BOX}
 * Press « Enter »
 * Type p « Enter »
 ----
-!!4.8: Saving your work 
+!!4.8: Saving your work
 
 {BOX(bg="#FFE6FF" width="60%")}
 It is important to save your work regularly.{BOX}
 * File > Save All –or- Ctrl + S
 ----
-!!4.9: Insert Footnotes 
+!!4.9: Insert Footnotes
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can add footnotes in the text at the place where you want the reference to appear.{BOX}
@@ -302,7 +294,7 @@ Type the text after the \ft{BOX}
 If you hover your mouse over the superscript letter the text of the footnote will be displayed in a tip box.
 To change the footnote, click the superscript letter in the text. To delete the footnote you can delete the superscript letter.{BOX}
 ----
-!!4.10: Send/receive to a USB stick to backup your data [◙ SD04] 
+!!4.10: Send/receive to a USB stick to backup your data
 
 {BOX(bg="#FFE6FF" width="60%")}
 It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:{BOX}
@@ -313,14 +305,14 @@ or
 * Choose either Internet Server or USB drive (as desired)
 * Click Send/Receive.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image16.png" class=img-responsive}''The computer will make a copy of your files. A progress meter will be displayed. A message box will only appear if there are any problems.''
 ----
-!!4.11: Moving your cursor efficiently 
+!!4.11: Moving your cursor efficiently
 
 {BOX(bg="#FFE6FF" width="60%")}
 A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.{BOX}
 * The arrow keys, ← ↑ → ↓ Home, End, PgUp, et PgDn, F8 (chapter), F9 (book)
 * or Ctrl + any of those keys
 ----
-!!4.12: Recall : 
+!!4.12: Recall :
 
 If the titlebar doesn’t say (Editable), you should try changing the __________.
 To add a different marker (such as section heading) you press _______.
@@ -337,7 +329,7 @@ You will use the Biblical terms tool to add a rendering for the term and then us
 Summary
 This module shows you how to:
 ----
-!!5.1: 
+!!5.1: Add an entry
 
 * Move to a verse which contains the term you want to add to the glossary.
 * Right-click and choose "View Biblical Terms", then "Current Verset(s)"
@@ -348,7 +340,7 @@ This module shows you how to:
 * Type the Definition [2]
 * Click OK ''The word and the definition will be added to the glossary in alphabetical order.''
 ----
-!!5.2: Link an existing entry [◙ GL02] 
+!!5.2: Link an existing entry
 
 {BOX(bg="#FFE6FF" width="60%")}
 If the word is already in the glossary, you can link a term to the existing entry.{BOX}
@@ -359,19 +351,19 @@ If the word is already in the glossary, you can link a term to the existing entr
 * Choose the entry from the glossary
 * Click OK
 ----
-!!5.3: View the glossary  
+!!5.3: View the glossary 
 
 In Paratext
 * Use the navigation bar to change the book{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image18.png" class=img-responsive}
 * Choose the GLO book
 ----
-!!5.4: Edit an entry – in the GLO book [◙ GL03] 
+!!5.4: Edit an entry – in the GLO book
 
 In Paratext
 * Open the GLO book
 * Edit the text as normal.
 ----
-!!5.5: Edit an entry – in the Biblical Terms [◙ GL04] 
+!!5.5: Edit an entry – in the Biblical Terms
 
 * Tools > Biblical terms...
 * Double-click on the word in the list in the top pane.
@@ -379,7 +371,7 @@ In Paratext
 * Edit la définition
 * Click OK.
 ----
-!!5.6: Add a Biblical Term 
+!!5.6: Add a Biblical Term
 
 * see page 61***
 ----
@@ -389,7 +381,7 @@ In Paratext
 * The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.
 * To view the glossary, you change to the _____ book (after Revelation).
 Answers: Tools, Edit Rendering, double-click, top, GLO
-!6: BC1 : Basic checks
+!6: BC1: Basic checks
 Introduction 
 In this module, you will check the chapters/verses and the markers using two methods: the Project plan and the Checking menu.Where we are
 You have typed your text in Paratext. Now you want to start checking. In this module we start with the first two basic checks.Why this is important
@@ -413,7 +405,7 @@ It is easier to run the checks from the project plan.
 * Close the results list window.
 * Continue with the markers check.
 ----
-!!6.3: Running the checks from the menus 
+!!6.3: Running the checks from the menus
 
 {BOX(bg="#FFE6FF" width="60%")}
 If you want to check more than one book at a time, you can run the checks from the checking menu.{BOX}
@@ -481,12 +473,12 @@ Introduction 
 The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image22.png" class=img-responsive}
 The following modules will help you in this stage :
 * ((PARATEXT_8_1-2_Stage2|8.: PN: Proper Names|PN: Proper Names))
-* ((PARATEXT_8_1-2_Stage2|8.: SP : Spell Checking|SP : Spell Checking))
-* ((PARATEXT_8_1-2_Stage2|8.: BT : A 4-Step process for consistent Biblical Terms |BT : A 4-Step process for consistent Biblical Terms ))
+* ((PARATEXT_8_1-2_Stage2|8.: SP: Spell Checking|SP: Spell Checking))
+* ((PARATEXT_8_1-2_Stage2|8.: BT: A 4-Step process for consistent Biblical Terms |BT: A 4-Step process for consistent Biblical Terms ))
 * ((PARATEXT_8_1-2_Stage2|8.: FC: Formatting checks|FC: Formatting checks))
-* ((PARATEXT_8_1-2_Stage2|8.: BC2 : Basic checks|BC2 : Basic checks))
-* ((PARATEXT_8_1-2_Stage2|8.: PD : Printing Drafts|PD : Printing Drafts))
-* ((PARATEXT_8_1-2_Stage2|8.: UN : Using Notes|UN : Using Notes))
+* ((PARATEXT_8_1-2_Stage2|8.: BC2: Basic checks|BC2: Basic checks))
+* ((PARATEXT_8_1-2_Stage2|8.: PD: Printing Drafts|PD: Printing Drafts))
+* ((PARATEXT_8_1-2_Stage2|8.: UN: Using Notes|UN: Using Notes))
 !9: PN: Proper Names
 Introduction
 In this module, you will check that the proper names have been transliterated consistently.Where we are
@@ -577,7 +569,7 @@ There are times when a verse is correctly translated even though you haven’t u
 {BOX(bg="#FFE6FF" width="60%")}
 Note : Paratext 8 doesn’t find names in the introductions, headings, footnotes, captions or glossary.{BOX}
 ----
-!!9.12: Recall 
+!!9.12: Recall
 
 * To transliterate proper names, you ______ the _________________ list on names.
 * Then use the _______ menu and ____________ command.
@@ -587,7 +579,7 @@ Note : Paratext 8 doesn’t find names in the introductions, headings, footnotes
 * You can add a rendering by selecting the text and pressing Ctrl+__.
 * If a pronoun is used you can ______ the rending by clicking on the {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive}.
 Answers: filter, Major Biblical Terms, names, Tools, Adapt Names, character approve, proposed, correcting, consistent, A, deny
-!10: SP : Spell Checking
+!10: SP: Spell Checking
 Introduction
 This module explains how to check for spelling mistakes in the text you have typed into you project in Paratext 8 .Where we are
 You have type your text in Paratext 8 and have done some checks but there may still be spelling mistakes in the text.Why is this important?
@@ -600,7 +592,7 @@ This module shows you how to:
 
 {BOX(bg="#FFE6FF" width="60%")}
 Before you can check the spelling, it is important to have a base of words that are known to be correct. There are three things we can do:{BOX}
-!!!10.1.1: Approve the spelling of common words [◙ VO01a] 
+!!!10.1.1: Approve the spelling of common words
 
 In Paratext
 * Tools > Wordlist
@@ -611,7 +603,7 @@ In the Wordlist
 The number is the number of times the words must appear to automatically mark it as being spelled correctly. The default is 100 but you can choose more (if you have doubts about the text) or less (if you are confident about the acuracy of the typist).{BOX}
 * Click OK
 * Click Yes (to confirm that you can’t undo)
-!!!10.1.2: Check the words that Paratext 8 thinks are incorrect  
+!!!10.1.2: Check the words that Paratext 8 thinks are incorrect 
 
 In the Wordlist (Tools > WordList)
 * Tools > Spell Check > All checks''A list of words is displayed.''
@@ -619,7 +611,7 @@ In the Wordlist (Tools > WordList)
 * If the word is correct – click the green checkbox {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26.png" class=img-responsive}
 * If the word is incorrect, but Paratext 8 has suggested the correct word, then click the blue link for the correct word.
 * If the word is incorrect, and Paratext 8 hasn’t suggested the correct word, click on the red checkbox {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26a.png" class=img-responsive} and correct the word.
-!!!10.1.3: Check similarly spelled words 
+!!!10.1.3: Check similarly spelled words
 
 In the Wordlist
 * Tools > Find Similar Words
@@ -670,7 +662,6 @@ A list of words is displayed.
 * Continue as needed.
 * When the list is finished, a message is displayed{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image30.png" class=img-responsive}
 * Click Yes.
-* Oui (Yes).
 ----
 !!10.6: All checks
 
@@ -719,7 +710,7 @@ A list of words is displayed with similar words grouped together.
 * Find the word in the list (using the filter if necessary)
 * Click on the line
 * Click the correct spelling status.
-!11: BT : A 4-Step process for consistent Biblical Terms 
+!11: BT: A 4-Step process for consistent Biblical Terms 
 Introduction
 The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This process should be considered part of the translation process and not a check.Where we are
 You are translating a verse in Paratext 8 and you want to see what renderings have already been chosen for the terms in the current verse and then make sure they are consistent with other verses.Why this is important
@@ -729,10 +720,9 @@ This method boils down to a short list of steps:
 # Choose which rendering is/are best, and record why it is best.
 # Document why you rejected the other renderings.
 # Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).
-Repeat with next Biblical Term you find in the Biblical Terms Renderings window.Summary
-This module shows you how to:
+Repeat with next Biblical Term you find in the Biblical Terms Renderings window.
 ----
-!!11.1: Open the Biblical terms rending window [◙ VT01] 
+!!11.1: Open the Biblical terms rending window
 
 * Click in your project
 * File > Open Biblical terms rendering
@@ -740,23 +730,22 @@ This module shows you how to:
 * Choose the desired list
 * Click OK.
 ----
-!!11.2: Find the terms for the current verse 
+!!11.2: Find the terms for the current verse
 
 * Is there a tick in the found column?
 * If there is a tick, your verse uses the term and you can continue with the next term.
 * If not, you need to either correct your text or add the new term you have used (see below).
 ----
-!!11.3: Add another rendering **
+!!11.3: Add another rendering
 
 If the term you have used needs to be added to the list:
 * Select the rendering of the term in your text.
 * Copy it (ctrl+c)
-* Double-click in the renderings cell.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image35.png" class=img-responsive}{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
-* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image37.png" class=img-responsive}
+* Double-click in the renderings cell.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image35.png" class=img-responsive}''The edit renderings dialog is displayed.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
 * Paste (Ctrl+v) the rendering in the dialog box.
 * Click OK.
 ----
-!!11.4: Find other verses in the current book with the same Biblical term 
+!!11.4: Find other verses in the current book with the same Biblical term
 
 * Double-click on a word in the Term column''The Biblical Terms Tool opens''
 * From the second filter button choose current book
@@ -768,56 +757,56 @@ If the term you have used needs to be added to the list:
 * Add the rendering using Ctrl+A
 * Continue until all terms for those verses have been identified.
 ----
-!!11.6: Dealing with verses that don’t use the term 
+!!11.6: Dealing with verses that don’t use the term
 
 {BOX(bg="#FFE6FF" width="60%")}
 There are times when a verse is translated without using the actual term. For example when a pronoun is used. In this case you need to deny that it is an error.{BOX}
 * Click the red cross {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} to the left of the verse reference link. The red cross turns into a green tick with a small red x {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive}
 If you click on the cross by mistake, click on it again and it will return to a red X.
 ----
-!!11.7: Identify the best term 
+!!11.7: Identify the best term
 
 * Double-click on the term in the top pane.''The edit rendering dialog is displayed listing all the renderings that have been added.''
 * Decide on the best rendering
 * Cut (Ctrl+x) and paste (Ctrl+v) it to the top of the dialogue box
 * Add * as necessary to combine similar renderings
 ----
-!!11.8: Reject all the others 
+!!11.8: Reject all the others
 
 * Select and cut the other renderings.
 ----
-!!11.9: Document the reason for the change 
+!!11.9: Document the reason for the change
 
 * Click on the History button{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37b.png" class=img-responsive}
 * Type in the reason why the others were rejected and why the first was the best.
 * Click OK
 ----
-!!11.10: If you need more than one rendering 
+!!11.10: If you need more than one rendering
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can add more than one rendering if appropriate. In this case it is good to add a back translation in brackets after then rendering. For example,  slave (slave) guy * work fo (guy that works for){BOX}
 * Open the Edit renderings dialog box
 * Edit the renderings as needed.
 ----
-!!11.11: Clean up other books (as time permits) 
+!!11.11: Clean up other books (as time permits)
 
 * Change the filter so that all the published books are displayed.
 * Clean up verses as necessary.
 ----
-!!11.12: Add the Biblical terms notes (ongoing discussion) 
+!!11.12: Add the Biblical terms notes - ongoing discussion
 
 * Double-click on the note icon (in the second column){img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37.png" class=img-responsive}
 * Type in the note
 * Assign the note as necessary.
 * Click OK.
 ----
-!!11.13: Add the decision to the renderings description 
+!!11.13: Add the decision to the renderings description
 
 * Double-click on the term
 * Type the agreed-on rendering in the description field{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
 * Click OK
 ----
-!!11.14: Add a term 
+!!11.14: Add a term
 
 In Paratext
 * From your reference text, do a find (using Edit > Find) and search for the term.''A list is displayed showing the verses with that term.''
@@ -827,15 +816,15 @@ From the list of results
 * Click on the Advanced tab
 * Type in a name for the term
 * Click OK
-!12: MP : Compare a word or phrase
+!12: MP: Compare a word or phrase
 
-In this module, you will search for a word or phrase in a project and compare it with the translation of that word or phrase in another project.Why this is importantIn Paratext 8 (and above), you can see where a word or phrase is found in one project and compare it with the word or phrase (or a translation of the word or phrase) is found in one or more other projects. For example, you can see where "roi" is found in a French project and compare it with "rey"in a Spanish project.
+In this module, you will search for a word or phrase in a project and compare it with the translation of that word or phrase in another project.Why this is important?In Paratext 8 (and above), you can see where a word or phrase is found in one project and compare it with the word or phrase (or a translation of the word or phrase) is found in one or more other projects. For example, you can see where "roi" is found in a French project and compare it with "rey"in a Spanish project.
 You will
 * use the checklist “Word or Phrase” from both the text and also the Biblical Terms Too.
 * change the settings and comparative texts
-* type the word or phrase to compare for each project SummaryThis modules shows how to:
+* type the word or phrase to compare for each project SummaryThis module shows how to:
 ----
-!!12.1: Compare a word of phrase - from the text 
+!!12.1: Compare a word of phrase - from the text
 
 * Click in the project that you want to compare
 * From the Tools menu, point to Checklists, and select Word of Phrase.The Parameters dialogue is displayed.
@@ -848,40 +837,55 @@ Type the word of phrase that you want to compare in the textbox for each of the 
 A window is displayed with a button "Hide matches" on the toolbar.
 Click on the "Hide matches" to show only those references where there are differences.The list shows the verses which contain matches. The word or phrase is highlighted in light blue.
 ----
-!!12.2: 
+!!12.2: Compare using a Word of Phrase from several translations - from the Biblical Terms tool
 
-Compare using a Word of Phrase from several translations - from the Biblical Terms tool
 * In the Biblical Terms tool
 * Choose a term which has a rendering
 * Click on the tool icon
 The Setting dialogue is displayed with the rending filled-in.
 * Type the word or expression for the other projects
 * Click OK
-!13: BC2 : Basic checks
+!13: BC2: Basic checks
 
-* Confirm that the setup has been doneSummary
+In this module, you will learn to do several other basic checks (Characters, punctuation, capitals, and repeated words. As in the first Basic Checks module (((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks))), it is easiest to run these checks from the project plan. Nevertheless, if you want to check several books, you will need to use the Verification menu.Where are we?
+You have typed your translation in Paratext 8. Be sure that you have checked the chapter/verse numbers and markers, as described in ((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks)), before continuing.Why this is important?
+Paratext 8 has eleven Basic Checks.In ((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks)), you have already seen the first two, chapter/verse numbers and markers. This module will help you to find errors linked to spelling, punctuation, capital letters an repeated words. Even if these errors may not influence the content of the text, correcting them makes the text easier to read.What we are going to do:
+Most of the verifications require that a certain inventory has been completed.
+* Confirm that the setup has been done
+* do the Basic Checks
+* correct any errorsSummary
+This module shows you how to:
 ----
-!!13.1: Confirm the setup Confirmer la configuration
+!!13.1: Confirm the setup
 
 {BOX(bg="#FFE6FF" width="60%")}
 Note: Before you can run these other basic checks some form of setup must be done by your Administrator.{BOX}
+The required configuration may be an inventory or selection of parameters.
 ----
-!!13.2: Using inventories to setup checks [◙ VT02] 
+!!13.2: Using inventories to setup checks
 
 {BOX(bg="#FFE6FF" width="60%")}
 These inventories show what is currently in your text, that is, both the good and the bad. You need to work through the inventory and tell Paratext 8 which elements are correct (valid) and which are errors (invalid).{BOX}
-* From the Checking menu, choose the appripriate inventory (for example Character inventory).
-The verses are shown in the bottom pane.
-* For each element in the top pane, choose either Valid or Non valid.
-Details for the checks
+Once you have finished the inventory you will be ready to do the check.
+* From the Checking menu, choose the appropriate inventory (for example Character inventory).
+* Click on an item in the list in the top pane.The verses are shown in the bottom pane.
+* For each item in the top pane, choose either Valid or Non valid.
+* Repeat for each item.
+* Click OK.
+* Make any corrections as needed.
 ----
-!!13.3: Characters [◙ VT02] 
+!!13.3: Character 
 
 {BOX(bg="#FFE6FF" width="60%")}
 This inventory helps you identify all the incorrect characters, i.e. the characters which are not in your alphabet.{BOX}
 * Checking > Character inventory
+* For each item, choose Valid ou Invalid. 
+* Checking > Run Basic Checks 
+* Check « Characters » 
+* Click OK.
+* Make any corrections as needed..
 ----
-!!13.4: Punctuation [◙ VT03] 
+!!13.4: Punctuation
 
 {BOX(bg="#FFE6FF" width="60%")}
 Identify all the incorrect or misplaced punctuation marks. (Use the Unicode character column to clearly identify the punctuation.){BOX}
@@ -889,36 +893,53 @@ Identify all the incorrect or misplaced punctuation marks. (Use the Unicode char
 {BOX(bg="#FFE6FF" width="60%")}
 The contexts can be: word initial, word medial, word final or isolated (space before and after).{BOX}
 * Checking > Run Basic Checks
+* Check « Punctuation » 
+* Click OK. 
+* Make any corrections as needed.
 ----
-!!13.5: Paires correspondantes [◙ VT04]
+!!13.5: Paires correspondantes
 
+* If the list is empty, then there are no errors. 
+* If necessary, click Options... to add other pairs 
+* Checking > Run Basic Checks
+* Check « Unmatched pairs of punctuation 
+* Click OK. 
+* Make any corrections as needed. 
 ----
-!!13.6: Repeated words [◙ VT05] 
+!!13.6: Repeated words
 
-This check finds the words which have been immediately repeated in the text.
 * Checking > Repeated words inventory:
+* For each item, choose Valide ou Invalid. 
+* Checking > Run Basic Checks
+* Check « Repeated words 
+* Click OK. 
+* Make any corrections as needed. 
 ----
-!!13.7: Capitalization [◙ VT06] 
+!!13.7: Capitalization 
 
-There are four inventories needed for the capitalisation check but only one check. You may need to click the Options button to add markers or punctuation.
 * Checking> Markers Missing Final Sentence Punctuation
+* For each item, choose Valide ou Invalid. 
 * Checking> Markers followed by a lower case letter
+* For each item, choose Valide ou Invalid. 
 * Checking>Punctuation Followed by a Lower Case letter
+* For each item, choose Valide ou Invalid. 
 * Checking> Mixed Capitalization
-* For each item on the list, choose Valid or Non valid.
+* For each item, choose Valide ou Invalid. 
 * Checking > Run Basic Checks
 * Check « Capitalization »
 * Click OK.
 * Make any corrections as needed.
 ----
-!!13.8: Making minor corrections 
+!!13.8: Making minor corrections
 
-It is possible to make minor corrections from within a displayed inventory.
+{BOX(bg="#FFE6FF" width="60%")}
+It is possible to make minor corrections from within a displayed inventory.{BOX}
 * Click on a verse in the low pane
 * Hold the Shift and double-click
 * Make the correction
 * Click OK.
-However it is preferable to use the wordlist or the spell checker to correct all the errors at once.
+{BOX(bg="#FFE6FF" width="60%")}
+However it is preferable to use the wordlist or the spell checker to correct all the errors at once.{BOX}
 !!!13.8.1: Review 
 
 There are many basic checks in Paratext 8. The table below summarizes the setup needed for each of the checks.
@@ -949,38 +970,54 @@ Quoted text |none ||
 « numération » |paramètres |Vérification > Paramètres de chiffres 
 « quoted text » |aucun |  ||
 It is possible to run all the checks at the same time, however when running the checks for the first time it is better to run them one at a time to avoid large list of errors.
-!14: FC: Formatting checks 
+!14: FC: Formatting checks
 Introduction
+In this module, you will find and correct formatting and layout errors.Where we are
+You have typed your draft into a project in Paratext. You will use the checklists to find and correct errors related to the formatting and layout errors.Why this is important
+A New Testament contains more than just chapters and verses. There are also titles, section headings, and several types of paragraphs. These checks allow you to be sure that the layout of your text is correct, and your titles etc. are consistent.
+You will use the checklists to
 * compare your titles and section headings
+* check your paragraph breaks 
+* compare the paragraph markers in your text with those of your reference text
+* add markers for special text formatting 
 Summary
 ----
 !!14.1: Using the checklists – generic 
 
 {BOX(bg="#FFE6FF" width="60%")}
 There are a number of checklists which differ slightly but they have the following in common:{BOX}
+How to display the checklist
 * Tools > Checklists > choose the desired list
+* Add a comparative text (if desired) by clicking on the Texts button. Comparative text button
+* Select the verses/books (as necessary) using the Select range 
 Making corrections
 * Click the Edit link to correct any errors
+* Click on the reference link to see more context  
 Close the list
 * When you have finished with the list, close it by clicking the X at the top right corner of the window.
 ----
-!!14.2: Using checklist – Section headings (\s1) 
+!!14.2: Using checklist – Section headings
 
 Check that
-* The headings are consistent with your reference text
+* the headings are consistent with your reference text
+* all headings start with a capital
+* there is not punctuation at the end
+* they are not too long
 ----
 !!14.3: Paragraph breaks 
 
 * Tools > Checklists > Markers
-* ***
-* ***
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image39.png" class=img-responsive}
+* Choose your reference text as the comparative text
+* Click Settings{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image39.png" class=img-responsive}
 * Type the paragraph makers to be displayed(e.g. p m)
-* ***
+* Click OK
+* Make any corrections by clicking on the blue Edit link. 
 OR
 * Click on the blue verse reference link.
+* Make any corrections in Paratext.
+* Return to the checklist by clicking on the icon on the taskbar.
 ----
-!!14.4: Layout and indents 
+!!14.4: Layout and indents
 
 * Tools > Checklists > Markers
 * ***
@@ -990,11 +1027,11 @@ OR
 * ***
 * ***
 ----
-!!14.5: Add USFMs to format special text 
+!!14.5: Add USFMs to format special text
 
 * See the list of passages with special formatting
 * Add the USFM as necessary (see module KD or help if necessary).
-!15: PD : Printing Drafts 
+!15: PD: Printing Drafts
 Introduction
 In this module you will learn how to print a draft of your translation for checking and revising.Where we are
 You have entered and checked your translation in Paratext 8 and are now ready to print out a copy. Your project must be registered before you can print.Why this is important
@@ -1003,9 +1040,10 @@ You will first produce a PDF version of your translation, which you can print or
 Summary
 This module shows you how to:
 ----
-!!15.1: Create a PDF file [◙ IE01] 
+!!15.1: Create a PDF file
 
-Make sure you have completed a markers check before printing a draft.
+{BOX(bg="#FFE6FF" width="60%")}
+Make sure you have completed a markers check before printing a draft.{BOX}
 * File > Print Draft
 * Check that your project is selected.
 * Choose which book(s) and chapters to print.
@@ -1016,39 +1054,33 @@ Make sure you have completed a markers check before printing a draft.
 * Text body font: Charis SIL (or Charis SIL Compact)
 * Size: 10 (or 11)
 * Line spacing: 1.0 (for single spacing)
-* Click OK and wait, the file will open in your PDF reader.
-* If there are marker error a message box will appear. Click No, then correct the errors and try again.
+* Click OK and wait, the file will open in your PDF reader.If there are marker error a message box will appear. Click No, then correct the errors and try again.
 ----
-!!15.2: Print PDF [◙ IE02] 
+!!15.2: Print a PDF
 
 In Adobe Reader
 * File > Print.
 * For A5
 * Choose Booklet
-* Orientation : portrait
-* To print double-sided:
-* Click the Properties button
-* Choose Finition/Finishing
-* Choose Print on both sides
-* Orientation Landscape
-* Click OK
-If you need to use spaces before complex punctuation the ask for changes to be made in your PrintDraftChanges.txt
+* Orientation : portrait (for newer printers or landscape for Win7)
+* To print double-sided
+{BOX(bg="#FFE6FF" width="60%")}
+If you want to follow a punctuation system (such as French) and have spaces automatically inserted before complex punctuation, then see a consultant to have changes made to be your PrintDraftChanges.txt{BOX}
 ----
 !!15.3: Copy PDF file to a USB stick
 
-Paratext 8 saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
-There are many ways to copy files. One method is described below.
-* Hold the Windows Key (ÿ)and type E
-Windows Explorer opens.
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
+There are many ways to copy files. One method is described below.{BOX}
+* Hold the Windows Key and type EWindows Explorer opens.
 * Go to your My Paratext 8 Projects folder.
 * Double-click on your project folder
 * Double-click the PrintDraft folder
 * Right-click on the desired PDF file
 * Choose Send to
 * Choose your USB stick.
-!16: UN : Using Notes 
-
-||Inserting and editing notes |Resolving notes |Filtering notes |Printing notes |Checking notes ||Introduction 
+!16: UN: Using Notes
+Introduction 
 As you are translating and checking you may want to make comments on various errors or issues. You may also want to record your discussions on key terms and spelling issues. Paratext 8 allows you to record these comments either in the text, the Biblical terms list or the wordlist.Where we are
 You are typing or revising your text, wordlist or keyterms and need to make comments on an issue you have seen.
 {BOX(bg="#FFE6FF" width="60%")}
@@ -1062,10 +1094,11 @@ You will:
 * add rendering discussion notes to a Biblical terms list
 * add spelling notes to the wordlist.
 ----
-!!16.1: Different types of project notes 
+!!16.1: Different types of project notes
 
-You can choose from many different icons for your project notes in Paratext 8 :
-{BOX(bg="#FFE6FF" width="60%")}{BOX}An icon can have four different colours or shapes
+You can choose from many different icons for your project notes in Paratext 8:
+{BOX(bg="#FFE6FF" width="60%")}
+Tip: Don't have too many icons!{BOX}An icon can have four different colours or shapes
 ||Icon |Description |Meaning 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image43.jpeg" class=img-responsive} |Icon has a border and a yellow background color. |The note has a least one unread comment. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image44.png" class=img-responsive} |Icon is red, purple, or light blue. |A project note assigned to you, or to the whole team, or unassigned. 
@@ -1077,37 +1110,50 @@ You can choose from many different icons for your project notes in Paratext 8 :
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image50.png" class=img-responsive} |Icon is a light blue globe. |A global consultant note. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image51.png" class=img-responsive} |Icon is a black exclamation point within a red triangle. |There is a Send/Receive merge conflict because two users have made different changes to the same verse. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image52.png" class=img-responsive} |Icon is a white arrow on a blue background. |There is a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) 
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |Icon is gray with an arrow on the cover of a book. |There is NOT a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) ||Summary
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |Icon is gray with an arrow on the cover of a book. |There is NOT a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) ||
 ----
-!!16.2: Setup additional note types 
+!!16.2: Setup additional note types
 
 (One must be an Administrator)
 * Project > Propject proprities and settings
+* Click the Notes tab
+* Click on the Add Tab buttonA new line is added.
 * Click the icon on the new tag line
+* Choose the desired icon
+* Type a name for the new note type
+* Continue for any other new notes.
 ----
-!!16.3: Inserting a project note [◙ UR01] 
+!!16.3: Inserting a project note
 
-* Click in the text where you want the note.
-An icon is displayed beside the text.
+* Click in the text where you want the note (and select any appropriate text).
+* Insert > Note
+* Choose the desired tag from the list{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image54.png" class=img-responsive}
+* Type the text for the note
+* Click OK.An icon is displayed beside the text.
 ----
-!!16.4: Open notes [◙ UR05] 
+!!16.4: Open notes
 
 * File > Open Notes...
-A note window opens.
+* Select your project.
+* Click OK.A note window opens.
 * Adjust the filters as needed.
-If the window is blank then change the filters – the first filter is for the type of note, the second is for the location
+{BOX(bg="#FFE6FF" width="60%")}
+If the window is blank then change the filters – the first filter is for the type of note, the second is for the location{BOX}
 ----
-!!16.5: Add comments to an existing note [◙ UR02] 
+!!16.5: Add comments to an existing note 
 
-* Click the icon({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text
+* Click the icon({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the textThe note opens.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image61.png" class=img-responsive}
+* Type a note
+* Click OK
 ----
-!!16.6: Add comments from a notes window 
+!!16.6: Add comments from a notes window
 
 * Click arrow to expand the note ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image56.png" class=img-responsive})
 * Type your comments in the textbox.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image57.png" class=img-responsive}
 * Resolve or assign the note as needed.
+* Click the arrow to collapse the note.
 ----
-!!16.7: Assign a note to someone [◙ UR03] 
+!!16.7: Assign a note to someone 
 
 * Click the icon ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text.
 * Type your comments
@@ -1115,31 +1161,29 @@ If the window is blank then change the filters – the first filter is for the t
 * Choose as desired
 * Click OK
 ----
-!!16.8: Apply notes to multiple texts 
+!!16.8: Apply notes to multiple texts
 
 * Open the note from the text
 * Click the "Multiple" button
 * Choose the projects
 * Click OK
-* Open the note from the text
 * Click OK again to close the dialog box.
 ----
 !!16.9: Reattach note
 
-If the text you select when you insert a project note is later changed or deleted, the note icon moves to another location in the verse.
-* Click the note icon in the text.
+* Click the note icon in the text to open the note.
 * Click the Reattach Note button (on the toolbar) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image58.png" class=img-responsive}
 * Select the word(s) to attach it to.
-* Click OK.
+* Click OK.The note is attached to the word(s).
 ----
-!!16.10: Resolve a note [◙ UR04]
+!!16.10: Resolve a note
 
 * Click on the icon ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text
 * Type another comment if necessary.
 * Click the Resolve button {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image59.png" class=img-responsive}
 * Click OK
 ----
-!!16.11: Print a notes report [◙ UR06] 
+!!16.11: Print a notes report
 
 * Click in a notes window.
 * Filter the list as desired.
@@ -1158,10 +1202,6 @@ If the text you select when you insert a project note is later changed or delete
 !!16.13: Notes window 
 
 * There are four dropdown boxes on the toolbar
-* Notes filter
-* Verse filter
-* Search
-* Sort by [verse, date, assigned to]
 ----
 !!16.14: Notes filter
 
@@ -1173,7 +1213,7 @@ If the text you select when you insert a project note is later changed or delete
 * Click the first button/list
 * Choose New filter{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image60.png" class=img-responsive}
 * Choose the status, tag, person and date as desired.
-* Click OK.
+* Click OK
 ----
 !!16.16: Save a filter
 
@@ -1182,18 +1222,17 @@ If the text you select when you insert a project note is later changed or delete
 * Type a name for the filter
 * Click the save icon.!Intro and Stage 1
 
-!1: Introduction 
+!1: Introduction
 
 ----
-!!1.1: Goal 
+!!1.1: Goal
 
 The participants will process their translation with the help of Paratext 8 , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between Paratext 7 et Paratext 8.
 ----
-!!1.2: Course Objectives 
+!!1.2: Course Objectives
 
 At the end of the course, the participant will be able to:Start Paratext 8 
 * Start the Paratext 8 program using a desktop icon.
-* Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau.
 Stage 1 : DraftingOpen projects and resources to understand the text before translating
 * Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.
 * Organise these windows on the screen and save as a text combination.Enter the translation
@@ -1249,16 +1288,15 @@ The following modules will help you in this stage :
 * GL: Adding glossary items
 * BC1: Basic checks — chapter/verse and markers.
 * PP2 : Project plan — complete a task
-!2: OD : Organising your desktop
+!2: OD: Organising your desktop
 
 Introduction
 As you work with your text in Paratext 8 you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.Where we are
 We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.Why this is important
 The translator who organises his/her desktop well has all the resources necessary for his/her work.What are you going to do?
-You will start the Paratext 8 program and open a previously saved text combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.Summary
-This module shows you how to:
+You will start the Paratext 8 program and open a previously saved text combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.
 ----
-!!2.1: Load the Paratext 8 programLancer le programme Paratext
+!!2.1: Load the Paratext 8 program
 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
 * Double-click on Paratext 8 icon on the desktop OR
@@ -1267,40 +1305,41 @@ This module shows you how to:
 !!2.2: Open a saved text combination
 
 * Click on the Window menu
-* Choose a saved text combination.
-* Your screen should look like the picture below (if not, see the following page).
+* Choose a saved text combination.Your screen should look like the picture below (if not, see the following page).
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image4.png" class=img-responsive}
 ----
 !!2.3: Create a new text combination
 
 If you haven’t already saved a text combination, then we recommend you do the following:
-----
-!!2.4: Open and arrange the windows
+!!!2.3.1: Open and arrange the windows
 
 * Window > Unstacked
 * Open the 5 windows as follows:
-5 =your project (File > Open project/resource
-1 = Renderings (File > Open Biblical Terms renderings)
-2 = Source text (File > Open Source language text)
-3 = Dictionary (File > Open source language dictionary )
+* 
+* 5 =your project (File > Open project/resource
+* 1 = Renderings (File > Open Biblical Terms renderings)
+* 2 = Source text (File > Open Source language text)
+* 3 = Dictionary (File > Open source language dictionary)
+* 
+* 
 4= Text collection (File > Open project/resource in Text Collection)
+* 
 * Arrange the windows as desired.
-----
-!!2.5: Save the text combination
+!!!2.3.2: Save the text combination
 
 Once the windows are arranged as desired:
 * Window > Saved text combination
 * Type a name [or to replace an existing combination, choose the existing name]
 * Click OK
 ----
-!!2.6: Delete a text combination
+!!2.4: Delete a text combination
 
 If you want to delete a saved combination,
 * Window – Delete text combination
 * Choose the name of the saved combination.
 * Click Delete
 ----
-!!2.7: Open resources in a Text collection
+!!2.5: Open resources in a Text collection
 
 {BOX(bg="#FFE6FF" width="60%")}
 With Paratext, it is possible to have several project/resources open at the same time. However, rather than having too many windows, it is better to have severals text in one window.{BOX}
@@ -1310,9 +1349,10 @@ With Paratext, it is possible to have several project/resources open at the same
 * Repeat as necessary.
 * If necessary, change the order using the up/down arrow buttons.
 * Click OK
-You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.
+{BOX(bg="#FFE6FF" width="60%")}
+You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.{BOX}
 ----
-!!2.8: Open a dictionary
+!!2.6: Open a dictionary
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can open a source language dictionary with glosses in other languages.{BOX}
@@ -1320,7 +1360,7 @@ You can open a source language dictionary with glosses in other languages.{BOX}
 * Choose « A Concise Greek-English Dictionary of the New Testament »
 * View > choose a language (e.g. Français)
 ----
-!!2.9: Make a list of verses of a specific term from the source language text
+!!2.7: Make a list of verses of a specific term from the source language text
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can have a list of verses for a specific Greek/Hebrew word.{BOX}
@@ -1333,7 +1373,7 @@ You can have a list of verses for a specific Greek/Hebrew word.{BOX}
 * Change to the Biblical Terms Tool
 * Double-click on the term.
 ----
-!!2.10: Recall
+!!2.8: Recall
 
 * The translators who ________ their desktops have all the _________ they need for their work.
 * You use the __________ menu to save or delete _____________ of text.
@@ -1363,7 +1403,7 @@ This module shows you how to:
 * From the first dropdown menu, choose either My tasks or All tasks{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image8.png" class=img-responsive}
 A list of the various tasks and checks are displayed.
 ----
-!!3.3: Identify the next task 
+!!3.3: Identify the next task
 
 The list of tasks shows the uncompleted tasks.-
 * Identify the next task for you need to do.
@@ -1372,19 +1412,15 @@ The list of tasks shows the uncompleted tasks.-
 * 
 * 
 ----
-!!3.4: Mark a task as complete Mark a book task as completed
+!!3.4: Mark a task as complete
 
-!!!3.4.1: 
+!!!3.4.1: Mark a book task as completed
 
-* Click on the checkmark to the left of the status.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image9.png" class=img-responsive}
-It should turn solid to show it is completed.
-!!!3.4.2: Mark a chapter task as completed 
+* Click on the checkmark to the left of the status.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}It should turn solid to show it is completed.
+!!!3.4.2: Mark a chapter task as completed
 
-* Click + to mark the next chapter as complete
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
-* To mark other chapters as complete you can click on the word Completed.
-A dialog box is displayed with a list of the chapters.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
+* Click + to mark the next chapter as complete{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
+* To mark other chapters as complete you can click on the word Completed.A dialog box is displayed with a list of the chapters.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
 * Check the chapters that have been completed.
 * **To mark some verses only, click to the right and check the individual verses.
 ----
@@ -1398,7 +1434,7 @@ A check is complete when there are No issues.
 * Complete the setup as appropriate.
 * Close the window when finished.
 If there is more than one inventory you will need to set them up manually from the Checking menu.
-!!!3.5.2: Checks – issues 
+!!!3.5.2: Checks – issues
 
 * Click on the blue link “ …. issues”
 * Make the necessary corrections.
@@ -1410,35 +1446,31 @@ If there is more than one inventory you will need to set them up manually from t
 ''Introduction''
 This module explains how to keyboard your draft translations into a project which has already been created in Paratext 8.Where we are
 We are about to keyboard text into an existing project. Before you can do that, someone must have already installed the program and created a project for your data.Why this is important
-This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.Summary
-This module shows you how to:
+This is the first stage of putting your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.
 ----
-!!4.1: Load the Paratext 8 program 
+!!4.1: Load the Paratext 8 program
 
 ----
-!!4.2: Go to a Biblical verse [◙ SD01] 
+!!4.2: Go to a Biblical verse
 
 {BOX(bg="#FFE6FF" width="60%")}
 Before you can start typing your text, you need to move your cursor to the right book, chapter and verse. You use the toolbar to do this.{BOX}
-* Using the icons on the toolbar, change the project, book, chapter and verse as needed.
-project book chapter verse
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image12.png" class=img-responsive}
+* Using the icons on the toolbar, change the project, book, chapter and verse as needed.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image12.png" class=img-responsive}
 ----
-!!4.3: Check that the project is editable 
+!!4.3: Check that the project is editable
 
 Look at the titlebar of your project.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image13.png" class=img-responsive}
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image13.png" class=img-responsive}
 The titlebar should either have your name or the word (Editable).
 * If your project is shared and your name is not on the titlebar, you should talk with your project administrator.
 * If it is not editable, try changing the view (see below).
 ----
-!!4.4: Changing the view [◙ SD02] 
+!!4.4: Changing the view
 
 Paratext 8 has five views. All but the Preview view are editable.
 * Ctrl + E -or-
 * From the View menu, choose the view (usually Standard).
 ----
-!!4.5: Typing special characters 
+!!4.5: Typing special characters
 
 {BOX(bg="#FFE6FF" width="60%")}
 Some orthographic characters are not found on the keyboard. To type these characters you need to press more than one key.{BOX}
@@ -1447,7 +1479,7 @@ Some orthographic characters are not found on the keyboard. To type these charac
 * Type the keys as in the table in .
 Note : You can use View > Highlight Invalid Characters to highlight invalide characters.
 ----
-!!4.6: Adding text in another marker (such as title or introduction) 
+!!4.6: Adding text in another marker - title or introduction
 
 Each piece of text needs to have a marker. The markers for the chapters and verses are already in your project. When you want to add text such as headings, or introductions etc you need to also add the appropriate marker as follows:
 * Move your cursor to the end of the previous paragraph :
@@ -1458,7 +1490,7 @@ Each piece of text needs to have a marker. The markers for the chapters and vers
 {BOX(bg="#FFE6FF" width="60%")}
 You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example \q1).{BOX}
 ----
-!!4.7: Add paragraph breaks 
+!!4.7: Add paragraph breaks
 
 {BOX(bg="#FFE6FF" width="60%")}
 Dividing the text into paragraphs:{BOX}
@@ -1466,13 +1498,13 @@ Dividing the text into paragraphs:{BOX}
 * Press « Enter »
 * Type p « Enter »
 ----
-!!4.8: Saving your work 
+!!4.8: Saving your work
 
 {BOX(bg="#FFE6FF" width="60%")}
 It is important to save your work regularly.{BOX}
 * File > Save All –or- Ctrl + S
 ----
-!!4.9: Insert Footnotes 
+!!4.9: Insert Footnotes
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can add footnotes in the text at the place where you want the reference to appear.{BOX}
@@ -1484,7 +1516,7 @@ Type the text after the \ft{BOX}
 If you hover your mouse over the superscript letter the text of the footnote will be displayed in a tip box.
 To change the footnote, click the superscript letter in the text. To delete the footnote you can delete the superscript letter.{BOX}
 ----
-!!4.10: Send/receive to a USB stick to backup your data [◙ SD04] 
+!!4.10: Send/receive to a USB stick to backup your data
 
 {BOX(bg="#FFE6FF" width="60%")}
 It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:{BOX}
@@ -1495,14 +1527,14 @@ or
 * Choose either Internet Server or USB drive (as desired)
 * Click Send/Receive.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image16.png" class=img-responsive}''The computer will make a copy of your files. A progress meter will be displayed. A message box will only appear if there are any problems.''
 ----
-!!4.11: Moving your cursor efficiently 
+!!4.11: Moving your cursor efficiently
 
 {BOX(bg="#FFE6FF" width="60%")}
 A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.{BOX}
 * The arrow keys, ← ↑ → ↓ Home, End, PgUp, et PgDn, F8 (chapter), F9 (book)
 * or Ctrl + any of those keys
 ----
-!!4.12: Recall : 
+!!4.12: Recall :
 
 If the titlebar doesn’t say (Editable), you should try changing the __________.
 To add a different marker (such as section heading) you press _______.
@@ -1519,7 +1551,7 @@ You will use the Biblical terms tool to add a rendering for the term and then us
 Summary
 This module shows you how to:
 ----
-!!5.1: 
+!!5.1: Add an entry
 
 * Move to a verse which contains the term you want to add to the glossary.
 * Right-click and choose "View Biblical Terms", then "Current Verset(s)"
@@ -1530,7 +1562,7 @@ This module shows you how to:
 * Type the Definition [2]
 * Click OK ''The word and the definition will be added to the glossary in alphabetical order.''
 ----
-!!5.2: Link an existing entry [◙ GL02] 
+!!5.2: Link an existing entry
 
 {BOX(bg="#FFE6FF" width="60%")}
 If the word is already in the glossary, you can link a term to the existing entry.{BOX}
@@ -1541,19 +1573,19 @@ If the word is already in the glossary, you can link a term to the existing entr
 * Choose the entry from the glossary
 * Click OK
 ----
-!!5.3: View the glossary  
+!!5.3: View the glossary 
 
 In Paratext
 * Use the navigation bar to change the book{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image18.png" class=img-responsive}
 * Choose the GLO book
 ----
-!!5.4: Edit an entry – in the GLO book [◙ GL03] 
+!!5.4: Edit an entry – in the GLO book
 
 In Paratext
 * Open the GLO book
 * Edit the text as normal.
 ----
-!!5.5: Edit an entry – in the Biblical Terms [◙ GL04] 
+!!5.5: Edit an entry – in the Biblical Terms
 
 * Tools > Biblical terms...
 * Double-click on the word in the list in the top pane.
@@ -1561,7 +1593,7 @@ In Paratext
 * Edit la définition
 * Click OK.
 ----
-!!5.6: Add a Biblical Term 
+!!5.6: Add a Biblical Term
 
 * see page 61***
 ----
@@ -1571,7 +1603,7 @@ In Paratext
 * The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.
 * To view the glossary, you change to the _____ book (after Revelation).
 Answers: Tools, Edit Rendering, double-click, top, GLO
-!6: BC1 : Basic checks
+!6: BC1: Basic checks
 Introduction 
 In this module, you will check the chapters/verses and the markers using two methods: the Project plan and the Checking menu.Where we are
 You have typed your text in Paratext. Now you want to start checking. In this module we start with the first two basic checks.Why this is important
@@ -1595,7 +1627,7 @@ It is easier to run the checks from the project plan.
 * Close the results list window.
 * Continue with the markers check.
 ----
-!!6.3: Running the checks from the menus 
+!!6.3: Running the checks from the menus
 
 {BOX(bg="#FFE6FF" width="60%")}
 If you want to check more than one book at a time, you can run the checks from the checking menu.{BOX}
@@ -1663,12 +1695,12 @@ Introduction 
 The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image22.png" class=img-responsive}
 The following modules will help you in this stage :
 * ((PARATEXT_8_1-2_Stage2|8.: PN: Proper Names|PN: Proper Names))
-* ((PARATEXT_8_1-2_Stage2|8.: SP : Spell Checking|SP : Spell Checking))
-* ((PARATEXT_8_1-2_Stage2|8.: BT : A 4-Step process for consistent Biblical Terms |BT : A 4-Step process for consistent Biblical Terms ))
+* ((PARATEXT_8_1-2_Stage2|8.: SP: Spell Checking|SP: Spell Checking))
+* ((PARATEXT_8_1-2_Stage2|8.: BT: A 4-Step process for consistent Biblical Terms |BT: A 4-Step process for consistent Biblical Terms ))
 * ((PARATEXT_8_1-2_Stage2|8.: FC: Formatting checks|FC: Formatting checks))
-* ((PARATEXT_8_1-2_Stage2|8.: BC2 : Basic checks|BC2 : Basic checks))
-* ((PARATEXT_8_1-2_Stage2|8.: PD : Printing Drafts|PD : Printing Drafts))
-* ((PARATEXT_8_1-2_Stage2|8.: UN : Using Notes|UN : Using Notes))
+* ((PARATEXT_8_1-2_Stage2|8.: BC2: Basic checks|BC2: Basic checks))
+* ((PARATEXT_8_1-2_Stage2|8.: PD: Printing Drafts|PD: Printing Drafts))
+* ((PARATEXT_8_1-2_Stage2|8.: UN: Using Notes|UN: Using Notes))
 !9: PN: Proper Names
 Introduction
 In this module, you will check that the proper names have been transliterated consistently.Where we are
@@ -1759,7 +1791,7 @@ There are times when a verse is correctly translated even though you haven’t u
 {BOX(bg="#FFE6FF" width="60%")}
 Note : Paratext 8 doesn’t find names in the introductions, headings, footnotes, captions or glossary.{BOX}
 ----
-!!9.12: Recall 
+!!9.12: Recall
 
 * To transliterate proper names, you ______ the _________________ list on names.
 * Then use the _______ menu and ____________ command.
@@ -1769,7 +1801,7 @@ Note : Paratext 8 doesn’t find names in the introductions, headings, footnotes
 * You can add a rendering by selecting the text and pressing Ctrl+__.
 * If a pronoun is used you can ______ the rending by clicking on the {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive}.
 Answers: filter, Major Biblical Terms, names, Tools, Adapt Names, character approve, proposed, correcting, consistent, A, deny
-!10: SP : Spell Checking
+!10: SP: Spell Checking
 Introduction
 This module explains how to check for spelling mistakes in the text you have typed into you project in Paratext 8 .Where we are
 You have type your text in Paratext 8 and have done some checks but there may still be spelling mistakes in the text.Why is this important?
@@ -1782,7 +1814,7 @@ This module shows you how to:
 
 {BOX(bg="#FFE6FF" width="60%")}
 Before you can check the spelling, it is important to have a base of words that are known to be correct. There are three things we can do:{BOX}
-!!!10.1.1: Approve the spelling of common words [◙ VO01a] 
+!!!10.1.1: Approve the spelling of common words
 
 In Paratext
 * Tools > Wordlist
@@ -1793,7 +1825,7 @@ In the Wordlist
 The number is the number of times the words must appear to automatically mark it as being spelled correctly. The default is 100 but you can choose more (if you have doubts about the text) or less (if you are confident about the acuracy of the typist).{BOX}
 * Click OK
 * Click Yes (to confirm that you can’t undo)
-!!!10.1.2: Check the words that Paratext 8 thinks are incorrect  
+!!!10.1.2: Check the words that Paratext 8 thinks are incorrect 
 
 In the Wordlist (Tools > WordList)
 * Tools > Spell Check > All checks''A list of words is displayed.''
@@ -1801,7 +1833,7 @@ In the Wordlist (Tools > WordList)
 * If the word is correct – click the green checkbox {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26.png" class=img-responsive}
 * If the word is incorrect, but Paratext 8 has suggested the correct word, then click the blue link for the correct word.
 * If the word is incorrect, and Paratext 8 hasn’t suggested the correct word, click on the red checkbox {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26a.png" class=img-responsive} and correct the word.
-!!!10.1.3: Check similarly spelled words 
+!!!10.1.3: Check similarly spelled words
 
 In the Wordlist
 * Tools > Find Similar Words
@@ -1852,7 +1884,6 @@ A list of words is displayed.
 * Continue as needed.
 * When the list is finished, a message is displayed{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image30.png" class=img-responsive}
 * Click Yes.
-* Oui (Yes).
 ----
 !!10.6: All checks
 
@@ -1901,7 +1932,7 @@ A list of words is displayed with similar words grouped together.
 * Find the word in the list (using the filter if necessary)
 * Click on the line
 * Click the correct spelling status.
-!11: BT : A 4-Step process for consistent Biblical Terms 
+!11: BT: A 4-Step process for consistent Biblical Terms 
 Introduction
 The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This process should be considered part of the translation process and not a check.Where we are
 You are translating a verse in Paratext 8 and you want to see what renderings have already been chosen for the terms in the current verse and then make sure they are consistent with other verses.Why this is important
@@ -1911,10 +1942,9 @@ This method boils down to a short list of steps:
 # Choose which rendering is/are best, and record why it is best.
 # Document why you rejected the other renderings.
 # Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).
-Repeat with next Biblical Term you find in the Biblical Terms Renderings window.Summary
-This module shows you how to:
+Repeat with next Biblical Term you find in the Biblical Terms Renderings window.
 ----
-!!11.1: Open the Biblical terms rending window [◙ VT01] 
+!!11.1: Open the Biblical terms rending window
 
 * Click in your project
 * File > Open Biblical terms rendering
@@ -1922,23 +1952,22 @@ This module shows you how to:
 * Choose the desired list
 * Click OK.
 ----
-!!11.2: Find the terms for the current verse 
+!!11.2: Find the terms for the current verse
 
 * Is there a tick in the found column?
 * If there is a tick, your verse uses the term and you can continue with the next term.
 * If not, you need to either correct your text or add the new term you have used (see below).
 ----
-!!11.3: Add another rendering **
+!!11.3: Add another rendering
 
 If the term you have used needs to be added to the list:
 * Select the rendering of the term in your text.
 * Copy it (ctrl+c)
-* Double-click in the renderings cell.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image35.png" class=img-responsive}{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
-* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image37.png" class=img-responsive}
+* Double-click in the renderings cell.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image35.png" class=img-responsive}''The edit renderings dialog is displayed.''{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
 * Paste (Ctrl+v) the rendering in the dialog box.
 * Click OK.
 ----
-!!11.4: Find other verses in the current book with the same Biblical term 
+!!11.4: Find other verses in the current book with the same Biblical term
 
 * Double-click on a word in the Term column''The Biblical Terms Tool opens''
 * From the second filter button choose current book
@@ -1950,56 +1979,56 @@ If the term you have used needs to be added to the list:
 * Add the rendering using Ctrl+A
 * Continue until all terms for those verses have been identified.
 ----
-!!11.6: Dealing with verses that don’t use the term 
+!!11.6: Dealing with verses that don’t use the term
 
 {BOX(bg="#FFE6FF" width="60%")}
 There are times when a verse is translated without using the actual term. For example when a pronoun is used. In this case you need to deny that it is an error.{BOX}
 * Click the red cross {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} to the left of the verse reference link. The red cross turns into a green tick with a small red x {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive}
 If you click on the cross by mistake, click on it again and it will return to a red X.
 ----
-!!11.7: Identify the best term 
+!!11.7: Identify the best term
 
 * Double-click on the term in the top pane.''The edit rendering dialog is displayed listing all the renderings that have been added.''
 * Decide on the best rendering
 * Cut (Ctrl+x) and paste (Ctrl+v) it to the top of the dialogue box
 * Add * as necessary to combine similar renderings
 ----
-!!11.8: Reject all the others 
+!!11.8: Reject all the others
 
 * Select and cut the other renderings.
 ----
-!!11.9: Document the reason for the change 
+!!11.9: Document the reason for the change
 
 * Click on the History button{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37b.png" class=img-responsive}
 * Type in the reason why the others were rejected and why the first was the best.
 * Click OK
 ----
-!!11.10: If you need more than one rendering 
+!!11.10: If you need more than one rendering
 
 {BOX(bg="#FFE6FF" width="60%")}
 You can add more than one rendering if appropriate. In this case it is good to add a back translation in brackets after then rendering. For example,  slave (slave) guy * work fo (guy that works for){BOX}
 * Open the Edit renderings dialog box
 * Edit the renderings as needed.
 ----
-!!11.11: Clean up other books (as time permits) 
+!!11.11: Clean up other books (as time permits)
 
 * Change the filter so that all the published books are displayed.
 * Clean up verses as necessary.
 ----
-!!11.12: Add the Biblical terms notes (ongoing discussion) 
+!!11.12: Add the Biblical terms notes - ongoing discussion
 
 * Double-click on the note icon (in the second column){img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37.png" class=img-responsive}
 * Type in the note
 * Assign the note as necessary.
 * Click OK.
 ----
-!!11.13: Add the decision to the renderings description 
+!!11.13: Add the decision to the renderings description
 
 * Double-click on the term
 * Type the agreed-on rendering in the description field{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image37a.png" class=img-responsive}
 * Click OK
 ----
-!!11.14: Add a term 
+!!11.14: Add a term
 
 In Paratext
 * From your reference text, do a find (using Edit > Find) and search for the term.''A list is displayed showing the verses with that term.''
@@ -2009,15 +2038,15 @@ From the list of results
 * Click on the Advanced tab
 * Type in a name for the term
 * Click OK
-!12: MP : Compare a word or phrase
+!12: MP: Compare a word or phrase
 
-In this module, you will search for a word or phrase in a project and compare it with the translation of that word or phrase in another project.Why this is importantIn Paratext 8 (and above), you can see where a word or phrase is found in one project and compare it with the word or phrase (or a translation of the word or phrase) is found in one or more other projects. For example, you can see where "roi" is found in a French project and compare it with "rey"in a Spanish project.
+In this module, you will search for a word or phrase in a project and compare it with the translation of that word or phrase in another project.Why this is important?In Paratext 8 (and above), you can see where a word or phrase is found in one project and compare it with the word or phrase (or a translation of the word or phrase) is found in one or more other projects. For example, you can see where "roi" is found in a French project and compare it with "rey"in a Spanish project.
 You will
 * use the checklist “Word or Phrase” from both the text and also the Biblical Terms Too.
 * change the settings and comparative texts
-* type the word or phrase to compare for each project SummaryThis modules shows how to:
+* type the word or phrase to compare for each project SummaryThis module shows how to:
 ----
-!!12.1: Compare a word of phrase - from the text 
+!!12.1: Compare a word of phrase - from the text
 
 * Click in the project that you want to compare
 * From the Tools menu, point to Checklists, and select Word of Phrase.The Parameters dialogue is displayed.
@@ -2030,40 +2059,55 @@ Type the word of phrase that you want to compare in the textbox for each of the 
 A window is displayed with a button "Hide matches" on the toolbar.
 Click on the "Hide matches" to show only those references where there are differences.The list shows the verses which contain matches. The word or phrase is highlighted in light blue.
 ----
-!!12.2: 
+!!12.2: Compare using a Word of Phrase from several translations - from the Biblical Terms tool
 
-Compare using a Word of Phrase from several translations - from the Biblical Terms tool
 * In the Biblical Terms tool
 * Choose a term which has a rendering
 * Click on the tool icon
 The Setting dialogue is displayed with the rending filled-in.
 * Type the word or expression for the other projects
 * Click OK
-!13: BC2 : Basic checks
+!13: BC2: Basic checks
 
-* Confirm that the setup has been doneSummary
+In this module, you will learn to do several other basic checks (Characters, punctuation, capitals, and repeated words. As in the first Basic Checks module (((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks))), it is easiest to run these checks from the project plan. Nevertheless, if you want to check several books, you will need to use the Verification menu.Where are we?
+You have typed your translation in Paratext 8. Be sure that you have checked the chapter/verse numbers and markers, as described in ((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks)), before continuing.Why this is important?
+Paratext 8 has eleven Basic Checks.In ((PARATEXT_8_1-2_IntroStage1|13.: BC1: Basic checks|BC1: Basic checks)), you have already seen the first two, chapter/verse numbers and markers. This module will help you to find errors linked to spelling, punctuation, capital letters an repeated words. Even if these errors may not influence the content of the text, correcting them makes the text easier to read.What we are going to do:
+Most of the verifications require that a certain inventory has been completed.
+* Confirm that the setup has been done
+* do the Basic Checks
+* correct any errorsSummary
+This module shows you how to:
 ----
-!!13.1: Confirm the setup Confirmer la configuration
+!!13.1: Confirm the setup
 
 {BOX(bg="#FFE6FF" width="60%")}
 Note: Before you can run these other basic checks some form of setup must be done by your Administrator.{BOX}
+The required configuration may be an inventory or selection of parameters.
 ----
-!!13.2: Using inventories to setup checks [◙ VT02] 
+!!13.2: Using inventories to setup checks
 
 {BOX(bg="#FFE6FF" width="60%")}
 These inventories show what is currently in your text, that is, both the good and the bad. You need to work through the inventory and tell Paratext 8 which elements are correct (valid) and which are errors (invalid).{BOX}
-* From the Checking menu, choose the appripriate inventory (for example Character inventory).
-The verses are shown in the bottom pane.
-* For each element in the top pane, choose either Valid or Non valid.
-Details for the checks
+Once you have finished the inventory you will be ready to do the check.
+* From the Checking menu, choose the appropriate inventory (for example Character inventory).
+* Click on an item in the list in the top pane.The verses are shown in the bottom pane.
+* For each item in the top pane, choose either Valid or Non valid.
+* Repeat for each item.
+* Click OK.
+* Make any corrections as needed.
 ----
-!!13.3: Characters [◙ VT02] 
+!!13.3: Character 
 
 {BOX(bg="#FFE6FF" width="60%")}
 This inventory helps you identify all the incorrect characters, i.e. the characters which are not in your alphabet.{BOX}
 * Checking > Character inventory
+* For each item, choose Valid ou Invalid. 
+* Checking > Run Basic Checks 
+* Check « Characters » 
+* Click OK.
+* Make any corrections as needed..
 ----
-!!13.4: Punctuation [◙ VT03] 
+!!13.4: Punctuation
 
 {BOX(bg="#FFE6FF" width="60%")}
 Identify all the incorrect or misplaced punctuation marks. (Use the Unicode character column to clearly identify the punctuation.){BOX}
@@ -2071,36 +2115,53 @@ Identify all the incorrect or misplaced punctuation marks. (Use the Unicode char
 {BOX(bg="#FFE6FF" width="60%")}
 The contexts can be: word initial, word medial, word final or isolated (space before and after).{BOX}
 * Checking > Run Basic Checks
+* Check « Punctuation » 
+* Click OK. 
+* Make any corrections as needed.
 ----
-!!13.5: Paires correspondantes [◙ VT04]
+!!13.5: Paires correspondantes
 
+* If the list is empty, then there are no errors. 
+* If necessary, click Options... to add other pairs 
+* Checking > Run Basic Checks
+* Check « Unmatched pairs of punctuation 
+* Click OK. 
+* Make any corrections as needed. 
 ----
-!!13.6: Repeated words [◙ VT05] 
+!!13.6: Repeated words
 
-This check finds the words which have been immediately repeated in the text.
 * Checking > Repeated words inventory:
+* For each item, choose Valide ou Invalid. 
+* Checking > Run Basic Checks
+* Check « Repeated words 
+* Click OK. 
+* Make any corrections as needed. 
 ----
-!!13.7: Capitalization [◙ VT06] 
+!!13.7: Capitalization 
 
-There are four inventories needed for the capitalisation check but only one check. You may need to click the Options button to add markers or punctuation.
 * Checking> Markers Missing Final Sentence Punctuation
+* For each item, choose Valide ou Invalid. 
 * Checking> Markers followed by a lower case letter
+* For each item, choose Valide ou Invalid. 
 * Checking>Punctuation Followed by a Lower Case letter
+* For each item, choose Valide ou Invalid. 
 * Checking> Mixed Capitalization
-* For each item on the list, choose Valid or Non valid.
+* For each item, choose Valide ou Invalid. 
 * Checking > Run Basic Checks
 * Check « Capitalization »
 * Click OK.
 * Make any corrections as needed.
 ----
-!!13.8: Making minor corrections 
+!!13.8: Making minor corrections
 
-It is possible to make minor corrections from within a displayed inventory.
+{BOX(bg="#FFE6FF" width="60%")}
+It is possible to make minor corrections from within a displayed inventory.{BOX}
 * Click on a verse in the low pane
 * Hold the Shift and double-click
 * Make the correction
 * Click OK.
-However it is preferable to use the wordlist or the spell checker to correct all the errors at once.
+{BOX(bg="#FFE6FF" width="60%")}
+However it is preferable to use the wordlist or the spell checker to correct all the errors at once.{BOX}
 !!!13.8.1: Review 
 
 There are many basic checks in Paratext 8. The table below summarizes the setup needed for each of the checks.
@@ -2131,38 +2192,54 @@ Quoted text |none ||
 « numération » |paramètres |Vérification > Paramètres de chiffres 
 « quoted text » |aucun |  ||
 It is possible to run all the checks at the same time, however when running the checks for the first time it is better to run them one at a time to avoid large list of errors.
-!14: FC: Formatting checks 
+!14: FC: Formatting checks
 Introduction
+In this module, you will find and correct formatting and layout errors.Where we are
+You have typed your draft into a project in Paratext. You will use the checklists to find and correct errors related to the formatting and layout errors.Why this is important
+A New Testament contains more than just chapters and verses. There are also titles, section headings, and several types of paragraphs. These checks allow you to be sure that the layout of your text is correct, and your titles etc. are consistent.
+You will use the checklists to
 * compare your titles and section headings
+* check your paragraph breaks 
+* compare the paragraph markers in your text with those of your reference text
+* add markers for special text formatting 
 Summary
 ----
 !!14.1: Using the checklists – generic 
 
 {BOX(bg="#FFE6FF" width="60%")}
 There are a number of checklists which differ slightly but they have the following in common:{BOX}
+How to display the checklist
 * Tools > Checklists > choose the desired list
+* Add a comparative text (if desired) by clicking on the Texts button. Comparative text button
+* Select the verses/books (as necessary) using the Select range 
 Making corrections
 * Click the Edit link to correct any errors
+* Click on the reference link to see more context  
 Close the list
 * When you have finished with the list, close it by clicking the X at the top right corner of the window.
 ----
-!!14.2: Using checklist – Section headings (\s1) 
+!!14.2: Using checklist – Section headings
 
 Check that
-* The headings are consistent with your reference text
+* the headings are consistent with your reference text
+* all headings start with a capital
+* there is not punctuation at the end
+* they are not too long
 ----
 !!14.3: Paragraph breaks 
 
 * Tools > Checklists > Markers
-* ***
-* ***
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image39.png" class=img-responsive}
+* Choose your reference text as the comparative text
+* Click Settings{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image39.png" class=img-responsive}
 * Type the paragraph makers to be displayed(e.g. p m)
-* ***
+* Click OK
+* Make any corrections by clicking on the blue Edit link. 
 OR
 * Click on the blue verse reference link.
+* Make any corrections in Paratext.
+* Return to the checklist by clicking on the icon on the taskbar.
 ----
-!!14.4: Layout and indents 
+!!14.4: Layout and indents
 
 * Tools > Checklists > Markers
 * ***
@@ -2172,11 +2249,11 @@ OR
 * ***
 * ***
 ----
-!!14.5: Add USFMs to format special text 
+!!14.5: Add USFMs to format special text
 
 * See the list of passages with special formatting
 * Add the USFM as necessary (see module KD or help if necessary).
-!15: PD : Printing Drafts 
+!15: PD: Printing Drafts
 Introduction
 In this module you will learn how to print a draft of your translation for checking and revising.Where we are
 You have entered and checked your translation in Paratext 8 and are now ready to print out a copy. Your project must be registered before you can print.Why this is important
@@ -2185,9 +2262,10 @@ You will first produce a PDF version of your translation, which you can print or
 Summary
 This module shows you how to:
 ----
-!!15.1: Create a PDF file [◙ IE01] 
+!!15.1: Create a PDF file
 
-Make sure you have completed a markers check before printing a draft.
+{BOX(bg="#FFE6FF" width="60%")}
+Make sure you have completed a markers check before printing a draft.{BOX}
 * File > Print Draft
 * Check that your project is selected.
 * Choose which book(s) and chapters to print.
@@ -2198,39 +2276,33 @@ Make sure you have completed a markers check before printing a draft.
 * Text body font: Charis SIL (or Charis SIL Compact)
 * Size: 10 (or 11)
 * Line spacing: 1.0 (for single spacing)
-* Click OK and wait, the file will open in your PDF reader.
-* If there are marker error a message box will appear. Click No, then correct the errors and try again.
+* Click OK and wait, the file will open in your PDF reader.If there are marker error a message box will appear. Click No, then correct the errors and try again.
 ----
-!!15.2: Print PDF [◙ IE02] 
+!!15.2: Print a PDF
 
 In Adobe Reader
 * File > Print.
 * For A5
 * Choose Booklet
-* Orientation : portrait
-* To print double-sided:
-* Click the Properties button
-* Choose Finition/Finishing
-* Choose Print on both sides
-* Orientation Landscape
-* Click OK
-If you need to use spaces before complex punctuation the ask for changes to be made in your PrintDraftChanges.txt
+* Orientation : portrait (for newer printers or landscape for Win7)
+* To print double-sided
+{BOX(bg="#FFE6FF" width="60%")}
+If you want to follow a punctuation system (such as French) and have spaces automatically inserted before complex punctuation, then see a consultant to have changes made to be your PrintDraftChanges.txt{BOX}
 ----
 !!15.3: Copy PDF file to a USB stick
 
-Paratext 8 saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
-There are many ways to copy files. One method is described below.
-* Hold the Windows Key (ÿ)and type E
-Windows Explorer opens.
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
+There are many ways to copy files. One method is described below.{BOX}
+* Hold the Windows Key and type EWindows Explorer opens.
 * Go to your My Paratext 8 Projects folder.
 * Double-click on your project folder
 * Double-click the PrintDraft folder
 * Right-click on the desired PDF file
 * Choose Send to
 * Choose your USB stick.
-!16: UN : Using Notes 
-
-||Inserting and editing notes |Resolving notes |Filtering notes |Printing notes |Checking notes ||Introduction 
+!16: UN: Using Notes
+Introduction 
 As you are translating and checking you may want to make comments on various errors or issues. You may also want to record your discussions on key terms and spelling issues. Paratext 8 allows you to record these comments either in the text, the Biblical terms list or the wordlist.Where we are
 You are typing or revising your text, wordlist or keyterms and need to make comments on an issue you have seen.
 {BOX(bg="#FFE6FF" width="60%")}
@@ -2244,10 +2316,11 @@ You will:
 * add rendering discussion notes to a Biblical terms list
 * add spelling notes to the wordlist.
 ----
-!!16.1: Different types of project notes 
+!!16.1: Different types of project notes
 
-You can choose from many different icons for your project notes in Paratext 8 :
-{BOX(bg="#FFE6FF" width="60%")}{BOX}An icon can have four different colours or shapes
+You can choose from many different icons for your project notes in Paratext 8:
+{BOX(bg="#FFE6FF" width="60%")}
+Tip: Don't have too many icons!{BOX}An icon can have four different colours or shapes
 ||Icon |Description |Meaning 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image43.jpeg" class=img-responsive} |Icon has a border and a yellow background color. |The note has a least one unread comment. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image44.png" class=img-responsive} |Icon is red, purple, or light blue. |A project note assigned to you, or to the whole team, or unassigned. 
@@ -2259,37 +2332,50 @@ You can choose from many different icons for your project notes in Paratext 8 :
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image50.png" class=img-responsive} |Icon is a light blue globe. |A global consultant note. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image51.png" class=img-responsive} |Icon is a black exclamation point within a red triangle. |There is a Send/Receive merge conflict because two users have made different changes to the same verse. 
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image52.png" class=img-responsive} |Icon is a white arrow on a blue background. |There is a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) 
-{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |Icon is gray with an arrow on the cover of a book. |There is NOT a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) ||Summary
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |Icon is gray with an arrow on the cover of a book. |There is NOT a rendering discussion note for this Biblical Term. (Biblical terms window or tool only) ||
 ----
-!!16.2: Setup additional note types 
+!!16.2: Setup additional note types
 
 (One must be an Administrator)
 * Project > Propject proprities and settings
+* Click the Notes tab
+* Click on the Add Tab buttonA new line is added.
 * Click the icon on the new tag line
+* Choose the desired icon
+* Type a name for the new note type
+* Continue for any other new notes.
 ----
-!!16.3: Inserting a project note [◙ UR01] 
+!!16.3: Inserting a project note
 
-* Click in the text where you want the note.
-An icon is displayed beside the text.
+* Click in the text where you want the note (and select any appropriate text).
+* Insert > Note
+* Choose the desired tag from the list{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image54.png" class=img-responsive}
+* Type the text for the note
+* Click OK.An icon is displayed beside the text.
 ----
-!!16.4: Open notes [◙ UR05] 
+!!16.4: Open notes
 
 * File > Open Notes...
-A note window opens.
+* Select your project.
+* Click OK.A note window opens.
 * Adjust the filters as needed.
-If the window is blank then change the filters – the first filter is for the type of note, the second is for the location
+{BOX(bg="#FFE6FF" width="60%")}
+If the window is blank then change the filters – the first filter is for the type of note, the second is for the location{BOX}
 ----
-!!16.5: Add comments to an existing note [◙ UR02] 
+!!16.5: Add comments to an existing note 
 
-* Click the icon({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text
+* Click the icon({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the textThe note opens.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image61.png" class=img-responsive}
+* Type a note
+* Click OK
 ----
-!!16.6: Add comments from a notes window 
+!!16.6: Add comments from a notes window
 
 * Click arrow to expand the note ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image56.png" class=img-responsive})
 * Type your comments in the textbox.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image57.png" class=img-responsive}
 * Resolve or assign the note as needed.
+* Click the arrow to collapse the note.
 ----
-!!16.7: Assign a note to someone [◙ UR03] 
+!!16.7: Assign a note to someone 
 
 * Click the icon ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text.
 * Type your comments
@@ -2297,31 +2383,29 @@ If the window is blank then change the filters – the first filter is for the t
 * Choose as desired
 * Click OK
 ----
-!!16.8: Apply notes to multiple texts 
+!!16.8: Apply notes to multiple texts
 
 * Open the note from the text
 * Click the "Multiple" button
 * Choose the projects
 * Click OK
-* Open the note from the text
 * Click OK again to close the dialog box.
 ----
 !!16.9: Reattach note
 
-If the text you select when you insert a project note is later changed or deleted, the note icon moves to another location in the verse.
-* Click the note icon in the text.
+* Click the note icon in the text to open the note.
 * Click the Reattach Note button (on the toolbar) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image58.png" class=img-responsive}
 * Select the word(s) to attach it to.
-* Click OK.
+* Click OK.The note is attached to the word(s).
 ----
-!!16.10: Resolve a note [◙ UR04]
+!!16.10: Resolve a note
 
 * Click on the icon ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) in the text
 * Type another comment if necessary.
 * Click the Resolve button {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image59.png" class=img-responsive}
 * Click OK
 ----
-!!16.11: Print a notes report [◙ UR06] 
+!!16.11: Print a notes report
 
 * Click in a notes window.
 * Filter the list as desired.
@@ -2340,10 +2424,6 @@ If the text you select when you insert a project note is later changed or delete
 !!16.13: Notes window 
 
 * There are four dropdown boxes on the toolbar
-* Notes filter
-* Verse filter
-* Search
-* Sort by [verse, date, assigned to]
 ----
 !!16.14: Notes filter
 
@@ -2355,7 +2435,7 @@ If the text you select when you insert a project note is later changed or delete
 * Click the first button/list
 * Choose New filter{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image60.png" class=img-responsive}
 * Choose the status, tag, person and date as desired.
-* Click OK.
+* Click OK
 ----
 !!16.16: Save a filter
 
