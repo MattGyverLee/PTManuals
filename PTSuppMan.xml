@@ -97,6 +97,12 @@ type="tPT"
 ></object
 >.</p
 ><p
+contentType="en"
+>In this module, you will install Paratext 8. Paratext is the world’s leading software application for the development and checking of new Bible translation texts, or revisions to existing texts. Developed jointly by UBS and SIL International, it enables consistent and accurate translation, based on original texts, and modelled on versions in major languages. Due in part to its cutting edge collaboration features, Paratext greatly assists in producing higher quality translations in much less time than previous tools and methods have allowed.</p
+><p
+contentType="fr"
+>Dans ce module, vous installez Paratext 8. Paratext est la première application logicielle mondiale pour le développement et la vérification de nouveaux textes de traduction de la Bible ou des révisions aux textes existants. Développé conjointement par UBS et SIL International, il permet une traduction cohérente et précise, basée sur des textes originaux et modélisés sur des versions dans les principales langues. En partie grâce à ses fonctionnalités de collaboration de pointe, Paratext contribue grandement à produire des traductions de meilleure qualité en moins de temps que les outils et les méthodes précédents ont permis.</p
+><p
 contentType="fr"
 >Paratext 8 est le résultat d’un effort concerté pour simplifier le processus de gestion des projets de traduction et d’accès aux ressources. En conséquence, il fallait que les données et les serveurs changent. Les utilisateurs souhaitaient moins de difficultés avec l’inscription et moins d’attente pour les codes d’inscription. Ils voulaient avoir accès à davantage de ressources y compris une version gratuite de Paratext qui ne nécessiterait pas de licence pour son utilisation. C’est désormais possible avec Paratext 8.</p
 ><p
@@ -146,7 +152,7 @@ type="tPT"
 > can both be installed at the same time but you need to understand the limitation of using them together.</p
 ><p
 contentType="fr"
->Paratext 7 et Paratext 8 peuvent être installées, mais il faut comprendre la limitation de leur utilisation ensemble. (check**missing**)</p
+>Paratext 7 et Paratext 8 peuvent être installées, mais il faut comprendre la limitation de leur utilisation ensemble.</p
 ><ul
 ><li
 contentType="en"
@@ -3866,9 +3872,11 @@ type="tmenu"
 id="sPP1Ren"
 ><secTitle
 ><object
+contentType="en"
 type="t-en"
 >Rename or edit tasks</object
 > <object
+contentType="fr"
 type="t-fr"
 >Renommer ou modifier les tâches</object
 ></secTitle
@@ -3900,9 +3908,11 @@ contentType="fr"
 id="sPP1Ver"
 ><secTitle
 ><object
+contentType="en"
 type="t-en"
 >Check the settings</object
 ><object
+contentType="fr"
 type="t-fr"
 >Vérifier les paramètres</object
 ></secTitle
@@ -3914,8 +3924,10 @@ contentType="en"
 contentType="en"
 >how do you to mark the task as complete (once for each chapter, book or project)</li
 ><li
+contentType="en"
 >when can the task begin (anytime, or wait for another task ...)</li
 ><li
+contentType="en"
 >do you need editing permission (if so, which project)</li
 ><li
 contentType="fr"

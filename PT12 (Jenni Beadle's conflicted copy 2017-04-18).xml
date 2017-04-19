@@ -19,12 +19,12 @@ type="tPT"
 ><object
 contentType="fr"
 type="t-fr"
->Manuel de cours : Étapes 1 &amp; 2 : (Français)</object
+>Manuel de cours Étape 1 &amp; 2 : (Français)</object
 ><object
 contentType="en"
 type="t-en"
 xml:lang="en"
->Course Manual: Stages 1 &amp; 2: (English)</object
+>Course Manual Stage 1 &amp; 2: (English)</object
 ></subtitle
 ><author
 >Jenni Beadle</author
@@ -40,17 +40,10 @@ contentType="fr"
 label="Contenu"
 ></contents
 ></frontMatter
-><chapterBeforePart
-id="c"
-><secTitle
->Intro</secTitle
-><p
-></p
-></chapterBeforePart
 ><part
 id="introstage1"
 ><secTitle
-> Stage 1 Drafting</secTitle
+>Intro and Stage 1</secTitle
 ><shortTitle
 ><object
 contentType="en"
@@ -61,76 +54,6 @@ contentType="fr"
 type="t-fr"
 >PARATEXT_8_1-2_IntroÉtape1</object
 ></shortTitle
-><p
-contentType="en"
->Stage 1 : Drafting</p
-><p
-contentType="fr"
->Étape 1 : Première ébauche</p
-><p
-contentType="en"
->Introduction</p
-><p
-contentType="fr"
->Introduction </p
-><p
-contentType="en"
->There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.</p
-><p
-contentType="fr"
->Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.</p
-><p
-contentType="en"
-><img
-src="12imgeng/image2.png"
-></img
-></p
-><p
-contentType="en"
->The following modules will help you in this stage :</p
-><p
-contentType="fr"
->Les modules suivants vous aiderez avec cette étape :</p
-><ul
-><li
-contentType="en"
->OB: Organising your desktop</li
-><li
-contentType="fr"
->OB : Organisation du bureau </li
-><li
-contentType="en"
->PP1: Project plan — the next task</li
-><li
-contentType="fr"
->PP : Plan du projet — la prochaine tâche</li
-><li
-contentType="en"
->KD: Keyboarding your draft</li
-><li
-contentType="fr"
->SD : Saisir votre texte </li
-><li
-contentType="en"
->GL: Adding glossary items</li
-><li
-contentType="fr"
->GL : Ajouter les entrées dans le glossaire </li
-><li
-contentType="en"
->BC1: Basic checks — chapter/verse and markers.</li
-><li
-contentType="fr"
->VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
-><li
-contentType="en"
->PP2 : Project plan — complete a task</li
-><li
-contentType="fr"
->PP2 : Plan et progrès du projet — compléter une tâche </li
-></ul
-><p
-></p
 ><chapter
 id="sIntro"
 ><secTitle
@@ -160,7 +83,7 @@ contentType="en"
 >The participants will process their translation with the help of <object
 type="tPT"
 ></object
->, a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between <object
+> , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between <object
 type="tPTPrev"
 ></object
 > et <object
@@ -359,10 +282,19 @@ contentType="fr"
 ></ul
 ><p
 contentType="en"
->Stage 2 : Team checking</p
+><object
+type="italic"
+>Stage 2 : Team checking</object
+></p
+><p
+contentType="dn"
+>these two (above and below) need to be bigger headings somehow</p
 ><p
 contentType="fr"
->Étape 2 : Vérifications par l’équipe </p
+><object
+type="italic"
+>Étape 2 : Vérifications par l’équipe </object
+></p
 ><pc
 contentType="en"
 ><object
@@ -490,6 +422,9 @@ contentType="en"
 contentType="fr"
 >Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.</li
 ></ul
+><p
+contentType="dn"
+>This needs to be a section 1.3??</p
 ><p
 contentType="en"
 >Introductions, setup</p
@@ -671,6 +606,77 @@ contentType="en"
 ><li
 contentType="fr"
 >Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, ajoutez à Anki.</li
+></ul
+><p
+contentType="dn"
+>***this needs to be a main heading of some sort!!</p
+><p
+contentType="en"
+>Stage 1 : Drafting</p
+><p
+contentType="fr"
+>Étape 1 : Première ébauche</p
+><p
+contentType="en"
+>Introduction</p
+><p
+contentType="fr"
+>Introduction </p
+><p
+contentType="en"
+>There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.</p
+><p
+contentType="fr"
+>Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.</p
+><p
+contentType="en"
+><img
+src="12imgeng/image2.png"
+></img
+></p
+><p
+contentType="en"
+>The following modules will help you in this stage :</p
+><p
+contentType="fr"
+>Les modules suivants vous aiderez avec cette étape :</p
+><ul
+><li
+contentType="en"
+>OB: Organising your desktop</li
+><li
+contentType="fr"
+>OB : Organisation du bureau </li
+><li
+contentType="en"
+>PP1: Project plan — the next task</li
+><li
+contentType="fr"
+>PP : Plan du projet — la prochaine tâche</li
+><li
+contentType="en"
+>KD: Keyboarding your draft</li
+><li
+contentType="fr"
+>SD : Saisir votre texte </li
+><li
+contentType="en"
+>GL: Adding glossary items</li
+><li
+contentType="fr"
+>GL : Ajouter les entrées dans le glossaire </li
+><li
+contentType="en"
+>BC1: Basic checks — chapter/verse and markers.</li
+><li
+contentType="fr"
+>VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
+><li
+contentType="en"
+>PP2 : Project plan — complete a task</li
+><li
+contentType="fr"
+>PP2 : Plan et progrès du projet — compléter une tâche </li
 ></ul
 ></section1
 ></chapter
@@ -1014,6 +1020,9 @@ type="tmenu"
 >Ouvrir un dictionnaire de langue source</object
 >)</p
 ></li
+><li
+contentType="dn"
+>why are there blank lines in 3 and 4 in the PDF?</li
 ><li
 ><p
 contentType="en"
@@ -1706,7 +1715,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Identifiez la prochaine tâche à faire</object
+>Identifiez la prochaine tâche à faire </object
 ></secTitle
 ><p
 contentType="en"
@@ -1735,14 +1744,14 @@ contentType="fr"
 >Faites les taches. (Voir les autres modules si nécessaire.)</li
 ><li
 contentType="fr"
->(***framed) Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. </li
+>(framed) Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. </li
 ><li
 contentType="fr"
 >Une vérification est achevée quand il n’y a rien à signaler. </li
 ></ul
 ></section1
 ><section1
-id="sTaskComplete"
+id="s17"
 ><secTitle
 ><object
 contentType="en"
@@ -1754,7 +1763,7 @@ type="t-fr"
 >Marquer une tâche comme achevé</object
 ></secTitle
 ><section2
-id="sBookComplete"
+id="s18"
 ><secTitle
 ><object
 contentType="en"
@@ -1850,12 +1859,12 @@ contentType="fr"
 ><img
 src="12imgeng/image11.png"
 ></img
+></p
 ><br
 ></br
 ><img
 src="12imgfr/image10.png"
 ></img
-></p
 ></li
 ></ul
 ><ul
@@ -1875,7 +1884,7 @@ contentType="fr"
 ></section2
 ></section1
 ><section1
-id="sSomeCheck"
+id="sSomeChecks"
 ><secTitle
 ><object
 contentType="en"
@@ -1901,7 +1910,7 @@ contentType="en"
 contentType="fr"
 >Une vérification est complèt quand il y a “No issues”.</p
 ><section2
-id="sChecksSetup"
+id="sChecksSetupRequired"
 ><secTitle
 ><object
 contentType="en"
@@ -1910,7 +1919,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Vérifications - setup required</object
+>Vérifications —setup required</object
 ></secTitle
 ><ul
 ><li
@@ -1971,7 +1980,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Vérifications - erreurs</object
+>Vérifications — erreurs</object
 ></secTitle
 ><ul
 ><li
@@ -2126,7 +2135,7 @@ id="sGoToABiblicalVerse"
 ><object
 contentType="en"
 type="t-en"
->Go to a Biblical verse</object
+>Go to a Biblical verse [◙ SD01]</object
 ><object
 contentType="fr"
 type="t-fr"
@@ -2172,28 +2181,28 @@ contentType="fr"
 type="t-fr"
 >Vérifier que le projet est modifiable</object
 ></secTitle
-><p
+><ul
+><li
 contentType="en"
 >Look at the titlebar of your project.<br
 ></br
 ><img
 src="12imgeng/image13.png"
 ></img
-></p
-><p
+><br
+></br
+>The titlebar should either have your name or the word (Editable).</li
+><li
 contentType="fr"
 >Regardez la barre de titre de votre projet.<br
 ></br
 ><img
 src="12imgfr/image13.png"
 ></img
-></p
-><p
-contentType="en"
->The titlebar should either have your name or the word (Editable).</p
-><p
-contentType="fr"
->La barre de titre doit dire soit (Modifiable) soit un nom.</p
+><br
+></br
+>La barre de titre doit dire soit (Modifiable) soit un nom.</li
+></ul
 ><ul
 ><li
 contentType="en"
@@ -2342,11 +2351,11 @@ id="sAddingTextInAnotherMarker"
 ><object
 contentType="en"
 type="t-en"
->Adding text in another marker - title or introduction</object
+>Adding text in another marker (such as title or introduction)</object
 ><object
 contentType="fr"
 type="t-fr"
->Ajouter texte avec un autre marqueur - titre ou introduction</object
+>Ajouter texte avec un autre marqueur (comme un titre ou introduction)</object
 ></secTitle
 ><p
 contentType="en"
@@ -2636,7 +2645,7 @@ id="sSendReceiveUSB"
 ><object
 contentType="en"
 type="t-en"
->Send/receive to a USB stick to backup your data</object
+>Send/receive to a USB stick to backup your data [◙ SD04]</object
 ><object
 contentType="fr"
 type="t-fr"
@@ -2665,18 +2674,17 @@ src="12imgeng/image15.png"
 ></img
 ></li
 ><li
+contentType="en"
+>OR</li
+><li
 contentType="fr"
 >Cliquez sur l’icône Envoyer/Recevoir <img
 src="12imgeng/image15.png"
 ></img
-> pour faire Envoyer/Recevoir suivant les paramètres précédent.  </li
+> pour faire Envoyer/Recevoir suivant les paramètres précédent. <br
+></br
+>—ou— </li
 ></ul
-><p
-contentType="en"
->or</p
-><p
-contentType="fr"
->—ou—</p
 ><ul
 ><li
 contentType="en"
@@ -3114,11 +3122,11 @@ id="sLinkAnExistingEntry"
 ><object
 contentType="en"
 type="t-en"
->Link an existing entry</object
+>Link an existing entry </object
 ><object
 contentType="fr"
 type="t-fr"
->Lier une entrée existante</object
+>Lier une entrée existante </object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3239,7 +3247,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Modifier une entrée  – dans le livre GLO</object
+>Modifier une entrée  – dans le livre </object
 ></secTitle
 ><p
 contentType="en"
@@ -3268,11 +3276,11 @@ id="sEditAnEntryBibTerms"
 ><object
 contentType="en"
 type="t-en"
->Edit an entry – in the Biblical Terms</object
+>Edit an entry – in the Biblical Terms </object
 ><object
 contentType="fr"
 type="t-fr"
->Modifier une entrée  – dans les termes bibliques</object
+>Modifier une entrée  – dans les termes bibliques </object
 ></secTitle
 ><ul
 ><li
@@ -3373,26 +3381,29 @@ contentType="en"
 >You open the Biblical Terms tool from the ________ menu.</li
 ><li
 contentType="fr"
->Vous pouvez ouvrir l'outil termes bibliques du menu ________ .</li
+>On ouvre l'Outil de termes bibliques du menu __________</li
 ><li
 contentType="en"
 >The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.</li
 ><li
 contentType="fr"
->L'onglet « glossaire »est sur la ________ dialogue. Pour ouvrir cette dialogue  ________-clique sur le terme dans le volet en _____.</li
+>L'onglet de glossary se trouve dans la boîte de dialogue _____. Pour ouvrir ce dialog on _____ -cliquer sur le term dans le volet ____</li
 ><li
 contentType="en"
 >To view the glossary, you change to the _____ book (after Revelation).</li
 ><li
 contentType="fr"
->Pour voir la glossaire, on change au livre  _____  (après Apocalypse).</li
+>Pour voir la glossaire, on change au _______ livre (après Apogolypse)</li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
-contentType="en"
+contentType="fr"
 >Answers: Tools, Edit Rendering, double-click, top, GLO</p
 ><p
 contentType="fr"
->Réponse: Outils, Modifier l'équivalent, double-cliquez, haut, GLO</p
+>Réponses : Outils, Modifier l'équivalents, double, haut, GLO</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
@@ -3898,6 +3909,8 @@ contentType="en"
 ><object
 type="tsub"
 >Where we are</object
+></pc
+><pc
 ></pc
 ><p
 contentType="en"
@@ -5186,11 +5199,11 @@ id="sApproveTheSpellingOfCommonWords"
 ><object
 contentType="en"
 type="t-en"
->Approve the spelling of common words</object
+>Approve the spelling of common words [◙ VO01a]</object
 ><object
 contentType="fr"
 type="t-fr"
->Approuver l’orthographe des mots fréquents</object
+>Approuver l’orthographe des mots fréquents [◙ VO01a] </object
 ></secTitle
 ><p
 contentType="en"
@@ -6247,10 +6260,10 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This is a process should be considered part of the translation process and not a check.</p
+>The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This process should be considered part of the translation process and not a check.</p
 ><p
 contentType="fr"
->La fenêtre d’équivalents de termes biblique et l’outil Termes bibliques sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. C'est un processus et doit être considéré comme une partie du processus de traduction et pas comme une vérification.</p
+>La fenêtre d’équivalents de termes biblique et l’outil Termes bibliques sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. Ce processus doit être considéré comme une partie du processus de traduction et pas comme une vérification.</p
 ><pc
 contentType="en"
 ><object
@@ -6349,11 +6362,11 @@ id="sOpenTheBiblicalTermsRendingWindow"
 ><object
 contentType="en"
 type="t-en"
->Open the Biblical terms rending window</object
+>Open the Biblical terms rending window [◙ VT01]</object
 ><object
 contentType="fr"
 type="t-fr"
->Ouvrir la fenêtre d’équivalents de termes bibliques</object
+>Ouvrir la fenêtre d’équivalents de termes bibliques [◙ VT01] </object
 ></secTitle
 ><ul
 ><li
@@ -6424,20 +6437,6 @@ id="sFindTheTermsForTheCurrentVerse"
 ><object
 contentType="en"
 type="t-en"
->A. Find all the ways you have rendered this term</object
-><object
-contentType="fr"
-type="t-fr"
->A. Trouver tous les équivalents pour ce terme</object
-></secTitle
-><ul
-></ul
-><section2
-id="s"
-><secTitle
-><object
-contentType="en"
-type="t-en"
 >Find the terms for the current verse</object
 ><object
 contentType="fr"
@@ -6463,11 +6462,9 @@ contentType="en"
 ><li
 contentType="fr"
 >Sinon, vous devez soit corriger votre texte soit ajouter le nouveau terme que vous avez utilisé (voir ci-dessous) </li
-><li
-></li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sAddAnotherRendering"
 ><secTitle
 ><object
@@ -6503,7 +6500,7 @@ contentType="en"
 >Double-click in the renderings cell.<br
 ></br
 ><img
-src="12imgeng\renderings1.png"
+src="12imgeng/image35.png"
 ></img
 ><br
 ></br
@@ -6514,7 +6511,7 @@ type="tItalic"
 ><br
 ></br
 ><img
-src="12imgeng\renderings1a.png"
+src="12imgeng\image37a.png"
 ></img
 ></li
 ><li
@@ -6531,7 +6528,7 @@ contentType="fr"
 type="tItalic"
 >Une boîte de dialogue s’affiche.</object
 ><img
-src="12imgfr\renderings1a.png"
+src="12imgfr/image37.png"
 ></img
 ></li
 ></ul
@@ -6567,8 +6564,8 @@ type="tmenu"
 >OK.</object
 ></li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sFindOtherVersesInTheCurrentBook"
 ><secTitle
 ><object
@@ -6609,12 +6606,7 @@ type="tItalic"
 ><ul
 ><li
 contentType="en"
->From the second filter button choose current book<br
-></br
-><img
-src="12imgeng/renderings1b.png"
-></img
-></li
+>From the second filter button choose current book</li
 ><li
 contentType="fr"
 >À partir du deuxième champs de filtre, choisissez <object
@@ -6633,8 +6625,8 @@ contentType="fr"
 contentType="en"
 >Add renderings for the term from the verses until the terms in all verses are been identified (see below).</li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sAddRenderingsFromTheOtherVerses"
 ><secTitle
 ><object
@@ -6678,8 +6670,8 @@ contentType="en"
 contentType="fr"
 >Continuez jusqu’à tous les équivalents ont été identifié. </li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sDealingWithVersesThatDoNotUSeTerm"
 ><secTitle
 ><object
@@ -6720,7 +6712,6 @@ contentType="fr"
 src="12imgeng/image24.png"
 ></img
 > pour retourner à la croix rouge. </p
-></section2
 ></section1
 ><section1
 id="sIdentifyTheBestTerm"
@@ -6728,11 +6719,11 @@ id="sIdentifyTheBestTerm"
 ><object
 contentType="en"
 type="t-en"
->B. Identify the best term</object
+>Identify the best term</object
 ><object
 contentType="fr"
 type="t-fr"
->B. Identifier le meilleur équivalent</object
+>Identifier le meilleur équivalent</object
 ></secTitle
 ><ul
 ><li
@@ -6793,20 +6784,10 @@ type="tkey"
 >) à la première ligne de la liste.  </li
 ><li
 contentType="en"
->Add * as necessary to combine similar renderings<br
-></br
-><img
-src="12imgeng\renderings2b.png"
-></img
-></li
+>Add * as necessary to combine similar renderings</li
 ><li
 contentType="fr"
->Ajoutez les * comme nécessaire pour combiner les équivalents similaires. <br
-></br
-><img
-src="12imgfr\renderings2b.png"
-></img
-></li
+>Ajoutez les * comme nécessaire pour combiner les équivalents similaires. </li
 ></ul
 ></section1
 ><section1
@@ -6815,11 +6796,11 @@ id="sRejectAllTheOthers"
 ><object
 contentType="en"
 type="t-en"
->C. Reject all the others</object
+>Reject all the others</object
 ><object
 contentType="fr"
 type="t-fr"
->C. Rejeter tous les autres</object
+>Rejeter tous les autres</object
 ></secTitle
 ><ul
 ><li
@@ -6836,11 +6817,11 @@ id="sDocumentTheReasonForTheChange"
 ><object
 contentType="en"
 type="t-en"
->D. Document the reason for the change</object
+>Document the reason for the change</object
 ><object
 contentType="fr"
 type="t-fr"
->D. Documenter la raison pour la modification</object
+>Documenter la raison pour la modification</object
 ></secTitle
 ><ul
 ><li
@@ -6864,12 +6845,7 @@ src="12imgfr/image39.png"
 ></li
 ><li
 contentType="en"
->Type in the reason why the others were rejected and why the first was the best.<br
-></br
-><img
-src="12imgeng\renderings3b.png"
-></img
-></li
+>Type in the reason why the others were rejected and why the first was the best.</li
 ><li
 contentType="fr"
 >Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. <br
@@ -6882,7 +6858,8 @@ src="12imgfr/image40.png"
 contentType="en"
 >Click OK</li
 ></ul
-><section2
+></section1
+><section1
 id="sIfYouNeedMoreThanOneRendering"
 ><secTitle
 ><object
@@ -6925,8 +6902,8 @@ contentType="en"
 contentType="fr"
 >Ajoutez/modifiez les équivalents comme nécessaires. </li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sCleanUpOtherBooks"
 ><secTitle
 ><object
@@ -6952,18 +6929,18 @@ contentType="en"
 contentType="fr"
 >Nettoyez les versets comme nécessaires. </li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sAddTheBiblicalTermsNotes"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Add the Biblical terms notes - ongoing discussion</object
+>Add the Biblical terms notes (ongoing discussion)</object
 ><object
 contentType="fr"
 type="t-fr"
->Ajouter les remarques des discussions des équivalents - discussion en cours</object
+>Ajouter les remarques des discussions des équivalents (discussion en cours)</object
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -6973,7 +6950,7 @@ contentType="en"
 >If you are still deciding on the rendering you should add a rendering discussion note.</p
 ><p
 contentType="fr"
->Si vous ne décidez pas définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.</p
+>Si vous décidez définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.</p
 ></framedUnit
 ><ul
 ><li
@@ -6981,7 +6958,7 @@ contentType="en"
 >Double-click on the note icon (in the second column)<br
 ></br
 ><img
-src="12imgeng/renderingsnote2.png"
+src="12imgeng/image37.png"
 ></img
 ></li
 ><li
@@ -6992,7 +6969,7 @@ contentType="fr"
 >Double-cliquez sur l’icône de remarque (dans la deuxième colonne) <br
 ></br
 ><img
-src="12imgfr/renderingsnote2.png"
+src="12imgfr/image41.png"
 ></img
 > </li
 ><li
@@ -7020,8 +6997,8 @@ type="tmenu"
 >OK</object
 >. </li
 ></ul
-></section2
-><section2
+></section1
+><section1
 id="sAddTheDecisionToTheRenderingsDescription"
 ><secTitle
 ><object
@@ -7045,7 +7022,7 @@ contentType="en"
 >Type the agreed-on rendering in the description field<br
 ></br
 ><img
-src="12imgeng/renderingsnote3.png"
+src="12imgeng/image37a.png"
 ></img
 ></li
 ><li
@@ -7071,7 +7048,6 @@ type="tmenu"
 >OK</object
 > </li
 ></ul
-></section2
 ></section1
 ><section1
 id="sAddATerm"
@@ -7144,7 +7120,7 @@ type="tmenu"
 >, then choose your project<br
 ></br
 ><img
-src="12imgeng/image38.png"
+src="12imgfr/image42.png"
 ></img
 ></li
 ><li
@@ -7158,7 +7134,7 @@ type="tmenu"
 >, puis choisissez votre projet <br
 ></br
 ><img
-src="12imgfr/image42.png"
+src="12imgeng/image38.png"
 ></img
 ></li
 ></ul
@@ -7171,15 +7147,12 @@ contentType="fr"
 >Modifiez la glose comme désiré </li
 ><li
 contentType="en"
->Click on the <object
-type="tmenu"
->Advanced</object
-> tab</li
+>Click on the Advanced tab</li
 ><li
 contentType="fr"
 >Cliquez sur l’onglet <object
 type="tmenu"
->Avancé</object
+>Advancé</object
 > </li
 ><li
 contentType="en"
@@ -7189,10 +7162,7 @@ contentType="fr"
 >Saisissez un nom pour le terme </li
 ><li
 contentType="en"
->Click <object
-type="tmenu"
->OK</object
-></li
+>Click OK</li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -7725,11 +7695,11 @@ id="sUsingInventoriesToSetupChecks"
 ><object
 contentType="en"
 type="t-en"
->Using inventories to setup checks</object
+>Using inventories to setup checks [◙ VT02]</object
 ><object
 contentType="fr"
 type="t-fr"
->Utiliser les inventaires pour préparer l’exécution des vérifications</object
+>Utiliser les inventaires pour préparer l’exécution des vérifications [◙ VT02] </object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8240,7 +8210,7 @@ type="t-en"
 ><object
 contentType="fr"
 type="t-fr"
->Mise en majuscules</object
+>Mise en majuscules [◙ VT06] </object
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -8869,7 +8839,7 @@ type="t-en"
 > <object
 contentType="fr"
 type="t-fr"
->Utilisation des listes récapitulatives - générique</object
+>Utilisation des listes récapitulatives — générique</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8977,11 +8947,11 @@ id="sUsingChecklist"
 ><object
 contentType="en"
 type="t-en"
->Using checklist – Section headings</object
+>Using checklist – Section headings (\s1) </object
 ><object
 contentType="fr"
 type="t-fr"
->Utilisation des listes récapitulatives - En-têtes de section</object
+>Utilisation des listes récapitulatives — En-têtes de section (\s1)</object
 ></secTitle
 ><p
 contentType="en"
@@ -11862,8 +11832,27 @@ contentType="en"
 contentType="en"
 ></p
 ></appendix
+><glossary
+><p
+contentType="en"
+></p
+><dl
+><dt
+>Note</dt
+><dd
+>Thing</dd
+><dt
+></dt
+><dd
+></dd
+></dl
+></glossary
 ><endnotes
 ></endnotes
+><references
+></references
+><index
+></index
 ></backMatter
 ><languages
 ><language
@@ -12049,67 +12038,6 @@ spaceafter=".0in"
 spacebefore=".0in"
 ></framedType
 ></framedTypes
-><publishingInfo
-><publishingBlurb
-><pc
-contentType="en"
-><object
-type="tsub"
->Title:</object
-> <object
-type="tPT"
-></object
->, Participant's Manual for Paratext Stages 1-2</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Genre:</object
-> Teaching material</pc
-><pc
-contentType="en"
->Trial Edition</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Copyright:</object
-> This training manual is licensed under a <link
-href="http://creativecommons.org/licenses/by/4.0/"
->Creative Commons Attribution 4.0 International License</link
->.<br
-></br
-><img
-src="supimgeng\cc.png"
-></img
-></pc
-><pc
-contentType="en"
-><object
-type="tPT"
-></object
-> is a joint project of <link
-href="http://www.unitedbiblesocieties.org/"
->United Bible Societies</link
-> and <link
-href="http://www.sil.org/"
->SIL International</link
->. <object
-type="tPT"
-></object
-> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
-></publishingBlurb
-><keywords
-><keyword
->Paratext 8</keyword
-><keyword
->SIL International</keyword
-><keyword
->United Bible Societies</keyword
-><keyword
->Bible Translation</keyword
-></keywords
-></publishingInfo
 ><contentControl
 ><contentTypes
 ><contentType
@@ -12127,11 +12055,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

@@ -24,7 +24,7 @@ xml:lang="en"
 ><object
 contentType="fr"
 type="t-fr"
->Manuel de cours 3-6 : (Français)</object
+>Manuel de cours Étape 3-6 : (Français)</object
 ></subtitle
 ><author
 >Jenni Beadle</author
@@ -56,12 +56,12 @@ type="t-fr"
 ><object
 contentType="en"
 type="t-en"
->Paratext_8_3-6_Intro</object
-><object
+>Paratext_8_3-6_IntroStage3</object
+> <object
 contentType="fr"
 type="t-fr"
->Paratext_8_3-6_Intro</object
->Why do we print the shortened title?</shortTitle
+>Paratext_8_3-6_IntroÉtape3</object
+></shortTitle
 ><chapter
 id="sGoal"
 ><secTitle
@@ -69,28 +69,29 @@ id="sGoal"
 contentType="en"
 type="t-en"
 >Goal</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >But </object
 ></secTitle
 ><p
 contentType="en"
->The participants will process their translation with the help of Paratext, a program created for entering, storing, and checking the translated texts. The course follows the six stages of translation as given in the SIL base organisational plan. There are three manuals in the series. The first deals with tasks that require an administrator. The first two stages are covered in an earlier manual (Stage 1-2). This manual covers stages 3-6.</p
+>The participants will process their translation with the help of Paratext, a program created for entering, storing, and checking the translated texts. The course follows the six stages of translation as given in the SIL plan. The first two stages were covered in an earlier manual. This manual covers stages 3-6.</p
 ><p
 contentType="fr"
 >Les participants traiteront leur traduction à l’aide de <object
 type="tPT"
 ></object
-> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Il y a trois manuels. Le premier manuel traite les tâches qui doivent être faire par un administrateur. Les deux premières étapes sont traites dans un autre manuel. Ce manuel traite des étapes 3 au 6.</p
-><section1
+> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Ce manuel traité d'étapes trois au six. Les premières deux étapes étaient traitées dans un autre manuel.</p
+></chapter
+><chapter
 id="scourseObjectives"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
 >Course Objectives</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Objectifs</object
@@ -259,7 +260,6 @@ contentType="en"
 contentType="fr"
 >Vérification du formatage</li
 ></ul
-></section1
 ></chapter
 ></part
 ><part
@@ -279,15 +279,35 @@ type="t-fr"
 contentType="en"
 type="t-en"
 >Paratext_8_3-6_Stage3</object
-><br
-></br
 ><object
 contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape3</object
-><br
-></br
 ></shortTitle
+><chapter
+id="s3Intro"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Introduction to Stage 3</object
+><object
+contentType="fr"
+type="t-fr"
+>Introduction à Étape 3</object
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>​Introduction </object
+></pc
 ><p
 contentType="en"
 >In this third stage of a translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.</p
@@ -295,8 +315,15 @@ contentType="en"
 contentType="fr"
 >Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.</p
 ><p
+contentType="en"
 ><img
 src="36imgeng\image5.png"
+></img
+></p
+><p
+contentType="fr"
+><img
+src="36imgfr/image2.png"
 ></img
 ></p
 ><p
@@ -328,6 +355,7 @@ contentType="en"
 contentType="fr"
 >**missing**</li
 ></ul
+></chapter
 ><chapter
 id="sBT1"
 ><secTitle
@@ -335,11 +363,55 @@ id="sBT1"
 contentType="en"
 type="t-en"
 >BT1: Draft a Back translation</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >RT1 : Retraductions 1 </object
 ></secTitle
+><tablenumbered
+contentType="en"
+id="ntBTMap"
+><table
+border="1"
+><tr
+><td
+>Create a new project <br
+></br
+>for the back translation<br
+></br
+>(first time only)</td
+><td
+>Draft the back translation</td
+><td
+>Mark a chapter as finished</td
+><td
+>Viewing differences</td
+><td
+>Project plan</td
+></tr
+></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntRTMap"
+><table
+border="1"
+><tr
+><td
+>Créez un nouveau projet pour la retraduction</td
+><td
+>Créez une glose interlinéaire <br
+></br
+>mot à mot</td
+><td
+>Corriger les gloses</td
+><td
+>Exporter / approuver le verset</td
+><td
+>Éditez le projet RT en traduction libre</td
+></tr
+></table
+></tablenumbered
 ><pc
 contentType="en"
 ><object
@@ -429,6 +501,24 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Résumé</object
+></pc
+><p
+contentType="en"
+>This module shows you how to:</p
+><p
+contentType="fr"
+>Ce module vous montre comment :</p
 ><section1
 id="screateANewProject"
 ><secTitle
@@ -571,7 +661,7 @@ id="sdraftBT"
 ><object
 contentType="en"
 type="t-en"
->Draft your back translation</object
+>Draft your back translation [◙ RT01]</object
 > <object
 contentType="fr"
 type="t-fr"
@@ -1101,7 +1191,7 @@ id="sBT2"
 contentType="en"
 type="t-en"
 >BT2: Interlinearise a project</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >RT2 : Retraductions 2 (mot à mot) </object
@@ -1377,12 +1467,15 @@ id="sconfigureTheProjectInterlineariser"
 ><object
 contentType="en"
 type="t-en"
->Configure the project interlineariser</object
+>Configure the project interlineariser [◙ RT01]</object
 > <object
 contentType="fr"
 type="t-fr"
 >Créer une glose interlinéaire mot à mot</object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT01]</p
 ><ul
 ><li
 contentType="en"
@@ -1481,12 +1574,15 @@ id="sconfirmAndCorrectThe"
 ><object
 contentType="en"
 type="t-en"
->Confirm and correct the interlinearised text</object
+>Confirm and correct the interlinearised text [◙ RT02]</object
 > <object
 contentType="fr"
 type="t-fr"
 >Confirmer et corriger l’interlinéaire </object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT02]</p
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -1545,12 +1641,15 @@ id="sTranslate"
 ><object
 contentType="en"
 type="t-en"
->Translate/gloss a phrase</object
-><object
+>Translate/gloss a phrase [◙ RT03]</object
+> <object
 contentType="fr"
 type="t-fr"
 >Traduire/gloser une expression </object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT03]</p
 ><ul
 ><li
 contentType="en"
@@ -1594,12 +1693,15 @@ id="sAddExtraWord"
 ><object
 contentType="en"
 type="t-en"
->Add extra words</object
-><object
+>Add extra word(s) [◙ RT04]</object
+> <object
 contentType="fr"
 type="t-fr"
 >Ajouter des mots supplémentaires </object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT04]</p
 ><ul
 ><li
 contentType="en"
@@ -1621,12 +1723,15 @@ id="sSpecifyTheMorphology"
 ><object
 contentType="en"
 type="t-en"
->Specify the morphology - break a word into morphemes</object
-><object
+>Specify the morphology (break a word into morphemes) [◙ RT05]</object
+> <object
 contentType="fr"
 type="t-fr"
 >Spécifier la morphologie </object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT05]</p
 ><ul
 ><li
 contentType="en"
@@ -1660,12 +1765,15 @@ id="sapproveAndExportThe"
 ><object
 contentType="en"
 type="t-en"
->Approve and Export the text</object
-><object
+>Approve and Export the text [◙ RT06]</object
+> <object
 contentType="fr"
 type="t-fr"
 >Exporter/approuver le texte </object
 ></secTitle
+><p
+contentType="fr"
+>[◙ RT06]</p
 ><ul
 ><li
 contentType="en"
@@ -1788,6 +1896,9 @@ contentType="fr"
 type="t-fr"
 >Sauvegarder à chaque étape majeure de votre projet</object
 ></secTitle
+><p
+contentType="fr"
+>[◙ GF01]</p
 ><ul
 ><li
 contentType="fr"
@@ -1827,6 +1938,12 @@ contentType="fr"
 type="t-fr"
 >Voir les différences entre deux points (ou versions)</object
 ></secTitle
+><p
+contentType="fr"
+></p
+><p
+contentType="fr"
+>[◙ GF02]</p
 ><p
 contentType="fr"
 >Du menu <object
@@ -1938,7 +2055,7 @@ id="sunmatchedPairsOfPunctuation"
 ><object
 contentType="en"
 type="t-en"
->Unmatched pairs of Punctuation</object
+>Unmatched pairs of Punctuation [◙ VT04]</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2002,7 +2119,7 @@ id="srefs"
 ><object
 contentType="en"
 type="t-en"
->References</object
+>References [◙ VT08]</object
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2152,7 +2269,7 @@ id="sQuotationRules"
 ><object
 contentType="en"
 type="t-en"
->Quotation rules</object
+>Quotation rules [◙ VT07]</object
 ></secTitle
 ><p
 contentType="en"
@@ -2300,7 +2417,7 @@ type="t-fr"
 contentType="en"
 type="t-en"
 >Paratext_8_3-6_Stage4</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape4</object
@@ -2738,7 +2855,7 @@ contentType="fr"
 type="t-fr"
 >Étape 6 : Finalisation pour la publication</object
 ></secTitle
-><p
+><shortTitle
 ><object
 contentType="en"
 type="t-en"
@@ -2747,7 +2864,31 @@ type="t-en"
 contentType="fr"
 type="t-fr"
 >Paratext_8_3-6_Étape6</object
-></p
+></shortTitle
+><chapter
+id="s6intro"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Introduction to Stage 6</object
+><object
+contentType="fr"
+type="t-fr"
+>Introduction à Étape 6</object
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>​Introduction </object
+></pc
 ><p
 contentType="en"
 >The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.<br
@@ -2823,30 +2964,23 @@ contentType="en"
 contentType="fr"
 >Vérification du formatage: ...</li
 ></ul
-><chapter
-id="s6intro"
-><secTitle
+><pc
+contentType="en"
 ><object
 contentType="en"
 type="t-en"
->Introduction to Stage 6</object
+>Summary</object
 ><object
 contentType="fr"
 type="t-fr"
->Introduction à Étape 6</object
-></secTitle
-><pc
+>Résumé</object
+></pc
+><p
 contentType="en"
-><object
-type="tsub"
->Introduction</object
-></pc
-><pc
+>This module shows you how to:</p
+><p
 contentType="fr"
-><object
-type="tsub"
->​Introduction </object
-></pc
+>Ce module vous montre comment :</p
 ><section1
 id="saddIllustrationsAndCaptions"
 ><secTitle
@@ -3410,7 +3544,7 @@ id="sPP"
 contentType="en"
 type="t-en"
 >PP: Compare parallel passages</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >PP : Comparer passages parallèles</object
@@ -3606,8 +3740,8 @@ id="sSelectComparativeText"
 ><object
 contentType="en"
 type="t-en"
->Select comparative texts</object
-><object
+>Select comparative text(s)</object
+> <object
 contentType="fr"
 type="t-fr"
 >Sélectionner des Textes comparatifs</object
@@ -3652,7 +3786,7 @@ id="sFilters"
 contentType="en"
 type="t-en"
 >Filters</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Filtres</object
@@ -3673,7 +3807,7 @@ id="scomparePassages"
 contentType="en"
 type="t-en"
 >Compare the passages</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Voir des passages</object
@@ -3732,7 +3866,7 @@ id="stoCorrectTheText"
 contentType="en"
 type="t-en"
 >To correct the text</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Pour faire des corrections</object
@@ -3765,13 +3899,13 @@ type="tmenu"
 ></ul
 ></section1
 ><section1
-id="sCopyingAText"
+id="sCopingAText"
 ><secTitle
 ><object
 contentType="en"
 type="t-en"
->Copying a text</object
-><object
+>Coping a text</object
+> <object
 contentType="fr"
 type="t-fr"
 >Copier un texte</object
@@ -3867,7 +4001,7 @@ id="smarkThePassageAs"
 contentType="en"
 type="t-en"
 >Mark the passage as finished</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Marquer un texte comme fini</object
@@ -3888,7 +4022,7 @@ id="sIDChanged"
 contentType="en"
 type="t-en"
 >Identify the passages which have been changed since they were marked as finished</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Identifier les passages qui ont été modifiés après avoir marqué comme finis</object
@@ -3959,7 +4093,7 @@ id="scompareTheTextAs"
 contentType="en"
 type="t-en"
 >Compare the text as you translate</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Comparer les textes pendant la traduction</object
@@ -4003,7 +4137,7 @@ id="stoSeeAThird"
 contentType="en"
 type="t-en"
 >To see a third passage</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Voir un troisième passage</object
@@ -4060,9 +4194,6 @@ contentType="en"
 ><p
 contentType="fr"
 >Volet supérieur Volet inférieur</p
-><tablenumbered
-contentType="en"
-id="nticons"
 ><table
 border="1"
 ><tr
@@ -4177,10 +4308,6 @@ src="36imgeng\image15.png"
 >Verse missing</td
 ></tr
 ></table
-></tablenumbered
-><tablenumbered
-contentType="fr"
-id="ntIcones"
 ><table
 border="1"
 ><tr
@@ -4295,7 +4422,6 @@ src="36imgeng\image15.png"
 >Verset manquant</td
 ></tr
 ></table
-></tablenumbered
 ><p
 contentType="en"
 >Answers:</p
@@ -4511,7 +4637,7 @@ id="aBibleBooks"
 contentType="en"
 type="t-en"
 >Three letter abbreviations</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Livres de la Bible : Abréviations en trois lettres</object
@@ -4533,7 +4659,6 @@ contentType="en"
 contentType="fr"
 >Ancien Testament</p
 ><tablenumbered
-contentType="en"
 id="ntOTEN"
 ><table
 border="1"
@@ -4644,7 +4769,6 @@ border="1"
 ></table
 ></tablenumbered
 ><tablenumbered
-contentType="fr"
 id="ntATFR"
 ><table
 border="1"
@@ -4761,7 +4885,6 @@ contentType="en"
 contentType="fr"
 >Nouveau Testament</p
 ><tablenumbered
-contentType="en"
 id="ntNTEN"
 ><table
 border="1"
@@ -4840,7 +4963,6 @@ border="1"
 ></table
 ></tablenumbered
 ><tablenumbered
-contentType="fr"
 id="ntNTFR"
 ><table
 border="1"
@@ -4926,7 +5048,7 @@ id="sChadSpecChar"
 contentType="en"
 type="t-en"
 >Chad special characters</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >Les caractères de Tchad Unicode </object
@@ -5443,7 +5565,7 @@ id="sMarkers"
 contentType="en"
 type="t-en"
 >Common USFM Markers</object
-><object
+> <object
 contentType="fr"
 type="t-fr"
 >USFM Marqueurs fréquents </object
@@ -5739,77 +5861,16 @@ id="tsub"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
-indent-after="2cm"
-indent-before="2cm"
+indent-after=".125in"
+indent-before=".125in"
 innerbottommargin=".03in"
 innerleftmargin=".125in"
 innerrightmargin=".125in"
 innertopmargin=".03in"
-spaceafter="3pt"
-spacebefore="3pt"
+spaceafter=".0in"
+spacebefore=".0in"
 ></framedType
 ></framedTypes
-><publishingInfo
-><publishingBlurb
-><pc
-contentType="en"
-><object
-type="tsub"
->Title:</object
-> <object
-type="tPT"
-></object
->, Participant's Manual for Stages 3-6</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Genre:</object
-> Teaching material</pc
-><pc
-contentType="en"
->Trial Edition</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Copyright:</object
-> This training manual is licensed under a <link
-href="http://creativecommons.org/licenses/by/4.0/"
->Creative Commons Attribution 4.0 International License</link
->.<br
-></br
-><img
-src="supimgeng\cc.png"
-></img
-></pc
-><pc
-contentType="en"
-><object
-type="tPT"
-></object
-> is a joint project of <link
-href="http://www.unitedbiblesocieties.org/"
->United Bible Societies</link
-> and <link
-href="http://www.sil.org/"
->SIL International</link
->. <object
-type="tPT"
-></object
-> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
-></publishingBlurb
-><keywords
-><keyword
->Paratext 8</keyword
-><keyword
->SIL International</keyword
-><keyword
->United Bible Societies</keyword
-><keyword
->Bible Translation</keyword
-></keywords
-></publishingInfo
 ><contentControl
 ><contentTypes
 ><contentType

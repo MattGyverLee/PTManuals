@@ -1,423 +1,925 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
 "XLingPap.dtd">
-<xlingpaper version="2.24.0">
-    <styledPaper>
-        <lingPaper automaticallywrapinterlinears="yes" version="2.28.0">
-            <frontMatter>
-                <title><object contentType="en" type="t-en">Multilingual Manuel</object><object
-                        contentType="fr" type="t-fr">Manuel multilingue</object></title>
-                <subtitle><object contentType="fr" type="t-fr">Manuel de cours 1 &amp; 2 :
-                        Français</object><object contentType="en" type="t-en">Course Manual 1 &amp;
-                        2: English</object></subtitle>
-                <author contentType="en">Jenni Beadle and Matthew Lee</author>
-                <author contentType="fr">Jenni Beadle et Matthew Lee</author>
-                <contents contentType="en" label="Contents"/>
-            </frontMatter>
-            <chapter id="cIntro">
-                <secTitle><object contentType="en" type="t-en">Chapter Title</object><object
-                        contentType="fr" type="t-fr">Titre du Chapitre</object></secTitle>
-                <ul>
-                    <li>Danger</li>
-                    <li>Danger</li>
-                </ul>
-                <p>By defining ContentType for an element, you can selectively hide it.</p>
-                <p contentType="dn">This is a developer's note (content type "dn"), It will only
-                    print if you tell it to.</p>
-                <example
-                    num="x-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..chapter.1..example.1.">
-                    <interlinear>
-                        <phrase>
-                            <words>
-                                <iword>
-                                    <item lang="lVernacular" type="txt"/>
-                                    <morphemes>
-                                        <morphset>
-                                            <morph type="prefix">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                            <morph type="root">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                            <morph type="suffix">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                        </morphset>
-                                    </morphemes>
-                                    <item lang="lGloss" type="gls"/>
-                                    <item lang="lGloss" type="pos"/>
-                                </iword>
-                                <iword>
-                                    <item lang="lVernacular" type="txt"/>
-                                    <morphemes>
-                                        <morphset>
-                                            <morph type="prefix">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                            <morph type="root">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                            <morph type="suffix">
-                                                <item lang="lVernacular" type="txt"/>
-                                                <item lang="lVernacular" type="cf"/>
-                                                <item lang="lGloss" type="gls"/>
-                                                <item lang="lGloss" type="msa"/>
-                                            </morph>
-                                        </morphset>
-                                    </morphemes>
-                                    <item lang="lGloss" type="gls"/>
-                                    <item lang="lGloss" type="pos"/>
-                                </iword>
-                                <iword>
-                                    <item lang="lVernacular" type="punct">.</item>
-                                </iword>
-                            </words>
-                            <item lang="lGloss" type="gls"/>
-                        </phrase>
-                    </interlinear>
-                </example>
-                <p contentType="en">This Text is in English (contentType "en"), and shows in
-                    green.</p>
-                <p contentType="fr">Ce texte est en Français (contentType "fr"), et se montre en
-                    bleu.</p>
-                <p contentType="dn">Content type can be left undefined (it will appear Black), and
-                    it will never be filtered.</p>
-                <p>1+1=2</p>
-                <section1 id="sGoal">
-                    <secTitle><object contentType="en" type="t-en">Major Sections<object
-                                contentType="fr" type="t-fr">Sections
-                        majeures</object></object></secTitle>
-                    <p contentType="en">This is a Section 1, it will contain your major
-                        headings.</p>
-                    <p contentType="fr">Ceci est un section de niveau 1.</p>
-                </section1>
-                <section1 contentType="en" id="sMonoSec">
-                    <secTitle>It is possible to make a whole section monolingual</secTitle>
-                    <p>This would be useful for a task that only needs further explanation in one
-                        language (like a broken interface).</p>
-                    <p contentType="dn">Beware, if a whole section is filtered, embedded content in
-                        another language will not be shown.</p>
-                </section1>
-                <section1 id="sObj1first">
-                    <secTitle><object contentType="en" type="t-en">Mix and Match
-                            lists</object><object contentType="fr" type="t-fr">Listes
-                            Melangé</object></secTitle>
-                    <ul>
-                        <li contentType="en">Start ParaTEXT using an icon on the desktop.</li>
-                        <li contentType="fr">Lancer le programme Paratext 7 à l’aide de l’icône du
-                            bureau.</li>
-                        <li contentType="en">Effectively use the navigation toolbar to navigate to
-                            the desired book, chapter, or verse.</li>
-                        <li contentType="fr">Utiliser efficacement la barre d’outils de navigation
-                            pour se déplacer vers le livre, le chapitre et le verset biblique de
-                            référence désiré.</li>
-                        <li contentType="en">Type text in an open project within USFM markers such
-                            as \c, \v, etc. in an appropriate view.</li>
-                        <li contentType="fr">Taper le texte dans un projet ouvert dans les marqueurs
-                            USFM tels que \c, \v, etc. dans un affichage approprié.</li>
-                        <li contentType="en">Use a keyboarding system (Microsoft Keyboards, or
-                            Keyman) to type special characters.</li>
-                        <li contentType="fr">Utiliser un système de clavier (MS-claviers ou Keyman)
-                            pour saisir les caractères spéciaux.</li>
-                        <li contentType="en">Add additional elements such as section titles.</li>
-                        <li contentType="fr">Ajouter des éléments supplémentaires tels que les
-                            titres de section.</li>
-                    </ul>
-                    <p contentType="dn">It is also possible to mix in an Ordered list. This looks
-                        strange in edit mode, but will work properly later.</p>
-                    <ol>
-                        <li contentType="en">Open supplementary resources, for example English
-                            bibles.</li>
-                        <li contentType="fr">Ouvrir des ressources supplémentaires, par exemple des
-                            Bibles françaises.</li>
-                        <li contentType="en">Arrange multiple windows on the screen.</li>
-                        <li contentType="fr">Organiser plusieurs fenêtres sur l’écran.</li>
-                        <li contentType="en">Use Send/Receive to back up the project on the Internet
-                            or on a USB key.</li>
-                        <li contentType="fr">Utiliser la fonction d’envoyer/recevoir pour
-                            sauvegarder le projet sur Internet ou une clé USB.</li>
-                        <li contentType="en">Run Verifications to assure that all chapters and
-                            verses are present.</li>
-                        <li contentType="fr">Exécuter les vérifications pour s’assurer que tous les
-                            chapitres/versets sont présents.</li>
-                        <li contentType="en">Run Verifications to guarantee that the text is
-                            correctly marked (markers, styles, etc.).</li>
-                        <li contentType="fr">Exécuter la vérification afin de garantir que les
-                            éléments de texte soient correctement marqués (marqueurs, styles,
-                            etc.).</li>
-                        <li contentType="en">Run Verifications to see that all characters and
-                            punctuation symbols are valid in the target language with help from the
-                            Inventories.</li>
-                        <li contentType="fr">Exécuter les vérifications pour s’assurer que tous les
-                            caractères et les signes de ponctuation sont valides pour la langue
-                            cible à l’aide de différents inventaires.</li>
-                        <li contentType="en">Correct spelling mistakes using <object type="tKw"
-                                >Spell Check</object></li>
-                        <li contentType="fr">Vérifier les fautes d’orthographe à l’aide de <object
-                                type="tKw">la vérification d’orthographe</object> et de la liste de
-                            mots.</li>
-                    </ol>
-                </section1>
-                <section1 id="sObj1">
-                    <secTitle><object contentType="en" type="t-en">Mix and Match
-                            lists</object><object contentType="fr" type="t-fr">Listes
-                            Melangé</object></secTitle>
-                    <p contentType="dn">It is possible to mix and match multilingual lines in a
-                        list, this allows you to keep translations closer together:</p>
-                    <ul>
-                        <li contentType="en">Start ParaTEXT using an icon on the desktop.</li>
-                        <li contentType="fr">Lancer le programme Paratext 7 à l’aide de l’icône du
-                            bureau.</li>
-                        <li contentType="en">Effectively use the navigation toolbar to navigate to
-                            the desired book, chapter, or verse.</li>
-                        <li contentType="fr">Utiliser efficacement la barre d’outils de navigation
-                            pour se déplacer vers le livre, le chapitre et le verset biblique de
-                            référence désiré.</li>
-                        <li contentType="en">Type text in an open project within USFM markers such
-                            as \c, \v, etc. in an appropriate view.</li>
-                        <li contentType="fr">Taper le texte dans un projet ouvert dans les marqueurs
-                            USFM tels que \c, \v, etc. dans un affichage approprié.</li>
-                        <li contentType="en">Use a keyboarding system (Microsoft Keyboards, or
-                            Keyman) to type special characters.</li>
-                        <li contentType="fr">Utiliser un système de clavier (MS-claviers ou Keyman)
-                            pour saisir les caractères spéciaux.</li>
-                        <li contentType="en">Add additional elements such as section titles.</li>
-                        <li contentType="fr">Ajouter des éléments supplémentaires tels que les
-                            titres de section.</li>
-                    </ul>
-                    <p contentType="dn">It is also possible to mix in an Ordered list. This looks
-                        strange in edit mode, but will work properly later.</p>
-                    <ol>
-                        <li contentType="en">Open supplementary resources, for example English
-                            bibles.</li>
-                        <li contentType="fr">Ouvrir des ressources supplémentaires, par exemple des
-                            Bibles françaises.</li>
-                        <li contentType="en">Arrange multiple windows on the screen.</li>
-                        <li contentType="fr">Organiser plusieurs fenêtres sur l’écran.</li>
-                        <li contentType="en">Use Send/Receive to back up the project on the Internet
-                            or on a USB key.</li>
-                        <li contentType="fr">Utiliser la fonction d’envoyer/recevoir pour
-                            sauvegarder le projet sur Internet ou une clé USB.</li>
-                        <li contentType="en">Run Verifications to assure that all chapters and
-                            verses are present.</li>
-                        <li contentType="fr">Exécuter les vérifications pour s’assurer que tous les
-                            chapitres/versets sont présents.</li>
-                        <li contentType="en">Run Verifications to guarantee that the text is
-                            correctly marked (markers, styles, etc.).</li>
-                        <li contentType="fr">Exécuter la vérification afin de garantir que les
-                            éléments de texte soient correctement marqués (marqueurs, styles,
-                            etc.).</li>
-                        <li contentType="en">Run Verifications to see that all characters and
-                            punctuation symbols are valid in the target language with help from the
-                            Inventories.</li>
-                        <li contentType="fr">Exécuter les vérifications pour s’assurer que tous les
-                            caractères et les signes de ponctuation sont valides pour la langue
-                            cible à l’aide de différents inventaires.</li>
-                        <li contentType="en">Correct spelling mistakes using <object type="tKw"
-                                >Spell Check</object></li>
-                        <li contentType="fr">Vérifier les fautes d’orthographe à l’aide de <object
-                                type="tKw">la vérification d’orthographe</object> et de la liste de
-                            mots.</li>
-                    </ol>
-                </section1>
-            </chapter>
-            <chapter id="cempty">
-                <secTitle><object contentType="en" type="t-en">Empty Objects</object><object
-                        contentType="fr" type="t-fr">Objets vides</object></secTitle>
-                <framedUnit framedtype="ftSample">
-                    <p contentType="en">If all content in a framedUnit is filtered, it will still
-                        exist in the output without my mods.</p>
-                </framedUnit>
-                <p>Similarly, if all lines of an "ol" or "ul" are filtered, the output causes havoc,
-                    especially in HTML.</p>
-                <ul>
-                    <li contentType="en">English 1</li>
-                    <li contentType="en">English 2</li>
-                </ul>
-            </chapter>
-            <chapter id="sOBSum">
-                <secTitle><object contentType="en" type="t-en">Tables</object><object
-                        contentType="fr" type="t-fr">Tableaux</object></secTitle>
-                <p>Setting the ContenttType of a table does strange tings in XML mind:</p>
-                <p>Watch this:</p>
-                <p>Normal Table</p>
-                <table border="1">
-                    <tr>
-                        <th>Tâche</th>
-                        <th>Bilan d’étapes</th>
-                    </tr>
-                    <tr>
-                        <td>Lancer le programme Paratext</td>
-                        <td>Double-cliquez sur l’icône Paratext 7 dans le bureau</td>
-                    </tr>
-                    <tr>
-                        <td>Ouvrir combinaison de fenêtres</td>
-                        <td>Cliquez sur le menu <object type="tKw">Fenêtre</object><br/></td>
-                    </tr>
-                </table>
-                <p>The same table with an objectType is distorted:</p>
-                <table border="1" contentType="en">
-                    <tr>
-                        <th>Tâche</th>
-                        <th>Bilan d’étapes</th>
-                    </tr>
-                    <tr>
-                        <td>Lancer le programme Paratext</td>
-                        <td>Double-cliquez sur l’icône Paratext 7 dans le bureau</td>
-                    </tr>
-                    <tr>
-                        <td>Ouvrir combinaison de fenêtres</td>
-                        <td>Cliquez sur le menu <object type="tKw">Fenêtre</object><br/></td>
-                    </tr>
-                </table>
-                <p>Thankfully, a numberedTable behaves properly.</p>
-                <tablenumbered contentType="en" id="ntNumbered">
-                    <table border="1">
-                        <tr>
-                            <th>Tâche</th>
-                            <th>Bilan d’étapes</th>
-                        </tr>
-                        <tr>
-                            <td>Lancer le programme Paratext</td>
-                            <td>Double-cliquez sur l’icône Paratext 7 dans le bureau</td>
-                        </tr>
-                        <tr>
-                            <td>Ouvrir combinaison de fenêtres</td>
-                            <td>Cliquez sur le menu <object type="tKw">Fenêtre</object><br/></td>
-                        </tr>
-                    </table>
-                </tablenumbered>
-                <p/>
-                <p/>
-            </chapter>
-            <chapter id="cimages">
-                <secTitle><object contentType="en" type="t-en">Images</object><object
-                        contentType="fr" type="t-fr">Images</object></secTitle>
-                <p>It is possible to alternate images.</p>
-                <p>Images need to be contained in "block" objects such as paragraphs, so they can be
-                    easily filtered by filtering the "parent" object.</p>
-                <p><citation ref="Lee2015b"/></p>
-                <p/>
-            </chapter>
-            <backMatter>
-                <glossary>
-                    <p/>
-                    <dl>
-                        <dt>Note</dt>
-                        <dd>Thing</dd>
-                        <dt/>
-                        <dd/>
-                    </dl>
-                </glossary>
-                <endnotes/>
-                <references>
-                    <refAuthor citename="Lee" name="Lee, Matthew">
-                        <refWork id="Lee2015a">
-                            <refDate>2015</refDate>
-                            <refTitle>Pap1</refTitle>
-                            <paper>
-                                <conference>conference</conference>
-                                <location>location</location>
-                            </paper>
-                        </refWork>
-                        <refWork id="Lee2015b">
-                            <refDate>2015</refDate>
-                            <refTitle>Pap2</refTitle>
-                            <paper>
-                                <conference>conference</conference>
-                                <location>location</location>
-                            </paper>
-                        </refWork>
-                    </refAuthor>
-                </references>
-                <index/>
-            </backMatter>
-            <languages>
-                <language id="lVernacular" name="vernacular"/>
-                <language id="lGloss" name="gloss"/>
-                <language id="len"/>
-            </languages>
-            <types>
-                <comment>The following types are provided as pre-set examples. You may well want to
-                    create your own types that refer to one or more of these. You do that by typing
-                    in the names of the types in the types attribute of your type.</comment>
-                <type font-style="italic" id="italic"/>
-                <type XeLaTeXSpecial="\hrulefill" id="tHr"/>
-                <type font-weight="bold" id="tKw"/>
-                <type id="t-en"/>
-                <type id="t-fr"/>
-                <type before="ParaTExt 7.6" id="tPT"/>
-                <type before="XLingPaper" id="tXLingPaper"/>
-                <type before="XMLmind" id="tXMLmind"/>
-                <type font-weight="bold" id="tBold"/>
-                <type font-style="italic" font-weight="bold" id="tBoldItalic"/>
-                <type font-weight="bold" id="tEmphasis"/>
-                <type id="tGrammaticalGloss" types="tSmallCaps"/>
-                <type font-style="italic" id="tItalic"/>
-                <type cssSpecial="text-decoration:none" id="tNoOverline"
-                    xsl-foSpecial="text-decoration=&quot;no-overline&quot;"/>
-                <type font-variant="normal" id="tNoSmallCaps"/>
-                <type cssSpecial="text-decoration:none" id="tNoStrikethrough"
-                    xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"/>
-                <type cssSpecial="text-decoration:none" id="tNoUnderline"
-                    xsl-foSpecial="text-decoration=&quot;no-underline&quot;"/>
-                <type cssSpecial="text-decoration:overline" id="tOverline"
-                    xsl-foSpecial="text-decoration=&quot;overline&quot;"/>
-                <type font-style="normal" font-variant="normal" font-weight="normal" id="tRegular"/>
-                <type font-family="Charis SIL Small Caps" id="tSmallCaps"/>
-                <type XeLaTeXSpecial="line-through" cssSpecial="text-decoration:line-through"
-                    id="tStrikethrough" xsl-foSpecial="text-decoration=&quot;line-through&quot;"/>
-                <type XeLaTeXSpecial="subscript" cssSpecial="vertical-align:sub;" font-size="65%"
-                    id="tSubscript" xsl-foSpecial="baseline-shift='sub'"/>
-                <type XeLaTeXSpecial="superscript" cssSpecial="vertical-align:super;"
-                    font-size="65%" id="tSuperscript" xsl-foSpecial="baseline-shift='super'"/>
-                <type XeLaTeXSpecial="underline" cssSpecial="text-decoration:underline"
-                    id="tUnderline" xsl-foSpecial="text-decoration=&quot;underline&quot;"/>
-                <type backgroundcolor="Pink" id="tTeacher"/>
-                <comment>Add your custom types here.</comment>
-            </types>
-            <framedTypes>
-                <framedType backgroundcolor="#FAF0E6" description="sample output" id="ftSample"
-                    indent-after=".125in" indent-before=".125in" innerbottommargin=".125in"
-                    innerleftmargin=".125in" innerrightmargin=".125in" innertopmargin=".125in"
-                    spaceafter=".125in" spacebefore=".125in"/>
-            </framedTypes>
-            <contentControl showOnlyChosenItemsInEditor="no">
-                <contentTypes>
-                    <contentType id="en">english</contentType>
-                    <contentType id="fr">french</contentType>
-                    <contentType id="dn">Developer's Note</contentType>
-                    <contentType id="Teacher">Teacher</contentType>
-                </contentTypes>
-                <contentControlChoices>
-                    <contentControlChoice active="no">Export Everything</contentControlChoice>
-                    <contentControlChoice active="yes" exclude="en dn">Exclude English and
-                        Developer's Notes</contentControlChoice>
-                    <contentControlChoice active="no" exclude="fr dn">Exclude French and Developer's
-                        Notes</contentControlChoice>
-                    <contentControlChoice active="no" exclude="fr">Exclude
-                        French</contentControlChoice>
-                    <contentControlChoice active="no" exclude="en">Exclude
-                        English</contentControlChoice>
-                </contentControlChoices>
-            </contentControl>
-        </lingPaper>
-        <xi:include href="publisherstylesheets/SILInternationalBookletStylesheet.xml"
-            xpointer="element(/1)" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-    </styledPaper>
-</xlingpaper>
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+version="2.28.0"
+><frontMatter
+><title
+><object
+contentType="en"
+type="t-en"
+>Multilingual Manuel</object
+><object
+contentType="fr"
+type="t-fr"
+>Manuel multilingue</object
+></title
+><subtitle
+><object
+contentType="fr"
+type="t-fr"
+>Manuel de cours 1 &amp; 2 : Français</object
+><object
+contentType="en"
+type="t-en"
+>Course Manual 1 &amp; 2: English</object
+></subtitle
+><author
+contentType="en"
+>Jenni Beadle and Matthew Lee</author
+><author
+contentType="fr"
+>Jenni Beadle et Matthew Lee</author
+><contents
+contentType="en"
+label="Contents"
+></contents
+></frontMatter
+><chapter
+id="cIntro"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Chapter Title</object
+><object
+contentType="fr"
+type="t-fr"
+>Titre du Chapitre</object
+></secTitle
+><ul
+><li
+>Danger</li
+><li
+>Danger</li
+></ul
+><p
+>By defining ContentType for an element, you can selectively hide it.</p
+><p
+contentType="dn"
+>This is a developer's note (content type "dn"), It will only print if you tell it to.</p
+><example
+num="x-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..chapter.1..example.1."
+><interlinear
+><phrase
+><words
+><iword
+><item
+lang="lVernacular"
+type="txt"
+></item
+><morphemes
+><morphset
+><morph
+type="prefix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="root"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="suffix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+></morphset
+></morphemes
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="pos"
+></item
+></iword
+><iword
+><item
+lang="lVernacular"
+type="txt"
+></item
+><morphemes
+><morphset
+><morph
+type="prefix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="root"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+><morph
+type="suffix"
+><item
+lang="lVernacular"
+type="txt"
+></item
+><item
+lang="lVernacular"
+type="cf"
+></item
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="msa"
+></item
+></morph
+></morphset
+></morphemes
+><item
+lang="lGloss"
+type="gls"
+></item
+><item
+lang="lGloss"
+type="pos"
+></item
+></iword
+><iword
+><item
+lang="lVernacular"
+type="punct"
+>.</item
+></iword
+></words
+><item
+lang="lGloss"
+type="gls"
+></item
+></phrase
+></interlinear
+></example
+><p
+contentType="en"
+>This Text is in English (contentType "en"), and shows in green.</p
+><p
+contentType="fr"
+>Ce texte est en Français (contentType "fr"), et se montre en bleu.</p
+><p
+contentType="dn"
+>Content type can be left undefined (it will appear Black), and it will never be filtered.</p
+><p
+>1+1=2</p
+><section1
+id="sGoal"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Major Sections<object
+contentType="fr"
+type="t-fr"
+>Sections majeures</object
+></object
+></secTitle
+><p
+contentType="en"
+>This is a Section 1, it will contain your major headings.</p
+><p
+contentType="fr"
+>Ceci est un section de niveau 1.</p
+></section1
+><section1
+contentType="en"
+id="sMonoSec"
+><secTitle
+>It is possible to make a whole section monolingual</secTitle
+><p
+>This would be useful for a task that only needs further explanation in one language (like a broken interface).</p
+><p
+contentType="dn"
+>Beware, if a whole section is filtered, embedded content in another language will not be shown.</p
+></section1
+><section1
+id="sObj1first"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mix and Match lists</object
+><object
+contentType="fr"
+type="t-fr"
+>Listes Melangé</object
+></secTitle
+><ul
+><li
+contentType="en"
+>Start ParaTEXT using an icon on the desktop.</li
+><li
+contentType="fr"
+>Lancer le programme Paratext 7 à l’aide de l’icône du bureau.</li
+><li
+contentType="en"
+>Effectively use the navigation toolbar to navigate to the desired book, chapter, or verse.</li
+><li
+contentType="fr"
+>Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique de référence désiré.</li
+><li
+contentType="en"
+>Type text in an open project within USFM markers such as \c, \v, etc. in an appropriate view.</li
+><li
+contentType="fr"
+>Taper le texte dans un projet ouvert dans les marqueurs USFM tels que \c, \v, etc. dans un affichage approprié.</li
+><li
+contentType="en"
+>Use a keyboarding system (Microsoft Keyboards, or Keyman) to type special characters.</li
+><li
+contentType="fr"
+>Utiliser un système de clavier (MS-claviers ou Keyman) pour saisir les caractères spéciaux.</li
+><li
+contentType="en"
+>Add additional elements such as section titles.</li
+><li
+contentType="fr"
+>Ajouter des éléments supplémentaires tels que les titres de section.</li
+></ul
+><p
+contentType="dn"
+>It is also possible to mix in an Ordered list. This looks strange in edit mode, but will work properly later.</p
+><ol
+><li
+contentType="en"
+>Open supplementary resources, for example English bibles.</li
+><li
+contentType="fr"
+>Ouvrir des ressources supplémentaires, par exemple des Bibles françaises.</li
+><li
+contentType="en"
+>Arrange multiple windows on the screen.</li
+><li
+contentType="fr"
+>Organiser plusieurs fenêtres sur l’écran.</li
+><li
+contentType="en"
+>Use Send/Receive to back up the project on the Internet or on a USB key.</li
+><li
+contentType="fr"
+>Utiliser la fonction d’envoyer/recevoir pour sauvegarder le projet sur Internet ou une clé USB.</li
+><li
+contentType="en"
+>Run Verifications to assure that all chapters and verses are present.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.</li
+><li
+contentType="en"
+>Run Verifications to guarantee that the text is correctly marked (markers, styles, etc.).</li
+><li
+contentType="fr"
+>Exécuter la vérification afin de garantir que les éléments de texte soient correctement marqués (marqueurs, styles, etc.).</li
+><li
+contentType="en"
+>Run Verifications to see that all characters and punctuation symbols are valid in the target language with help from the Inventories.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les caractères et les signes de ponctuation sont valides pour la langue cible à l’aide de différents inventaires.</li
+><li
+contentType="en"
+>Correct spelling mistakes using <object
+type="tKw"
+>Spell Check</object
+></li
+><li
+contentType="fr"
+>Vérifier les fautes d’orthographe à l’aide de <object
+type="tKw"
+>la vérification d’orthographe</object
+> et de la liste de mots.</li
+></ol
+></section1
+><section1
+id="sObj1"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mix and Match lists</object
+><object
+contentType="fr"
+type="t-fr"
+>Listes Melangé</object
+></secTitle
+><p
+contentType="dn"
+>It is possible to mix and match multilingual lines in a list, this allows you to keep translations closer together:</p
+><ul
+><li
+contentType="en"
+>Start ParaTEXT using an icon on the desktop.</li
+><li
+contentType="fr"
+>Lancer le programme Paratext 7 à l’aide de l’icône du bureau.</li
+><li
+contentType="en"
+>Effectively use the navigation toolbar to navigate to the desired book, chapter, or verse.</li
+><li
+contentType="fr"
+>Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique de référence désiré.</li
+><li
+contentType="en"
+>Type text in an open project within USFM markers such as \c, \v, etc. in an appropriate view.</li
+><li
+contentType="fr"
+>Taper le texte dans un projet ouvert dans les marqueurs USFM tels que \c, \v, etc. dans un affichage approprié.</li
+><li
+contentType="en"
+>Use a keyboarding system (Microsoft Keyboards, or Keyman) to type special characters.</li
+><li
+contentType="fr"
+>Utiliser un système de clavier (MS-claviers ou Keyman) pour saisir les caractères spéciaux.</li
+><li
+contentType="en"
+>Add additional elements such as section titles.</li
+><li
+contentType="fr"
+>Ajouter des éléments supplémentaires tels que les titres de section.</li
+></ul
+><p
+contentType="dn"
+>It is also possible to mix in an Ordered list. This looks strange in edit mode, but will work properly later.</p
+><ol
+><li
+contentType="en"
+>Open supplementary resources, for example English bibles.</li
+><li
+contentType="fr"
+>Ouvrir des ressources supplémentaires, par exemple des Bibles françaises.</li
+><li
+contentType="en"
+>Arrange multiple windows on the screen.</li
+><li
+contentType="fr"
+>Organiser plusieurs fenêtres sur l’écran.</li
+><li
+contentType="en"
+>Use Send/Receive to back up the project on the Internet or on a USB key.</li
+><li
+contentType="fr"
+>Utiliser la fonction d’envoyer/recevoir pour sauvegarder le projet sur Internet ou une clé USB.</li
+><li
+contentType="en"
+>Run Verifications to assure that all chapters and verses are present.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.</li
+><li
+contentType="en"
+>Run Verifications to guarantee that the text is correctly marked (markers, styles, etc.).</li
+><li
+contentType="fr"
+>Exécuter la vérification afin de garantir que les éléments de texte soient correctement marqués (marqueurs, styles, etc.).</li
+><li
+contentType="en"
+>Run Verifications to see that all characters and punctuation symbols are valid in the target language with help from the Inventories.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les caractères et les signes de ponctuation sont valides pour la langue cible à l’aide de différents inventaires.</li
+><li
+contentType="en"
+>Correct spelling mistakes using <object
+type="tKw"
+>Spell Check</object
+></li
+><li
+contentType="fr"
+>Vérifier les fautes d’orthographe à l’aide de <object
+type="tKw"
+>la vérification d’orthographe</object
+> et de la liste de mots.</li
+></ol
+></section1
+></chapter
+><chapter
+id="cempty"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Empty Objects</object
+><object
+contentType="fr"
+type="t-fr"
+>Objets vides</object
+></secTitle
+><framedUnit
+framedtype="ftSample"
+><p
+contentType="en"
+>If all content in a framedUnit is filtered, it will still exist in the output without my mods.</p
+></framedUnit
+><p
+>Similarly, if all lines of an "ol" or "ul" are filtered, the output causes havoc, especially in HTML.</p
+><ul
+><li
+contentType="en"
+>English 1</li
+><li
+contentType="en"
+>English 2</li
+></ul
+><section1
+id="STasksComplete"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mark a task as complete</object
+><object
+contentType="fr"
+type="t-fr"
+>Marquer une tâche comme achevé</object
+></secTitle
+><section2
+id="sMarkComp"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Mark a chapter task as completed</object
+></secTitle
+><ul
+></ul
+><ul
+></ul
+><ul
+><li
+contentType="en"
+>Check the chapters that have been completed.</li
+><li
+contentType="fr"
+>Cochez sur a case à gauche du numéro de chapitre pour marquer le chapitre comme terminé. </li
+><li
+contentType="en"
+>**To mark some verses only, click to the right and check the individual verses.</li
+><li
+contentType="fr"
+>**Pour marquer quelques versets, cliquez à droite sur et cochez les versets individuels. </li
+></ul
+></section2
+></section1
+></chapter
+><chapter
+id="sOBSum"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Tables</object
+><object
+contentType="fr"
+type="t-fr"
+>Tableaux</object
+></secTitle
+><p
+>Setting the ContenttType of a table does strange tings in XML mind:</p
+><p
+>Watch this:</p
+><p
+>Normal Table</p
+><table
+border="1"
+><tr
+><th
+>Tâche</th
+><th
+>Bilan d’étapes</th
+></tr
+><tr
+><td
+>Lancer le programme Paratext</td
+><td
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+></tr
+><tr
+><td
+>Ouvrir combinaison de fenêtres</td
+><td
+>Cliquez sur le menu <object
+type="tKw"
+>Fenêtre</object
+><br
+></br
+></td
+></tr
+></table
+><p
+>The same table with an objectType is distorted:</p
+><table
+border="1"
+contentType="en"
+><tr
+><th
+>Tâche</th
+><th
+>Bilan d’étapes</th
+></tr
+><tr
+><td
+>Lancer le programme Paratext</td
+><td
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+></tr
+><tr
+><td
+>Ouvrir combinaison de fenêtres</td
+><td
+>Cliquez sur le menu <object
+type="tKw"
+>Fenêtre</object
+><br
+></br
+></td
+></tr
+></table
+><p
+>Thankfully, a numberedTable behaves properly.</p
+><tablenumbered
+contentType="en"
+id="ntNumbered"
+><table
+border="1"
+><tr
+><th
+>Tâche</th
+><th
+>Bilan d’étapes</th
+></tr
+><tr
+><td
+>Lancer le programme Paratext</td
+><td
+>Double-cliquez sur l’icône Paratext 7 dans le bureau</td
+></tr
+><tr
+><td
+>Ouvrir combinaison de fenêtres</td
+><td
+>Cliquez sur le menu <object
+type="tKw"
+>Fenêtre</object
+><br
+></br
+></td
+></tr
+></table
+></tablenumbered
+><p
+></p
+><p
+></p
+></chapter
+><chapter
+id="cimages"
+><secTitle
+><object
+contentType="en"
+type="t-en"
+>Images</object
+><object
+contentType="fr"
+type="t-fr"
+>Images</object
+></secTitle
+><p
+>It is possible to alternate images.</p
+><p
+>Images need to be contained in "block" objects such as paragraphs, so they can be easily filtered by filtering the "parent" object.</p
+><p
+><citation
+ref="Lee2015b"
+></citation
+></p
+><p
+></p
+></chapter
+><backMatter
+><glossary
+><p
+></p
+><dl
+><dt
+>Note</dt
+><dd
+>Thing</dd
+><dt
+></dt
+><dd
+></dd
+></dl
+></glossary
+><endnotes
+></endnotes
+><references
+><refAuthor
+citename="Lee"
+name="Lee, Matthew"
+><refWork
+id="Lee2015a"
+><refDate
+>2015</refDate
+><refTitle
+>Pap1</refTitle
+><paper
+><conference
+>conference</conference
+><location
+>location</location
+></paper
+></refWork
+><refWork
+id="Lee2015b"
+><refDate
+>2015</refDate
+><refTitle
+>Pap2</refTitle
+><paper
+><conference
+>conference</conference
+><location
+>location</location
+></paper
+></refWork
+></refAuthor
+></references
+><index
+></index
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-style="italic"
+id="italic"
+></type
+><type
+XeLaTeXSpecial="\hrulefill"
+id="tHr"
+></type
+><type
+font-weight="bold"
+id="tKw"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="ParaTExt 7.6"
+id="tPT"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tSubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+backgroundcolor="Pink"
+id="tTeacher"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+backgroundcolor="#FAF0E6"
+description="sample output"
+id="ftSample"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".125in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".125in"
+spaceafter=".125in"
+spacebefore=".125in"
+></framedType
+></framedTypes
+><contentControl
+showOnlyChosenItemsInEditor="no"
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+><contentType
+id="Teacher"
+>Teacher</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="en dn"
+>Exclude English and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn"
+>Exclude French and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalBookletStylesheet.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>
