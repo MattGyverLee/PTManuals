@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<publishingBlurb
+><pc
+contentType="en"
+><object
+type="tsub"
+>Title:</object
+> <object
+type="tPT"
+><ns:textPlaceholder
+xmlns:ns="http://www.xmlmind.com/xmleditor/namespace/clipboard"
+></ns:textPlaceholder
+></object
+>, Participant's Manual for Paratext Stages 1-2</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+><ns:textPlaceholder
+xmlns:ns="http://www.xmlmind.com/xmleditor/namespace/clipboard"
+></ns:textPlaceholder
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+><ns:textPlaceholder
+xmlns:ns="http://www.xmlmind.com/xmleditor/namespace/clipboard"
+></ns:textPlaceholder
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
+></publishingBlurb
+>
+
+<?xml version="1.0"?>
+<ns:clipboard
+xmlns:ns="http://www.xmlmind.com/xmleditor/namespace/clipboard"
+><pc
+contentType="en"
+><object
+type="tsub"
+>Title:</object
+> <object
+type="tPT"
+></object
+>, Participant's Manual for Stages 3-6</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
+></ns:clipboard
+>
+
+
+
+<?xml version="1.0"?>
+<publishingBlurb
+xmlns:xi="http://www.w3.org/2001/XInclude"
+><pc
+contentType="en"
+><object
+type="tsub"
+>Title:</object
+> <object
+type="tPT"
+></object
+>, Participant's Manual for Administrators/Supporters</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Genre:</object
+> Teaching material</pc
+><pc
+contentType="en"
+>Trial Edition</pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Copyright:</object
+> This training manual is licensed under a <link
+href="http://creativecommons.org/licenses/by/4.0/"
+>Creative Commons Attribution 4.0 International License</link
+>.<br
+></br
+><img
+src="supimgeng\cc.png"
+></img
+></pc
+><pc
+contentType="en"
+><object
+type="tPT"
+></object
+> is a joint project of <link
+href="http://www.unitedbiblesocieties.org/"
+>United Bible Societies</link
+> and <link
+href="http://www.sil.org/"
+>SIL International</link
+>. <object
+type="tPT"
+></object
+> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
+></publishingBlurb
+>

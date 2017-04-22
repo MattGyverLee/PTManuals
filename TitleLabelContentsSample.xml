@@ -1,0 +1,3690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lingPaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"../../dtds/XLingPap.dtd">
+<lingPaper
+automaticallywrapinterlinears="yes"
+version="2.28.0"
+><frontMatter
+><title
+><object
+type="tPT"
+></object
+></title
+><shortTitle
+>Paratext_8_1-2</shortTitle
+><subtitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Manual 1 &amp; 2: (English)</titleContent
+><titleContent
+contentType="fr"
+>Manuel de cours 1 &amp; 2 : (Français)</titleContent
+></titleContentChoices
+></subtitle
+><author
+>Jenni Beadle</author
+><author
+>Matthew Lee</author
+><keywordsShownHere
+><labelContentChoices
+><labelContent
+contentType="en"
+>Key words:</labelContent
+><labelContent
+contentType="fr"
+>mots du something:</labelContent
+></labelContentChoices
+></keywordsShownHere
+><contents
+showLevel="3"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Contents</labelContent
+><labelContent
+contentType="fr"
+>Contenu</labelContent
+></labelContentChoices
+></contents
+><acknowledgements
+><labelContentChoices
+><labelContent
+contentType="en"
+>Acknowledgments</labelContent
+><labelContent
+contentType="fr"
+>Honours</labelContent
+></labelContentChoices
+><p
+>acknowledgments go here<endnote
+id="nAck"
+><p
+>Endnote in acknowledgements</p
+></endnote
+></p
+></acknowledgements
+><abstract
+><labelContentChoices
+><labelContent
+contentType="en"
+>Abstract 1</labelContent
+><labelContent
+contentType="fr"
+>Resumen 1</labelContent
+></labelContentChoices
+><p
+contentType="en"
+>blah blah 1</p
+><p
+contentType="fr"
+>French blah blah 1</p
+><p
+>A note.<endnote
+id="nAbstr1"
+><p
+>Endnote in abstract1</p
+></endnote
+></p
+></abstract
+><abstract
+><labelContentChoices
+><labelContent
+contentType="en"
+>Abstract 2</labelContent
+><labelContent
+contentType="fr"
+>Resumen 2</labelContent
+></labelContentChoices
+><p
+contentType="en"
+>blah blah 2</p
+><p
+contentType="fr"
+>French blah blah 2</p
+><p
+>A note.<endnote
+id="nAbstr2"
+><p
+>Endnote in abstract 2</p
+></endnote
+></p
+></abstract
+><preface
+><labelContentChoices
+><labelContent
+contentType="en"
+>Preface</labelContent
+><labelContent
+contentType="fr"
+>Prefacio</labelContent
+></labelContentChoices
+><p
+>preface goes here</p
+><p
+>A note.<endnote
+id="nPreface"
+><p
+>Endnote in preface</p
+></endnote
+></p
+></preface
+></frontMatter
+><part
+id="introstage1"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Intro and Stage 1</titleContent
+><titleContent
+contentType="fr"
+>Intro et Étape 1</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PARATEXT_8_1-2_IntroStage1</titleContent
+><titleContent
+contentType="fr"
+>PARATEXT_8_1-2_IntroÉtape1</titleContent
+></titleContentChoices
+></shortTitle
+><p
+contentType="en"
+>This is the first part.<endnote
+id="nPartEn"
+><p
+>A note in part I.</p
+></endnote
+></p
+><p
+contentType="fr"
+>Parte le premier.<endnote
+id="nPartFr"
+><p
+>Note de parte I.</p
+></endnote
+></p
+><chapter
+id="sIntro"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sIntroGoal"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Goal</titleContent
+><titleContent
+contentType="fr"
+>But</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>The participants will process their translation with the help of <object
+type="tPT"
+></object
+> , a program created for entering, storing, and checking the translated texts. They will also print drafts for revision. The course will explain the procedures and will also highlight any differences between <object
+type="tPTPrev"
+></object
+> et <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Les participants traiteront leur traduction à l’aide de <object
+type="tPT"
+></object
+> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
+><p
+>A note.<endnote
+id="nSec1"
+><p
+>Endnote in a section1</p
+></endnote
+></p
+></section1
+><section1
+id="s3"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Objectives</titleContent
+><titleContent
+contentType="fr"
+>Objectifs du cours 1</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>At the end of the course, the participant will be able to:</p
+><p
+contentType="fr"
+>À la fin de ce cours, le participant sera capable de :</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Start <object
+type="tPT"
+></object
+> </object
+></pc
+><ul
+><li
+contentType="en"
+>Start the <object
+type="tPT"
+></object
+> program using a desktop icon.<abbrRef
+abbr="vCLF"
+></abbrRef
+></li
+><li
+contentType="fr"
+>Lancer le programme <object
+type="tPT"
+></object
+> à l’aide de l’icône sur le bureau.<abbrRef
+abbr="vCLF"
+></abbrRef
+></li
+></ul
+><p
+contentType="en"
+>Stage 1 : Drafting<abbrRef
+abbr="vANTIP"
+></abbrRef
+></p
+><p
+contentType="fr"
+>Étape 1 : Première ébauche <abbrRef
+abbr="vANTIP"
+></abbrRef
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open projects and resources to understand the text before translating</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ouvrir des projets et des ressources pour comprendre le texte avant de traduire </object
+></pc
+><ul
+><li
+contentType="en"
+>Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.</li
+><li
+contentType="fr"
+>Ouvrir des projets et des ressources supplémentaires, par exemple des Bibles françaises, les textes sources, les dictionnaires, etc.  </li
+><li
+contentType="en"
+>Organise these windows on the screen and save as a text combination.</li
+><li
+contentType="fr"
+>Organiser plusieurs fenêtres sur l’écran.  </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Enter the translation</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Saisir la traduction </object
+></pc
+><ul
+><li
+contentType="en"
+>Effectively use the navigation toolbar to move to the desired book, chapter, and verse.</li
+><li
+contentType="fr"
+>Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique désiré.  </li
+><li
+contentType="en"
+>Type the text in an open project with the help of USFM markers such as \c, \v, etc. in an suitable view.</li
+><li
+contentType="fr"
+>Saisir le texte dans un projet ouvert à l’aide des marqueurs USFM tels que \c, \v, etc.</li
+><li
+contentType="en"
+>Use a keyboarding system (MS-keyboards or Keyman) to type special characters.</li
+><li
+contentType="fr"
+>Utiliser un clavier (MS-clavier ou Keyman) pour saisir les caractères spéciaux. </li
+><li
+contentType="en"
+>Add additional markers for section headings, introductions etc.</li
+><li
+contentType="fr"
+>Ajouter des éléments supplémentaires tels que les titres de section, les introductions, etc.  </li
+><li
+contentType="en"
+>Add footnotes.</li
+><li
+contentType="fr"
+>Ajouter des notes de bas de page.  </li
+><li
+contentType="en"
+>Draft glossary entries and add using the Biblical terms tool.</li
+><li
+contentType="fr"
+>**missing**</li
+><li
+contentType="en"
+>Use the Send/Receive feature to share and backup their project to the Internet or a USB key.</li
+><li
+contentType="fr"
+>Utiliser la fonction Envoyer/recevoir pour sauvegarder le projet sur Internet ou sur une clé USB. </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Basic checks</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Vérifications de base </object
+></pc
+><ul
+><li
+contentType="en"
+>Run the chapter/verses check to make sure that all the chapters/verses are present.</li
+><li
+contentType="fr"
+>Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.</li
+><li
+contentType="en"
+>Run the markers check to make sure all the text has the correct markers.</li
+><li
+contentType="fr"
+>Exécuter la vérification afin de s’assurer que les éléments de texte sont correctement marqués (marqueurs, styles, etc.).  </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Project progress</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Project progrès </object
+></pc
+><ul
+><li
+contentType="en"
+>Update the project plan with any completed tasks.</li
+><li
+contentType="fr"
+>Mettre à jour le progrès de projet </li
+></ul
+><p
+contentType="en"
+>Stage 2 : Team checking</p
+><p
+contentType="fr"
+>Étape 2 : Vérifications par l’équipe </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Proper names</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Noms propres </object
+></pc
+><ul
+><li
+contentType="en"
+>Transliterate proper names.</li
+><li
+contentType="fr"
+>Transliterater les noms propres. </li
+><li
+contentType="en"
+>Check that proper names are consistent.</li
+><li
+contentType="fr"
+>Vérifiez que les noms propres ont été translittérés selon les règles convenues et sont cohérents. </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Biblical terms consistent</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Termes bibliques </object
+></pc
+><ul
+><li
+contentType="en"
+>Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.</li
+><li
+contentType="fr"
+>Utiliser la fenêtre de termes bibliques et l’outil de termes bibliques pour assurer que l’utilisation des termes est cohérente. </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Checks</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Vérifications </object
+></pc
+><ul
+><li
+contentType="en"
+>Use Checklists to correct any formatting problems in section breaks and headings, paragraph breaks, layout and indents.</li
+><li
+contentType="fr"
+>Utiliser les listes récapitulatives pour corriger les problèmes de mise en forme dans les en-têtes, les paragraphes, la mise en page et les retraits. </li
+><li
+contentType="en"
+>Run various checks to make sure all the characters, punctuation, capitalisation and repeated words are valid.</li
+><li
+contentType="fr"
+>Effectuer les vérifications de bases pour assurer que tous les caractères, ponctuations, mise en majuscule et mots répétés sont valides. (Votre administrateur doit configurer les inventaires/paramètres comme nécessaires.)</li
+><li
+contentType="en"
+>(Administrators need to setup the inventories/settings as required).</li
+><li
+contentType="en"
+>Correct any spelling mistakes using the spell checking function and/or checks from the Wordlist.</li
+><li
+contentType="fr"
+>Corriger les fautes d’orthographe en utilisant l’outil vérifier l’orthographe du texte et/ou les vérifications de la liste de mots.  </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Using notes</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Utiliser des remarques</object
+></pc
+><ul
+><li
+contentType="en"
+>Add project notes as needed to communicate with other team members and/or consultants.</li
+><li
+contentType="fr"
+>Ajouter des remarques pour communiquer avec l’équipe et conseillère. </li
+><li
+contentType="en"
+>Add project, Spelling and Biblical term notes to discuss various issues and record the decisions made.</li
+><li
+contentType="fr"
+>Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions faites.  </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Print draft</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Imprimer des ébauches </object
+></pc
+><ul
+><li
+contentType="en"
+>Produce and print PDF file for reviewers.</li
+><li
+contentType="en"
+>Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs. </li
+></ul
+><p
+contentType="en"
+>Introductions, setup</p
+><p
+contentType="fr"
+>Présentations, préparations </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduce yourself</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Se présenter </object
+></pc
+><p
+contentType="en"
+>The participant and facilitators should introduce themselves giving:</p
+><p
+contentType="fr"
+>Les participants et encadrants doivent se présenter en donnant :</p
+><ul
+><li
+contentType="en"
+>their name</li
+><li
+contentType="fr"
+>leur nom </li
+><li
+contentType="en"
+>their language</li
+><li
+contentType="fr"
+>leur langue </li
+><li
+contentType="en"
+>their town</li
+><li
+contentType="fr"
+>leur ville </li
+><li
+contentType="en"
+>what was the first and last (most recent) version of Paratext that you have used.</li
+><li
+contentType="fr"
+>quelles sont la première et la dernière version de Paratext que vous avez utilisées. </li
+></ul
+><table
+border="1"
+><tr
+><td
+>5.0</td
+><td
+>6.0</td
+><td
+>7.0</td
+><td
+>7.1</td
+><td
+>7.2</td
+><td
+>7.3</td
+><td
+>7.4</td
+><td
+>7.5</td
+><td
+>8</td
+></tr
+><tr
+><td
+>1998</td
+><td
+>2003</td
+><td
+>2008</td
+><td
+>2010</td
+><td
+>2011</td
+><td
+>2012</td
+><td
+>2013</td
+><td
+>2014</td
+><td
+>2017</td
+></tr
+></table
+><p
+contentType="en"
+>While the facilitators install <object
+type="tPT"
+></object
+> on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.</p
+><p
+contentType="fr"
+>**missing**</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>For each module</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour chaque module </object
+></pc
+><ul
+><li
+contentType="en"
+>Do a revision activity of the previous module.</li
+><li
+contentType="fr"
+>Faire une activité de révision du module précédent. </li
+><li
+contentType="en"
+>Present the introduction (read, sketch, PowerPoint, etc.)</li
+><li
+contentType="fr"
+>Présenter l’introduction (lectures, sketch, PowerPoint, etc.) </li
+><li
+contentType="en"
+>If a skill is quite simple, ask a participant to come and demonstrate the skill.</li
+><li
+contentType="fr"
+>Lire les aptitudes pour ce module. Si une aptitude est assez simple, demander à un participant de venir démontrer l’aptitude. </li
+><li
+contentType="en"
+>Follow the summary for the other skills:</li
+><li
+contentType="fr"
+>Suivre les résumés pour les autres aptitudes :  </li
+><li
+contentType="en"
+>Demonstration</li
+><li
+contentType="fr"
+>Démonstration </li
+><li
+contentType="en"
+>Do it together</li
+><li
+contentType="fr"
+>Reprendre ensemble </li
+><li
+contentType="en"
+>Let the participants redo it themselves</li
+><li
+contentType="fr"
+>Permettre aux participants de les faire eux-mêmes </li
+><li
+contentType="en"
+>Ask a participant to demonstrate the skill.</li
+><li
+contentType="fr"
+>Demander à un participant de démontrer les aptitudes. </li
+><li
+contentType="en"
+>Ask questions.</li
+><li
+contentType="fr"
+>Poser des questions. </li
+><li
+contentType="en"
+>Do a revision activity.</li
+><li
+contentType="fr"
+>Faire des activités de révision/bilan. </li
+><li
+contentType="en"
+>Give the participant time to reflect, fill in the recall exercise, add to Anki.</li
+><li
+contentType="fr"
+>Les participants doivent faire leur propre bilan. </li
+></ul
+><p
+contentType="en"
+>Stage 1 : Drafting</p
+><p
+contentType="fr"
+>Étape 1 : Première ébauche</p
+><p
+contentType="en"
+>Introduction</p
+><p
+contentType="fr"
+>Introduction </p
+><p
+contentType="en"
+>There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.</p
+><p
+contentType="fr"
+>Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.</p
+><p
+contentType="en"
+><img
+src="12imgeng/image2.png"
+></img
+></p
+><p
+contentType="en"
+>The following modules will help you in this stage :</p
+><p
+contentType="fr"
+>Les modules suivants vous aiderez avec cette étape :</p
+><ul
+><li
+contentType="en"
+>OB: Organising your desktop</li
+><li
+contentType="fr"
+>OB : Organisation du bureau </li
+><li
+contentType="en"
+>PP1: Project plan – the next task</li
+><li
+contentType="fr"
+>PP : Plan du projet </li
+><li
+contentType="en"
+>KD: Keyboarding your draft</li
+><li
+contentType="fr"
+>SD : Saisir votre texte </li
+><li
+contentType="en"
+>GL: Adding glossary items</li
+><li
+contentType="fr"
+>GL : Ajouter les entrées dans le glossaire </li
+><li
+contentType="en"
+>BC1: Basic checks – chapter/verse and markers.</li
+><li
+contentType="fr"
+>VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
+><li
+contentType="en"
+>PP2 : Project plan – complete a task</li
+><li
+contentType="fr"
+>PP2 : Plan et progrès du projet — rapport </li
+></ul
+></section1
+></chapter
+><chapter
+id="sOD"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>OD : Organising your desktop</titleContent
+><titleContent
+contentType="fr"
+>OB : Organisation du bureau</titleContent
+></titleContentChoices
+></secTitle
+><tablenumbered
+contentType="en"
+id="ntODFRMap"
+><table
+border="1"
+><tr
+><td
+>Start <br
+></br
+>Paratext</td
+><td
+>Use combinations of windows</td
+><td
+>Open your project</td
+><td
+>Open resources (source text, texts collection…)</td
+><td
+>Create a list of verses from the source text</td
+></tr
+></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntOBFRMap"
+><table
+border="1"
+><tr
+><td
+>Lancer <br
+></br
+>Paratext</td
+><td
+>Utilise les combinaisons des fenêtres</td
+><td
+>Ouvrir votre projet</td
+><td
+>frOuvrir des ressources (texte source, textes collection</td
+><td
+>Faire une liste de verses d’une langue de source</td
+></tr
+></table
+></tablenumbered
+><p
+contentType="en"
+>Introduction</p
+><p
+contentType="fr"
+>Introduction</p
+><p
+contentType="en"
+>As you work with your text in <object
+type="tPT"
+></object
+> you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.</p
+><p
+contentType="fr"
+>Vous voulez travailler sur votre texte en <object
+type="tPT"
+></object
+> et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Where we are</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
+><p
+contentType="en"
+>We are about to type text into an existing project. Before you can do this, someone must have already installed the program, created a project for your data and installed resources for you.</p
+><p
+contentType="fr"
+>Avant de pouvoir faire ceci, <object
+type="tPT"
+></object
+> et les ressources diverses doivent avoir été installés et un projet pour vos données doit avoir été créé.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Why this is important</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ? </object
+></pc
+><p
+contentType="en"
+>The translator who organises his/her desktop well has all the resources necessary for his/her work.</p
+><p
+contentType="fr"
+>Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce qu’on va faire ? </object
+></pc
+><p
+contentType="en"
+>You will start the <object
+type="tPT"
+></object
+> program and open a saved combination. If needed you will open other resources, change the arrangement of the windows and resave the text combination.</p
+><p
+contentType="fr"
+>On va lancer le logiciel Paratext, puis ouvrir une combinaison des fenêtres qu’est déjà enregistré. Si nécessaire vous pouvez modifier la disposition des fenêtres et réenregistrer la disposition.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Résumé</object
+></pc
+><p
+contentType="en"
+>This module shows you how to:</p
+><p
+contentType="fr"
+>Ce module vous montre comment :</p
+><section1
+id="s4"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Load the <object
+type="tPT"
+></object
+> program</titleContent
+><titleContent
+contentType="fr"
+>Lancer le programme Paratext</titleContent
+></titleContentChoices
+></secTitle
+><p
+><img
+src="12imgeng/image3.png"
+></img
+></p
+><ul
+><li
+contentType="en"
+>Double-click on <object
+type="tPT"
+></object
+> icon on the desktop OR</li
+><li
+contentType="fr"
+>Double-cliquez sur l’icône <object
+type="tPT"
+></object
+> sur le bureau </li
+><li
+contentType="en"
+>(From the Start menu, choose <object
+type="tPT"
+></object
+> )</li
+><li
+contentType="fr"
+>**missing**</li
+></ul
+></section1
+><section1
+id="s5"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Open a saved text combination</titleContent
+><titleContent
+contentType="fr"
+>Ouvrir une combinaison de fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Window</object
+> menu</li
+><li
+contentType="fr"
+>Cliquez sur le menu <object
+type="tmenu"
+>Fenêtre</object
+>  </li
+><li
+contentType="en"
+>Choose a saved text combination.</li
+><li
+contentType="fr"
+>Choisissez une combinaison de fenêtres qui est déjà enregistrée. </li
+><li
+contentType="en"
+>Your screen should look like the picture below</li
+><li
+contentType="fr"
+>Votre écran doit ressemble à l’image ci-dessous (sinon, voir la page suivante). </li
+><li
+>(if not, see the following page).</li
+></ul
+><p
+contentType="en"
+><img
+src="12imgeng/image4.png"
+></img
+></p
+></section1
+><section1
+id="s6"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Create a new text</titleContent
+><titleContent
+contentType="fr"
+>Créer un nouvel arrangement</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>If you haven’t already saved a text combination, then we recommend you do the following:</p
+><p
+contentType="fr"
+>Si vous n’avez pas encore enregistré une combinaison de fenêtres, on vous suggère de faire comme ci-dessous</p
+></section1
+><section1
+id="s7"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Open and arrange the windows</titleContent
+><titleContent
+contentType="fr"
+>Ouvrir et arranger les fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Window</object
+> &gt; <object
+type="tmenu"
+>Unstacked</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fenêtre</object
+> &gt; <object
+type="tmenu"
+>Non disposées</object
+> </li
+><li
+contentType="en"
+>Open the 5 windows as follows:</li
+><li
+contentType="fr"
+>Ouvrez 5 fenêtres comme suit :</li
+></ul
+><p
+contentType="en"
+>5 =your project <br
+></br
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open project/resource</object
+></p
+><p
+contentType="fr"
+>5 = votre projet <br
+></br
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir projet/ressource</object
+></p
+><p
+contentType="en"
+>1 = Renderings <br
+></br
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Biblical Terms renderings</object
+>)</p
+><p
+contentType="fr"
+>1 = équivalents <br
+></br
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir les termes équivalents aux termes bibliques</object
+>)</p
+><p
+contentType="en"
+>2 = Source text <br
+></br
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Source language text</object
+>)</p
+><p
+contentType="fr"
+>2 = texte source <br
+></br
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir le texte source</object
+>)</p
+><p
+contentType="en"
+>3 = Dictionary <br
+></br
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open source language dictionary </object
+>)</p
+><p
+contentType="fr"
+>3 = dictionnaire <br
+></br
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir un dictionnaire de langue source</object
+>)</p
+><p
+contentType="en"
+>4= Text collection <br
+></br
+>(<object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open project/resource in Text Collection</object
+>)</p
+><p
+contentType="fr"
+>4 = ressources en collection de textes <br
+></br
+>(<object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir projet/ressource en collection de textes</object
+>)</p
+><ul
+><li
+contentType="en"
+>Arrange the windows as desired.</li
+><li
+contentType="fr"
+>Arrangez les fenêtres comme vous le souhaitez</li
+></ul
+></section1
+><section1
+id="s8"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Save the text combination</titleContent
+><titleContent
+contentType="fr"
+>Enregistrer une combinaison de fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Once the windows are arranged as desired:</p
+><p
+contentType="fr"
+>Après avoir arrangé les fenêtres comme vous le souhaitez</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Window</object
+> &gt; <object
+type="tmenu"
+>Saved text combination</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fenêtre</object
+> &gt; <object
+type="tmenu"
+>Enregistrer la disposition des fenêtres </object
+></li
+><li
+contentType="en"
+>Type a name <br
+></br
+>[or to replace an existing combination, choose the existing name]</li
+><li
+contentType="fr"
+>Saisissez un nom <br
+></br
+>[ou pour réenregistrer, choisissez un nom existant] </li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> </li
+></ul
+></section1
+><section1
+id="s9"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Delete a text combination</titleContent
+><titleContent
+contentType="fr"
+>Supprimer une combinaison de fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>If you want to delete a saved combination,</p
+><p
+contentType="fr"
+>Si vous ne voulez plus un arrangement des fenêtres,</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Window</object
+> – Delete text combination</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fenêtre</object
+> — Supprimer la disposition des fenêtres </li
+><li
+contentType="en"
+>Choose the name of the saved combination.</li
+><li
+contentType="fr"
+>Choisissez le nom de disposition enregistré. </li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Delete</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Supprimer</object
+> </li
+></ul
+></section1
+><section1
+id="s10"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Open resources in a Text collection [◙ SD05]</titleContent
+><titleContent
+contentType="fr"
+>Ouvrir Projet/Ressource en collection de textes</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>With Paratext, it is possible to have several project/resources open at the same time. However, rather than having too many windows, it is better to have severals text in one window.</p
+><p
+contentType="fr"
+>Avec Paratext, il est possible d’avoir plusieurs projets ouverts au même moment. Mais au lieu d’avoir trop de fenêtres, il vaut mieux ouvrir plusieurs ressources dans une seule fenêtre en collection de textes.</p
+></framedUnit
+><p
+contentType="dn"
+>French Screenshot</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Project/Resource in Text collection</object
+><br
+></br
+><img
+src="12imgeng/image5.png"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir Projet/Ressource en collection de textes</object
+><br
+></br
+><img
+src="12imgfr/image5.png"
+></img
+> </li
+><li
+contentType="en"
+>Click on a resource (at the left).</li
+><li
+contentType="fr"
+>Cliquez sur une ressource (à gauche) </li
+><li
+contentType="en"
+>Click the right arrow.</li
+><li
+contentType="fr"
+>Cliquez sur la flèche droite </li
+><li
+contentType="en"
+>Repeat as necessary.</li
+><li
+contentType="fr"
+>Répétez si nécessaire </li
+><li
+contentType="en"
+>If necessary, change the order using the up/down arrow buttons.</li
+><li
+contentType="fr"
+>Si nécessaire, changez l’ordre avec les boutons haut/bas </li
+><li
+contentType="en"
+>Click OK</li
+><li
+contentType="fr"
+>Cliquez sur OK </li
+></ul
+><p
+contentType="en"
+>You can change the text in the second pane by clicking on the blue link of the abbreviation for the text. You can also change the view (preview, unformatted or standard.</p
+><p
+contentType="fr"
+>Vous pouvez changer le texte qui remplira le volet à droite en cliquant sur le lien bleu de la ressource.</p
+><p
+contentType="fr"
+>Cliquez sur un lien bleu pour remplir le deuxième volet. </p
+><p
+contentType="fr"
+>En <object
+type="tPT"
+></object
+> on peut changer l’affichage à aperçu/formaté/normale.</p
+></section1
+><section1
+id="s11"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Open a dictionary</titleContent
+><titleContent
+contentType="fr"
+>Ouvrir un dictionnaire</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can open a source language dictionary with glosses in other languages.</p
+><p
+contentType="fr"
+>Vous pouvez ouvrir un dictionnaire de langue source avec des gloses en français :</p
+></framedUnit
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Source Language Dictionary</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir dictionnaire de langue source </object
+></li
+><li
+contentType="en"
+>Choose « A Concise Greek-English Dictionary of the New Testament »</li
+><li
+contentType="fr"
+>Choisissez « A Concise Greek-English Dictionary of the New Testament » </li
+><li
+contentType="en"
+>View &gt; <object
+type="tmenu"
+>choose a language (e.g. Français</object
+>)</li
+><li
+contentType="fr"
+>Affichage &gt; <object
+type="tmenu"
+>français </object
+></li
+></ul
+></section1
+><section1
+id="s12"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Make a list of verses of a specific term from the source language text [◙ SD06]</titleContent
+><titleContent
+contentType="fr"
+>Faire une liste de versets avec un terme dans une langue de source</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>You can have a list of verses for a specific Greek word</p
+><p
+contentType="fr"
+>[◙ SD06]</p
+><framedUnit
+contentType="fr"
+framedtype="tTeacher"
+><p
+contentType="fr"
+>Pour avoir une liste de versets d’un terme grec, cliquez à droit sur un lemme (bleu) en langue source.<img
+src="i.png"
+></img
+></p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Right-click on a lemma (blue word) in the source language text window</li
+></ul
+><p
+contentType="en"
+><img
+src="12imgeng/image6.png"
+></img
+></p
+><ul
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Add to project biblical terms for</object
+></li
+><li
+contentType="fr"
+>Choisissez Ajouter aux termes bibliques du projet </li
+><li
+contentType="en"
+>Choose your project</li
+><li
+contentType="fr"
+>Choisissez votre projet </li
+><li
+contentType="en"
+>Edit the gloss if necessary</li
+><li
+contentType="fr"
+>Modifier la glose si nécessaire </li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>  </li
+><li
+contentType="en"
+>Change to the Biblical Terms Tool</li
+><li
+contentType="fr"
+>Changez à l’outil de Termes bibliques </li
+><li
+contentType="en"
+>Double-click on the term.</li
+><li
+contentType="fr"
+>Double-cliquez sur le terme. </li
+></ul
+></section1
+><section1
+id="s13"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Recall</titleContent
+><titleContent
+contentType="fr"
+>Bilan</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>The translators who ________ their desktops have all the _________ they need for their work.</li
+><li
+contentType="fr"
+>Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.</li
+><li
+contentType="en"
+>You use the __________ menu to save or delete _____________ of text.</li
+><li
+contentType="fr"
+>On peut utiliser le menu ________ (fichier/fenêtre) pour enregistrer ou supprimer des combinaisons de fenêtres.</li
+><li
+contentType="en"
+>To open windows you use the __________ menu.</li
+><li
+contentType="fr"
+>On utilise le menu _________ (fichier/fenêtre) pour :</li
+></ul
+><p
+contentType="en"
+>Open Biblical terms equivalents</p
+><p
+contentType="fr"
+>Ouvrir les équivalents de termes bibliques</p
+><p
+contentType="en"
+>Open Source language text</p
+><p
+contentType="fr"
+>Ouvrir le texte source</p
+><p
+contentType="en"
+>Open Source language dictionary</p
+><p
+contentType="fr"
+>Ouvrir le dictionnaire de langue source</p
+><p
+contentType="en"
+>Open Project/resource in collection of texts</p
+><p
+contentType="fr"
+>Ouvrir le projet/ressource en collection de textes</p
+><p
+contentType="en"
+>Open Project/resource</p
+><p
+contentType="fr"
+>Ouvrir le projet/ressource</p
+><ul
+><li
+contentType="en"
+>You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, the choosing _____ the your project .</li
+><li
+contentType="fr"
+>On fait une liste de versets avec un terme dans une langue de source par cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.</li
+></ul
+></section1
+></chapter
+></part
+><part
+id="stage2"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Stage 2 : Team Checking</titleContent
+><titleContent
+contentType="fr"
+>Étape 2 : Vérification par l’équipe</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PARATEXT_8_1-2_Stage2</titleContent
+><titleContent
+contentType="fr"
+>PARATEXT_8_1-2_Étape2</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
+id="ST2"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Stage 2 : Team Checking</titleContent
+><titleContent
+contentType="fr"
+>Étape 2 : Vérification par l’équipe</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction </object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introduction </object
+></pc
+><p
+contentType="en"
+>The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.<br
+></br
+><img
+src="12imgeng/image22.png"
+></img
+></p
+><p
+contentType="fr"
+>La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe, notes bibliques notes pour enregistrer vos questions, des discussions et des décisions.<br
+></br
+><img
+src="12imgfr/image21.png"
+></img
+></p
+><p
+contentType="en"
+>The following modules will help you in this stage :</p
+><p
+contentType="fr"
+>Les modules suivants vous aiderez avec cette Étape :</p
+><ul
+><li
+contentType="en"
+><sectionRef
+sec="sPN"
+showTitle="full"
+></sectionRef
+></li
+><li
+contentType="fr"
+><sectionRef
+sec="sPN"
+showTitle="full"
+></sectionRef
+></li
+></ul
+></chapter
+><chapter
+id="sPN"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PN: Proper Names</titleContent
+><titleContent
+contentType="fr"
+>NP : Noms propres</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><p
+contentType="en"
+>In this module, <indexedItem
+term="iOne"
+></indexedItem
+>you will check that the proper names have been transliterated consistently.</p
+><p
+contentType="fr"
+><indexedItem
+term="iTwo"
+></indexedItem
+>Dans ce module, vous allez vérifier que les noms propres sont bien translitérés.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Where we are</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
+><p
+contentType="en"
+>You have (or are working on) the rules for transliterating the names.</p
+><p
+contentType="fr"
+>Vous avez (ou vous êtes en train de) un accord des règles pour la translittération de noms.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Why this is important</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ? </object
+></pc
+><p
+contentType="en"
+>You want to be consistent so that is clear who is being referred to in the text.</p
+><p
+contentType="fr"
+>On veut être cohérent.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>What you are going to do</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce qu’on va faire ? </object
+></pc
+><p
+contentType="en"
+>You will</p
+><ul
+><li
+contentType="en"
+>filter the Major Biblical terms list on Names.</li
+><li
+contentType="en"
+>use the Adapt Names tool to enter your transliteration rules for each letter.</li
+><li
+contentType="en"
+>edit and approve the individual names.</li
+><li
+contentType="en"
+>add the approved names as proposed names in the Biblical terms list</li
+><li
+contentType="en"
+>work through the Biblical Terms list to ensure that all the verses are consistent.</li
+></ul
+><p
+contentType="fr"
+>Vous filtrez la liste de termes bibliques principaux de noms propres. Puis vous allez taper les règles de translittération et ajouter les propositions de noms. Puis vous allez vérifier les versets.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Summary</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Résumé</object
+></pc
+><p
+contentType="en"
+>This module shows you how to:</p
+><p
+contentType="fr"
+>Ce module vous montre comment :</p
+><section1
+id="sRunBTTool"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Run the Biblical Terms tool</titleContent
+><titleContent
+contentType="fr"
+>Lancer l’outil Termes biblique</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click in your project</li
+><li
+contentType="fr"
+>Cliquez dans votre projet </li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Biblical Terms ...</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Outils</object
+> &gt; <object
+type="tmenu"
+>Termes bibliques...</object
+> </li
+></ul
+></section1
+><section1
+id="sOpenListTerms"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Open list of terms [◙ VC01]</titleContent
+><titleContent
+contentType="fr"
+>Ouvrir la liste de termes [◙ VC01]</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Select Biblical terms list</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Sélectionner liste de termes</object
+> </li
+><li
+contentType="en"
+>Double-click the "<object
+type="tmenu"
+>Major Biblical Terms (Current Project Setting)</object
+>" list</li
+><li
+contentType="fr"
+>Double-cliquez sur la liste <object
+type="tmenu"
+>Termes bibliques principaux</object
+>  </li
+></ul
+></section1
+></chapter
+></part
+><backMatter
+><appendix
+id="sSpecTest"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Special text</titleContent
+><titleContent
+contentType="fr"
+>Texte Speciale</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT8-Special Text</titleContent
+><titleContent
+contentType="fr"
+>PT8-Texte Speciale</titleContent
+></titleContentChoices
+></shortTitle
+><ul
+><li
+contentType="en"
+>Matt 1.2-16: <indexedItem
+term="iOne"
+></indexedItem
+>The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).</li
+><li
+contentType="en"
+>Matt 5.3-10; The beatitudes. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 21.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Matt 27.37: <indexedItem
+term="iTwo"
+></indexedItem
+>The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Matt 27.46: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 5.41: The command to the dead girl. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 11.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 15.26: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Mark 15.34: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.</li
+><li
+contentType="en"
+>Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li
+><li
+contentType="en"
+>Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 19.38: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>Luke 23.38: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.</li
+><li
+contentType="en"
+>John 12.13: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="en"
+>John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>John 19.19: The sign on the cross. Often set in small caps.</li
+><li
+contentType="en"
+>Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Rom 8.15: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Rom 11.33-36: The doxology. Often set in poetic form.</li
+><li
+contentType="en"
+>Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li
+><li
+contentType="en"
+>Gal 4.6: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="en"
+>Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>1 Tim 3.16: A creed. Often set in poetic form.</li
+><li
+contentType="en"
+>2 Tim 2.11-13: A creed. Often set in poetic form.</li
+><li
+contentType="en"
+>1 John 2.12-14: I write to you. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li
+><li
+contentType="en"
+>Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="en"
+>Rev 4.8: A chant. Sometimes set in centered poetic form.</li
+><li
+contentType="en"
+>Rev 4.11: A chant. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 7.5-8: A list. Often set in a special poetic form.</li
+><li
+contentType="en"
+>Rev 7.10, 12: Chants. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 7.15-17: A declaration. Sometimes set in poetic form.</li
+><li
+contentType="en"
+>Rev 11.15, 17-18: Chants. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 12.10-12: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 15.3-4: A song. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 16.5-7: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 17.5: A sign. Often set centered, in small caps.</li
+><li
+contentType="en"
+>Rev 18.2-8: A declaration. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 18.10-24: A series of woes. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 19.1-8: A series of declarations. Often set in poetic form.</li
+><li
+contentType="en"
+>Rev 19.16: A sign. Often set centered, in small caps.</li
+><li
+contentType="en"
+>Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li
+></ul
+><p
+contentType="en"
+>[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., &amp; Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.</p
+><p
+>A note.<endnote
+id="nAppA"
+><p
+>Endnote in appendix A</p
+></endnote
+></p
+><p
+contentType="en"
+><citation
+ref="rEpplerEtAl"
+></citation
+> <glossaryTermRef
+glossaryTerm="gtWant"
+>testing</glossaryTermRef
+></p
+><p
+><glossaryTermRef
+glossaryTerm="gtNeed"
+></glossaryTermRef
+> see <citation
+ref="rEpplerEtAl"
+></citation
+></p
+><p
+></p
+></appendix
+><appendix
+id="aBibleBooks"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Three letter abbreviations</titleContent
+><titleContent
+contentType="fr"
+>Codes des livres Bibliques</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT8-Bible Abbreviations</titleContent
+><titleContent
+contentType="fr"
+>PT8-Codes des livres Bibliques</titleContent
+></titleContentChoices
+></shortTitle
+><p
+contentType="en"
+>Old Testament</p
+><table
+border="1"
+><tr
+><td
+>[Genesis] [GEN]</td
+><td
+>[Exodus] [EXO]</td
+><td
+>[Leviticus] [LEV]</td
+></tr
+><tr
+><td
+>[Numbers] (NUM)</td
+><td
+>[Deuteronomy] (DEU)</td
+><td
+>[Joshua] [JOS]</td
+></tr
+><tr
+><td
+>[Judges] (JDG)</td
+><td
+>Ruth [RUT]</td
+><td
+>1 Samuel [1SA]</td
+></tr
+><tr
+><td
+>2 Samuel [2SA]</td
+><td
+>[1 Kings] [1KI]</td
+><td
+>[2 Kings] [2KI]</td
+></tr
+><tr
+><td
+>[1 Chronicles] [1CH]</td
+><td
+>[2 Chronicles] [2CH]</td
+><td
+>[Ezra] [EZR]</td
+></tr
+><tr
+><td
+>[Nehemiah] [NEH]</td
+><td
+>Esther [EST]</td
+><td
+>Job [JOB]</td
+></tr
+><tr
+><td
+>[Psalms] [PSA]</td
+><td
+>[Proverbs] [PRO]</td
+><td
+>[Ecclesiastes] (ECC)</td
+></tr
+><tr
+><td
+>Song of Songs] [SNG]</td
+><td
+>[Isaiah] [ISA]</td
+><td
+>[Jeremiah] [JER]</td
+></tr
+><tr
+><td
+>Lamentations [LAM]</td
+><td
+>[Ezekiel] [EZK]</td
+><td
+>Daniel [DAN]</td
+></tr
+><tr
+><td
+>[Hosea] [HOS]</td
+><td
+>Joël [JOL]</td
+><td
+>Amos [AMO]</td
+></tr
+><tr
+><td
+>[Obadiah] (OBA)</td
+><td
+>[Jonah] (JON)</td
+><td
+>[Micah] (MIC)</td
+></tr
+><tr
+><td
+>[Nahum] (NAM)</td
+><td
+>[Habakkuk] [HAB]</td
+><td
+>[Zephaniah] [ZEP]</td
+></tr
+><tr
+><td
+>[Haggai] [HAG]</td
+><td
+>[Zechariah] [ZEC]</td
+><td
+>[Malachi] [MAL]</td
+></tr
+></table
+><p
+contentType="en"
+>New Testament</p
+><table
+border="1"
+><tr
+><td
+>[Matthew] [MAT]</td
+><td
+>[Mark] [MRK]</td
+><td
+>[Luke] [LUK]</td
+></tr
+><tr
+><td
+>[John] [JHN]</td
+><td
+>[Acts] [ACT]</td
+><td
+>[Romans] [ROM]</td
+></tr
+><tr
+><td
+>[1 Corinthians] [1CO]</td
+><td
+>[2 Corinthians] [2CO]</td
+><td
+>[Galatians] [GAL]</td
+></tr
+><tr
+><td
+>[Ephesians] [EPH]</td
+><td
+>[Philippians] (PHP</td
+><td
+>Colossians (COL)</td
+></tr
+><tr
+><td
+>[1 Thessalonians] (1TH)</td
+><td
+>[2 Thessalonians] (2TH)</td
+><td
+>[1 Timothy] (1TI)</td
+></tr
+><tr
+><td
+>[2 Timothy] (2TI)</td
+><td
+>[Titus] (TIT)</td
+><td
+>[Philemon] (PHM)</td
+></tr
+><tr
+><td
+>[Hebrews] (HEB)</td
+><td
+>[James] (JAS)</td
+><td
+>[1 Peter] (1PE)</td
+></tr
+><tr
+><td
+>[2 Peter] (2PE)</td
+><td
+>[1 John] (1JN)</td
+><td
+>[2 John] (2JN)</td
+></tr
+><tr
+><td
+>[3 John] (3JN)</td
+><td
+>Jude (JUD)</td
+><td
+>[Revelation] (REV)</td
+></tr
+></table
+><p
+>A note.<endnote
+id="nAppB"
+><p
+>Endnote in appendix B</p
+></endnote
+></p
+></appendix
+><glossary
+><labelContentChoices
+><labelContent
+contentType="en"
+>Glossary</labelContent
+><labelContent
+contentType="fr"
+>Glossaire</labelContent
+></labelContentChoices
+><p
+contentType="en"
+>English intro to glossary.</p
+><p
+contentType="fr"
+>Intro francais au glossaire.</p
+><dl
+><dt
+>Note</dt
+><dd
+>Thing</dd
+><dt
+>Blah</dt
+><dd
+>blue</dd
+></dl
+><p
+contentType="en"
+>Here are the abbreviations used:</p
+><p
+contentType="fr"
+>Les abreviations sont:</p
+><abbreviationsShownHere
+></abbreviationsShownHere
+><p
+contentType="en"
+>The glossary terms used are:</p
+><p
+contentType="fr"
+>Les mots du glossaire:</p
+><glossaryTermsShownHere
+></glossaryTermsShownHere
+><p
+>A note.<endnote
+id="nGlossary"
+><p
+>Endnote in glossary</p
+></endnote
+></p
+></glossary
+><abbreviations
+font-family="Charis SIL Small Caps"
+fontissmallcaps="yes"
+usesmallcaps="no"
+version="2.28.0"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Abbreviations</labelContent
+><labelContent
+contentType="fr"
+>Abreviations</labelContent
+></labelContentChoices
+><comment
+>The following was taken from the Leipzig Glossing Rules, List of Standard Abbreviations at <link
+href="http://www.eva.mpg.de/lingua/resources/glossing-rules.php"
+>http://www.eva.mpg.de/lingua/resources/glossing-rules.php</link
+> on 01-October, 2008.</comment
+><abbreviation
+id="v1"
+><abbrInLang
+lang="en"
+><abbrTerm
+>1</abbrTerm
+><abbrDefinition
+>first person</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="v2"
+><abbrInLang
+lang="en"
+><abbrTerm
+>2</abbrTerm
+><abbrDefinition
+>second person</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="v3"
+><abbrInLang
+lang="en"
+><abbrTerm
+>3</abbrTerm
+><abbrDefinition
+>third person</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vA"
+><abbrInLang
+lang="en"
+><abbrTerm
+>a</abbrTerm
+><abbrDefinition
+>agent-like argument of canonical transitive verb</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vABL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>abl</abbrTerm
+><abbrDefinition
+>ablative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vABS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>abs</abbrTerm
+><abbrDefinition
+>absolutive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vACC"
+><abbrInLang
+lang="en"
+><abbrTerm
+>acc</abbrTerm
+><abbrDefinition
+>accusative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vADJ"
+><abbrInLang
+lang="en"
+><abbrTerm
+>adj</abbrTerm
+><abbrDefinition
+>adjective</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vADV"
+><abbrInLang
+lang="en"
+><abbrTerm
+>adv</abbrTerm
+><abbrDefinition
+>adverb(ial)</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vAGR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>agr</abbrTerm
+><abbrDefinition
+>agreement</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vALL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>all</abbrTerm
+><abbrDefinition
+>allative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vANTIP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>antip</abbrTerm
+><abbrDefinition
+>antipassive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vAPPL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>appl</abbrTerm
+><abbrDefinition
+>applicative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vART"
+><abbrInLang
+lang="en"
+><abbrTerm
+>art</abbrTerm
+><abbrDefinition
+>article</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vAUX"
+><abbrInLang
+lang="en"
+><abbrTerm
+>aux</abbrTerm
+><abbrDefinition
+>auxiliary</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vBEN"
+><abbrInLang
+lang="en"
+><abbrTerm
+>ben</abbrTerm
+><abbrDefinition
+>benefactive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCAUS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>caus</abbrTerm
+><abbrDefinition
+>causative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCLF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>clf</abbrTerm
+><abbrDefinition
+>classifier</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCOM"
+><abbrInLang
+lang="en"
+><abbrTerm
+>com</abbrTerm
+><abbrDefinition
+>comitative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCOMP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>comp</abbrTerm
+><abbrDefinition
+>complementizer</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCOMPL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>compl</abbrTerm
+><abbrDefinition
+>completive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCOND"
+><abbrInLang
+lang="en"
+><abbrTerm
+>cond</abbrTerm
+><abbrDefinition
+>conditional</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCOP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>cop</abbrTerm
+><abbrDefinition
+>copula</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vCVB"
+><abbrInLang
+lang="en"
+><abbrTerm
+>cvb</abbrTerm
+><abbrDefinition
+>converb</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDAT"
+><abbrInLang
+lang="en"
+><abbrTerm
+>dat</abbrTerm
+><abbrDefinition
+>dative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDECL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>decl</abbrTerm
+><abbrDefinition
+>declarative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDEF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>def</abbrTerm
+><abbrDefinition
+>definite</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDEM"
+><abbrInLang
+lang="en"
+><abbrTerm
+>dem</abbrTerm
+><abbrDefinition
+>demonstrative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDET"
+><abbrInLang
+lang="en"
+><abbrTerm
+>det</abbrTerm
+><abbrDefinition
+>determiner</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDIST"
+><abbrInLang
+lang="en"
+><abbrTerm
+>dist</abbrTerm
+><abbrDefinition
+>distal</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDISTR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>distr</abbrTerm
+><abbrDefinition
+>distributive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDU"
+><abbrInLang
+lang="en"
+><abbrTerm
+>du</abbrTerm
+><abbrDefinition
+>dual</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vDUR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>dur</abbrTerm
+><abbrDefinition
+>durative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vERG"
+><abbrInLang
+lang="en"
+><abbrTerm
+>erg</abbrTerm
+><abbrDefinition
+>ergative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vEXCL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>excl</abbrTerm
+><abbrDefinition
+>exclusive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>f</abbrTerm
+><abbrDefinition
+>feminine</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vFOC"
+><abbrInLang
+lang="en"
+><abbrTerm
+>foc</abbrTerm
+><abbrDefinition
+>focus</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vFUT"
+><abbrInLang
+lang="en"
+><abbrTerm
+>fut</abbrTerm
+><abbrDefinition
+>future</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vGEN"
+><abbrInLang
+lang="en"
+><abbrTerm
+>gen</abbrTerm
+><abbrDefinition
+>genitive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vIMP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>imp</abbrTerm
+><abbrDefinition
+>imperative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vINCL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>incl</abbrTerm
+><abbrDefinition
+>inclusive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vIND"
+><abbrInLang
+lang="en"
+><abbrTerm
+>ind</abbrTerm
+><abbrDefinition
+>indicative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vINDF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>indf</abbrTerm
+><abbrDefinition
+>indefinite</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vINF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>inf</abbrTerm
+><abbrDefinition
+>infinitive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vINS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>ins</abbrTerm
+><abbrDefinition
+>instrumental</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vINTR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>intr</abbrTerm
+><abbrDefinition
+>intransitive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vIPFV"
+><abbrInLang
+lang="en"
+><abbrTerm
+>ipfv</abbrTerm
+><abbrDefinition
+>imperfective</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vIRR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>irr</abbrTerm
+><abbrDefinition
+>irrealis</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vLOC"
+><abbrInLang
+lang="en"
+><abbrTerm
+>loc</abbrTerm
+><abbrDefinition
+>locative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vM"
+><abbrInLang
+lang="en"
+><abbrTerm
+>m</abbrTerm
+><abbrDefinition
+>masculine</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vN"
+><abbrInLang
+lang="en"
+><abbrTerm
+>n</abbrTerm
+><abbrDefinition
+>neuter</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vNEG"
+><abbrInLang
+lang="en"
+><abbrTerm
+>neg</abbrTerm
+><abbrDefinition
+>negation, negative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vNMLZ"
+><abbrInLang
+lang="en"
+><abbrTerm
+>nmlz</abbrTerm
+><abbrDefinition
+>nominalizer/nominalization</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vNOM"
+><abbrInLang
+lang="en"
+><abbrTerm
+>nom</abbrTerm
+><abbrDefinition
+>nominative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vNPST"
+><abbrInLang
+lang="en"
+><abbrTerm
+>npst</abbrTerm
+><abbrDefinition
+>nonpast</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vNSG"
+><abbrInLang
+lang="en"
+><abbrTerm
+>nsg</abbrTerm
+><abbrDefinition
+>nonsingular</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vOBJ"
+><abbrInLang
+lang="en"
+><abbrTerm
+>obj</abbrTerm
+><abbrDefinition
+>object</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vOBL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>obl</abbrTerm
+><abbrDefinition
+>oblique</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>p</abbrTerm
+><abbrDefinition
+>patient-like argument of canonical transitive verb</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPASS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>pass</abbrTerm
+><abbrDefinition
+>passive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPFV"
+><abbrInLang
+lang="en"
+><abbrTerm
+>pfv</abbrTerm
+><abbrDefinition
+>perfective</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>pl</abbrTerm
+><abbrDefinition
+>plural</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPOSS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>poss</abbrTerm
+><abbrDefinition
+>possessive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPRED"
+><abbrInLang
+lang="en"
+><abbrTerm
+>pred</abbrTerm
+><abbrDefinition
+>predicative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPRF"
+><abbrInLang
+lang="en"
+><abbrTerm
+>prf</abbrTerm
+><abbrDefinition
+>perfect</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPRS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>prs</abbrTerm
+><abbrDefinition
+>present</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPROG"
+><abbrInLang
+lang="en"
+><abbrTerm
+>prog</abbrTerm
+><abbrDefinition
+>progressive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPROH"
+><abbrInLang
+lang="en"
+><abbrTerm
+>proh</abbrTerm
+><abbrDefinition
+>prohibitive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPROX"
+><abbrInLang
+lang="en"
+><abbrTerm
+>prox</abbrTerm
+><abbrDefinition
+>proximal/proximate</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPST"
+><abbrInLang
+lang="en"
+><abbrTerm
+>pst</abbrTerm
+><abbrDefinition
+>past</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPTCP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>ptcp</abbrTerm
+><abbrDefinition
+>participle</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vPURP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>purp</abbrTerm
+><abbrDefinition
+>purposive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vQ"
+><abbrInLang
+lang="en"
+><abbrTerm
+>q</abbrTerm
+><abbrDefinition
+>question particle/marker</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vQUOT"
+><abbrInLang
+lang="en"
+><abbrTerm
+>quot</abbrTerm
+><abbrDefinition
+>quotative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vRECP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>recp</abbrTerm
+><abbrDefinition
+>reciprocal</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vREFL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>refl</abbrTerm
+><abbrDefinition
+>reflexive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vREL"
+><abbrInLang
+lang="en"
+><abbrTerm
+>rel</abbrTerm
+><abbrDefinition
+>relative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vRES"
+><abbrInLang
+lang="en"
+><abbrTerm
+>res</abbrTerm
+><abbrDefinition
+>resultative</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vS"
+><abbrInLang
+lang="en"
+><abbrTerm
+>s</abbrTerm
+><abbrDefinition
+>single argument of canonical intransitive verb</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vSBJ"
+><abbrInLang
+lang="en"
+><abbrTerm
+>sbj</abbrTerm
+><abbrDefinition
+>subject</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vSBJV"
+><abbrInLang
+lang="en"
+><abbrTerm
+>sbjv</abbrTerm
+><abbrDefinition
+>subjunctive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vSG"
+><abbrInLang
+lang="en"
+><abbrTerm
+>sg</abbrTerm
+><abbrDefinition
+>singular</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vTOP"
+><abbrInLang
+lang="en"
+><abbrTerm
+>top</abbrTerm
+><abbrDefinition
+>topic</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vTR"
+><abbrInLang
+lang="en"
+><abbrTerm
+>tr</abbrTerm
+><abbrDefinition
+>transitive</abbrDefinition
+></abbrInLang
+></abbreviation
+><abbreviation
+id="vVOC"
+><abbrInLang
+lang="en"
+><abbrTerm
+>voc</abbrTerm
+><abbrDefinition
+>vocative</abbrDefinition
+></abbrInLang
+></abbreviation
+></abbreviations
+><glossaryTerms
+><labelContentChoices
+><labelContent
+contentType="en"
+>Glossary Terms</labelContent
+><labelContent
+contentType="fr"
+>Mots glossaire</labelContent
+></labelContentChoices
+><glossaryTerm
+id="gtNeed"
+><glossaryTermInLang
+><glossaryTermTerm
+>need</glossaryTermTerm
+><glossaryTermDefinition
+>necessary item</glossaryTermDefinition
+></glossaryTermInLang
+></glossaryTerm
+><glossaryTerm
+id="gtWant"
+><glossaryTermInLang
+><glossaryTermTerm
+>want</glossaryTermTerm
+><glossaryTermDefinition
+>lack, desire</glossaryTermDefinition
+></glossaryTermInLang
+></glossaryTerm
+></glossaryTerms
+><endnotes
+><labelContentChoices
+><labelContent
+contentType="en"
+>Notes</labelContent
+><labelContent
+contentType="fr"
+>Les notes</labelContent
+></labelContentChoices
+><chapterLabelContentChoices
+><labelContent
+contentType="en"
+>Chapter</labelContent
+><labelContent
+contentType="fr"
+>Capitre</labelContent
+></chapterLabelContentChoices
+><appendixLabelContentChoices
+><labelContent
+contentType="en"
+>Appendix</labelContent
+><labelContent
+contentType="fr"
+>Apendice</labelContent
+></appendixLabelContentChoices
+><partLabelContentChoices
+><labelContent
+contentType="en"
+>Part</labelContent
+><labelContent
+contentType="fr"
+>Parte</labelContent
+></partLabelContentChoices
+></endnotes
+><references
+><labelContentChoices
+><labelContent
+contentType="en"
+>References</labelContent
+><labelContent
+contentType="fr"
+>Reférences</labelContent
+></labelContentChoices
+><refAuthor
+citename="Doe"
+name="Doe, John"
+><refWork
+id="rDoe"
+><refDate
+>2001</refDate
+><refTitle
+>My favorite things</refTitle
+><book
+><location
+>Vienna</location
+><publisher
+>Grugers</publisher
+></book
+></refWork
+></refAuthor
+><refAuthor
+citename="Eppler et al."
+name="Eppler, D, T. Goller, E.R. Wendland, M.M. Curly, J. Harold Greenlee, E. Deibler"
+><refWork
+id="rEpplerEtAl"
+><refDate
+>2008</refDate
+><refTitle
+>not sure...</refTitle
+><article
+><jTitle
+>Notes On Translation</jTitle
+><jVol
+>7</jVol
+><jIssueNumber
+>3</jIssueNumber
+><location
+>Dallas</location
+><publisher
+>SIL International</publisher
+></article
+></refWork
+></refAuthor
+></references
+><selectedBibliography
+contentType="ctSelBibl"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Selected Bibliography</labelContent
+><labelContent
+contentType="fr"
+>Bibliographe something</labelContent
+></labelContentChoices
+><citation
+ref="rDoe"
+></citation
+></selectedBibliography
+><index
+><labelContentChoices
+><labelContent
+contentType="en"
+>Index label</labelContent
+><labelContent
+contentType="fr"
+>Indéx label</labelContent
+></labelContentChoices
+></index
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-style="italic"
+id="italic"
+></type
+><type
+font-weight="bold"
+id="tmenu"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-weight="bold"
+id="tkey"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tsub"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+font-style="italic"
+id="tresult"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tsubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+before="Paratext 8"
+id="tPT"
+></type
+><type
+before="Paratext 7"
+id="tPTPrev"
+></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+><framedType
+backgroundcolor="#add8e6"
+description="Interface Translation Note"
+id="translation"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
+><indexTerms
+><indexTerm
+id="iOne"
+><term
+>One</term
+></indexTerm
+><indexTerm
+id="iTwo"
+><term
+>Two</term
+></indexTerm
+></indexTerms
+><publishingInfo
+><keywords
+><keyword
+>Testing</keyword
+><keyword
+>Labels</keyword
+></keywords
+></publishingInfo
+><contentControl
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+><contentType
+id="ctRefs"
+>Use References</contentType
+><contentType
+id="ctSelBibl"
+>Use Selected Bibliography</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn"
+>Exclude English and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn"
+>Exclude French and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn ctSelBibl"
+>English with references</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn"
+>English with selected bibliography</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="en dn ctSelBibl"
+>French with references</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn"
+>French with selected bibliography</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+>
+

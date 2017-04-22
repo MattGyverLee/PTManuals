@@ -9,151 +9,85 @@ automaticallywrapinterlinears="yes"
 version="2.28.0"
 ><frontMatter
 ><title
-><object
-type="tPT"
-></object
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext 8</titleContent
+><titleContent
+contentType="fr"
+>Paratext 8</titleContent
+></titleContentChoices
 ></title
 ><shortTitle
->Paratext_8_1-2</shortTitle
-><subtitle
-><object
-contentType="fr"
-type="t-fr"
->Manuel de cours : Étapes 1 &amp; 2 : (Français)</object
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
-xml:lang="en"
->Course Manual: Stages 1 &amp; 2: (English)</object
+>Paratext_8_1-2</titleContent
+><titleContent
+contentType="fr"
+>Paratext_8_1-2</titleContent
+></titleContentChoices
+></shortTitle
+><subtitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Manual: Stages 1 &amp; 2: (English)</titleContent
+><titleContent
+contentType="fr"
+>Manuel de cours : Étapes 1 &amp; 2 : (Français)</titleContent
+></titleContentChoices
 ></subtitle
 ><author
 >Jenni Beadle</author
 ><author
 >Matthew Lee</author
 ><contents
-contentType="en"
-label="Contents"
-showLevel="3"
-></contents
-><contents
-contentType="fr"
 label="Contenu"
+showLevel="3"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Table of Contents</labelContent
+><labelContent
+contentType="fr"
+>Table de matières</labelContent
+></labelContentChoices
 ></contents
 ></frontMatter
-><chapterBeforePart
-id="c"
-><secTitle
->Intro</secTitle
-><p
-></p
-></chapterBeforePart
 ><part
-id="introstage1"
+id="pIntSt"
 ><secTitle
-> Stage 1 Drafting</secTitle
-><shortTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PARATEXT_8_1-2_IntroStage1</object
-><object
+>Course Introduction</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PARATEXT_8_1-2_IntroÉtape1</object
-></shortTitle
-><p
-contentType="en"
->Stage 1 : Drafting</p
-><p
-contentType="fr"
->Étape 1 : Première ébauche</p
-><p
-contentType="en"
->Introduction</p
-><p
-contentType="fr"
->Introduction </p
-><p
-contentType="en"
->There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.</p
-><p
-contentType="fr"
->Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.</p
-><p
-contentType="en"
-><img
-src="12imgeng/image2.png"
-></img
-></p
-><p
-contentType="en"
->The following modules will help you in this stage :</p
-><p
-contentType="fr"
->Les modules suivants vous aiderez avec cette étape :</p
-><ul
-><li
-contentType="en"
->OB: Organising your desktop</li
-><li
-contentType="fr"
->OB : Organisation du bureau </li
-><li
-contentType="en"
->PP1: Project plan — the next task</li
-><li
-contentType="fr"
->PP : Plan du projet — la prochaine tâche</li
-><li
-contentType="en"
->KD: Keyboarding your draft</li
-><li
-contentType="fr"
->SD : Saisir votre texte </li
-><li
-contentType="en"
->GL: Adding glossary items</li
-><li
-contentType="fr"
->GL : Ajouter les entrées dans le glossaire </li
-><li
-contentType="en"
->BC1: Basic checks — chapter/verse and markers.</li
-><li
-contentType="fr"
->VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
-><li
-contentType="en"
->PP2 : Project plan — complete a task</li
-><li
-contentType="fr"
->PP2 : Plan et progrès du projet — compléter une tâche </li
-></ul
-><p
-></p
-><chapter
-id="sIntro"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Introduction</object
-><object
-contentType="fr"
-type="t-fr"
->Introduction </object
+>Introduction du Cours</titleContent
+></titleContentChoices
 ></secTitle
-><section1
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext_8_1-2_Intro</titleContent
+><titleContent
+contentType="fr"
+>Paratext_8_1-2_Intro</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
 id="sIntroGoal"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Goal</object
-><object
+>Goal</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->But </object
+>But </titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -172,19 +106,19 @@ contentType="fr"
 >Les participants traiteront leur traduction à l’aide de <object
 type="tPT"
 ></object
-> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
-></section1
-><section1
+>, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
+></chapter
+><chapter
 id="s3"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Course Objectives</object
-><object
+>Course Objectives</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Objectifs du cours 1</object
+>Objectifs</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -218,14 +152,12 @@ type="tPT"
 ><p
 contentType="en"
 ><object
-contentType="en"
 type="italic"
 >Stage 1 : Drafting</object
 ></p
 ><p
 contentType="fr"
 ><object
-contentType="fr"
 type="italic"
 >Étape 1 : Première ébauche </object
 ></p
@@ -303,7 +235,7 @@ contentType="en"
 >Draft glossary entries and add using the Biblical terms tool.</li
 ><li
 contentType="fr"
->**missing**</li
+>Faire un ébauche des entrées de glossaire et les ajouter avec l'outil de termes biblique.</li
 ><li
 contentType="en"
 >Use the Send/Receive feature to share and backup their project to the Internet or a USB key.</li
@@ -359,7 +291,13 @@ contentType="fr"
 ></ul
 ><p
 contentType="en"
->Stage 2 : Team checking</p
+><object
+type="italic"
+>Stage 2 : Team checking</object
+></p
+><p
+contentType="dn"
+>these two (above and below) need to be bigger headings somehow</p
 ><p
 contentType="fr"
 >Étape 2 : Vérifications par l’équipe </p
@@ -491,6 +429,9 @@ contentType="fr"
 >Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.</li
 ></ul
 ><p
+contentType="dn"
+>This needs to be a section 1.3??</p
+><p
 contentType="en"
 >Introductions, setup</p
 ><p
@@ -541,45 +482,82 @@ contentType="fr"
 >quelles sont la première et la dernière version de Paratext que vous avez utilisées. </li
 ></ul
 ><table
+align="left"
 border="1"
 ><tr
 ><td
+align="left"
+valign="top"
 >5.0</td
 ><td
+align="left"
+valign="top"
 >6.0</td
 ><td
+align="left"
+valign="top"
 >7.0</td
 ><td
+align="left"
+valign="top"
 >7.1</td
 ><td
+align="left"
+valign="top"
 >7.2</td
 ><td
+align="left"
+valign="top"
 >7.3</td
 ><td
+align="left"
+valign="top"
 >7.4</td
 ><td
+align="left"
+valign="top"
 >7.5</td
 ><td
+align="left"
+valign="top"
 >8</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >1998</td
 ><td
+align="left"
+valign="top"
 >2003</td
 ><td
+align="left"
+valign="top"
 >2008</td
 ><td
+align="left"
+valign="top"
 >2010</td
 ><td
+align="left"
+valign="top"
 >2011</td
 ><td
+align="left"
+valign="top"
 >2012</td
 ><td
+align="left"
+valign="top"
 >2013</td
 ><td
+align="left"
+valign="top"
 >2014</td
 ><td
+align="left"
+valign="top"
 >2017</td
 ></tr
 ></table
@@ -672,19 +650,119 @@ contentType="en"
 contentType="fr"
 >Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, ajoutez à Anki.</li
 ></ul
-></section1
 ></chapter
+></part
+><part
+id="introstage1"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Stage 1: Drafting</titleContent
+><titleContent
+contentType="fr"
+>Étape 1 : Première ébauche</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PARATEXT_8_1-2_Stage1</titleContent
+><titleContent
+contentType="fr"
+>PARATEXT_8_1-2_Étape1</titleContent
+></titleContentChoices
+></shortTitle
+><p
+contentType="fr"
+><object
+type="t-fr"
+>Étape 1 : Première ébauche</object
+></p
+><p
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></p
+><p
+contentType="en"
+>There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.<br
+></br
+><img
+src="12imgeng/image2.png"
+></img
+></p
+><p
+contentType="fr"
+>Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.<br
+></br
+><img
+src="12imgfr/image2a.png"
+></img
+></p
+><p
+contentType="en"
+>The following modules will help you in this stage :</p
+><p
+contentType="fr"
+>Les modules suivants vous aiderez avec cette étape :</p
+><ul
+><li
+contentType="en"
+>OB: Organising your desktop</li
+><li
+contentType="fr"
+>OB : Organisation du bureau </li
+><li
+contentType="en"
+>PP1: Project plan — the next task</li
+><li
+contentType="fr"
+>PP : Plan du projet — la prochaine tâche</li
+><li
+contentType="en"
+>KD: Keyboarding your draft</li
+><li
+contentType="fr"
+>SD : Saisir votre texte </li
+><li
+contentType="en"
+>GL: Adding glossary items</li
+><li
+contentType="fr"
+>GL : Ajouter les entrées dans le glossaire </li
+><li
+contentType="en"
+>BC1: Basic checks — chapter/verse and markers.</li
+><li
+contentType="fr"
+>VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
+><li
+contentType="en"
+>PP2 : Project plan — complete a task</li
+><li
+contentType="fr"
+>PP2 : Plan et progrès du projet — compléter une tâche </li
+></ul
 ><chapter
 id="sOD"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->OD: Organising your desktop</object
-><object
+>OD: Organising your desktop</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->OB : Organisation du bureau</object
+>OB : Organisation du bureau</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -767,17 +845,14 @@ contentType="fr"
 ><section1
 id="s4"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Load the <object
-type="tPT"
-></object
-> program</object
-><object
+>Load the program</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Lancer le programme Paratext</object
+>Lancer le programme Paratext</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 ><img
@@ -790,7 +865,9 @@ contentType="en"
 >Double-click on <object
 type="tPT"
 ></object
-> icon on the desktop OR</li
+> icon on the desktop<br
+></br
+> OR</li
 ><li
 contentType="fr"
 >Double-cliquez sur l’icône <object
@@ -811,14 +888,14 @@ contentType="fr"
 ><section1
 id="s5"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open a saved text combination</object
-><object
+>Open a saved text combination</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir une disposition des fenêtres</object
+>Ouvrir une disposition des fenêtres</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -860,14 +937,14 @@ src="12imgeng/image4.png"
 ><section1
 id="s6"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Create a new text combination</object
-><object
+>Create a new text combination</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Créer un nouvel disposition</object
+>Créer un nouvel disposition</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -878,14 +955,14 @@ contentType="fr"
 ><section2
 id="sArrangeWindows"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open and arrange the windows</object
-><object
+>Open and arrange the windows</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir et arranger les fenêtres</object
+>Ouvrir et arranger les fenêtres</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -924,7 +1001,6 @@ contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Open project/resource</object
 ></li
@@ -933,7 +1009,6 @@ contentType="fr"
 >5 = votre projet <br
 ></br
 >(<object
-contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
@@ -945,11 +1020,9 @@ contentType="en"
 >1 = Renderings <br
 ></br
 >(<object
-contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Open Biblical Terms renderings</object
 >)</li
@@ -991,11 +1064,9 @@ contentType="en"
 >3 = Dictionary <br
 ></br
 >(<object
-contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Open source language dictionary</object
 >)</li
@@ -1005,26 +1076,25 @@ contentType="fr"
 >3 = dictionnaire <br
 ></br
 >(<object
-contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
-contentType="fr"
 type="tmenu"
 >Ouvrir un dictionnaire de langue source</object
 >)</p
 ></li
+><li
+contentType="dn"
+>why are there blank lines in 3 and 4 in the PDF?</li
 ><li
 ><p
 contentType="en"
 >4= Text collection <br
 ></br
 >(<object
-contentType="en"
 type="tmenu"
 >File</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Open project/resource in Text Collection</object
 >)</p
@@ -1035,11 +1105,9 @@ contentType="fr"
 >4 = ressources en collection de textes <br
 ></br
 >(<object
-contentType="fr"
 type="tmenu"
 >Fichier</object
 > &gt; <object
-contentType="fr"
 type="tmenu"
 >Ouvrir projet/ressource en collection de textes</object
 >)</p
@@ -1059,14 +1127,14 @@ contentType="fr"
 ><section2
 id="sSaveCombo"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Save the text combination</object
-><object
+>Save the text combination</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Enregistrer une disposition des fenêtres</object
+>Enregistrer une disposition des fenêtres</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -1121,14 +1189,14 @@ type="tmenu"
 ><section1
 id="sDeleteTextColl"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Delete a text combination</object
-><object
+>Delete a text combination</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Supprimer une disposition des fenêtres</object
+>Supprimer une disposition des fenêtres</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -1172,14 +1240,14 @@ type="tmenu"
 ><section1
 id="sOpenTextColl"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open resources in a Text collection</object
-><object
+>Open resources in a Text collection</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir Projet/Ressource en collection de textes</object
+>Ouvrir Projet/Ressource en collection de textes</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -1272,14 +1340,14 @@ type="tPT"
 ><section1
 id="sOpenDico"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open a dictionary</object
-><object
+>Open a dictionary</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir un dictionnaire</object
+>Ouvrir un dictionnaire</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -1332,14 +1400,14 @@ type="tmenu"
 ><section1
 id="s12"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Make a list of verses of a specific term from the source language text</object
-><object
+>Make a list of verses of a specific term from the source language text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Faire une liste de versets avec un terme dans une langue de source</object
+>Faire une liste de versets avec un terme dans une langue de source</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="en"
@@ -1375,7 +1443,6 @@ type="tmenu"
 ><li
 contentType="fr"
 >Choisissez <object
-contentType="fr"
 type="tmenu"
 >Ajouter aux termes bibliques du projet</object
 ></li
@@ -1420,14 +1487,14 @@ contentType="fr"
 ><section1
 id="s13"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Recall</object
-><object
+>Recall</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Bilan</object
+>Bilan</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1494,14 +1561,14 @@ contentType="fr"
 ><chapter
 id="sPP1"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PP1 : Project Plan and progress</object
-><object
+>PP1 : Project Plan and progress</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PP1 : Plan et progrès du projet</object
+>PP1 : Plan et progrès du projet</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -1601,14 +1668,14 @@ contentType="fr"
 ><section1
 id="s14"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Make sure your project is active</object
-><object
+>Make sure your project is active</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier que votre projet est actif</object
+>Vérifier que votre projet est actif</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1622,14 +1689,14 @@ contentType="fr"
 ><section1
 id="s15"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->View tasks that need to be done</object
-><object
+>View tasks that need to be done</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Afficher les taches à faire</object
+>Afficher les taches à faire</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1699,14 +1766,14 @@ contentType="fr"
 ><section1
 id="s16"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Identify the next task</object
-><object
+>Identify the next task</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Identifiez la prochaine tâche à faire</object
+>Identifiez la prochaine tâche à faire</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -1733,37 +1800,40 @@ contentType="en"
 ><li
 contentType="fr"
 >Faites les taches. (Voir les autres modules si nécessaire.)</li
-><li
-contentType="fr"
->(***framed) Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. </li
-><li
-contentType="fr"
->Une vérification est achevée quand il n’y a rien à signaler. </li
 ></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>When the task is finished, see the instructions below to mark it as completed. (A check is completed when there are 0 issues.)</p
+><p
+contentType="fr"
+>Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il n’y a rien à signaler (0 issues). </p
+></framedUnit
 ></section1
 ><section1
 id="sTaskComplete"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Mark a task as complete</object
-><object
+>Mark a task as complete</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Marquer une tâche comme achevé</object
+>Marquer une tâche comme achevé</titleContent
+></titleContentChoices
 ></secTitle
 ><section2
 id="sBookComplete"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Mark a book task as completed</object
-><object
+>Mark a book task as completed</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Marquer une tâche de livre comme terminée</object
+>Marquer une tâche de livre comme terminée</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1789,7 +1859,6 @@ src="12imgfr/image9.png"
 ><br
 ></br
 ><object
-contentType="fr"
 type="italic"
 >Il devient plein pour montre qu’il est terminé.</object
 ></li
@@ -1798,14 +1867,14 @@ type="italic"
 ><section2
 id="sMarkComplete"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Mark a chapter task as completed</object
-><object
+>Mark a chapter task as completed</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Marquer une tâche de chapitre comme terminée</object
+>Marquer une tâche de chapitre comme terminée</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1845,7 +1914,10 @@ contentType="fr"
 ></br
 ><p
 contentType="fr"
->Une boîte de dialogue s’affiche.<br
+><object
+type="italic"
+>Une boîte de dialogue s’affiche.</object
+><br
 ></br
 ><img
 src="12imgeng/image11.png"
@@ -1864,27 +1936,27 @@ contentType="en"
 >Check the chapters that have been completed.</li
 ><li
 contentType="fr"
->Cochez sur a case à gauche du numéro de chapitre pour marquer le chapitre comme terminé. </li
+>Cochez la case à gauche du numéro de chapitre pour marquer le chapitre comme terminé. </li
 ><li
 contentType="en"
->**To mark some verses only, click to the right and check the individual verses.</li
+>To mark some verses only, click to the right and check the individual verses.</li
 ><li
 contentType="fr"
->**Pour marquer quelques versets, cliquez à droite sur et cochez les versets individuels. </li
+>Pour marquer quelques versets, cliquez à droite sur et cochez les versets individuels. </li
 ></ul
 ></section2
 ></section1
 ><section1
 id="sSomeCheck"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Checks</object
-><object
+>Checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifications</object
+>Vérifications</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1903,14 +1975,14 @@ contentType="fr"
 ><section2
 id="sChecksSetup"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Checks - setup required</object
-><object
+>Checks - setup required</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifications - setup required</object
+>Vérifications - setup required</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -1964,14 +2036,14 @@ contentType="fr"
 ><section2
 id="sChecksIssues"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Checks – issues</object
-><object
+>Checks – issues</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifications - erreurs</object
+>Vérifications - erreurs</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -2032,14 +2104,14 @@ contentType="fr"
 ><chapter
 id="KD"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->KD: Keyboarding your draft</object
-><object
+>KD: Keyboarding your draft</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->SD : Saisie des données </object
+>SD : Saisie des données</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="fr"
@@ -2104,33 +2176,27 @@ contentType="fr"
 ><section1
 id="sloadprog"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Load the <object
-type="tPT"
-></object
-> program</object
-><object
+>Load the program</titleContent
+><titleContent
 contentType="fr"
-type="t-en"
->Lancer le programme <object
-type="tPT"
-></object
-> </object
+>Lancer le programme</titleContent
+></titleContentChoices
 ></secTitle
 ></section1
 ><section1
 id="sGoToABiblicalVerse"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Go to a Biblical verse</object
-><object
+>Go to a Biblical verse</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Naviguer vers une référence biblique.</object
+>Naviguer vers une référence biblique.</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2163,14 +2229,14 @@ src="12imgfr\image12.png"
 ><section1
 id="sCheckEditable"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Check that the project is editable</object
-><object
+>Check that the project is editable</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier que le projet est modifiable</object
+>Vérifier que le projet est modifiable</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -2212,14 +2278,14 @@ contentType="fr"
 ><section1
 id="sChangingTheView"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Changing the view</object
-><object
+>Changing the view</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Changer l’affichage</object
+>Changer l’affichage</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -2269,14 +2335,14 @@ type="tmenu"
 ><section1
 id="sTypingSpecialCharacters"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Typing special characters</object
-><object
+>Typing special characters</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Taper les caractères spéciaux </object
+>Taper les caractères spéciaux</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2339,14 +2405,14 @@ type="tmenu"
 ><section1
 id="sAddingTextInAnotherMarker"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Adding text in another marker - title or introduction</object
-><object
+>Adding text in another marker - title or introduction</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter texte avec un autre marqueur - titre ou introduction</object
+>Ajouter texte avec un autre marqueur - titre ou introduction</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -2430,14 +2496,14 @@ type="ttyped"
 ><section1
 id="sAddParagraphBreaks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add paragraph breaks</object
-><object
+>Add paragraph breaks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter des marqueurs de paragraphe</object
+>Ajouter des marqueurs de paragraphe</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2486,14 +2552,14 @@ type="tkey"
 ><section1
 id="sSavingYourWork"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Saving your work</object
-><object
+>Saving your work</titleContent
+><titleContent
 contentType="fr"
-type="t-en"
->Enregistrer votre travail</object
+>Enregistrer votre travail</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2540,14 +2606,14 @@ type="tkey"
 ><section1
 id="sFootnotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Insert Footnotes</object
-><object
+>Insert Footnotes</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Insérer une Note de bas de page</object
+>Insérer une Note de bas de page</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2633,14 +2699,14 @@ contentType="fr"
 ><section1
 id="sSendReceiveUSB"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Send/receive to a USB stick to backup your data</object
-><object
+>Send/receive to a USB stick to backup your data</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Envoyer/Recevoir à une clé pour sauvegarder</object
+>Envoyer/Recevoir à une clé pour sauvegarder</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2739,14 +2805,14 @@ type="tItalic"
 ><section1
 id="sMovingYourCursorEfficiently"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Moving your cursor efficiently</object
-><object
+>Moving your cursor efficiently</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Déplacer votre point d’insertion rapidement</object
+>Déplacer votre point d’insertion rapidement</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -2849,14 +2915,14 @@ type="tkey"
 ><section1
 id="sRecall"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Recall :</object
-><object
+>Recall :</titleContent
+><titleContent
 contentType="fr"
-type="t-en"
->Bilan : Complétez les champs vides :</object
+>Bilan : Complétez les champs vides :</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -2899,14 +2965,14 @@ contentType="fr"
 ><chapter
 id="sGlGlossary"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->GL: Glossary</object
-><object
+>GL: Glossary</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->GL : Glossaire</object
+>GL : Glossaire</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -2986,29 +3052,17 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permettre d’ajouter la forme de citation et la définition.</p
-><p
-contentType="en"
->Summary</p
-><p
-contentType="fr"
->Résumé :</p
-><p
-contentType="en"
->This module shows you how to:</p
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="sAddAnEntry"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add an entry</object
-><object
+>Add an entry</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter une entrée</object
+>Ajouter une entrée</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -3111,14 +3165,14 @@ type="tItalic"
 ><section1
 id="sLinkAnExistingEntry"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Link an existing entry</object
-><object
+>Link an existing entry</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Lier une entrée existante</object
+>Lier une entrée existante</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3186,14 +3240,14 @@ type="tmenu"
 ><section1
 id="sViewTheGlossary"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->View the glossary </object
-><object
+>View the glossary</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Afficher le glossaire</object
+>Afficher le glossaire</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -3232,14 +3286,14 @@ contentType="fr"
 ><section1
 id="sEditAnEntry"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Edit an entry – in the GLO book</object
-><object
+>Edit an entry – in the GLO book</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Modifier une entrée  – dans le livre GLO</object
+>Modifier une entrée  – dans le livre GLO</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -3265,14 +3319,14 @@ contentType="fr"
 ><section1
 id="sEditAnEntryBibTerms"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Edit an entry – in the Biblical Terms</object
-><object
+>Edit an entry – in the Biblical Terms</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Modifier une entrée  – dans les termes bibliques</object
+>Modifier une entrée  – dans les termes bibliques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -3337,35 +3391,45 @@ type="tmenu"
 ><section1
 id="sAddABiblicalTerm"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add a Biblical Term</object
-><object
+>Add a Biblical Term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter un terme biblique </object
+>Ajouter un terme biblique </titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
 contentType="en"
->see page 61***</li
+>see page <sectionRef
+sec="sAddATerm"
+showTitle="numberOnly"
+textBefore="useDefault"
+></sectionRef
+></li
 ><li
 contentType="fr"
->voir page 56***</li
+>voir page <sectionRef
+sec="sAddATerm"
+showTitle="numberOnly"
+textBefore="useDefault"
+></sectionRef
+></li
 ></ul
 ></section1
 ><section1
 id="sRecall2"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Recall</object
-><object
+>Recall</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Bilan</object
+>Bilan</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -3379,33 +3443,36 @@ contentType="en"
 >The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.</li
 ><li
 contentType="fr"
->L'onglet « glossaire »est sur la ________ dialogue. Pour ouvrir cette dialogue  ________-clique sur le terme dans le volet en _____.</li
+>L'onglet « glossaire » se trouve dans la boîte de dialogue ________. Pour ouvrir cette dialogue ________-clique sur le terme dans le volet en _____.</li
 ><li
 contentType="en"
 >To view the glossary, you change to the _____ book (after Revelation).</li
 ><li
 contentType="fr"
->Pour voir la glossaire, on change au livre  _____  (après Apocalypse).</li
+>Pour voir la glossaire, on change au livre _____ (après Apocalypse).</li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 >Answers: Tools, Edit Rendering, double-click, top, GLO</p
 ><p
 contentType="fr"
->Réponse: Outils, Modifier l'équivalent, double-cliquez, haut, GLO</p
+>Réponses : Outils, Modifier l'équivalents, double-cliquer, haut, GLO</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
 id="BC1"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->BC1: Basic checks</object
-><object
+>BC1: Basic checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->VT1 : Vérifications de base</object
+>VT1 : Vérifications de base</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -3482,14 +3549,14 @@ contentType="fr"
 ><section1
 id="sCheckwithplan"
 ><secTitle
-><object
-contentType="fr"
-type="t-fr"
->Vérifications avec plan de projet</object
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Running checks from the project plan</object
+>Running checks from the project plan</titleContent
+><titleContent
+contentType="fr"
+>Vérifications avec plan de projet</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="fr"
@@ -3513,14 +3580,14 @@ contentType="en"
 ><section1
 id="sRunningChecksFromTheProjectPlan"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Running checks from the project plan</object
-><object
+>Running checks from the project plan</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifications avec plan de projet</object
+>Vérifications avec plan de projet</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -3624,14 +3691,14 @@ contentType="fr"
 ><section1
 id="sRunningTheChecksFromTheMenus"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Running the checks from the menus</object
-><object
+>Running the checks from the menus</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Faire les vérifications manuellement</object
+>Faire les vérifications manuellement</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3646,14 +3713,14 @@ contentType="fr"
 ><section1
 id="sChapVerse"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->« Chapter/ Verse »</object
-><object
+>« Chapter/ Verse »</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérification des « Chapitres/ Versets »</object
+>Vérification des « Chapitres/ Versets »</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -3779,14 +3846,14 @@ contentType="fr"
 ><section1
 id="sMarkersCheck"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Markers check </object
-> <object
+>Markers check</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérification des « Marqueurs »</object
+>Vérification des « Marqueurs »</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -3797,7 +3864,6 @@ type="tmenu"
 ><br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >The list shows an overview of the markers in your text.</object
 ></li
@@ -3812,7 +3878,6 @@ type="tmenu"
 > <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Ce list donne un vu d'ensemble des marqueurs. On ne peut que regarder la liste. </object
 ></li
@@ -3872,14 +3937,14 @@ contentType="fr"
 ><chapter
 id="sPp2ProjectProgress"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PP2: Project progress</object
-><object
+>PP2: Project progress</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PP2 : Progrès de projet</object
+>PP2 : Progrès de projet</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -3892,16 +3957,24 @@ contentType="en"
 >In this module, you will learn how to update your progress and create a progress report.</p
 ><p
 contentType="fr"
->Dans ce module, vous allez apprendre comment</p
+>Dans ce module, vous apprendrez comment actualiser votre progrès et créer un rapport sur l'état d'avancement.</p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >Where we are</object
 ></pc
+><pc
+><object
+type="tsub"
+>Où en sommes-nous ?</object
+></pc
 ><p
 contentType="en"
 >You have been working on your translation and have finished a task. You now want to update your progress.</p
+><p
+contentType="fr"
+>Vous avez travaillé sur votre traduction et avez fini une tâche. Vous voulez maintenant actualiser votre progrès.</p
 ><pc
 contentType="en"
 ><object
@@ -3914,6 +3987,9 @@ contentType="en"
 type="tPT"
 ></object
 > to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
+><p
+contentType="fr"
+>Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permis au Paratexte de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleur de fonds.</p
 ><pc
 contentType="en"
 ><object
@@ -3923,39 +3999,47 @@ type="tsub"
 ><p
 contentType="en"
 >You will open the assignments and progress window and update the progress made. You will then produce a report.</p
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
 ><p
-contentType="en"
->This module shows you how to:</p
+contentType="fr"
+>Vous ouvrirez la fenêtre des affectations et progrès, et actualiserez le progrès fait. Vous produirez alors un rapport.</p
 ><section1
 id="sHowToMakeSureTheProgress"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->How to make sure the progress of the plan is up to date</object
+>Make sure the progress of the plan is up to date</titleContent
+><titleContent
+contentType="fr"
+>S'assurer le progrès du plan est à jour</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
 contentType="en"
 >Open the project plan (using the button)</li
 ><li
+contentType="fr"
+>Ouvrez le plan de projet (utilisant le bouton)</li
+><li
 contentType="en"
 >Update the progress on any task (see PP1 for instructions on each type of task).</li
+><li
+contentType="fr"
+>Actualisez le progrès sur toute tâche (voir PP1 pour les instructions sur chaque type de tâche).</li
 ></ul
 ></section1
 ><section1
 id="sChangeAnAssignment"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Change an assignment</object
+>Change an assignment</titleContent
+><titleContent
+contentType="fr"
+>Modifier une affectation</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -3965,6 +4049,12 @@ contentType="en"
 src="12imgeng/image21.png"
 ></img
 >This can only be done by a project administrator.</p
+><p
+contentType="fr"
+><img
+src="12imgeng/image21.png"
+></img
+>Cela peut seulement être fait par un administrateur de projet.</p
 ></framedUnit
 ><ul
 ><li
@@ -3977,11 +4067,26 @@ type="tmenu"
 >Assignments and Progress....</object
 ></li
 ><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Projet</object
+>, select <object
+type="tmenu"
+>Assignments and Progress....</object
+>(Affectations et Progrès)</li
+><li
 contentType="en"
 >From the first drop-down list at the top left of the dialog, select <object
 type="tmenu"
 >All Tasks</object
 >.</li
+><li
+contentType="fr"
+>Du premier liste roulante en haut du dialogue, choisissez <object
+type="tmenu"
+>All Tasks</object
+> (Toutes les Tâches).</li
 ><li
 contentType="en"
 >In the "<object
@@ -3991,15 +4096,28 @@ type="tmenu"
 type="tmenu"
 >Task/Check</object
 >" column at the far left).</li
+><li
+contentType="fr"
+>Dans le colonne, "<object
+type="tmenu"
+>Assigned to</object
+>" (affecté à), utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
+type="tmenu"
+>Task/Check</object
+> (Tâche/Vérification) au gauche).</li
 ></ul
 ></section1
 ><section1
 id="sProduceAProgressReport"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Produce a progress report</object
+>Produce a progress report</titleContent
+><titleContent
+contentType="fr"
+>Produisez un rapport sur l'état d'avancement</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4012,8 +4130,20 @@ type="tmenu"
 >Project Health Report...</object
 >.</li
 ><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Outils</object
+> menu, choisissez <object
+type="tmenu"
+>Rapport sur l'état de Projet..</object
+>.</li
+><li
 contentType="en"
 >Choose the project(s) to report</li
+><li
+contentType="fr"
+>Choisissez le projet(s) à faire un rapport</li
 ><li
 contentType="en"
 >Click <object
@@ -4021,16 +4151,34 @@ type="tmenu"
 >OK</object
 >. <br
 ></br
->The report will contain a column for each project you selected.</li
+><object
+type="italic"
+>The report will contain a column for each project you selected.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+><object
+type="italic"
+>Le rapport contiendra une colonne pour chaque projet que vous avez choisi.</object
+></li
 ></ul
 ></section1
 ><section1
 id="sViewTeamProgressCharts"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->View team progress charts</object
+>View team progress charts</titleContent
+><titleContent
+contentType="fr"
+>Les équipes de vue font des progrès des graphiques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4045,6 +4193,9 @@ contentType="en"
 ><li
 contentType="en"
 >Choose the books as necessary.</li
+><li
+contentType="fr"
+>• Du menu Project, choisissez des graphiques de progrès d'équipe de Vue.... • Utilisez la première boîte dropdown pour choisir le type de graphique • Choisissez les livres comme nécessaires.</li
 ></ul
 ></section1
 ></chapter
@@ -4052,49 +4203,25 @@ contentType="en"
 ><part
 id="stage2"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Stage 2 : Team Checking</object
-><object
+>Stage 2 : Team Checking</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Étape 2 : Vérification par l’équipe</object
+>Étape 2 : Vérification par l’équipe</titleContent
+></titleContentChoices
 ></secTitle
 ><shortTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PARATEXT_8_1-2_Stage2</object
-><object
+>PARATEXT_8_1-2_Stage2</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PARATEXT_8_1-2_Étape2</object
+>PARATEXT_8_1-2_Étape2</titleContent
+></titleContentChoices
 ></shortTitle
-><chapter
-id="ST2"
-><secTitle
-><object
-contentType="en"
-type="t-en"
->Stage 2 : Team Checking</object
-><object
-contentType="fr"
-type="t-fr"
->Étape 2 : Vérification par l’équipe</object
-></secTitle
-><pc
-contentType="en"
-><object
-type="tsub"
->Introduction </object
-></pc
-><pc
-contentType="fr"
-><object
-type="tsub"
->Introduction </object
-></pc
 ><p
 contentType="en"
 >The second stage of a translation project involves checking by the team. In this second stage you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms notes to record your questions, discussions and decisions.<br
@@ -4217,18 +4344,17 @@ showTitle="full"
 ></sectionRef
 ></li
 ></ul
-></chapter
 ><chapter
 id="sPN"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PN: Proper Names</object
-><object
+>PN: Proper Names</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->NP : Noms propres </object
+>NP : Noms propres</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -4322,14 +4448,12 @@ contentType="fr"
 ><pc
 contentType="en"
 ><object
-contentType="en"
 type="tsub"
 >Summary</object
 ></pc
 ><pc
 contentType="fr"
 ><object
-contentType="fr"
 type="tsub"
 >Résumé</object
 ></pc
@@ -4342,14 +4466,14 @@ contentType="fr"
 ><section1
 id="sRunBTTool"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Run the Biblical Terms tool</object
-><object
+>Run the Biblical Terms tool</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Lancer l’outil Termes biblique</object
+>Lancer l’outil Termes biblique</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4381,14 +4505,14 @@ type="tmenu"
 ><section1
 id="sOpenListTerms"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open list of terms</object
-><object
+>Open list of terms</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir la liste de termes</object
+>Ouvrir la liste de termes</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4426,14 +4550,14 @@ type="tmenu"
 ><section1
 id="sChooseComparison"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Choose your reference text as a comparative text</object
-><object
+>Choose your reference text as a comparative text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Choisir le texte de référence pour comparer</object
+>Choisir le texte de référence pour comparer</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4480,14 +4604,14 @@ type="tmenu"
 ><section1
 id="sChangeVarious"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Change various settings</object
-><object
+>Change various settings</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Modifier divers paramètres</object
+>Modifier divers paramètres</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4537,14 +4661,14 @@ type="tmenu"
 ><section1
 id="sChooseTypeTerms"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Choose the type of terms </object
-><object
+>Choose the type of terms</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Choisir les types de termes</object
+>Choisir les types de termes</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4603,14 +4727,14 @@ type="tmenu"
 ><section1
 id="sAdaptNames"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Adapt names</object
-><object
+>Adapt names</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Modifier noms propres</object
+>Modifier noms propres</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4639,7 +4763,6 @@ contentType="en"
 >Choose the language of your reference text (e.g. English or français)<br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >The Name Adaptation dialogue is displayed</object
 ><br
@@ -4656,7 +4779,6 @@ contentType="fr"
 >Choisissez la langue de référence (p.ex. française, arabe)<br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >La boîte de dialogue Modification de noms propres s’affiche. </object
 ><br
@@ -4670,14 +4792,14 @@ src="12imgfr/image24.png"
 ><section1
 id="sEnterTheChangesForTheIndividualLetters"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Enter the changes for the individual letters (or letter clusters)</object
-><object
+>Enter the changes for the individual letters (or letter clusters)</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Entre les modifications des lettres individuelles (ou des groupes de lettres)</object
+>Entre les modifications des lettres individuelles (ou des groupes de lettres)</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4691,14 +4813,14 @@ contentType="fr"
 ><section1
 id="sThenReviseAndApproveTheAdaptedName"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Then revise and approve the Adapted Name</object
-><object
+>Then revise and approve the Adapted Name</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Puis réviser les noms propres (à droite) un par un</object
+>Puis réviser les noms propres (à droite) un par un</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4772,14 +4894,14 @@ type="tPT"
 ><section1
 id="sEnsureYourTextIsConsistent"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Ensure your text is consistent</object
-><object
+>Ensure your text is consistent</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier que votre text est cohérent</object
+>Vérifier que votre text est cohérent</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -4838,14 +4960,14 @@ contentType="fr"
 ><section1
 id="sAddAnAlternativeRendering"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add an alternative rendering</object
-><object
+>Add an alternative rendering</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte)</object
+>Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte)</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -4883,14 +5005,14 @@ src="12imgfr/add.png"
 ><section1
 id="sDealingWithVersesThatDon"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Dealing with verses that don’t have the name translated</object
-><object
+>Dealing with verses that don’t have the name translated</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Traiter des versets qui n’ont pas le nom dans la traduction</object
+>Traiter des versets qui n’ont pas le nom dans la traduction</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -4964,14 +5086,14 @@ type="tPT"
 ><section1
 id="sRecall3"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Recall</object
-><object
+>Recall</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Bilan</object
+>Bilan</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -5013,14 +5135,14 @@ contentType="en"
 ><chapter
 id="sSP"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->SP: Spell Checking</object
-><object
+>SP: Spell Checking</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->VO : Vérification de l’orthographe</object
+>VO : Vérification de l’orthographe</titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -5166,10 +5288,14 @@ contentType="fr"
 ><section1
 id="sConfigTheWordlist"
 ><secTitle
->Configure the word list<object
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure the word list</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Configurer la liste de mots</object
+>Configurer la liste de mots</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -5183,14 +5309,14 @@ contentType="fr"
 ><section2
 id="sApproveTheSpellingOfCommonWords"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Approve the spelling of common words</object
-><object
+>Approve the spelling of common words</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Approuver l’orthographe des mots fréquents</object
+>Approuver l’orthographe des mots fréquents</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5289,20 +5415,14 @@ type="tmenu"
 ><section2
 id="sCheckTheWordsThatParatextThinksAre"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Check the words that <object
-type="tPT"
-></object
-> thinks are incorrect </object
-><object
+>Check the words that thinks are incorrect</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier les mots que <object
-type="tPT"
-></object
-> pense être erronés </object
+>Vérifier les mots que pense être erronés</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5314,38 +5434,31 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-contentType="en"
 type="tmenu"
 >Tools</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Spell Check &gt; All checks</object
 ><br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >A list of words is displayed.</object
 ></li
 ><li
 contentType="fr"
 ><object
-contentType="fr"
 type="tmenu"
 >Outils</object
 > &gt; <object
-contentType="fr"
 type="tmenu"
 >Vérifier l’orthographe</object
 >  &gt; <object
-contentType="fr"
 type="tmenu"
 >All Checks</object
 ><br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Le liste de mots s'affiche.</object
 ></li
@@ -5398,14 +5511,14 @@ src="12imgeng\image26a.png"
 ><section2
 id="sCheckSimilarlySpelledWords"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Check similarly spelled words</object
-><object
+>Check similarly spelled words</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier les mots ayant une orthographe similaire</object
+>Vérifier les mots ayant une orthographe similaire</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5416,7 +5529,6 @@ contentType="fr"
 ><ul
 ><li
 ><object
-contentType="en"
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -5461,26 +5573,22 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-contentType="en"
 type="tmenu"
 >OK</object
 ></li
 ><li
 ><object
-contentType="en"
 type="tItalic"
 >A list of words is displayed.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
-contentType="fr"
 type="tmenu"
 >OK</object
 > <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Un liste de mots s'affiche.</object
 ></li
@@ -5498,14 +5606,14 @@ contentType="fr"
 ><section1
 id="sSpellChecking"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Spell checking – from the text </object
-><object
+>Spell checking – from the text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier l’orthographe — dans le texte </object
+>Vérifier l’orthographe — dans le texte</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5545,14 +5653,14 @@ contentType="fr"
 ><section1
 id="sMakingCorrections"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Making corrections</object
-><object
+>Making corrections</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Corrections des erreurs</object
+>Corrections des erreurs</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -5666,14 +5774,14 @@ type="tmenu"
 ><section1
 id="sSpellCheckingCurrentBook"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Spell checking – current book</object
-><object
+>Spell checking – current book</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérifier l’orthographe – du livre actuel</object
+>Vérifier l’orthographe – du livre actuel</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -5681,7 +5789,6 @@ contentType="en"
 >Checking &gt; <object
 type="tmenu"
 >Spell Check Current Book <object
-contentType="en"
 type="tItalic"
 >A window appears with a list of some words in the current book.</object
 ></object
@@ -5698,17 +5805,14 @@ src="12imgeng/image28.png"
 ><li
 contentType="fr"
 ><object
-contentType="fr"
 type="tmenu"
 >Vérification</object
 > &gt; <object
-contentType="fr"
 type="tmenu"
 >Vérifier l’orthographe du livre actuel</object
 > <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Une fenêtre s’affiche avec une liste de plusieurs mots suspects du livre actuel.</object
 ><img
@@ -5736,24 +5840,30 @@ contentType="en"
 contentType="fr"
 >Continuez si nécessaire. </li
 ></ul
-><p
-contentType="en"
->***Spell checking – from the wordlist</p
-><p
-contentType="fr"
->****Vérification d’orthographe — dans la liste de mots</p
 ></section1
 ><section1
+id="sSpellCheckWordlist"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Spell checking – from the wordlist</titleContent
+><titleContent
+contentType="fr"
+>Vérification d’orthographe — dans la liste de mots</titleContent
+></titleContentChoices
+></secTitle
+><section2
 id="sUsingTheNewChecks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Using the new checks</object
-><object
+>Using the new checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Utiliser les nouvelles vérifications</object
+>Utiliser les nouvelles vérifications</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5859,14 +5969,18 @@ type="tmenu"
 >Yes</object
 >).</li
 ></ul
-></section1
-><section1
+></section2
+><section2
 id="sAllChecks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->All checks</object
+>All checks</titleContent
+><titleContent
+contentType="fr"
+>Toutes les vérifications</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5874,18 +5988,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Cela gère tous les contrôles. Ceci est très utile car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.</p
-></section1
-><section1
+></section2
+><section2
 id="sMissingCapitals"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Missing Capitals </object
-><object
+>Missing Capitals</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Majuscules manquantes</object
+>Majuscules manquantes</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5932,14 +6046,12 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
-contentType="en"
 type="tItalic"
 >Show incorrect</object
 > (to see the verses)</li
 ><li
 contentType="fr"
 ><object
-contentType="fr"
 type="tItalic"
 >Show Incorrect</object
 > (pour voir tous les versets)</li
@@ -5952,7 +6064,6 @@ type="tItalic"
 ><li
 contentType="fr"
 ><object
-contentType="fr"
 type="tItalic"
 >Toutes les deux formes sont acceptable </object
 >(pour accepter les deux formes)</li
@@ -5965,23 +6076,22 @@ type="tItalic"
 ><li
 contentType="fr"
 ><object
-contentType="fr"
 type="tItalic"
 >Capitalise All </object
 >(pour corriger tous les mots)</li
 ></ul
-></section1
-><section1
+></section2
+><section2
 id="sSingleCharacterTypos"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Single Character Typos </object
-><object
+>Single Character Typos</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Single Character Typos (faut de frappe d’un caractère unique)</object
+>Single Character Typos (faut de frappe d’un caractère unique)</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -5989,18 +6099,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Une liste de mots s’affiche avec les liens d’autres mots qui ressemble, mais qui n’a qu’une seule lettre différente.</p
-></section1
-><section1
+></section2
+><section2
 id="sUnusualLetterCombinations"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Unusual Letter Combinations </object
-><object
+>Unusual Letter Combinations</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Unusual Letter Combinations (combinaisons caractères inhabituelles </object
+>Unusual Letter Combinations (combinaisons caractères inhabituelles</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6008,18 +6118,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Une liste des mots s’affiche qui ont une séquence des caractères rares comme plus qu’une consonante ou plusieurs voyelles…</p
-></section1
-><section1
+></section2
+><section2
 id="sDiacriticErrors"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Diacritic Errors</object
-><object
+>Diacritic Errors</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Diacritic Errors (erreurs diacritiques)</object
+>Diacritic Errors (erreurs diacritiques)</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6027,18 +6137,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Une liste s’affiche des mots qui sont les mêmes sauf une ou plusieurs différences en diacritique.</p
-></section1
-><section1
+></section2
+><section2
 id="sCommonTypos"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Common Typos </object
-><object
+>Common Typos</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Common Typos (fautes de frappes habituelles)</object
+>Common Typos (fautes de frappes habituelles)</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6070,18 +6180,18 @@ type="ttyped"
 type="ttyped"
 >them</object
 > ».</p
-></section1
-><section1
+></section2
+><section2
 id="sUnknown"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Unknown </object
-><object
+>Unknown Morphology</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Unknown Morphology (morphologie inconnue)</object
+>Morphologie inconnue</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6089,18 +6199,18 @@ contentType="en"
 ><p
 contentType="fr"
 >Une liste de mots s’affiche dont l’ordinateur ne peut pas deviner la morphologie basée sur d’autres mots.</p
-></section1
-><section1
+></section2
+><section2
 id="sFindIncorrectlyJoinedOrSplitWords"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Find incorrectly joined or split words</object
-><object
+>Find incorrectly joined or split words</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Rechercher des mots mal liés ou mal divisés</object
+>Rechercher des mots mal liés ou mal divisés</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6176,7 +6286,6 @@ src="12imgeng/image34.png"
 ><p
 contentType="fr"
 ><object
-contentType="fr"
 type="tItalic"
 >Une liste de mots regroupés s’affiche.</object
 ></p
@@ -6186,18 +6295,18 @@ contentType="fr"
 src="12imgfr/maldivise.png"
 ></img
 ></p
-></section1
-><section1
+></section2
+><section2
 id="sCorrectAWord"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Correct a word which was incorrectly marked </object
-><object
+>Correct a word which was incorrectly marked</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Corrige un mot mal marqué </object
+>Corrige un mot mal marqué</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6219,19 +6328,20 @@ contentType="en"
 contentType="fr"
 >Cliquez sur l’état d’orthographe désiré  </li
 ></ul
+></section2
 ></section1
 ></chapter
 ><chapter
 id="BTTerms"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-fr"
->BT: A 4-Step process for consistent Biblical Terms </object
-><object
+>BT: A 4-Step process for consistent Biblical Terms</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->TB : Un processus de 4 étapes pour les termes bibliques cohérents </object
+>TB : Un processus de 4 étapes pour les termes bibliques cohérents </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -6346,14 +6456,14 @@ contentType="fr"
 ><section1
 id="sOpenTheBiblicalTermsRendingWindow"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open the Biblical terms rending window</object
-><object
+>Open the Biblical terms rending window</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir la fenêtre d’équivalents de termes bibliques</object
+>Ouvrir la fenêtre d’équivalents de termes bibliques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6421,28 +6531,28 @@ type="tmenu"
 ><section1
 id="sFindTheTermsForTheCurrentVerse"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->A. Find all the ways you have rendered this term</object
-><object
+>A. Find all the ways you have rendered this term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->A. Trouver tous les équivalents pour ce terme</object
+>A. Trouver tous les équivalents pour ce terme</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ></ul
 ><section2
 id="s"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Find the terms for the current verse</object
-><object
+>Find the terms for the current verse</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Trouver le terme pour le verset actuel</object
+>Trouver le terme pour le verset actuel</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6463,21 +6573,19 @@ contentType="en"
 ><li
 contentType="fr"
 >Sinon, vous devez soit corriger votre texte soit ajouter le nouveau terme que vous avez utilisé (voir ci-dessous) </li
-><li
-></li
 ></ul
 ></section2
 ><section2
 id="sAddAnotherRendering"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add another rendering</object
-><object
+>Add another rendering</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter un autre équivalent</object
+>Ajouter un autre équivalent</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -6508,7 +6616,6 @@ src="12imgeng\renderings1.png"
 ><br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >The edit renderings dialog is displayed.</object
 ><br
@@ -6527,7 +6634,6 @@ src="12imgfr/image36.png"
 ><br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Une boîte de dialogue s’affiche.</object
 ><img
@@ -6571,14 +6677,14 @@ type="tmenu"
 ><section2
 id="sFindOtherVersesInTheCurrentBook"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Find other verses in the current book with the same Biblical term</object
-><object
+>Find other verses in the current book with the same Biblical term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Trouver d’autres versets dans le livre actuel avec le même terme biblique</object
+>Trouver d’autres versets dans le livre actuel avec le même terme biblique</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6589,7 +6695,6 @@ type="tmenu"
 > column<br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >The Biblical Terms Tool opens</object
 ></li
@@ -6601,7 +6706,6 @@ type="tmenu"
 > <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >L’outil termes bibliques s’affiche.</object
 ></li
@@ -6637,14 +6741,14 @@ contentType="en"
 ><section2
 id="sAddRenderingsFromTheOtherVerses"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add renderings from the other verses</object
-><object
+>Add renderings from the other verses</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter les équivalents d’autres versets</object
+>Ajouter les équivalents d’autres versets</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6682,14 +6786,14 @@ contentType="fr"
 ><section2
 id="sDealingWithVersesThatDoNotUSeTerm"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Dealing with verses that don’t use the term</object
-><object
+>Dealing with verses that don’t use the term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Traiter des versets qui n’ont pas le terme dans la traduction</object
+>Traiter des versets qui n’ont pas le terme dans la traduction</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -6725,14 +6829,14 @@ src="12imgeng/image24.png"
 ><section1
 id="sIdentifyTheBestTerm"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->B. Identify the best term</object
-><object
+>B. Identify the best term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->B. Identifier le meilleur équivalent</object
+>B. Identifier le meilleur équivalent</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6740,7 +6844,6 @@ contentType="en"
 >Double-click on the term in the top pane.<br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >The edit rendering dialog is displayed listing all the renderings that have been added.</object
 ></li
@@ -6749,7 +6852,6 @@ contentType="fr"
 >Double-cliquez sur le terme dans le volet en haut. <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >La boîte de dialogue s’affiche avec tous les équivalents qui ont été ajoutés.</object
 ></li
@@ -6812,14 +6914,14 @@ src="12imgfr\renderings2b.png"
 ><section1
 id="sRejectAllTheOthers"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->C. Reject all the others</object
-><object
+>C. Reject all the others</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->C. Rejeter tous les autres</object
+>C. Rejeter tous les autres</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6833,14 +6935,14 @@ contentType="fr"
 ><section1
 id="sDocumentTheReasonForTheChange"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->D. Document the reason for the change</object
-><object
+>D. Document the reason for the change</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->D. Documenter la raison pour la modification</object
+>D. Documenter la raison pour la modification</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6885,14 +6987,14 @@ contentType="en"
 ><section2
 id="sIfYouNeedMoreThanOneRendering"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->If you need more than one rendering</object
-><object
+>If you need more than one rendering</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Si vous aviez besoin de plus qu’un équivalent</object
+>Si vous aviez besoin de plus qu’un équivalent</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -6929,14 +7031,14 @@ contentType="fr"
 ><section2
 id="sCleanUpOtherBooks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Clean up other books (as time permits)</object
-><object
+>Clean up other books (as time permits)</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Nettoyer d’autres livres (si le temps le permet)</object
+>Nettoyer d’autres livres (si le temps le permet)</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -6956,14 +7058,14 @@ contentType="fr"
 ><section2
 id="sAddTheBiblicalTermsNotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add the Biblical terms notes - ongoing discussion</object
-><object
+>Add the Biblical terms notes - ongoing discussion</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter les remarques des discussions des équivalents - discussion en cours</object
+>Ajouter les remarques des discussions des équivalents - discussion en cours</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -7009,7 +7111,6 @@ contentType="fr"
 ><li
 contentType="en"
 >Click <object
-contentType="en"
 type="tmenu"
 >OK</object
 >.</li
@@ -7024,14 +7125,14 @@ type="tmenu"
 ><section2
 id="sAddTheDecisionToTheRenderingsDescription"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add the decision to the renderings description</object
-><object
+>Add the decision to the renderings description</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter la décision dans la remarque</object
+>Ajouter la décision dans la remarque</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -7076,14 +7177,14 @@ type="tmenu"
 ><section1
 id="sAddATerm"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add a term</object
-><object
+>Add a term</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter un terme</object
+>Ajouter un terme</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -7103,7 +7204,6 @@ type="tmenu"
 >) and search for the term.<br
 ></br
 ><object
-contentType="en"
 type="tItalic"
 >A list is displayed showing the verses with that term.</object
 ></li
@@ -7124,7 +7224,6 @@ type="tmenu"
 >. <br
 ></br
 ><object
-contentType="fr"
 type="tItalic"
 >Une liste s’affiche montrant les verses avec ce terme.</object
 ></li
@@ -7205,23 +7304,21 @@ type="tmenu"
 ><chapter
 id="sMPComparer"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->MP: Compare a word or phrase</object
-><object
+>MP: Compare a word or phrase</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->MP : Comparer un mot ou expression </object
+>MP : Comparer un mot ou expression </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="fr"
 ><object
-contentType="en"
 type="tsub"
 >Introduction</object
 ><object
-contentType="fr"
 type="tsub"
 >Introduction</object
 ></pc
@@ -7237,7 +7334,6 @@ contentType="en"
 type="tsub"
 >Why this is important?</object
 ><object
-contentType="fr"
 type="tsub"
 >​Pourquoi cette aptitude est-elle importante ? </object
 ></pc
@@ -7285,34 +7381,17 @@ contentType="en"
 contentType="fr"
 >saisir le mot ou expression à comparer </li
 ></ul
-><pc
-contentType="fr"
-><object
-type="tsub"
->Résumé</object
-></pc
-><pc
-XeLaTeXSpecial="en"
-contentType="en"
-><object
-contentType="en"
-type="tsub"
->Summary</object
->This module shows how to:</pc
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="sComparerMot1"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Compare a word of phrase - from the text</object
-><object
+>Compare a word of phrase - from the text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Comparer un Mot ou expression — du texte</object
+>Comparer un Mot ou expression — du texte</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -7452,14 +7531,14 @@ type="tresult"
 ><section1
 id="sComparerMot2"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Compare using a Word of Phrase from several translations - from the Biblical Terms tool</object
-><object
+>Compare using a Word of Phrase - from the Biblical Terms tool</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Comparer utilisation d’un Mot ou expression dans plusieurs traductions – de l’outil termes bibliques</object
+>Comparer utilisation d’un Mot ou expression – de l’outil termes bibliques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -7526,7 +7605,10 @@ framedtype="tTeacher"
 contentType="en"
 >You can compare more than one word or phrase in each project by typing enter between each word or phrase.<br
 ></br
->image!</p
+><img
+src="12imgeng/MultipleWordPhrase.png"
+></img
+></p
 ><p
 contentType="fr"
 >Si vous souhaitez comparer plus d’un mot ou d’une phrase, tapez <object
@@ -7534,26 +7616,28 @@ type="tmenu"
 >Entrée</object
 > après chaque mot ou expression.<br
 ></br
->image***</p
+><img
+src="12imgfr/MultipleWordPhrase.png"
+></img
+></p
 ></framedUnit
 ></section1
 ></chapter
 ><chapter
 id="sBC2"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->BC2: Basic checks</object
-><object
+>BC2: Basic checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->VB2 : Les vérifications de base  </object
+>VB2 : Les vérifications de base  </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="fr"
 ><object
-contentType="en"
 type="t-en"
 >Introduction</object
 ><object
@@ -7587,11 +7671,9 @@ contentType="fr"
 >Dans ce module, vous apprendrez à faire plusieurs autres vérifications de base (les caractères, la ponctuation, les majuscules et les mots répétés). Comme dans le premier module, il est plus facile de lancer ces vérifications à partir du plan de projet. Toutefois, si vous souhaitez vérifier plusieurs livres, vous devez le faire dans le menu de vérification.</p
 ><pc
 ><object
-contentType="en"
 type="t-en"
 >Where are we?</object
 ><object
-contentType="fr"
 type="tItalic"
 >Où sommes-nous ?</object
 ></pc
@@ -7610,11 +7692,9 @@ contentType="fr"
 >Vous avez saisi votre traduction dans Paratext. Assurez-vous d’avoir vérifié les numéros de chapitre et de verset, ainsi que les marqueurs, tels que décrits dans le module BC1, avant de continuer.</p
 ><pc
 ><object
-contentType="en"
 type="tsub"
 >Why this is important?</object
 ><object
-contentType="fr"
 type="tsub"
 >Pourquoi est-ce important ?</object
 ></pc
@@ -7639,11 +7719,9 @@ type="tPT"
 > permet d’effectuer onze vérifications de base. Vous avez déjà vu les deux premières (le chapitre / les versets et les marqueurs). La prochaine série vous aide à localiser les erreurs liées à l’orthographe, la ponctuation, l’utilisation des majuscules et les mots répétés. Bien que ces erreurs n’influent pas nécessairement sur le contenu du texte, les corriger rend le texte plus facile à lire.</p
 ><pc
 ><object
-contentType="en"
 type="tsub"
 >What we are going to do:</object
 ><object
-contentType="fr"
 type="tsub"
 >Ce que nous allons faire :</object
 ></pc
@@ -7694,14 +7772,14 @@ contentType="fr"
 ><section1
 id="sconfirm"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Confirm the setup</object
-><object
+>Confirm the setup</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Confirmer la configuration</object
+>Confirmer la configuration</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -7722,14 +7800,14 @@ contentType="fr"
 ><section1
 id="sUsingInventoriesToSetupChecks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Using inventories to setup checks</object
-><object
+>Using inventories to setup checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Utiliser les inventaires pour préparer l’exécution des vérifications</object
+>Utiliser les inventaires pour préparer l’exécution des vérifications</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -7764,7 +7842,6 @@ contentType="en"
 >Click on an item in the list in the top pane.<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >The verses are shown in the bottom pane.</object
 ></li
@@ -7773,7 +7850,6 @@ contentType="fr"
 >Cliquez sur un élément dans le liste en haut.<br
 ></br
 ><object
-contentType="fr"
 type="italic"
 >Les verets sont affichées dans le volet en bas.</object
 ></li
@@ -7820,14 +7896,14 @@ contentType="fr"
 ><section1
 id="sCharacters"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Character </object
-><object
+>Character</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Caractères </object
+>Caractères</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -7860,7 +7936,6 @@ contentType="en"
 type="tmenu"
 >Valid</object
 > ou <object
-contentType="en"
 type="tmenu"
 >Invalid</object
 >. </li
@@ -7923,14 +7998,14 @@ contentType="fr"
 ><section1
 id="sPunctuation"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Punctuation</object
-><object
+>Punctuation</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ponctuation </object
+>Ponctuation</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8030,7 +8105,15 @@ contentType="fr"
 ><section1
 id="sPairs"
 ><secTitle
->Paires correspondantes</secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Matched Pairs</titleContent
+><titleContent
+contentType="fr"
+>Paires correspondantes</titleContent
+></titleContentChoices
+></secTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -8045,11 +8128,9 @@ contentType="fr"
 ><li
 contentType="fr"
 ><object
-contentType="en"
 type="tmenu"
 >Checking</object
 > &gt; <object
-contentType="en"
 type="tmenu"
 >Unmatched pairs of punctuation</object
 > :  </li
@@ -8130,14 +8211,14 @@ contentType="fr"
 ><section1
 id="sRepeatedWords"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Repeated words</object
-><object
+>Repeated words</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Mots répétés </object
+>Mots répétés</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -8233,14 +8314,14 @@ contentType="fr"
 ><section1
 id="sCapitalization"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Capitalization </object
-><object
+>Capitalization</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Mise en majuscules</object
+>Mise en majuscules</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -8432,14 +8513,14 @@ contentType="fr"
 ><section1
 id="sMakingMinorCorrections"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Making minor corrections</object
-><object
+>Making minor corrections</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Faire de petites corrections</object
+>Faire de petites corrections</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8491,14 +8572,14 @@ contentType="fr"
 ><section2
 id="sRevision"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Review</object
-> <object
+>Review</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Révision :</object
+>Révision :</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -8514,42 +8595,68 @@ type="tPT"
 >. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque vérification de base remplissez ce tableau</p
 ><tablenumbered
 id="ntCheck"
+location="here"
 ><table
+align="left"
 border="1"
 ><tr
 ><th
+align="left"
+valign="top"
 >Check</th
 ><th
+align="left"
+valign="top"
 >Setup</th
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Chapter/verse numbers</td
 ><td
+align="left"
+valign="top"
 >none</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Markers</td
 ><td
+align="left"
+valign="top"
 >Marker inventory</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Characters (Combinations)</td
 ><td
+align="left"
+valign="top"
 >Character inventory</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Punctuation</td
 ><td
+align="left"
+valign="top"
 >Punctuation inventory</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Capitalization</td
 ><td
+align="left"
+valign="top"
 >4 inventories<br
 ></br
 > Markers Missing Final Sentence Punctuation<br
@@ -8564,132 +8671,224 @@ border="1"
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Repeated words</td
 ><td
+align="left"
+valign="top"
 >Repeated words inventory</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Unmatched pairs of punctuation</td
 ><td
+align="left"
+valign="top"
 >Unmatched pairs of punctuation inventory</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Quotations</td
 ><td
+align="left"
+valign="top"
 >Quotation rules (from Checking menu)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Numbers</td
 ><td
+align="left"
+valign="top"
 >Number settings (from checking menu)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >References</td
 ><td
+align="left"
+valign="top"
 >Scripture reference settings (from project menu)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Quoted text</td
 ><td
+align="left"
+valign="top"
 >none</td
 ></tr
 ></table
 ></tablenumbered
 ><tablenumbered
 id="ntCheckTableFR"
+location="here"
 ><table
+align="left"
 border="1"
 ><tr
 ><th
+align="left"
+valign="top"
 >Vérification</th
 ><th
+align="left"
+valign="top"
 >Faire avant</th
 ><th
+align="left"
+valign="top"
 >…  quoi ?</th
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« Chapitres/versets »</td
 ><td
+align="left"
+valign="top"
 >aucun</td
 ><td
+align="left"
+valign="top"
 > </td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« marqueurs »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >des marqueurs</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« caractères »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >des caractères</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« ponctuation »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >de signes de ponctuation</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« paires correspondantes »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >d’erreurs ponctuation en paires correspondantes</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« mots répétés »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >de mots répétés</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« mise en majuscules »</td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >de marqueurs non exigeant une majuscule,</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 > </td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >de signes de ponctuation non exigeât une majuscule,</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 > </td
 ><td
+align="left"
+valign="top"
 >inventaire</td
 ><td
+align="left"
+valign="top"
 >de mise en majuscules mixte</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« références »</td
 ><td
+align="left"
+valign="top"
 >paramètres</td
 ><td
+align="left"
+valign="top"
 >Projet &gt; <object
 type="tmenu"
 >Paramètres de références bibliques</object
@@ -8697,10 +8896,16 @@ type="tmenu"
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« guillemets »</td
 ><td
+align="left"
+valign="top"
 >règle</td
 ><td
+align="left"
+valign="top"
 >Vérification &gt; <object
 type="tmenu"
 >Règles de Guillemets</object
@@ -8708,10 +8913,16 @@ type="tmenu"
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« numération »</td
 ><td
+align="left"
+valign="top"
 >paramètres</td
 ><td
+align="left"
+valign="top"
 >Vérification &gt; <object
 type="tmenu"
 >Paramètres de chiffres</object
@@ -8719,10 +8930,16 @@ type="tmenu"
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >« quoted text »</td
 ><td
+align="left"
+valign="top"
 >aucun</td
 ><td
+align="left"
+valign="top"
 > </td
 ></tr
 ></table
@@ -8739,14 +8956,14 @@ contentType="fr"
 ><chapter
 id="sFcFormattingChecks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->FC: Formatting checks</object
-><object
+>FC: Formatting checks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->VM : Vérification de mise en page </object
+>VM : Vérification de mise en page </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -8805,7 +9022,6 @@ contentType="fr"
 ><p
 contentType="fr"
 ><object
-contentType="en"
 type="tsub"
 >What are you going to do?</object
 ></p
@@ -8862,14 +9078,14 @@ contentType="fr"
 ><section1
 id="susingchecklists"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Using the checklists – generic</object
-> <object
+>Using the checklists – generic</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Utilisation des listes récapitulatives - générique</object
+>Utilisation des listes récapitulatives - générique</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -8974,14 +9190,14 @@ contentType="fr"
 ><section1
 id="sUsingChecklist"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Using checklist – Section headings</object
-><object
+>Using checklist – Section headings</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Utilisation des listes récapitulatives - En-têtes de section</object
+>Utilisation des listes récapitulatives - En-têtes de section</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -9019,14 +9235,14 @@ contentType="fr"
 ><section1
 id="sParagraphBreaks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Paragraph breaks</object
-> <object
+>Paragraph breaks</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Vérification des paragraphes</object
+>Vérification des paragraphes</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -9140,14 +9356,14 @@ contentType="fr"
 ><section1
 id="sLayoutAndIndents"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Layout and indents</object
-><object
+>Layout and indents</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Mise en page et retraits</object
+>Mise en page et retraits</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -9226,14 +9442,14 @@ contentType="en"
 ><section1
 id="sAddUsfmsToFormatSpecialText"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add USFMs to format special text</object
-><object
+>Add USFMs to format special text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter USFMs pour le mise en forme spécial</object
+>Ajouter USFMs pour le mise en forme spécial</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -9254,14 +9470,14 @@ contentType="fr"
 ><chapter
 id="sPD"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PD: Printing Drafts</object
-><object
+>PD: Printing Drafts</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->IE : Impression d’ébauches </object
+>IE : Impression d’ébauches </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -9270,8 +9486,8 @@ type="tsub"
 >Introduction</object
 ></pc
 ><pc
-><object
 contentType="fr"
+><object
 type="tsub"
 >Introduction</object
 ></pc
@@ -9341,29 +9557,17 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous devez d’abord produire ce qu’on appelle une « version PDF » de la traduction que vous voulez imprimer. Si nécessaire, vous pouvez copier la version PDF sur votre clé USB pour la transférer sur un ordinateur lié à une imprimante.</p
-><p
-contentType="en"
->Summary</p
-><p
-contentType="fr"
->Résumé</p
-><p
-contentType="en"
->This module shows you how to:</p
-><p
-contentType="fr"
->Ce module vous montre comment :</p
 ><section1
 id="sCreateAPdfFile"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Create a PDF file</object
-><object
+>Create a PDF file</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Créer une ébauche en PDF</object
+>Créer une ébauche en PDF</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
@@ -9560,7 +9764,6 @@ contentType="en"
 >Click OK and wait, the file will open in your PDF reader.<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >If there are marker error a message box will appear. Click No, then correct the errors and try again.</object
 ></li
@@ -9569,7 +9772,6 @@ contentType="fr"
 >Cliquez sur OK et attendez l’ouverture du lecteur PDF. <br
 ></br
 ><object
-contentType="fr"
 type="italic"
 >S’il y a des erreurs avec des marqueurs par exemple, une boîte s’affiche. Cliquez sur Non, puis corrigez les erreurs et reprendre.</object
 > </li
@@ -9578,14 +9780,14 @@ type="italic"
 ><section1
 id="sPrintPdf"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Print a PDF</object
-><object
+>Print a PDF</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Imprimer un PDF </object
+>Imprimer un PDF</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -9682,19 +9884,29 @@ contentType="fr"
 ><section1
 id="sCopyPdfFileToAUsbStick"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Copy PDF file to a USB stick</object
+>Copy PDF file to a USB stick</titleContent
+><titleContent
+contentType="fr"
+>Copiez le fichier PDF à une clé USB</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
->Paratext saves the PDF file in the PrintDrafts folder or your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p
+>Paratext saves the PDF file in the PrintDrafts folder of your project folder. For example, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p
+><p
+contentType="fr"
+>Le Paratext sauve le fichier de PDF dans le dossier PrintDrafts de votre dossier de projet. Par exemple, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft</p
 ><p
 contentType="en"
 >There are many ways to copy files. One method is described below.</p
+><p
+contentType="fr"
+>Il y a beaucoup de façons de copier des fichiers. Une méthode est décrite ci-dessous.</p
 ></framedUnit
 ><ul
 ><li
@@ -9757,14 +9969,14 @@ contentType="fr"
 ><chapter
 id="sUNUsingNotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->UN: Using Notes</object
-><object
+>UN: Using Notes</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->UR : L’utilisation des remarques  </object
+>UR : L’utilisation des remarques  </titleContent
+></titleContentChoices
 ></secTitle
 ><pc
 contentType="en"
@@ -9882,14 +10094,14 @@ contentType="fr"
 ><section1
 id="sDifferentTypesOfProjectNotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Different types of project notes</object
-><object
+>Different types of project notes</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Les différents icônes de remarques </object
+>Les différents icônes de remarques </titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -9900,7 +10112,6 @@ type="tPT"
 ><p
 contentType="fr"
 >Vous pouvez choisir parmi plusieurs icônes différentes pour vos remarques de projet dans <object
-contentType="fr"
 type="tPT"
 ></object
 > :</p
@@ -9936,136 +10147,210 @@ contentType="fr"
 >Chaque icône peut avoir plusieurs formes :</p
 ><tablenumbered
 contentType="en"
-id="nt-NeedsALabel-.xlingpaper.1..styledPaper.1..lingPaper.1..part.2..chapter.9..section1.1..tablenumbered.1."
+id="ticonList"
+location="here"
 ><table
+align="left"
 border="1"
 ><tr
 ><td
+align="left"
+valign="top"
 >Icon</td
 ><td
+align="left"
+valign="top"
 >Description</td
 ><td
+align="left"
+valign="top"
 >Meaning</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image43.jpeg"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon has a border and a yellow background color.</td
 ><td
+align="left"
+valign="top"
 >The note has a least one unread comment.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image44.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is red, purple, or light blue.</td
 ><td
+align="left"
+valign="top"
 >A project note assigned to you, or to the whole team, or unassigned.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image45.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is gray.</td
 ><td
+align="left"
+valign="top"
 >A project note assigned to someone else.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image46.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is gray with a green tick.</td
 ><td
+align="left"
+valign="top"
 >A project note with resolved status.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image47.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is a white question mark on the cover of a book.</td
 ><td
+align="left"
+valign="top"
 >There is a spelling discussion note for this word. (Wordlist only.)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image48.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is gray with a question mark on the cover of a book.</td
 ><td
+align="left"
+valign="top"
 >There is NOT a spelling discussion note for this word. (Wordlist only. )</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image49.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is a light blue plus.</td
 ><td
+align="left"
+valign="top"
 >A consultant note.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image50.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is a light blue globe.</td
 ><td
+align="left"
+valign="top"
 >A global consultant note.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image51.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is a black exclamation point within a red triangle.</td
 ><td
+align="left"
+valign="top"
 >There is a Send/Receive merge conflict because two users have made different changes to the same verse.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image52.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is a white arrow on a blue background.</td
 ><td
+align="left"
+valign="top"
 >There is a rendering discussion note for this Biblical Term. (Biblical terms window or tool only)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image53.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >Icon is gray with an arrow on the cover of a book.</td
 ><td
+align="left"
+valign="top"
 >There is NOT a rendering discussion note for this Biblical Term. (Biblical terms window or tool only)</td
 ></tr
 ></table
@@ -10073,135 +10358,209 @@ src="12imgeng/image53.png"
 ><tablenumbered
 contentType="fr"
 id="nFrNotes"
+location="here"
 ><table
+align="left"
 border="1"
 ><tr
 ><td
+align="left"
+valign="top"
 >Icône</td
 ><td
+align="left"
+valign="top"
 >Description</td
 ><td
+align="left"
+valign="top"
 >Signification</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image43.jpeg"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône a une bordure et une couleur de base jaune clair.</td
 ><td
+align="left"
+valign="top"
 >La note a au moins un commentaire non lu.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image44.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est rouge, violet, ou bleu clair.</td
 ><td
+align="left"
+valign="top"
 >Une note de projet assignée à vous ou à l’équipe entière.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image45.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est grise.</td
 ><td
+align="left"
+valign="top"
 >Une note de projet assignée à quelqu’un d’autre ou non assigné.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image46.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est grise avec une « coche » verte.</td
 ><td
+align="left"
+valign="top"
 >Une note de projet avec le statut résolu.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image47.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est un point d’interrogation blanc sur la couverture d’un livre bleu.</td
 ><td
+align="left"
+valign="top"
 >Il y a une note de discussion d’orthographe pour ce mot.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image48.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est un point d’interrogation blanc sur la couverture d’un livre gris.</td
 ><td
+align="left"
+valign="top"
 >Il n’y a PAS de note de discussion d’orthographe pour ce mot.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image49.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est un plus bleu clair.</td
 ><td
+align="left"
+valign="top"
 >Une note du conseiller.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image50.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est un globe bleu clair.</td
 ><td
+align="left"
+valign="top"
 >Une note globale du conseiller.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image51.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est un point d’exclamation noir dans un triangle rouge.</td
 ><td
+align="left"
+valign="top"
 >Il y a un conflit de fusion Envoyer/Recevoir parce que deux utilisateurs ont fait de différents changements dans le même verset.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image52.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est une flèche blanche sur la couverture d’un livre bleu.</td
 ><td
+align="left"
+valign="top"
 >Il y a une note de discussion des équivalents pour ce terme biblique. Cette icône apparaît uniquement dans l’outil Termes bibliques ou dans la fenêtre des équivalents des termes bibliques.</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 ><img
 src="12imgeng/image53.png"
 ></img
 ></td
 ><td
+align="left"
+valign="top"
 >L’icône est une flèche blanche sur la couverture d’un livre gris.</td
 ><td
+align="left"
+valign="top"
 >Il n’y a PAS de note de discussion d’équivalent pour ce terme biblique</td
 ></tr
 ></table
@@ -10210,14 +10569,14 @@ src="12imgeng/image53.png"
 ><section1
 id="sSetupAdditionalNoteTypes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Setup additional note types</object
-><object
+>Setup additional note types</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Définir des types de remarques</object
+>Définir des types de remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
@@ -10261,7 +10620,6 @@ contentType="en"
 >Click on the Add Tab button<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >A new line is added.</object
 ></li
@@ -10311,14 +10669,14 @@ contentType="fr"
 ><section1
 id="sInsertingAProjectNote"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Inserting a project note</object
-><object
+>Inserting a project note</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Insertion d’une remarque</object
+>Insertion d’une remarque</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10385,14 +10743,14 @@ type="italic"
 ><section1
 id="sOpenNotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Open notes</object
-><object
+>Open notes</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ouvrir des remarques</object
+>Ouvrir des remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10424,7 +10782,6 @@ contentType="en"
 >Click OK.<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >A note window opens.</object
 ></li
@@ -10436,7 +10793,6 @@ type="tmenu"
 >. <br
 ></br
 ><object
-contentType="fr"
 type="italic"
 >Les remarques s’affichent dans une fenêtre séparée.</object
 ></li
@@ -10462,14 +10818,14 @@ contentType="fr"
 ><section1
 id="sAddCommentsToAnExistingNote"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add comments to an existing note </object
-><object
+>Add comments to an existing note</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter des commentaires dans une remarque ouverte dans le texte</object
+>Ajouter des commentaires dans une remarque ouverte dans le texte</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10480,7 +10836,6 @@ src="12imgeng/image55.png"
 >) in the text<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >The note opens.</object
 ><br
@@ -10535,14 +10890,14 @@ type="tmenu"
 ><section1
 id="sAddCommentsFromANotesWindow"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Add comments from a notes window</object
-><object
+>Add comments from a notes window</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Ajouter des commentaires dans une remarque d'une fenêtre des remarques </object
+>Ajouter des commentaires dans une remarque d'une fenêtre des remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10599,14 +10954,14 @@ contentType="fr"
 ><section1
 id="sAssignANoteToSomeone"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Assign a note to someone </object
-><object
+>Assign a note to someone</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Affecter une remarque à quelqu’un </object
+>Affecter une remarque à quelqu’un</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10662,14 +11017,14 @@ type="tmenu"
 ><section1
 id="sApplyNotesToMultipleTexts"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Apply notes to multiple texts</object
-><object
+>Apply notes to multiple texts</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Relie une remarque à plusieurs textes</object
+>Relie une remarque à plusieurs textes</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10722,14 +11077,14 @@ type="tmenu"
 ><section1
 id="sReattachNote"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Reattach note</object
-><object
+>Reattach note</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Rattacher une remarque</object
+>Rattacher une remarque</titleContent
+></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="fr"
@@ -10779,7 +11134,6 @@ type="tmenu"
 >.<br
 ></br
 ><object
-contentType="en"
 type="italic"
 >The note is attached to the word(s).</object
 ></li
@@ -10799,14 +11153,14 @@ type="tresult"
 ><section1
 id="sResolveANote"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Resolve a note</object
-><object
+>Resolve a note</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Marquer une remarque comme étant résolue</object
+>Marquer une remarque comme étant résolue</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10862,14 +11216,14 @@ type="tmenu"
 ><section1
 id="sPrintANotesReport"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Print a notes report</object
-><object
+>Print a notes report</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Imprimer un rapport des remarques</object
+>Imprimer un rapport des remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10931,10 +11285,14 @@ contentType="fr"
 ><section1
 id="sDeleteNotes"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Delete notes</object
+>Delete notes</titleContent
+><titleContent
+contentType="fr"
+>Supprimer des remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10957,7 +11315,10 @@ type="tmenu"
 > to permanently delete you comment.</li
 ><li
 contentType="fr"
->Cliquez sur Oui pour supprimer définitivement le commentaire.</li
+>Cliquez sur <object
+type="tmenu"
+>Oui</object
+> pour supprimer définitivement le commentaire.</li
 ><li
 contentType="en"
 >If there are more comments, continue to delete the next comment.</li
@@ -10969,10 +11330,14 @@ contentType="fr"
 ><section1
 id="sNotesWindow"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Notes window </object
+>Notes window</titleContent
+><titleContent
+contentType="fr"
+>Fenêtres des remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -10980,7 +11345,7 @@ contentType="en"
 >There are four dropdown boxes on the toolbar</li
 ><li
 contentType="fr"
->Il y a quatre cases sur la barre d’outils <ul
+>Il y a quatre listes deroulantes sur la barre d’outils <ul
 ><li
 contentType="en"
 >Notes filter</li
@@ -11008,14 +11373,14 @@ contentType="en"
 ><section1
 id="sNotesFilter"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Notes filter</object
-><object
+>Notes filter</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Filtre de remarques</object
+>Filtre de remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -11035,14 +11400,14 @@ contentType="fr"
 ><section1
 id="sDefineANewFilter"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Define a new filter </object
-><object
+>Define a new filter</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->Définir un nouveau filtre de remarques</object
+>Définir un nouveau filtre de remarques</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -11062,7 +11427,6 @@ src="12imgeng/image60.png"
 ><li
 contentType="fr"
 >Choisissez <object
-contentType="fr"
 type="tmenu"
 >Nouveau filtre</object
 ><br
@@ -11094,10 +11458,14 @@ type="tmenu"
 ><section1
 id="sSaveAFilter"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Save a filter</object
+>Save a filter</titleContent
+><titleContent
+contentType="fr"
+>Enregistrer un filtre</titleContent
+></titleContentChoices
 ></secTitle
 ><ul
 ><li
@@ -11132,187 +11500,356 @@ contentType="fr"
 ><appendix
 id="sSpecTest"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Special text</object
+>Special text</titleContent
+><titleContent
+contentType="fr"
+>Textes spéciaux</titleContent
+></titleContentChoices
 ></secTitle
 ><shortTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PT8-Special Text</object
-><object
+>PT8-Special Text</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PT8-Texte Speciale</object
+>PT8-Texte Speciale</titleContent
+></titleContentChoices
 ></shortTitle
 ><ul
 ><li
 contentType="en"
 >Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).</li
 ><li
+contentType="fr"
+>Mat 1.2-16 : La généalogie, qui n'est pas la prose normale. Souvent mis dans un format poétique spécial dont les pères se mettent en rang et le formulaire indique que c'est une liste spéciale (avec les commentaires).</li
+><li
 contentType="en"
 >Matt 5.3-10; The beatitudes. Often set in poetic form.</li
+><li
+contentType="fr"
+>Mat 5.3-10 ; Les béatitudes. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Mat 6.9-13 : La prière du Seigneur. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Matt 21.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="fr"
+>Mat 21.9 : La salutation à Jésus. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Matt 27.37: The sign on the cross. Often set in small caps.</li
 ><li
+contentType="fr"
+>Mat 27.37 : Le signe sur la croix. Souvent mis en petites majuscules.</li
+><li
 contentType="en"
 >Matt 27.46: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
+><li
+contentType="fr"
+>Mat 27.46 : Le cri de Jésus. Quelquefois mis en italique (parce que c'est dans une autre langue).</li
 ><li
 contentType="en"
 >Mark 5.41: The command to the dead girl. Sometimes set in italics (because it is in another language).</li
 ><li
+contentType="fr"
+>Mrk 5.41 : La commande à la fille morte. Quelquefois mis en italique (parce que c'est dans une autre langue).</li
+><li
 contentType="en"
 >Mark 11.9: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="fr"
+>Mrk 11.9 : La salutation à Jésus. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li
 ><li
+contentType="fr"
+>Mrk 14.36 : « Abba ». Quelquefois mis en italique (parce que c'est dans une autre langue).</li
+><li
 contentType="en"
 >Mark 15.26: The sign on the cross. Often set in small caps.</li
+><li
+contentType="fr"
+>Mrk 15,26 : Le signe sur la croix. Souvent mis en petites majuscules.</li
 ><li
 contentType="en"
 >Mark 15.34: The scream of Jesus. Sometimes set in italics (because it is in another language).</li
 ><li
+contentType="fr"
+>Mrk 15,34 : Le cri de Jésus. Quelquefois mis en italique (parce que c'est dans une autre langue).</li
+><li
 contentType="en"
 >Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.</li
+><li
+contentType="fr"
+>Mrk 16,9 : Une note indiquant une autre fin de Mark. Quelquefois séparé par une règle horizontale.</li
 ><li
 contentType="en"
 >Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li
 ><li
+contentType="fr"
+>Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li
+><li
+contentType="fr"
+>Luk 1.68-79 : La chanson de Zechariah. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Luk 2.14 : Le chant du chœur angélique. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li
+><li
+contentType="fr"
+>Luk 2.29-32 : La louange de Simeon. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li
 ><li
+contentType="fr"
+>Luk 3.23-38 : La généalogie. Souvent mis en form poétique spécial semblable à la généalogie dans Matthew.</li
+><li
 contentType="en"
 >Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li
+><li
+contentType="fr"
+>Luke 6.20-22 : Les béatitudes (bénédictions). Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li
 ><li
+contentType="fr"
+>Luke 6.24-26 : Les béatitudes (malheurs). Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li
+><li
+contentType="fr"
+>Luke 11.2-4 : la prière du Seigneur. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Luke 19.38: The greeting to Jesus. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Luke 19.38 : La salutation à Jésus. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Luke 23.38: The sign on the cross. Often set in small caps.</li
+><li
+contentType="fr"
+>Luke 23.38 : Le signe sur la croix. Souvent mis dans de petites casquettes.</li
 ><li
 contentType="en"
 >John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.</li
 ><li
+contentType="fr"
+>Jhn 7.53-8.11 : L'histoire de la femme prise sur le fait. La tête de section se produit d'habitude avant le vers 53. Quelquefois, bien que rarement, séparé par une règle horizontale auparavant et après le texte.</li
+><li
 contentType="en"
 >John 12.13: The greeting to Jesus. Often set in poetic form.</li
+><li
+contentType="fr"
+>Jhn 12.13 : La salutation à Jésus. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li
 ><li
+contentType="fr"
+>Jhn 17.1-27 : La prière de Jésus. Quelquefois, bien que rarement, mit en paragraphes en retraite ajoutée de la marge gauche.</li
+><li
 contentType="en"
 >John 19.19: The sign on the cross. Often set in small caps.</li
+><li
+contentType="fr"
+>Jhn 19.19 : Le signe sur la croix. Souvent mis dans de petites casquettes.</li
 ><li
 contentType="en"
 >Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.</li
 ><li
+contentType="fr"
+>Act 15.23-29 : La lettre. Souvent mis dans les paragraphes avec un retrait ajoutée de la marge gauche.</li
+><li
 contentType="en"
 >Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.</li
+><li
+contentType="fr"
+>Act 23.26-30 : La lettre à Claudius Lysias. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.</li
 ><li
 contentType="en"
 >Rom 8.15: "Abba." Sometimes set in italics (because it is in another language).</li
 ><li
+contentType="fr"
+>Rom 8.15 : « Abba ». Quelquefois mis en italique (parce que c'est dans une autre langue).</li
+><li
 contentType="en"
 >Rom 11.33-36: The doxology. Often set in poetic form.</li
+><li
+contentType="fr"
+>Rom 11.33-36 : La doxologie. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li
 ><li
+contentType="fr"
+>Rom 16.3-16 : Les salutations spéciales. Quelquefois mis dans un format poétique spécial semblable aux généalogies.</li
+><li
 contentType="en"
 >Gal 4.6: "Abba." Sometimes set in italics (because it is in another language).</li
+><li
+contentType="fr"
+>Gal 4.6 : « Abba ». Quelquefois mis en italique (parce que c'est dans une autre langue).</li
 ><li
 contentType="en"
 >Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li
 ><li
+contentType="fr"
+>Php 2.6-11 : Les attitudes. Quelquefois mis en form poétique.</li
+><li
 contentType="en"
 >1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li
+><li
+contentType="fr"
+>1Ti 2.5-6 : Un credo. Quelquefois mis en form poétique.</li
 ><li
 contentType="en"
 >1 Tim 3.16: A creed. Often set in poetic form.</li
 ><li
+contentType="fr"
+>1Ti 3.16 : Un credo. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >2 Tim 2.11-13: A creed. Often set in poetic form.</li
+><li
+contentType="fr"
+>2Ti 2.11-13 : Un credo. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >1 John 2.12-14: I write to you. Sometimes set in poetic form.</li
 ><li
+contentType="fr"
+>1Jn 2.12-14 : je vous écris. Quelquefois mis en form poétique.</li
+><li
 contentType="en"
 >Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li
+><li
+contentType="fr"
+>Apo 1.4-7 : La salutation et doxologie. Quelquefois mis comme la poésie et la prose.</li
 ><li
 contentType="en"
 >Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.</li
 ><li
+contentType="fr"
+>Apo 2-3 : Les sept lettres. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.</li
+><li
 contentType="en"
 >Rev 4.8: A chant. Sometimes set in centered poetic form.</li
+><li
+contentType="fr"
+>Apo 4.8 : Un chant. Parfois mis en form poétique centré.</li
 ><li
 contentType="en"
 >Rev 4.11: A chant. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 4.11 : Un chant. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li
+><li
+contentType="fr"
+>Apo 5.9-10, 12, 13 : Chansons. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rev 7.5-8: A list. Often set in a special poetic form.</li
 ><li
+contentType="fr"
+>Apo 7.5-8 : Une liste. Souvent mise en form poétique spécial.</li
+><li
 contentType="en"
 >Rev 7.10, 12: Chants. Often set in poetic form.</li
+><li
+contentType="fr"
+>Apo 7.10, 12 : Chants. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rev 7.15-17: A declaration. Sometimes set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 7.15-17 : Une déclaration. Quelquefois mis en form poétique.</li
+><li
 contentType="en"
 >Rev 11.15, 17-18: Chants. Often set in poetic form.</li
+><li
+contentType="fr"
+>Apo 11.15, 17-18 : Chants. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rev 12.10-12: A declaration. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 12.10-12 : Une déclaration. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Rev 15.3-4: A song. Often set in poetic form.</li
+><li
+contentType="fr"
+>Apo 15.3-4 : Une chanson. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rev 16.5-7: A declaration. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 16.5-7 : Une déclaration. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Rev 17.5: A sign. Often set centered, in small caps.</li
+><li
+contentType="fr"
+>Apo 17.5 : Un signe. Souvent centré, en petites majuscules.</li
 ><li
 contentType="en"
 >Rev 18.2-8: A declaration. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 18.2-8 : Une déclaration. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Rev 18.10-24: A series of woes. Often set in poetic form.</li
+><li
+contentType="fr"
+>Apo 18.10-24 : Une série de malheurs. Souvent mis en form poétique.</li
 ><li
 contentType="en"
 >Rev 19.1-8: A series of declarations. Often set in poetic form.</li
 ><li
+contentType="fr"
+>Apo 19.1-8 : Une série de déclarations. Souvent mis en form poétique.</li
+><li
 contentType="en"
 >Rev 19.16: A sign. Often set centered, in small caps.</li
 ><li
+contentType="fr"
+>Apo 19.16 : Un signe. Souvent le jeu a centré, enen petites majuscules.</li
+><li
 contentType="en"
 >Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li
+><li
+contentType="fr"
+>Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en form poétique.</li
 ></ul
 ><p
 contentType="en"
@@ -11321,45 +11858,245 @@ contentType="en"
 ><appendix
 id="aBibleBooks"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Three letter abbreviations</object
+>Three letter abbreviations</titleContent
+><titleContent
+contentType="fr"
+>Les codes de livres bibliques (trois lettres)</titleContent
+></titleContentChoices
 ></secTitle
 ><shortTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PT8-Bible Abbreviations</object
-><object
+>PT8-Bible Abbreviations</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PT8-Codes des livres Bibliques</object
+>PT8-Codes des livres Bibliques</titleContent
+></titleContentChoices
 ></shortTitle
 ><p
 contentType="en"
 >Old Testament</p
+><p
+contentType="fr"
+>Ancien Testament</p
+><tablenumbered
+contentType="en"
+id="ntBooksEng"
 ><table
+align="left"
 border="1"
 ><tr
 ><td
+align="left"
+valign="top"
 >[Genesis] [GEN]</td
 ><td
+align="left"
+valign="top"
 >[Exodus] [EXO]</td
 ><td
+align="left"
+valign="top"
 >[Leviticus] [LEV]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[Numbers] (NUM)</td
 ><td
+align="left"
+valign="top"
 >[Deuteronomy] (DEU)</td
 ><td
+align="left"
+valign="top"
 >[Joshua] [JOS]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[Judges] (JDG)</td
+><td
+align="left"
+valign="top"
+>Ruth [RUT]</td
+><td
+align="left"
+valign="top"
+>1 Samuel [1SA]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>2 Samuel [2SA]</td
+><td
+align="left"
+valign="top"
+>[1 Kings] [1KI]</td
+><td
+align="left"
+valign="top"
+>[2 Kings] [2KI]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[1 Chronicles] [1CH]</td
+><td
+align="left"
+valign="top"
+>[2 Chronicles] [2CH]</td
+><td
+align="left"
+valign="top"
+>[Ezra] [EZR]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Nehemiah] [NEH]</td
+><td
+align="left"
+valign="top"
+>Esther [EST]</td
+><td
+align="left"
+valign="top"
+>Job [JOB]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Psalms] [PSA]</td
+><td
+align="left"
+valign="top"
+>[Proverbs] [PRO]</td
+><td
+align="left"
+valign="top"
+>[Ecclesiastes] (ECC)</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>Song of Songs] [SNG]</td
+><td
+align="left"
+valign="top"
+>[Isaiah] [ISA]</td
+><td
+align="left"
+valign="top"
+>[Jeremiah] [JER]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>Lamentations [LAM]</td
+><td
+align="left"
+valign="top"
+>[Ezekiel] [EZK]</td
+><td
+align="left"
+valign="top"
+>Daniel [DAN]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Hosea] [HOS]</td
+><td
+align="left"
+valign="top"
+>Joël [JOL]</td
+><td
+align="left"
+valign="top"
+>Amos [AMO]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Obadiah] (OBA)</td
+><td
+align="left"
+valign="top"
+>[Jonah] (JON)</td
+><td
+align="left"
+valign="top"
+>[Micah] (MIC)</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Nahum] (NAM)</td
+><td
+align="left"
+valign="top"
+>[Habakkuk] [HAB]</td
+><td
+align="left"
+valign="top"
+>[Zephaniah] [ZEP]</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>[Haggai] [HAG]</td
+><td
+align="left"
+valign="top"
+>[Zechariah] [ZEC]</td
+><td
+align="left"
+valign="top"
+>[Malachi] [MAL]</td
+></tr
+></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntATLivres"
+><table
+border="1"
+><tr
+><td
+>Genèse [Genesis] [GEN]</td
+><td
+>Exode [Exodus] [EXO]</td
+><td
+>Lévitique [Leviticus] [LEV]</td
+></tr
+><tr
+><td
+>Nombres [Numbers] (NUM)</td
+><td
+>Deutéronome [Deuteronomy] (DEU)</td
+><td
+>Josué [Joshua] [JOS]</td
+></tr
+><tr
+><td
+>Juges [Judges] (JDG)</td
 ><td
 >Ruth [RUT]</td
 ><td
@@ -11369,21 +12106,21 @@ border="1"
 ><td
 >2 Samuel [2SA]</td
 ><td
->[1 Kings] [1KI]</td
+>1 Rois [1 Kings] [1KI]</td
 ><td
->[2 Kings] [2KI]</td
+>2 Rois [2 Kings] [2KI]</td
 ></tr
 ><tr
 ><td
->[1 Chronicles] [1CH]</td
+>1 Chroniques [1 Chronicles] [1CH]</td
 ><td
->[2 Chronicles] [2CH]</td
+>2 Chroniques [2 Chronicles] [2CH]</td
 ><td
->[Ezra] [EZR]</td
+>Esdras [Ezra] [EZR]</td
 ></tr
 ><tr
 ><td
->[Nehemiah] [NEH]</td
+>Néhémie [Nehemiah] [NEH]</td
 ><td
 >Esther [EST]</td
 ><td
@@ -11391,31 +12128,31 @@ border="1"
 ></tr
 ><tr
 ><td
->[Psalms] [PSA]</td
+>Psaumes [Psalms] [PSA]</td
 ><td
->[Proverbs] [PRO]</td
+>Proverbes [Proverbs] [PRO]</td
 ><td
->[Ecclesiastes] (ECC)</td
+>Ecclésiaste [Ecclesiastes] (ECC)</td
 ></tr
 ><tr
 ><td
->Song of Songs] [SNG]</td
+>Cantique des cantiques [Song of Songs] [SNG]</td
 ><td
->[Isaiah] [ISA]</td
+>Ésaïe [Isaiah] [ISA]</td
 ><td
->[Jeremiah] [JER]</td
+>Jérémie [Jeremiah] [JER]</td
 ></tr
 ><tr
 ><td
 >Lamentations [LAM]</td
 ><td
->[Ezekiel] [EZK]</td
+>Ézékiel [Ezekiel] [EZK]</td
 ><td
 >Daniel [DAN]</td
 ></tr
 ><tr
 ><td
->[Hosea] [HOS]</td
+>Osée [Hosea] [HOS]</td
 ><td
 >Joël [JOL]</td
 ><td
@@ -11423,326 +12160,830 @@ border="1"
 ></tr
 ><tr
 ><td
->[Obadiah] (OBA)</td
+>Abdias [Obadiah] (OBA)</td
 ><td
->[Jonah] (JON)</td
+>Jonas [Jonah] (JON)</td
 ><td
->[Micah] (MIC)</td
+>Michée [Micah] (MIC)</td
 ></tr
 ><tr
 ><td
->[Nahum] (NAM)</td
+>Nahoum [Nahum] (NAM)</td
 ><td
->[Habakkuk] [HAB]</td
+>Habacuc [Habakkuk] [HAB]</td
 ><td
->[Zephaniah] [ZEP]</td
+>Sophonie [Zephaniah] [ZEP]</td
 ></tr
 ><tr
 ><td
->[Haggai] [HAG]</td
+>Aggée [Haggai] [HAG]</td
 ><td
->[Zechariah] [ZEC]</td
+>Zacharie [Zechariah] [ZEC]</td
 ><td
->[Malachi] [MAL]</td
+>Malachie [Malachi] [MAL]</td
 ></tr
 ></table
+></tablenumbered
 ><p
 contentType="en"
 >New Testament</p
+><p
+contentType="fr"
+>Nouveau Testament</p
+><tablenumbered
+contentType="en"
+id="ntNTBooks"
 ><table
+align="left"
 border="1"
 ><tr
 ><td
+align="left"
+valign="top"
 >[Matthew] [MAT]</td
 ><td
+align="left"
+valign="top"
 >[Mark] [MRK]</td
 ><td
+align="left"
+valign="top"
 >[Luke] [LUK]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[John] [JHN]</td
 ><td
+align="left"
+valign="top"
 >[Acts] [ACT]</td
 ><td
+align="left"
+valign="top"
 >[Romans] [ROM]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[1 Corinthians] [1CO]</td
 ><td
+align="left"
+valign="top"
 >[2 Corinthians] [2CO]</td
 ><td
+align="left"
+valign="top"
 >[Galatians] [GAL]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[Ephesians] [EPH]</td
 ><td
+align="left"
+valign="top"
 >[Philippians] (PHP</td
 ><td
+align="left"
+valign="top"
 >Colossians (COL)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[1 Thessalonians] (1TH)</td
 ><td
+align="left"
+valign="top"
 >[2 Thessalonians] (2TH)</td
 ><td
+align="left"
+valign="top"
 >[1 Timothy] (1TI)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[2 Timothy] (2TI)</td
 ><td
+align="left"
+valign="top"
 >[Titus] (TIT)</td
 ><td
+align="left"
+valign="top"
 >[Philemon] (PHM)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[Hebrews] (HEB)</td
 ><td
+align="left"
+valign="top"
 >[James] (JAS)</td
 ><td
+align="left"
+valign="top"
 >[1 Peter] (1PE)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[2 Peter] (2PE)</td
 ><td
+align="left"
+valign="top"
 >[1 John] (1JN)</td
 ><td
+align="left"
+valign="top"
 >[2 John] (2JN)</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >[3 John] (3JN)</td
 ><td
+align="left"
+valign="top"
 >Jude (JUD)</td
 ><td
+align="left"
+valign="top"
 >[Revelation] (REV)</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntNTLivres"
+><table
+border="1"
+><tr
+><td
+>Matthieu [Matthew] [MAT]</td
+><td
+>Marc [Mark] [MRK]</td
+><td
+>Luc [Luke] [LUK]</td
+></tr
+><tr
+><td
+>Jean [John] [JHN]</td
+><td
+>Actes [Acts] [ACT]</td
+><td
+>Romains [Romans] [ROM]</td
+></tr
+><tr
+><td
+>1 Corinthiens [1 Corinthians] [1CO]</td
+><td
+>1 Corinthiens [2 Corinthians] [2CO]</td
+><td
+>Galates [Galatians] [GAL]</td
+></tr
+><tr
+><td
+>Éphésiens [Ephesians] [EPH]</td
+><td
+>Philippiens [Philippians] (PHP</td
+><td
+>Colossiens Colossians (COL)</td
+></tr
+><tr
+><td
+>1 Thessaloniciens [1 Thessalonians] (1TH)</td
+><td
+>1 Thessaloniciens [2 Thessalonians] (2TH)</td
+><td
+>1 Timothée [1 Timothy] (1TI)</td
+></tr
+><tr
+><td
+>2 Timothée [2 Timothy] (2TI)</td
+><td
+>Tite [Titus] (TIT)</td
+><td
+>Philémon [Philemon] (PHM)</td
+></tr
+><tr
+><td
+>Hébreux [Hebrews] (HEB)</td
+><td
+>Jacques [James] (JAS)</td
+><td
+>1 Pierre [1 Peter] (1PE)</td
+></tr
+><tr
+><td
+>2 Pierre [2 Peter] (2PE)</td
+><td
+>1 Jean [1 John] (1JN)</td
+><td
+>2 Jean [2 John] (2JN)</td
+></tr
+><tr
+><td
+>3 Jean [3 John] (3JN)</td
+><td
+>Jude (JUD)</td
+><td
+>Apocalypse [Revelation] (REV)</td
+></tr
+></table
+></tablenumbered
 ></appendix
 ><appendix
 id="sChadSpecChar"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Chad special characters</object
+>Chad special characters</titleContent
+><titleContent
+contentType="fr"
+>Les caractères de Tchad Unicode</titleContent
+></titleContentChoices
 ></secTitle
 ><shortTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->PT8-Chad</object
-><object
+>PT8-Chad</titleContent
+><titleContent
 contentType="fr"
-type="t-fr"
->PT8-Tchad</object
+>PT8-Tchad</titleContent
+></titleContentChoices
 ></shortTitle
 ><p
 contentType="en"
 >Certain characters used in Chadian languages are not found on the keyboard. To type these, you need to type more than one key.</p
 ><p
+contentType="fr"
+>Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche.</p
+><p
 contentType="en"
 >The table below shows the special characters in Chad and the combination of keys needed for each character.</p
+><p
+contentType="fr"
+>Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère.</p
+><tablenumbered
+contentType="en"
+id="ntSpecLet"
 ><table
+align="left"
 border="1"
 ><tr
-><td
+><th
+align="left"
 colspan="2"
->Les caractères du Tchad</td
-><td
+valign="top"
+>Chadian Characters</th
+><th
+align="left"
 colspan="2"
->The tones</td
+valign="top"
+>The tones</th
+></tr
+><tr
+><th
+align="left"
+colspan="2"
+valign="top"
+>Type … to have</th
+><th
+align="left"
+colspan="2"
+valign="top"
+>Type … to have</th
 ></tr
 ><tr
 ><td
-colspan="2"
->Type … to have</td
-><td
-colspan="2"
->Type … to have</td
-></tr
-><tr
-><td
+align="left"
+valign="top"
 >;’ ’</td
 ><td
+align="left"
+valign="top"
 >;n ŋ</td
 ><td
+align="left"
+valign="top"
 >]</td
 ><td
+align="left"
+valign="top"
 >à low tone</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;b ɓ</td
 ><td
+align="left"
+valign="top"
 >;o ɔ</td
 ><td
+align="left"
+valign="top"
 >[</td
 ><td
+align="left"
+valign="top"
 >á high tone</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;c ç</td
 ><td
+align="left"
+valign="top"
 >;p œ</td
 ><td
+align="left"
+valign="top"
 >=</td
 ><td
+align="left"
+valign="top"
 >ā mid tone</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;d ɗ</td
 ><td
+align="left"
+valign="top"
 >;y ƴ</td
 ><td
+align="left"
+valign="top"
 >^</td
 ><td
+align="left"
+valign="top"
 >â falling tone</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;e ɛ</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >|</td
 ><td
+align="left"
+valign="top"
 >ǎ rising tone</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;f ə</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >#</td
 ><td
+align="left"
+valign="top"
 >ä umlaut</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;h ɦ</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >~</td
 ><td
->ã tilda</td
+align="left"
+valign="top"
+>ã tilde</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;k ɨ</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >_</td
 ><td
->a̰ under tilda</td
+align="left"
+valign="top"
+>a̰ under tilde</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;m ɲ</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >`</td
 ><td
+align="left"
+valign="top"
+>a̧ cedilla</td
+></tr
+></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntLetSpec"
+><table
+align="left"
+border="1"
+><tr
+><th
+align="left"
+colspan="2"
+valign="top"
+>Les caractères du Tchad</th
+><th
+align="left"
+colspan="2"
+valign="top"
+>Les tons</th
+></tr
+><tr
+><th
+align="left"
+colspan="2"
+valign="top"
+>Tapez ... pour avoir</th
+><th
+align="left"
+colspan="2"
+valign="top"
+>Tapez ... pour avoir</th
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;’ ’</td
+><td
+align="left"
+valign="top"
+>;n ŋ</td
+><td
+align="left"
+valign="top"
+>]</td
+><td
+align="left"
+valign="top"
+>à ton bas</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;b ɓ</td
+><td
+align="left"
+valign="top"
+>;o ɔ</td
+><td
+align="left"
+valign="top"
+>[</td
+><td
+align="left"
+valign="top"
+>á ton haut</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;c ç</td
+><td
+align="left"
+valign="top"
+>;p œ</td
+><td
+align="left"
+valign="top"
+>=</td
+><td
+align="left"
+valign="top"
+>ā ton moyen</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;d ɗ</td
+><td
+align="left"
+valign="top"
+>;y ƴ</td
+><td
+align="left"
+valign="top"
+>^</td
+><td
+align="left"
+valign="top"
+>â ton descendant</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;e ɛ</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>|</td
+><td
+align="left"
+valign="top"
+>ǎ ton montant</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;f ə</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>#</td
+><td
+align="left"
+valign="top"
+>ä umlaut</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;h ɦ</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>~</td
+><td
+align="left"
+valign="top"
+>ã tilde</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;k ɨ</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>_</td
+><td
+align="left"
+valign="top"
+>a̰ sous-tilda</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;m ɲ</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>`</td
+><td
+align="left"
+valign="top"
 >a̧ cédille</td
 ></tr
 ></table
+></tablenumbered
 ><p
 contentType="en"
 >To type the other characters as below:</p
+><p
+contentType="fr"
+>Taper les autres caractères spéciaux de la façon suivante :</p
+><tablenumbered
+contentType="en"
+id="ntSpecChar"
 ><table
+align="left"
 border="1"
 ><tr
-><td
->Type</td
-><td
->to have</td
-><td
-></td
-><td
->type</td
-><td
->to have</td
+><th
+align="left"
+valign="top"
+>Type</th
+><th
+align="left"
+valign="top"
+>to have</th
+><th
+align="left"
+valign="top"
+></th
+><th
+align="left"
+valign="top"
+>Type</th
+><th
+>To receive</th
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;]</td
 ><td
+align="left"
+valign="top"
 >]</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;;</td
 ><td
+align="left"
+valign="top"
 >;</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;[</td
 ><td
+align="left"
+valign="top"
 >[</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;{</td
 ><td
+align="left"
+valign="top"
 >“</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;=</td
 ><td
+align="left"
+valign="top"
 >=</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;}</td
 ><td
+align="left"
+valign="top"
 >”</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;^</td
 ><td
+align="left"
+valign="top"
 >^</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;(</td
 ><td
+align="left"
+valign="top"
 >’</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;|</td
 ><td
+align="left"
+valign="top"
 >|</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;)</td
 ><td
+align="left"
+valign="top"
 >’</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;#</td
 ><td
+align="left"
+valign="top"
 >#</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;&lt;[1]<endnote
 id="nKeyman"
 ><p
@@ -11751,119 +12992,449 @@ contentType="en"
 ></endnote
 ></td
 ><td
+align="left"
+valign="top"
 >«</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;~</td
 ><td
+align="left"
+valign="top"
 >~</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;&gt;</td
 ><td
+align="left"
+valign="top"
 >»</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;_</td
 ><td
+align="left"
+valign="top"
 >_</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;,</td
 ><td
+align="left"
+valign="top"
 >‹</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >;`</td
 ><td
+align="left"
+valign="top"
 >`</td
 ><td
+align="left"
+valign="top"
 ></td
 ><td
+align="left"
+valign="top"
 >;.</td
 ><td
+align="left"
+valign="top"
 >›</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntCarSpec"
+><table
+align="left"
+border="1"
+><tr
+><th
+align="left"
+valign="top"
+>Tapez</th
+><th
+align="left"
+valign="top"
+>pour avoir</th
+><th
+align="left"
+valign="top"
+></th
+><th
+align="left"
+valign="top"
+>Tapez</th
+><th
+>Pour avoir</th
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;]</td
+><td
+align="left"
+valign="top"
+>]</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;;</td
+><td
+align="left"
+valign="top"
+>;</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;[</td
+><td
+align="left"
+valign="top"
+>[</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;{</td
+><td
+align="left"
+valign="top"
+>“</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;=</td
+><td
+align="left"
+valign="top"
+>=</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;}</td
+><td
+align="left"
+valign="top"
+>”</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;^</td
+><td
+align="left"
+valign="top"
+>^</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;(</td
+><td
+align="left"
+valign="top"
+>’</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;|</td
+><td
+align="left"
+valign="top"
+>|</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;)</td
+><td
+align="left"
+valign="top"
+>’</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;#</td
+><td
+align="left"
+valign="top"
+>#</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;&lt;[1]<endnote
+id="nKeymanFr"
+><p
+contentType="en"
+>For Keyman &lt;&lt; for « and &gt;&gt; for », ;&lt; for ‹ and ;&gt; for ›</p
+></endnote
+></td
+><td
+align="left"
+valign="top"
+>«</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;~</td
+><td
+align="left"
+valign="top"
+>~</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;&gt;</td
+><td
+align="left"
+valign="top"
+>»</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;_</td
+><td
+align="left"
+valign="top"
+>_</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;,</td
+><td
+align="left"
+valign="top"
+>‹</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>;`</td
+><td
+align="left"
+valign="top"
+>`</td
+><td
+align="left"
+valign="top"
+></td
+><td
+align="left"
+valign="top"
+>;.</td
+><td
+align="left"
+valign="top"
+>›</td
+></tr
+></table
+></tablenumbered
 ></appendix
 ><appendix
+contentType="fr"
 id="sMarkers"
 ><secTitle
-><object
+><titleContentChoices
+><titleContent
 contentType="en"
-type="t-en"
->Common USFM Markers</object
+>Common USFM Markers</titleContent
+><titleContent
+contentType="fr"
+>USFM Marqueurs fréquents</titleContent
+></titleContentChoices
 ></secTitle
 ><shortTitle
->PT12USFM</shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT12USFM</titleContent
+><titleContent
+contentType="fr"
+>PT12USFM</titleContent
+></titleContentChoices
+></shortTitle
 ><p
 contentType="en"
 >\c chapter</p
 ><p
+contentType="fr"
+>\c chapitre</p
+><p
 contentType="en"
 >\v verse</p
+><p
+contentType="fr"
+>\v verset</p
 ><p
 contentType="en"
 >\p paragraph (small indent)</p
 ><p
+contentType="fr"
+>\p paragraphe (petit retrait)</p
+><p
 contentType="en"
 >\m same paragraph (return to the margin)</p
+><p
+contentType="fr"
+>\m même paragraphe (retour à la ligne, mais sans retrait)</p
 ><p
 contentType="en"
 >\s1 section title</p
 ><p
+contentType="fr"
+>\s1 sous-titre</p
+><p
 contentType="en"
 >\r parallel references</p
+><p
+contentType="fr"
+>\r références parallèles</p
 ><p
 contentType="en"
 >\q1 quotation (poetry level 1)</p
 ><p
+contentType="fr"
+>\q1 poésie niveau 1</p
+><p
 contentType="en"
 >\q2 quotation (poetry level 2)</p
+><p
+contentType="fr"
+>\q2 poésie niveau 2</p
 ><p
 contentType="en"
 >\h header</p
 ><p
+contentType="fr"
+>\h entête (header)</p
+><p
 contentType="en"
 >\mt1 main title</p
+><p
+contentType="fr"
+>\mt1 titre principal</p
 ><p
 contentType="en"
 >\mt2 secondary title</p
 ><p
+contentType="fr"
+>\mt2 titre secondaire</p
+><p
 contentType="en"
 >\k .... \k* keyword (in the glossary)</p
+><p
+contentType="fr"
+>\k .... \k* mot-clé dans glossaire (dans le glossaire)</p
 ><p
 contentType="en"
 >\w ... \w* indicates a word in the glossary (in the text)</p
 ><p
+contentType="fr"
+>\w ... \w* mot qui est dans le glossaire (dans le texte)</p
+><p
 contentType="en"
+>Introductions</p
+><p
+contentType="fr"
 >Introductions</p
 ><p
 contentType="en"
 >\ip paragraph</p
 ><p
+contentType="fr"
+>\ip paragraphe</p
+><p
 contentType="en"
+>\is section heading</p
+><p
+contentType="fr"
 >\is section heading</p
 ><p
 contentType="en"
 >\io1 outline 1</p
 ><p
+contentType="fr"
+>\io1 outline 1</p
+><p
 contentType="en"
+>\ili1 list level 1</p
+><p
+contentType="fr"
 >\ili1 list level 1</p
 ><p
 contentType="en"
 >\ili2 list level 2</p
 ><p
-contentType="en"
-></p
+contentType="fr"
+>\ili2 list level 2</p
 ></appendix
-><endnotes
-></endnotes
 ></backMatter
 ><languages
 ><language
@@ -12023,6 +13594,7 @@ xsl-foSpecial="text-decoration=&quot;underline&quot;"
 ></types
 ><framedTypes
 ><framedType
+align="left"
 backgroundcolor="#FFE6FF"
 description="Teacher Note"
 id="tTeacher"
@@ -12036,6 +13608,7 @@ spaceafter="3pt"
 spacebefore="3pt"
 ></framedType
 ><framedType
+align="left"
 backgroundcolor="#add8e6"
 description="Interface Translation Note"
 id="translation"
@@ -12050,55 +13623,6 @@ spacebefore=".0in"
 ></framedType
 ></framedTypes
 ><publishingInfo
-><publishingBlurb
-><pc
-contentType="en"
-><object
-type="tsub"
->Title:</object
-> <object
-type="tPT"
-></object
->, Participant's Manual for Paratext Stages 1-2</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Genre:</object
-> Teaching material</pc
-><pc
-contentType="en"
->Trial Edition</pc
-><pc
-contentType="en"
-><object
-type="tsub"
->Copyright:</object
-> This training manual is licensed under a <link
-href="http://creativecommons.org/licenses/by/4.0/"
->Creative Commons Attribution 4.0 International License</link
->.<br
-></br
-><img
-src="supimgeng\cc.png"
-></img
-></pc
-><pc
-contentType="en"
-><object
-type="tPT"
-></object
-> is a joint project of <link
-href="http://www.unitedbiblesocieties.org/"
->United Bible Societies</link
-> and <link
-href="http://www.sil.org/"
->SIL International</link
->. <object
-type="tPT"
-></object
-> also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
-></publishingBlurb
 ><keywords
 ><keyword
 >Paratext 8</keyword
@@ -12111,6 +13635,7 @@ type="tPT"
 ></keywords
 ></publishingInfo
 ><contentControl
+showOnlyChosenItemsInEditor="no"
 ><contentTypes
 ><contentType
 id="en"
@@ -12127,11 +13652,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

@@ -589,6 +589,7 @@ textalign="center"
 ><paragraphLayout
 spaceafter="6pt"
 spacebefore="0pt"
+spacebetween="0pt"
 ></paragraphLayout
 ><exampleLayout
 indent-after=".125in"
