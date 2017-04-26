@@ -235,7 +235,7 @@ contentType="en"
 >Draft glossary entries and add using the Biblical terms tool.</li
 ><li
 contentType="fr"
->Faire un ébauche des entrées de glossaire et les ajouter avec l'outil de termes biblique.</li
+>Faire une ébauche des entrées de glossaire et les ajouter avec l'outil de termes biblique.</li
 ><li
 contentType="en"
 >Use the Send/Receive feature to share and backup their project to the Internet or a USB key.</li
@@ -279,7 +279,7 @@ type="tsub"
 contentType="fr"
 ><object
 type="tsub"
->Project progrès </object
+>Progrès du projet</object
 ></pc
 ><ul
 ><li
@@ -365,7 +365,7 @@ contentType="en"
 >Use Checklists to correct any formatting problems in section breaks and headings, paragraph breaks, layout and indents.</li
 ><li
 contentType="fr"
->Utiliser les listes récapitulatives pour corriger les problèmes de mise en forme dans les en-têtes, les paragraphes, la mise en page et les retraits. </li
+>Utiliser les listes récapitulatives pour corriger les problèmes de mises en forme dans les en-têtes, les paragraphes, la mise en page et les retraits. </li
 ><li
 contentType="en"
 >Run various checks to make sure all the characters, punctuation, capitalisation and repeated words are valid.</li
@@ -380,7 +380,10 @@ contentType="en"
 >Correct any spelling mistakes using the spell checking function and/or checks from the Wordlist.</li
 ><li
 contentType="fr"
->Corriger les fautes d’orthographe en utilisant l’outil vérifier l’orthographe du texte et/ou les vérifications de la liste de mots.  </li
+>Corriger les fautes d’orthographe en utilisant l’outil <object
+type="tmenu"
+>Vérifier l’orthographe</object
+> du texte et/ou les vérifications de la liste de mots.  </li
 ></ul
 ><pc
 contentType="en"
@@ -428,9 +431,19 @@ contentType="en"
 contentType="fr"
 >Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.</li
 ></ul
-><p
-contentType="dn"
->This needs to be a section 1.3??</p
+></chapter
+><chapter
+id="cCoursePlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Plan</titleContent
+><titleContent
+contentType="fr"
+>Plan du cours</titleContent
+></titleContentChoices
+></secTitle
 ><p
 contentType="en"
 >Introductions, setup</p
@@ -648,7 +661,7 @@ contentType="en"
 >Give the participant time to reflect, fill in the recall exercise, add to Anki.</li
 ><li
 contentType="fr"
->Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, ajoutez à Anki.</li
+>Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, et de les ajouter à Anki.</li
 ></ul
 ></chapter
 ></part
@@ -674,12 +687,6 @@ contentType="fr"
 >PARATEXT_8_1-2_Étape1</titleContent
 ></titleContentChoices
 ></shortTitle
-><p
-contentType="fr"
-><object
-type="t-fr"
->Étape 1 : Première ébauche</object
-></p
 ><p
 contentType="en"
 ><object
@@ -717,40 +724,88 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->OB: Organising your desktop</li
+><sectionRef
+sec="sOD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->OB : Organisation du bureau </li
+><sectionRef
+sec="sOD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->PP1: Project plan — the next task</li
+><sectionRef
+sec="sPP1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->PP : Plan du projet — la prochaine tâche</li
+><sectionRef
+sec="sPP1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->KD: Keyboarding your draft</li
+><sectionRef
+sec="KD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->SD : Saisir votre texte </li
+><sectionRef
+sec="KD"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->GL: Adding glossary items</li
+><sectionRef
+sec="sGlGlossary"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->GL : Ajouter les entrées dans le glossaire </li
+><sectionRef
+sec="sGlGlossary"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->BC1: Basic checks — chapter/verse and markers.</li
+><sectionRef
+sec="BC1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->VB1 : Vérifications préliminaires — chapitre/verset et marqueurs. </li
+><sectionRef
+sec="BC1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->PP2 : Project plan — complete a task</li
+><sectionRef
+sec="sPp2ProjectProgress"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->PP2 : Plan et progrès du projet — compléter une tâche </li
+><sectionRef
+sec="sPp2ProjectProgress"
+showTitle="full"
+></sectionRef
+></li
 ></ul
 ><chapter
 id="sOD"
@@ -943,7 +998,7 @@ contentType="en"
 >Create a new text combination</titleContent
 ><titleContent
 contentType="fr"
->Créer un nouvel disposition</titleContent
+>Créer une nouvelle disposition</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -1071,7 +1126,6 @@ type="tmenu"
 >Open source language dictionary</object
 >)</li
 ><li
-><p
 contentType="fr"
 >3 = dictionnaire <br
 ></br
@@ -1081,13 +1135,8 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Ouvrir un dictionnaire de langue source</object
->)</p
-></li
+>)</li
 ><li
-contentType="dn"
->why are there blank lines in 3 and 4 in the PDF?</li
-><li
-><p
 contentType="en"
 >4= Text collection <br
 ></br
@@ -1097,10 +1146,8 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Open project/resource in Text Collection</object
->)</p
-></li
+>)</li
 ><li
-><p
 contentType="fr"
 >4 = ressources en collection de textes <br
 ></br
@@ -1110,8 +1157,7 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Ouvrir projet/ressource en collection de textes</object
->)</p
-></li
+>)</li
 ></ul
 ></li
 ></ul
@@ -1203,7 +1249,7 @@ contentType="en"
 >If you want to delete a saved combination,</p
 ><p
 contentType="fr"
->Si vous ne voulez plus un disposition des fenêtres,</p
+>Si vous ne voulez plus une disposition des fenêtres,</p
 ><ul
 ><li
 contentType="en"
@@ -1222,7 +1268,7 @@ contentType="en"
 >Choose the name of the saved combination.</li
 ><li
 contentType="fr"
->Choisissez le nom de disposition enregistré. </li
+>Choisissez le nom de la disposition enregistré.</li
 ><li
 contentType="en"
 >Click <object
@@ -1234,7 +1280,7 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Supprimer</object
-> </li
+></li
 ></ul
 ></section1
 ><section1
@@ -1820,7 +1866,7 @@ contentType="en"
 >Mark a task as complete</titleContent
 ><titleContent
 contentType="fr"
->Marquer une tâche comme achevé</titleContent
+>Marquer une tâche comme achevée</titleContent
 ></titleContentChoices
 ></secTitle
 ><section2
@@ -1968,10 +2014,16 @@ contentType="fr"
 ></ul
 ><p
 contentType="en"
->A check is complete when there are No issues.</p
+>A check is complete when there are <object
+type="tmenu"
+>No issues</object
+>.</p
 ><p
 contentType="fr"
->Une vérification est complèt quand il y a “No issues”.</p
+>Une vérification est complète quand il y a <object
+type="tmenu"
+>No issues</object
+>.</p
 ><section2
 id="sChecksSetup"
 ><secTitle
@@ -2011,7 +2063,7 @@ type="tItalic"
 ><object
 type="tPT"
 ></object
-> va soit lancer l’inventaire soit afficher les paramètres approprié.</object
+> va soit lancer l’inventaire soit afficher les paramètres appropriés.</object
 ></li
 ><li
 contentType="en"
@@ -2049,13 +2101,13 @@ contentType="fr"
 ><li
 contentType="en"
 >Click on the blue link “ <object
-type="tmenu"
+type="tlink"
 >…. issues</object
 >”</li
 ><li
 contentType="fr"
 >Cliquez sur le lien bleu « <object
-type="tmenu"
+type="tlink"
 >… issues</object
 > »</li
 ><li
@@ -2075,7 +2127,19 @@ contentType="fr"
 >Fermez la liste de résultats. </li
 ><li
 contentType="en"
->File &gt; Save all (ou Ctrl+s).</li
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Save all</object
+> (or <object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>s</object
+>).</li
 ><li
 contentType="fr"
 ><object
@@ -2083,8 +2147,14 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Enregistrez tout. (ou Ctrl+S</object
->) </li
+>Enregistrez tout.</object
+>  (ou <object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>s</object
+>). </li
 ><li
 contentType="en"
 >Return to the Project plan.</li
@@ -2272,7 +2342,7 @@ contentType="en"
 >If it is not editable, try changing the view (see below).</li
 ><li
 contentType="fr"
->Si votre projet n’est pas partagé et ce n’est pas modifiable, essayer de changer l’affichage (voir ci-dessous).  </li
+>Si votre projet n’est pas partagé et ce n’est pas modifiable, essayez de changer l’affichage (voir ci-dessous).  </li
 ></ul
 ></section1
 ><section1
@@ -2453,7 +2523,10 @@ type="tkey"
 > » (or select it from the list).</li
 ><li
 contentType="fr"
->Saisissez le marquer (comme s1 ou ip) « Entrée » (ou le sélectionnez de la liste). </li
+>Saisissez le marquer (comme s1 ou ip), puis tapez <object
+type="ttyped"
+>Entrée</object
+>  (ou le sélectionnez de la liste). </li
 ><li
 contentType="en"
 >Type the text</li
@@ -2481,7 +2554,10 @@ type="ttyped"
 framedtype="tTeacher"
 ><p
 contentType="en"
->You must always have a USFM marker after a title and before the verse. This is usually \p (paragraph), but it can be different (for example <object
+>You must always have a USFM marker after a title and before the verse. This is usually <object
+type="ttyped"
+>\p</object
+> (paragraph), but it can be different (for example <object
 type="ttyped"
 >\q1</object
 >).</p
@@ -2519,34 +2595,34 @@ contentType="fr"
 >do we need to say move the cursor to where you want to split it?</li
 ><li
 contentType="en"
->Press « <object
+>Press <object
 type="tkey"
 >Enter</object
-> »</li
+></li
 ><li
 contentType="fr"
->Appuyez sur « <object
+>Appuyez sur <object
 type="tkey"
 >Entrée</object
-> » </li
+>.</li
 ><li
 contentType="en"
 >Type <object
 type="ttyped"
 >p</object
-> « <object
+>, then <object
 type="tkey"
 >Enter</object
-> »</li
+>.</li
 ><li
 contentType="fr"
 >Saisissez <object
-type="ttyped"
+type="tkey"
 >p</object
-> « <object
+> puis tapez <object
 type="tkey"
 >Entrée</object
-> » </li
+>  (ou le sélectionnez de la liste). </li
 ></ul
 ></section1
 ><section1
@@ -2675,7 +2751,7 @@ type="ttyped"
 ></p
 ><p
 contentType="fr"
->Saisir le texte du note après <object
+>Saisir le texte de la note après <object
 type="ttyped"
 >\ft</object
 ></p
@@ -2715,7 +2791,7 @@ contentType="en"
 >It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:</p
 ><p
 contentType="fr"
->Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie c’est idéal d’envoyer/recevoir comme suit :</p
+>Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :</p
 ></framedUnit
 ><p
 contentType="en"
@@ -2735,7 +2811,7 @@ contentType="fr"
 >Cliquez sur l’icône Envoyer/Recevoir <img
 src="12imgeng/image15.png"
 ></img
-> pour faire Envoyer/Recevoir suivant les paramètres précédent.  </li
+> pour faire Envoyer/Recevoir suivant les paramètres précédents.</li
 ></ul
 ><p
 contentType="en"
@@ -2988,10 +3064,16 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->This module explains how to add entries to the glossary using the Biblical terms tool.</p
+>This module explains how to add entries to the glossary using the <object
+type="tmenu"
+>Biblical terms</object
+> tool.</p
 ><p
 contentType="fr"
->Ce module explique comment ajouter des entrées dans le glossaire avec l’outil Termes bibliques.</p
+>Ce module explique comment ajouter des entrées dans le glossaire avec l’outil <object
+type="tmenu"
+>Termes bibliques</object
+>.</p
 ><pc
 contentType="en"
 ><object
@@ -3030,10 +3112,16 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the Biblical terms tool as it keeps the Glossary in alphabetical order. The tool also keeps track of the changes to the glossary.</p
+>It is good to have a list of important words and their explanations so that the readers can understand the text well. Rather than typing directly into the glossary, it is better to use the <object
+type="tmenu"
+>Biblical terms</object
+> tool as it keeps the Glossary in alphabetical order. The tool also keeps track of the changes to the glossary.</p
 ><p
 contentType="fr"
->C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil Termes bibliques, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.</p
+>C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil <object
+type="tmenu"
+>Termes bibliques</object
+>, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.</p
 ><pc
 contentType="en"
 ><object
@@ -3269,7 +3357,7 @@ contentType="en"
 >Choose the GLO book</li
 ><li
 contentType="fr"
->Utilisez la barrée de navigation pour changer le livre<br
+>Utilisez la barre de navigation pour changer le livre<br
 ></br
 ></li
 ><li
@@ -3403,17 +3491,17 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->see page <sectionRef
+>see the section <sectionRef
 sec="sAddATerm"
-showTitle="numberOnly"
+showTitle="full"
 textBefore="useDefault"
 ></sectionRef
 ></li
 ><li
 contentType="fr"
->voir page <sectionRef
+>voir la section <sectionRef
 sec="sAddATerm"
-showTitle="numberOnly"
+showTitle="full"
 textBefore="useDefault"
 ></sectionRef
 ></li
@@ -3443,7 +3531,7 @@ contentType="en"
 >The « glossary » tab is on the ________ dialogue. To open this dialogue you ________-click on the term in the _____ pane.</li
 ><li
 contentType="fr"
->L'onglet « glossaire » se trouve dans la boîte de dialogue ________. Pour ouvrir cette dialogue ________-clique sur le terme dans le volet en _____.</li
+>L'onglet « glossaire » se trouve dans la boîte de dialogue ________. Pour ouvrir cette boîte de dialogue ________-clique sur le terme dans le volet en _____.</li
 ><li
 contentType="en"
 >To view the glossary, you change to the _____ book (after Revelation).</li
@@ -3455,10 +3543,10 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Answers: Tools, Edit Rendering, double-click, top, GLO</p
+>Answers: Tools, Edit Rendering, double, top, GLO</p
 ><p
 contentType="fr"
->Réponses : Outils, Modifier l'équivalents, double-cliquer, haut, GLO</p
+>Réponses : Outils, Modifier l'équivalents, double, haut, GLO</p
 ></framedUnit
 ></section1
 ></chapter
@@ -3671,7 +3759,7 @@ contentType="fr"
 >Cliquez sur le bouton « <object
 type="tmenu"
 >Relancer</object
-> » pour vérifier toutes les erreurs sont corrigés. </li
+> » pour vérifier toutes les erreurs sont corrigées. </li
 ><li
 contentType="en"
 >Close the results list window.</li
@@ -3752,7 +3840,7 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cocher seulement<object
+>Cocher seulement <object
 type="tmenu"
 >Numérotage Chapitre/verset</object
 > </li
@@ -3879,7 +3967,7 @@ type="tmenu"
 ></br
 ><object
 type="tItalic"
->Ce list donne un vu d'ensemble des marqueurs. On ne peut que regarder la liste. </object
+>Cette liste donne un vu d'ensemble des marqueurs. On ne peut que regarder la liste. </object
 ></li
 ></ul
 ><ul
@@ -3965,6 +4053,7 @@ type="tsub"
 >Where we are</object
 ></pc
 ><pc
+contentType="fr"
 ><object
 type="tsub"
 >Où en sommes-nous ?</object
@@ -3989,7 +4078,7 @@ type="tPT"
 > to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><p
 contentType="fr"
->Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permis au Paratexte de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleur de fonds.</p
+>Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permit au Paratext de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
 ><pc
 contentType="en"
 ><object
@@ -4083,7 +4172,7 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->Du premier liste roulante en haut du dialogue, choisissez <object
+>De la première liste roulante en haut du dialogue, choisissez <object
 type="tmenu"
 >All Tasks</object
 > (Toutes les Tâches).</li
@@ -4098,7 +4187,7 @@ type="tmenu"
 >" column at the far left).</li
 ><li
 contentType="fr"
->Dans le colonne, "<object
+>Dans la colonne, "<object
 type="tmenu"
 >Assigned to</object
 >" (affecté à), utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
@@ -4232,7 +4321,7 @@ src="12imgeng/image22.png"
 ></p
 ><p
 contentType="fr"
->La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe, notes bibliques notes pour enregistrer vos questions, des discussions et des décisions.<br
+>La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe et notes bibliques pour enregistrer vos questions, des discussions et des décisions.<br
 ></br
 ><img
 src="12imgfr/image21.png"
@@ -4807,7 +4896,7 @@ contentType="en"
 >In the left pane, fill in the “Adapted Character” column for individual letters or letter clusters.</li
 ><li
 contentType="fr"
->Dans le volet à gauche, entrer d’abord des modifications des lettres individuelles et des groupes de lettres dans la colonne « Caractère modifié ».</li
+>Dans le volet à gauche, entrez d’abord des modifications des lettres individuelles et des groupes de lettres dans la colonne « Caractère modifié ».</li
 ></ul
 ></section1
 ><section1
@@ -4825,10 +4914,16 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Work through the « Adapted name » column in the right pane.</li
+>Work through the <object
+type="tmenu"
+>Adapted name</object
+> column in the right pane.</li
 ><li
 contentType="fr"
->Dans le colonne « Nom propre modifié » au volet droite.</li
+>Dans la colonne <object
+type="tmenu"
+>Nom propre modifié</object
+> au volet droite.</li
 ><li
 contentType="en"
 >For each name, if the adapted name is incorrect, click on the name in the <object
@@ -4837,13 +4932,13 @@ type="tmenu"
 > column,</li
 ><li
 contentType="fr"
->Pour chaque nom propre, si la modification n’est pas juste, cliquez sur « <object
+>Pour chaque nom propre, si la modification n’est pas juste, cliquez sur <object
 type="tmenu"
 >Nom propre modifié</object
-> »</li
+>.</li
 ><li
 contentType="en"
->edit the name and click <object
+>Edit the name and click <object
 type="tmenu"
 >OK</object
 ></li
@@ -4900,7 +4995,7 @@ contentType="en"
 >Ensure your text is consistent</titleContent
 ><titleContent
 contentType="fr"
->Vérifier que votre text est cohérent</titleContent
+>Vérifier que votre texte est cohérent</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -4921,7 +5016,7 @@ contentType="en"
 >Click on a verse in the lower pane which doesn’t have the proposed form of the name.</li
 ><li
 contentType="fr"
->Cliquez dans un verset dans le volet en bas qui n'a pas le form du nom.</li
+>Cliquez dans un verset dans le volet en bas qui n'a pas le forme du nom.</li
 ><li
 contentType="en"
 >Click on the <object
@@ -5092,7 +5187,7 @@ contentType="en"
 >Recall</titleContent
 ><titleContent
 contentType="fr"
->Bilan</titleContent
+>**Bilan</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -5127,9 +5222,12 @@ src="12imgeng/image24.png"
 ></img
 >.</li
 ></ul
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
 >Answers: filter, Major Biblical Terms, names, Tools, Adapt Names, character approve, proposed, correcting, consistent, A, deny</p
+></framedUnit
 ></section1
 ></chapter
 ><chapter
@@ -5209,7 +5307,7 @@ contentType="en"
 >It is important the correct any spelling mistakes so that your text will communicate clearly.</p
 ><p
 contentType="fr"
->Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message sans ambigüité.</p
+>Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message sans ambiguïté.</p
 ><pc
 contentType="en"
 ><object
@@ -5418,18 +5516,30 @@ id="sCheckTheWordsThatParatextThinksAre"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Check the words that thinks are incorrect</titleContent
+>Check the words that Paratext thinks are incorrect</titleContent
 ><titleContent
 contentType="fr"
->Vérifier les mots que pense être erronés</titleContent
+>Vérifier les mots que Paratext pense être erronés</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
->In the Wordlist (Tools &gt; WordList)</p
+>In the Wordlist (<object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Word List</object
+>)</p
 ><p
 contentType="fr"
->Dans la liste de mots (Outils &gt; Lise de mots)</p
+>Dans la liste de mots (<object
+type="tmenu"
+>Outils</object
+> &gt; <object
+type="tmenu"
+>Liste de mots</object
+>)</p
 ><ul
 ><li
 contentType="en"
@@ -5460,7 +5570,7 @@ type="tmenu"
 ></br
 ><object
 type="tItalic"
->Le liste de mots s'affiche.</object
+>La liste de mots s'affiche.</object
 ></li
 ></ul
 ><ul
@@ -5490,7 +5600,7 @@ type="tPT"
 > has suggested the correct word, then click the blue link for the correct word.</li
 ><li
 contentType="fr"
->Si le mot est incorrect, mais Paratext a proposé le mot juste, puis cliquez sur le lien blue du mot juste</li
+>Si le mot est incorrect, mais Paratext a proposé le mot juste, puis cliquez sur le lien bleu du mot juste</li
 ><li
 contentType="en"
 >If the word is incorrect, and <object
@@ -5525,7 +5635,7 @@ contentType="en"
 >In the Wordlist</p
 ><p
 contentType="fr"
->Dans le list de mots</p
+>Dans la liste de mots</p
 ><ul
 ><li
 ><object
@@ -5590,7 +5700,7 @@ type="tmenu"
 ></br
 ><object
 type="tItalic"
->Un liste de mots s'affiche.</object
+>Une liste de mots s'affiche.</object
 ></li
 ></ul
 ><ul
@@ -5677,7 +5787,7 @@ src="12imgeng\image27.png"
 contentType="fr"
 >Cliquez à droite sur un mot souligné en rouge ou gris <br
 ></br
->Un boîte s'affiche<br
+>Une boîte s'affiche<br
 ></br
 ><img
 src="12imgfr/image29.png"
@@ -5747,7 +5857,7 @@ type="tmenu"
 > = stops changing any more</p
 ><p
 contentType="fr"
->Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin</p
+>Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin.</p
 ><p
 contentType="fr"
 ><object
@@ -5870,7 +5980,7 @@ contentType="en"
 >In the Wordlist</p
 ><p
 contentType="fr"
->Dans le liste de mots</p
+>Dans la liste de mots</p
 ><ul
 ><li
 contentType="en"
@@ -5987,7 +6097,7 @@ contentType="en"
 >This runs all of the checks. This is very useful as it will find all types of errors and even words with multiple types of errors.</p
 ><p
 contentType="fr"
->Cela gère tous les contrôles. Ceci est très utile car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.</p
+>Cela gère tous les contrôles. Ceci est très utile, car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.</p
 ></section2
 ><section2
 id="sMissingCapitals"
@@ -6065,7 +6175,7 @@ type="tItalic"
 contentType="fr"
 ><object
 type="tItalic"
->Toutes les deux formes sont acceptable </object
+>Toutes les deux formes sont acceptables </object
 >(pour accepter les deux formes)</li
 ><li
 contentType="en"
@@ -6147,7 +6257,7 @@ contentType="en"
 >Common Typos</titleContent
 ><titleContent
 contentType="fr"
->Common Typos (fautes de frappes habituelles)</titleContent
+>Common Typos (fautes de frappe habituelles)</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6357,10 +6467,22 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->The Biblical terms rendering window and the separate Biblical terms tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This is a process should be considered part of the translation process and not a check.</p
+>The <object
+type="tmenu"
+>Biblical terms rendering</object
+> window and the separate <object
+type="tmenu"
+>Biblical terms</object
+> tool are very useful to make sure you are consistent in the use of terms, especially key terms. This module explains a simple 4-step process to make your Biblical Terms consistent. This is a process should be considered part of the translation process and not a check.</p
 ><p
 contentType="fr"
->La fenêtre d’équivalents de termes biblique et l’outil Termes bibliques sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. C'est un processus et doit être considéré comme une partie du processus de traduction et pas comme une vérification.</p
+>La fenêtre d’<object
+type="tmenu"
+>Équivalents de termes bibliques</object
+> et l’outil <object
+type="tmenu"
+>Termes bibliques</object
+> sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. C'est un processus et doit être considéré comme une partie du processus de traduction et pas comme une vérification.</p
 ><pc
 contentType="en"
 ><object
@@ -6602,10 +6724,22 @@ contentType="fr"
 >Sélectionnez l’équivalent dans votre texte. </li
 ><li
 contentType="en"
->Copy it (ctrl+c)</li
+>Copy it (<object
+type="tkey"
+>Ctrl</object
+>+<object
+type="tkey"
+>c</object
+>)</li
 ><li
 contentType="fr"
->Copiez (Ctrl + c) </li
+>Copiez (<object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tmenu"
+>c</object
+>) </li
 ><li
 contentType="en"
 >Double-click in the renderings cell.<br
@@ -6636,6 +6770,8 @@ src="12imgfr/image36.png"
 ><object
 type="tItalic"
 >Une boîte de dialogue s’affiche.</object
+><br
+></br
 ><img
 src="12imgfr\renderings1a.png"
 ></img
@@ -6721,7 +6857,7 @@ src="12imgeng/renderings1b.png"
 ></li
 ><li
 contentType="fr"
->À partir du deuxième champs de filtre, choisissez <object
+>À partir du deuxième champ de filtre, choisissez <object
 type="tmenu"
 >Livre actuel</object
 > <br
@@ -7314,10 +7450,13 @@ contentType="fr"
 ></titleContentChoices
 ></secTitle
 ><pc
-contentType="fr"
+contentType="en"
 ><object
 type="tsub"
 >Introduction</object
+></pc
+><pc
+contentType="fr"
 ><object
 type="tsub"
 >Introduction</object
@@ -7327,7 +7466,7 @@ contentType="en"
 >In this module, you will search for a word or phrase in a project and compare it with the translation of that word or phrase in another project.</p
 ><p
 contentType="fr"
->Dans ce module, vous allez chercher un mot ou phrase dans un projet et comparer avec la traduction de ce mot ou phrase dans un autre projet.</p
+>Dans ce module, vous allez chercher un mot ou phrase dans un projet et le comparer avec la traduction de ce mot ou phrase dans un autre projet.</p
 ><pc
 contentType="en"
 ><object
@@ -7348,7 +7487,7 @@ contentType="fr"
 >Dans <object
 type="tPT"
 ></object
-> (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où « roi » se produit dans un projet français et de comparer à où « rey » se produit dans un projet espagnol.</p
+> (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où le mot « roi » se produit dans un projet français et le comparer avec « rey » dans un projet espagnol.</p
 ><pc
 contentType="fr"
 ><object
@@ -7502,17 +7641,21 @@ src="12imgfr/image44.png"
 ></img
 > </p
 ><p
+contentType="en"
 >A window is displayed with a button "Hide matches" on the toolbar.</p
 ><p
 contentType="fr"
 >Une fenêtre s’affiche et le bouton <object
 type="tmenu"
 >Masquer des correspondances</object
-> s’affiche sur la barre d’outils. <img
+> s’affiche sur la barre d’outils. <br
+></br
+><img
 src="12imgfr/image45.png"
 ></img
 ></p
 ><p
+contentType="en"
 >Click on the "Hide matches" to show only those references where there are differences.<br
 ></br
 >The list shows the verses which contain matches. The word or phrase is highlighted in light blue.</p
@@ -7525,7 +7668,7 @@ type="tmenu"
 ></br
 ><object
 type="tresult"
->La liste montre où chacun de ces éléments se trouve dans chaque verset. Les mots où les phrases sont mis en surbrillance en bleu clair.</object
+>La liste montre où chacun de ces éléments se trouve dans chaque verset. Les mots où les phrases sont mises en surbrillance en bleu clair.</object
 ></p
 ></section1
 ><section1
@@ -7788,7 +7931,7 @@ contentType="en"
 >Note: Before you can run these other basic checks some form of setup must be done by your Administrator.</p
 ><p
 contentType="fr"
->N. B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.</p
+>N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.</p
 ></framedUnit
 ><p
 contentType="en"
@@ -7847,11 +7990,11 @@ type="italic"
 ></li
 ><li
 contentType="fr"
->Cliquez sur un élément dans le liste en haut.<br
+>Cliquez sur un élément dans la liste en haut.<br
 ></br
 ><object
 type="italic"
->Les verets sont affichées dans le volet en bas.</object
+>Les versets sont affichées dans le volet en bas.</object
 ></li
 ></ul
 ><ul
@@ -8043,10 +8186,34 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->The contexts can be: word initial, word medial, word final or isolated (space before and after).</p
+>The contexts can be: <object
+type="tmenu"
+>word initial</object
+>, <object
+type="tmenu"
+>word medial</object
+>, <object
+type="tmenu"
+>word final</object
+> or <object
+type="tmenu"
+>isolated</object
+> (space before and after).</p
 ><p
 contentType="fr"
->Les contextes peuvent être : Mot initial, Milieu du mot, Fin du mot et Isolé (un espace avant et après)</p
+>Les contextes peuvent être : <object
+type="tmenu"
+>Mot initial</object
+>, <object
+type="tmenu"
+>Milieu du mot</object
+>, <object
+type="tmenu"
+>Fin du mot</object
+> et <object
+type="tmenu"
+>Isolé</object
+> (un espace avant et après)</p
 ></framedUnit
 ><p
 contentType="fr"
@@ -8529,7 +8696,7 @@ contentType="en"
 >It is possible to make minor corrections from within a displayed inventory.</p
 ><p
 contentType="fr"
->C'est possible de faire des corrigés mineurs à partir d'une inventaire:</p
+>C'est possible de faire des corrigés mineurs à partir d'un inventaire:</p
 ></framedUnit
 ><ul
 ><li
@@ -8592,8 +8759,12 @@ contentType="fr"
 >Il y a plusieurs vérifications de bases en <object
 type="tPT"
 ></object
->. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque vérification de base remplissez ce tableau</p
+>. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque <object
+type="tmenu"
+>Vérification de base</object
+>, remplissez ce tableau.</p
 ><tablenumbered
+contentType="en"
 id="ntCheck"
 location="here"
 ><table
@@ -8732,6 +8903,7 @@ valign="top"
 ></table
 ></tablenumbered
 ><tablenumbered
+contentType="fr"
 id="ntCheckTableFR"
 location="here"
 ><table
@@ -8838,6 +9010,7 @@ valign="top"
 ><tr
 ><td
 align="left"
+rowspan="3"
 valign="top"
 >« mise en majuscules »</td
 ><td
@@ -8853,10 +9026,6 @@ valign="top"
 ><td
 align="left"
 valign="top"
-> </td
-><td
-align="left"
-valign="top"
 >inventaire</td
 ><td
 align="left"
@@ -8864,10 +9033,6 @@ valign="top"
 >de signes de ponctuation non exigeât une majuscule,</td
 ></tr
 ><tr
-><td
-align="left"
-valign="top"
-> </td
 ><td
 align="left"
 valign="top"
@@ -9000,7 +9165,10 @@ contentType="en"
 >You have typed your draft into a project in Paratext. You will use the checklists to find and correct errors related to the formatting and layout errors.</p
 ><p
 contentType="fr"
->Vous avez saisi votre ébauche dans un projet dans Paratext. Ce module vous montrera comment utiliser les listes récapitulatifs pour trouver et corriger les erreurs de mise en forme et de mise en page.</p
+>Vous avez saisi votre ébauche dans un projet dans Paratext. Ce module vous montrera comment utiliser les <object
+type="tmenu"
+>Listes récapitulatifs</object
+> pour trouver et corriger les erreurs de mise en forme et de mise en page.</p
 ><pc
 contentType="en"
 ><object
@@ -9018,7 +9186,7 @@ contentType="en"
 >A New Testament contains more than just chapters and verses. There are also titles, section headings, and several types of paragraphs. These checks allow you to be sure that the layout of your text is correct, and your titles etc. are consistent.</p
 ><p
 contentType="fr"
->Un Nouveau Testament ne contient pas que des chapitres et des versets. On y trouve également des titres, des sous-titres, et plusieurs types de paragraphes. Les vérifications que vous faites-vous permettent de vous rassurer que la mise en page de votre texte est correcte, et que vos titres et autres sont cohérents.</p
+>Un Nouveau Testament ne contient pas que des chapitres et des versets. On y trouve également des titres, des sous-titres, et plusieurs types de paragraphes. Les vérifications que vous faites vous permettent de vous rassurer que la mise en page de votre texte est correcte, et que vos titres et autres sont cohérents.</p
 ><p
 contentType="fr"
 ><object
@@ -9448,7 +9616,7 @@ contentType="en"
 >Add USFMs to format special text</titleContent
 ><titleContent
 contentType="fr"
->Ajouter USFMs pour le mise en forme spécial</titleContent
+>Ajouter USFMs pour la mise en forme spéciale</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -9743,7 +9911,7 @@ contentType="fr"
 >Choisissez les polices </li
 ><li
 contentType="fr"
->Choisissez ce que vous voulez dans les En-tête de page. </li
+>Choisissez ce que vous voulez dans les en-têtes de page. </li
 ><li
 contentType="fr"
 >Cliquez pour cocher « <object
@@ -9845,24 +10013,60 @@ contentType="fr"
 >Pour imprimer recto verso<ul
 ><li
 contentType="en"
->Click the Properties button</li
+>Click the <object
+type="tmenu"
+>Properties</object
+> button</li
 ><li
->Cliquez sur le bouton Propriétés</li
-><li
-contentType="en"
->Choose Finishing</li
-><li
->Clliquez suz Finition</li
-><li
-contentType="en"
->Choose Print on both sides</li
-><li
->Choisissez recto-verso ou deux côtes</li
+>Cliquez sur le bouton <object
+type="tmenu"
+>Propriétés</object
+></li
 ><li
 contentType="en"
->Orientation Portrait (new printers) or Landscape (Win7)</li
+>Choose <object
+type="tmenu"
+>Finishing</object
+></li
 ><li
->Orientation: Portrait (nouveau) ou Paysage (Win7)</li
+>Cliquez sur <object
+type="tmenu"
+>Finition</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Print on both sides</object
+></li
+><li
+>Choisissez <object
+type="tmenu"
+>recto-verso</object
+> ou <object
+type="tmenu"
+>deux côtes</object
+></li
+><li
+contentType="en"
+>Orientation <object
+type="tmenu"
+>Portrait</object
+> (new printers) or <object
+type="tmenu"
+>Landscape</object
+> (Win7)</li
+><li
+>Orientation: <object
+type="tmenu"
+>Portrait </object
+>(nouveau) ou <object
+type="tmenu"
+>Paysage</object
+> (Win7)</li
+><li
+contentType="dn"
+>Why is Win 7 different than a printer?</li
 ><li
 contentType="en"
 >Click OK</li
@@ -9998,7 +10202,7 @@ type="tPT"
 > allows you to record these comments either in the text, the Biblical terms list or the wordlist.</p
 ><p
 contentType="fr"
->Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous avez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. <object
+>Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous ayez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. <object
 type="tPT"
 ></object
 > vous permet d’enregistrer de tels commentaires directement dans le texte, dans la liste des termes bibliques ou dans la liste des mots.</p
@@ -10100,7 +10304,7 @@ contentType="en"
 >Different types of project notes</titleContent
 ><titleContent
 contentType="fr"
->Les différents icônes de remarques </titleContent
+>Les différentes icônes de remarques </titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -10684,10 +10888,16 @@ contentType="en"
 >Click in the text where you want the note (and select any appropriate text).</li
 ><li
 contentType="fr"
->Cliquez dans le text où vous voulez le note (et si désiré, sélectionnez du text)</li
+>Cliquez dans le texte où vous voulez le note (et si désiré, sélectionnez du texte)</li
 ><li
 contentType="en"
->Insert &gt; Note</li
+><object
+type="tmenu"
+>Insert </object
+>&gt; <object
+type="tmenu"
+>Note</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -10721,7 +10931,10 @@ contentType="fr"
 >Saisissez le texte de la remarque </li
 ><li
 contentType="en"
->Click OK.<br
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
 ></br
 ><object
 type="italic"
@@ -10853,13 +11066,11 @@ src="12imgeng/image55.png"
 ></br
 ><object
 type="tresult"
->Le remarque s'ouvre.</object
+>La remarque s'ouvre.</object
 ></li
 ></ul
 ><p
 contentType="fr"
-> <br
-></br
 ><img
 src="12imgfr/image64.png"
 ></img
@@ -10883,8 +11094,6 @@ contentType="fr"
 type="tmenu"
 >OK</object
 ></li
-></ul
-><ul
 ></ul
 ></section1
 ><section1
@@ -10915,7 +11124,7 @@ src="12imgfr/image65.png"
 ></br
 ><object
 type="italic"
->Le remarque est ouvert.</object
+>La remarque s'ouvre.</object
 ></li
 ></ul
 ><ul
@@ -10942,13 +11151,13 @@ contentType="en"
 >Resolve or assign the note as needed.</li
 ><li
 contentType="fr"
->Resoudre ou affectez le remarque comme désiré.</li
+>Resoolvez ou affectez le remarque comme désiré.</li
 ><li
 contentType="en"
 >Click the arrow to collapse the note.</li
 ><li
 contentType="fr"
->Cliquez sur le flèche pour reduire le remarque..</li
+>Cliquez sur la flèche pour réduire la remarque.</li
 ></ul
 ></section1
 ><section1
@@ -10984,22 +11193,22 @@ contentType="fr"
 >Saisissez le commentaire </li
 ><li
 contentType="en"
->Click "<object
+>Click <object
 type="tmenu"
 >Assign to</object
->"</li
+></li
 ><li
 contentType="fr"
->Cliquez sur « <object
+>Cliquez sur <object
 type="tmenu"
 >Affecter à</object
-> » </li
+></li
 ><li
 contentType="en"
 >Choose as desired</li
 ><li
 contentType="fr"
->Choisissez comme désiré </li
+>Choisissez comme désiré</li
 ><li
 contentType="en"
 >Click <object
@@ -11237,7 +11446,7 @@ contentType="en"
 >Filter the list as desired.</li
 ><li
 contentType="fr"
->Filtrez les remarques comme vous le souhaitez. </li
+>Filtrez les remarques comme vous le souhaitez.</li
 ><li
 contentType="en"
 ><object
@@ -11255,13 +11464,13 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Imprimer</object
-> </li
+>.</li
 ><li
 contentType="en"
 >Choose the printer.</li
 ><li
 contentType="fr"
->Choisissez l’imprimante et les options désirés. </li
+>Choisissez l’imprimante et les options désirées.</li
 ><li
 contentType="en"
 >Click <object
@@ -11279,7 +11488,7 @@ contentType="en"
 >Close the window.</li
 ><li
 contentType="fr"
->Fermez la fenêtre. </li
+>Fermez la fenêtre.</li
 ></ul
 ></section1
 ><section1
@@ -11345,7 +11554,7 @@ contentType="en"
 >There are four dropdown boxes on the toolbar</li
 ><li
 contentType="fr"
->Il y a quatre listes deroulantes sur la barre d’outils <ul
+>Il y a quatre listes déroulantes sur la barre d’outils <ul
 ><li
 contentType="en"
 >Notes filter</li
@@ -11418,7 +11627,10 @@ contentType="fr"
 >Cliquez sur le premier bouton/liste</li
 ><li
 contentType="en"
->Choose New filter<br
+>Choose <object
+type="tmenu"
+>New filter</object
+><br
 ></br
 ><img
 src="12imgeng/image60.png"
@@ -11528,22 +11740,22 @@ contentType="fr"
 >Mat 1.2-16 : La généalogie, qui n'est pas la prose normale. Souvent mis dans un format poétique spécial dont les pères se mettent en rang et le formulaire indique que c'est une liste spéciale (avec les commentaires).</li
 ><li
 contentType="en"
->Matt 5.3-10; The beatitudes. Often set in poetic form.</li
+>Matt 5.3-10: The beatitudes. Often set in poetic form.</li
 ><li
 contentType="fr"
->Mat 5.3-10 ; Les béatitudes. Souvent mis en form poétique.</li
+>Mat 5.3-10 : Les béatitudes. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
->Matt 6.9-13; The Lord's prayer. Often set in poetic form.</li
+>Matt 6.9-13: The Lord's prayer. Often set in poetic form.</li
 ><li
 contentType="fr"
->Mat 6.9-13 : La prière du Seigneur. Souvent mis en form poétique.</li
+>Mat 6.9-13 : La prière du Seigneur. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Matt 21.9: The greeting to Jesus. Often set in poetic form.</li
 ><li
 contentType="fr"
->Mat 21.9 : La salutation à Jésus. Souvent mis en form poétique.</li
+>Mat 21.9 : La salutation à Jésus. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Matt 27.37: The sign on the cross. Often set in small caps.</li
@@ -11567,7 +11779,7 @@ contentType="en"
 >Mark 11.9: The greeting to Jesus. Often set in poetic form.</li
 ><li
 contentType="fr"
->Mrk 11.9 : La salutation à Jésus. Souvent mis en form poétique.</li
+>Mrk 11.9 : La salutation à Jésus. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Mark 14.36: "Abba." Sometimes set in italics (because it is in another language).</li
@@ -11597,55 +11809,55 @@ contentType="en"
 >Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.</li
 ><li
 contentType="fr"
->Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Souvent mis en form poétique.</li
+>Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 1.68-79: The song of Zechariah. Often set in poetic form.</li
 ><li
 contentType="fr"
->Luk 1.68-79 : La chanson de Zechariah. Souvent mis en form poétique.</li
+>Luk 1.68-79 : La chanson de Zechariah. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 2.14: The chant of the angelic choir. Often set in poetic form.</li
 ><li
 contentType="fr"
->Luk 2.14 : Le chant du chœur angélique. Souvent mis en form poétique.</li
+>Luk 2.14 : Le chant du chœur angélique. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 2.29-32: The praise of Simeon. Often set in poetic form.</li
 ><li
 contentType="fr"
->Luk 2.29-32 : La louange de Simeon. Souvent mis en form poétique.</li
+>Luk 2.29-32 : La louange de Simeon. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.</li
 ><li
 contentType="fr"
->Luk 3.23-38 : La généalogie. Souvent mis en form poétique spécial semblable à la généalogie dans Matthew.</li
+>Luk 3.23-38 : La généalogie. Souvent mis en forme poétique spécial semblable à la généalogie dans Matthew.</li
 ><li
 contentType="en"
 >Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.</li
 ><li
 contentType="fr"
->Luke 6.20-22 : Les béatitudes (bénédictions). Souvent mis en form poétique.</li
+>Luke 6.20-22 : Les béatitudes (bénédictions). Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 6.24-26: The beatitudes (woes). Often set in poetic form.</li
 ><li
 contentType="fr"
->Luke 6.24-26 : Les béatitudes (malheurs). Souvent mis en form poétique.</li
+>Luke 6.24-26 : Les béatitudes (malheurs). Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 11.2-4: The Lord's prayer. Often set in poetic form.</li
 ><li
 contentType="fr"
->Luke 11.2-4 : la prière du Seigneur. Souvent mis en form poétique.</li
+>Luke 11.2-4 : la prière du Seigneur. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 19.38: The greeting to Jesus. Often set in poetic form.</li
 ><li
 contentType="fr"
->Luke 19.38 : La salutation à Jésus. Souvent mis en form poétique.</li
+>Luke 19.38 : La salutation à Jésus. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Luke 23.38: The sign on the cross. Often set in small caps.</li
@@ -11663,7 +11875,7 @@ contentType="en"
 >John 12.13: The greeting to Jesus. Often set in poetic form.</li
 ><li
 contentType="fr"
->Jhn 12.13 : La salutation à Jésus. Souvent mis en form poétique.</li
+>Jhn 12.13 : La salutation à Jésus. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.</li
@@ -11699,7 +11911,7 @@ contentType="en"
 >Rom 11.33-36: The doxology. Often set in poetic form.</li
 ><li
 contentType="fr"
->Rom 11.33-36 : La doxologie. Souvent mis en form poétique.</li
+>Rom 11.33-36 : La doxologie. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.</li
@@ -11717,31 +11929,31 @@ contentType="en"
 >Phil 2.6-11: The attitudes. Sometimes set in poetic form.</li
 ><li
 contentType="fr"
->Php 2.6-11 : Les attitudes. Quelquefois mis en form poétique.</li
+>Php 2.6-11 : Les attitudes. Quelquefois mis en forme poétique.</li
 ><li
 contentType="en"
 >1 Tim 2.5-6: A creed. Sometimes set in poetic form.</li
 ><li
 contentType="fr"
->1Ti 2.5-6 : Un credo. Quelquefois mis en form poétique.</li
+>1Ti 2.5-6 : Un credo. Quelquefois mis en forme poétique.</li
 ><li
 contentType="en"
 >1 Tim 3.16: A creed. Often set in poetic form.</li
 ><li
 contentType="fr"
->1Ti 3.16 : Un credo. Souvent mis en form poétique.</li
+>1Ti 3.16 : Un credo. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >2 Tim 2.11-13: A creed. Often set in poetic form.</li
 ><li
 contentType="fr"
->2Ti 2.11-13 : Un credo. Souvent mis en form poétique.</li
+>2Ti 2.11-13 : Un credo. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >1 John 2.12-14: I write to you. Sometimes set in poetic form.</li
 ><li
 contentType="fr"
->1Jn 2.12-14 : je vous écris. Quelquefois mis en form poétique.</li
+>1Jn 2.12-14 : je vous écris. Quelquefois mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.</li
@@ -11759,19 +11971,19 @@ contentType="en"
 >Rev 4.8: A chant. Sometimes set in centered poetic form.</li
 ><li
 contentType="fr"
->Apo 4.8 : Un chant. Parfois mis en form poétique centré.</li
+>Apo 4.8 : Un chant. Parfois mis en forme poétique centré.</li
 ><li
 contentType="en"
 >Rev 4.11: A chant. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 4.11 : Un chant. Souvent mis en form poétique.</li
+>Apo 4.11 : Un chant. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 5.9-10, 12, 13: Songs. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 5.9-10, 12, 13 : Chansons. Souvent mis en form poétique.</li
+>Apo 5.9-10, 12, 13 : Chansons. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 7.5-8: A list. Often set in a special poetic form.</li
@@ -11783,37 +11995,37 @@ contentType="en"
 >Rev 7.10, 12: Chants. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 7.10, 12 : Chants. Souvent mis en form poétique.</li
+>Apo 7.10, 12 : Chants. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 7.15-17: A declaration. Sometimes set in poetic form.</li
 ><li
 contentType="fr"
->Apo 7.15-17 : Une déclaration. Quelquefois mis en form poétique.</li
+>Apo 7.15-17 : Une déclaration. Quelquefois mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 11.15, 17-18: Chants. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 11.15, 17-18 : Chants. Souvent mis en form poétique.</li
+>Apo 11.15, 17-18 : Chants. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 12.10-12: A declaration. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 12.10-12 : Une déclaration. Souvent mis en form poétique.</li
+>Apo 12.10-12 : Une déclaration. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 15.3-4: A song. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 15.3-4 : Une chanson. Souvent mis en form poétique.</li
+>Apo 15.3-4 : Une chanson. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 16.5-7: A declaration. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 16.5-7 : Une déclaration. Souvent mis en form poétique.</li
+>Apo 16.5-7 : Une déclaration. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 17.5: A sign. Often set centered, in small caps.</li
@@ -11825,19 +12037,19 @@ contentType="en"
 >Rev 18.2-8: A declaration. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 18.2-8 : Une déclaration. Souvent mis en form poétique.</li
+>Apo 18.2-8 : Une déclaration. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 18.10-24: A series of woes. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 18.10-24 : Une série de malheurs. Souvent mis en form poétique.</li
+>Apo 18.10-24 : Une série de malheurs. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 19.1-8: A series of declarations. Often set in poetic form.</li
 ><li
 contentType="fr"
->Apo 19.1-8 : Une série de déclarations. Souvent mis en form poétique.</li
+>Apo 19.1-8 : Une série de déclarations. Souvent mis en forme poétique.</li
 ><li
 contentType="en"
 >Rev 19.16: A sign. Often set centered, in small caps.</li
@@ -11849,7 +12061,7 @@ contentType="en"
 >Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form[2]</li
 ><li
 contentType="fr"
->Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en form poétique.</li
+>Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique.</li
 ></ul
 ><p
 contentType="en"
@@ -13298,7 +13510,6 @@ valign="top"
 ></tablenumbered
 ></appendix
 ><appendix
-contentType="fr"
 id="sMarkers"
 ><secTitle
 ><titleContentChoices
@@ -13652,11 +13863,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

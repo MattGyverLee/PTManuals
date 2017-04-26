@@ -333,9 +333,6 @@ pagecontrol="letFormatterDecide"
 >Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.</p
 ><p
 pagecontrol="letFormatterDecide"
-><img
-src="36imgeng\image5.png"
-></img
 ></p
 ><p
 contentType="en"
@@ -396,11 +393,11 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->This module explains how to draft a back translation into a separate Paratext project and keep it up-to-date. [The next module will explain how to do a word by word gloss of the translation using the project interlinearizer.]</p
+>Thi</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot.</p
+>ot.</p
 ><pc
 contentType="en"
 ><object
@@ -416,11 +413,7 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->You have typed, checked and revised your translation in Paratext and are now preparing for a consultant check. Before you can start your Administrator must have created a separate project for your back translation.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Vous avez saisi, vérifié et révisé votre traduction dans Paratext. Votre administrateur doit créer un projet pour la retraduction.</p
+></p
 ><pc
 contentType="en"
 ><object
@@ -433,18 +426,8 @@ contentType="fr"
 type="tsub"
 >Pourquoi est-il important ? </object
 ></pc
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->Your text needs to be check by a consultant. But because the consultant does not know your language, you need to translate your text back into a language they can understand. This is where the term back translation comes from. The consult will use this translation to help the team improve your exegetical choices in the text.</p
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->It is preferable that this is done by someone who hasn’t been involved in your translation. This way she will type what the text says and not what you meant it to say. This should also be done without looking at any helps or other Bibles.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connait pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
+><pc
+></pc
 ><pc
 contentType="en"
 ><object
@@ -457,27 +440,6 @@ contentType="fr"
 type="tsub"
 >Que ferez-vous ? </object
 ></pc
-><ul
-><li
-contentType="en"
->Open your project and back translation project</li
-><li
-contentType="en"
->Arrange your text on the screen.</li
-><li
-contentType="en"
->Draft your back translation</li
-><li
-contentType="en"
->Mark the status as finished when you complete a chapter.</li
-><li
-contentType="en"
->Check that your text is up-to-date (or in sync), view any differences by moving to the next change if appropriate.</li
-></ul
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.</p
 ><section1
 id="screateANewProject"
 showinlandscapemode="no"
@@ -541,46 +503,10 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cliquez sur OK</li
-><li
-contentType="en"
->Choose the language for your back translation (e.g. English)</li
-><li
-contentType="fr"
->Choisissez la langue pour votre retraduction (p.ex. française)</li
-><li
-contentType="en"
->Choose a versification</li
-><li
-contentType="fr"
->Choisissez la versification</li
-><li
-contentType="en"
->For the Type of project choose "Back Translation"</li
-><li
-contentType="fr"
->Pour le type de projet, choisissez « retraduction »</li
-><li
-contentType="en"
->For Based on choose your project</li
-><li
-contentType="fr"
->Choisissez votre projet du liste « Based on » (basé sur).</li
-><li
-contentType="en"
->Click the <object
+>Cliquez sur <object
 type="tmenu"
->Books</object
-> tab</li
-><li
-contentType="fr"
->Cliquez sur l’onglet Livres</li
-><li
-contentType="en"
->Choose the desired books</li
-><li
-contentType="fr"
->Choisissez les livres désirés</li
+>OK</object
+></li
 ><li
 contentType="en"
 >Click <object
@@ -597,14 +523,45 @@ type="tmenu"
 >Create Books</object
 > link</li
 ><li
-contentType="fr"
->**missing**</li
+></li
+><li
+></li
 ><li
 contentType="en"
->Create books as needed.</li
+><object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Biblical Terms</object
+></li
 ><li
 contentType="fr"
->**missing**</li
+>Du menu <object
+type="tmenu"
+>Outils</object
+>, choisissez <object
+type="tmenu"
+>Termes bibliques</object
+></li
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Select Biblical Terms List</object
+></li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Fichier</object
+>, choisissez <object
+type="tmenu"
+>Sélectionner liste de termes</object
+></li
 ></ul
 ><framedUnit
 contentType="fr"
@@ -2178,7 +2135,7 @@ pagecontrol="letFormatterDecide"
 >In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p
 ><p
 contentType="fr"
->Dans ce module vous apprendrez comment diriger les vérifications de base restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre alors vous avez besoin de diriger les vérifications du menu vérification.</p
+>Dans ce module vous apprendrez comment diriger les vérifications de base  restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre alors vous avez besoin de diriger les vérifications du menu vérification. </p
 ><pc
 contentType="en"
 ><object
@@ -2235,7 +2192,7 @@ pagecontrol="letFormatterDecide"
 >As before, most of the checks require some setup to be done by your administrator. In this module you will:</p
 ><p
 contentType="fr"
->Comme auparavant, la plupart des vérifications exigent qu'un peu d'installation soit faite par votre administrateur. Dans ce module, vous allez</p
+>Comme auparavant, la plupart des vérifications exigent qu'un peu d'installation soit faite par votre administrateur. Dans ce module, vous allez </p
 ><ul
 ><li
 contentType="en"
@@ -2305,18 +2262,18 @@ type="tItalic"
 >If the list is empty, then there are no errors.</object
 ></li
 ><li
-contentType="fr"
+contentType="en"
 ><object
 type="tmenu"
->Vérification</object
+>Checking</object
 > &gt; <object
 type="tmenu"
->Inventaire d'erreurs de ponctuation en paires correspondantes: </object
-><br
+>Unmatched pairs of punctuation</object
+>:<br
 ></br
 ><object
 type="tItalic"
->Si la liste est vide, donc il n'y a aucune erreur.</object
+>If the list is empty, then there are no errors.</object
 ></li
 ><li
 contentType="en"
@@ -2325,11 +2282,11 @@ type="tmenu"
 >Options...</object
 > to add other pairs.</li
 ><li
-contentType="fr"
->Si nécessaire, cliquez sur <object
+contentType="en"
+>If necessary, click <object
 type="tmenu"
 >Options...</object
-> pour ajouter d'autres paires.</li
+> to add other pairs.</li
 ><li
 contentType="en"
 >Click <object
@@ -2337,10 +2294,16 @@ type="tmenu"
 >OK</object
 >.</li
 ><li
-contentType="fr"
->Cliquez sur <object
+contentType="en"
+>Click <object
 type="tmenu"
 >OK</object
+>.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Checking &gt; Run Basic Checks</object
 ></li
 ><li
 contentType="en"
@@ -2349,14 +2312,11 @@ type="tmenu"
 >Checking &gt; Run Basic Checks</object
 ></li
 ><li
-contentType="fr"
-><object
+contentType="en"
+>Check “<object
 type="tmenu"
->Vérification</object
-> &gt; <object
-type="tmenu"
->Effectuer les vérifications de base</object
-></li
+>Unmatched pairs of punctuation</object
+>”</li
 ><li
 contentType="en"
 >Check “<object
@@ -2364,23 +2324,17 @@ type="tmenu"
 >Unmatched pairs of punctuation</object
 >”</li
 ><li
-contentType="fr"
->Cochez “<object
+contentType="en"
+>Click <object
 type="tmenu"
->Erreurs de ponctuation en paires correspondantes</object
->”</li
+>OK</object
+>.</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
-></li
-><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->OK</object
-></li
+>.</li
 ><li
 contentType="en"
 >Make any corrections as needed.</li
@@ -2399,7 +2353,7 @@ contentType="en"
 >References</titleContent
 ><titleContent
 contentType="fr"
->Références</titleContent
+>***missing</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -2408,9 +2362,6 @@ framedtype="tTeacher"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Before you can run the references check, your Administrator must define various settings.</p
-><p
-contentType="fr"
->Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres différents.</p
 ></framedUnit
 ><ul
 ><li
@@ -2418,22 +2369,6 @@ contentType="en"
 ><object
 type="tmenu"
 >Project &gt; Scripture reference settings</object
-><br
-></br
-><img
-src="36imgeng\image18.png"
-></img
-></li
-><li
-contentType="fr"
->Projet &gt; Paramètres des références bibliques<br
-></br
-></li
-><li
-contentType="en"
-><object
-type="tmenu"
->Projet &gt; Scripture reference settings</object
 ><br
 ></br
 ><img
@@ -2449,14 +2384,6 @@ type="tItalic"
 >The sample will be updated on the right.</object
 ></li
 ><li
-contentType="fr"
->Pour chaque paramètre, tapez la ponctuation dans la boîte<br
-></br
-><object
-type="tItalic"
->L'échantillon sera actualisé à droite.</object
-></li
-><li
 contentType="en"
 >Click the <object
 type="tmenu"
@@ -2469,21 +2396,7 @@ src="36imgeng\image19.png"
 ></li
 ><li
 contentType="en"
->Cliquez sur l'onglet <object
-type="tmenu"
->Book names</object
-> (noms du livres)<br
-></br
-><img
-src="36imgeng\image19.png"
-></img
-></li
-><li
-contentType="en"
 >Fill-in the three columns [1] with abbreviation, short name and long name.</li
-><li
-contentType="fr"
->Remplisissez les trois colonnes [1] avec l'abréviation, le nom court et le long nom..</li
 ><li
 contentType="en"
 >Choose <object
@@ -2491,20 +2404,8 @@ type="tmenu"
 >Abbreviations</object
 >[2] and [3] for both cross-references and references</li
 ><li
-contentType="fr"
->Choisissez <object
-type="tmenu"
->Abbréviations</object
->[2] et [3] tant pour les renvois que pour les références</li
-><li
 contentType="en"
 >Click <object
-type="tmenu"
->OK</object
-></li
-><li
-contentType="fr"
->Cliquez sur <object
 type="tmenu"
 >OK</object
 ></li
@@ -2518,25 +2419,10 @@ type="tmenu"
 >Run Basic Checks</object
 ></li
 ><li
-contentType="fr"
-><object
-type="tmenu"
->Vérification</object
-> &gt; <object
-type="tmenu"
->Effectuer les vérifications de base </object
-></li
-><li
 contentType="en"
 >Click « <object
 type="tmenu"
 >References »</object
-></li
-><li
-contentType="fr"
->Click « <object
-type="tmenu"
->Références »</object
 ></li
 ><li
 contentType="en"
@@ -2545,17 +2431,8 @@ type="tmenu"
 > OK</object
 ></li
 ><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->OK</object
-></li
-><li
 contentType="en"
 >Correct any errors.</li
-><li
-contentType="fr"
->Corrigez toutes erreurs.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -2563,9 +2440,6 @@ framedtype="tTeacher"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.</p
-><p
-contentType="fr"
->Paratext vous informera s'il y a des incohérences entre ces paramètres de titre du livre et les lignes \toc et vous permettra de vérifier des conflits.</p
 ></framedUnit
 ></section1
 ><section1
@@ -2578,7 +2452,7 @@ contentType="en"
 >Numbers check</titleContent
 ><titleContent
 contentType="fr"
->Muméros</titleContent
+>***missing</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -2587,9 +2461,6 @@ framedtype="tTeacher"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Before you can run the references check, your Administrator must define various number settings.</p
-><p
-contentType="fr"
->Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres de nombres.</p
 ></framedUnit
 ><ul
 ><li
@@ -2598,9 +2469,6 @@ contentType="en"
 type="tmenu"
 >Checking &gt; Number settings</object
 ></li
-><li
-contentType="fr"
->Vérifications &gt; Paramètres des chiffres</li
 ><li
 contentType="en"
 >Fill-in the dialog box.<br
@@ -2611,16 +2479,7 @@ src="36imgeng\image20.png"
 ></li
 ><li
 contentType="en"
->Click<object
-type="tmenu"
-> OK</object
-></li
-><li
-contentType="fr"
->Cliquez sur <object
-type="tmenu"
->OK</object
-></li
+>Click OK</li
 ><li
 contentType="en"
 ><object
@@ -2631,37 +2490,19 @@ type="tmenu"
 >Run basic checks</object
 ></li
 ><li
-contentType="fr"
-><object
-type="tmenu"
->Vérification</object
-> &gt; <object
-type="tmenu"
->Effectuer les vérifications de base </object
-></li
-><li
 contentType="en"
 >Click « <object
 type="tmenu"
 >Numbers»</object
 ></li
 ><li
-contentType="fr"
->Cochez « <object
-type="tmenu"
->Numéors»</object
-></li
-><li
 contentType="en"
 >Click<object
 type="tmenu"
-> OK</object
-></li
-><li
-contentType="fr"
->Cliquez sur <object
+></object
+><object
 type="tmenu"
->OK</object
+> OK</object
 ></li
 ></ul
 ></section1
@@ -2867,9 +2708,6 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
-><img
-src="36imgeng\image21.png"
-></img
 ></p
 ><p
 contentType="fr"
@@ -2878,9 +2716,6 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
-><img
-src="36imgfr/image15.png"
-></img
 ></p
 ><p
 contentType="en"
@@ -2929,46 +2764,12 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.</p
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
-><img
-src="36imgeng\image22.png"
-></img
-></p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
-><img
-src="36imgfr/image16.png"
-></img
-></p
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
 >The following modules will help you in this stage:</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
 >Les modules suivants vous aideront avec cette étape :</p
 ><ul
-><li
-contentType="en"
->PPR: Progress report</li
-><li
-contentType="fr"
->Rapport — progrès de projet — à faire</li
-><li
-contentType="en"
->BBTR: Biblical key terms report</li
-><li
-contentType="fr"
->Rapport — termes clés — à faire</li
 ></ul
 ><chapter
 id="sPPR"
@@ -3375,9 +3176,6 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.<br
 ></br
-><img
-src="36imgfr/image17.png"
-></img
 ></p
 ><pc
 contentType="en"
@@ -3390,54 +3188,6 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >Qu’est-ce que vous allez faire ?</p
 ><ul
-><li
-contentType="en"
->Illustrations and captions</li
-><li
-contentType="fr"
->Ajouter des illustrations et légendes</li
-><li
-contentType="en"
->Map names</li
-><li
-contentType="fr"
->Trouver les noms des villes pour les cartes</li
-><li
-contentType="en"
->Draft Introduction to the NT/Bible</li
-><li
-contentType="fr"
->Ajouter l’introduction au NT / Bible</li
-><li
-contentType="en"
->Check parallel passages</li
-><li
-contentType="fr"
->Vérifier les passages parallèles</li
-><li
-contentType="en"
->Verify all checks are complete</li
-><li
-contentType="fr"
->Vérifier que tous les contrôles sont complets</li
-><li
-contentType="en"
->Proper Names final check</li
-><li
-contentType="fr"
->Vérification finale des noms propres</li
-><li
-contentType="en"
->Numbers, money, weights and measures</li
-><li
-contentType="fr"
->Les chiffres, l’argent, les poids et les mesures</li
-><li
-contentType="en"
->Formatting checks:</li
-><li
-contentType="fr"
->Vérification du formatage: ...</li
 ></ul
 ><chapter
 id="s6intro"
@@ -7505,14 +7255,14 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="yes"
+active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
 active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
