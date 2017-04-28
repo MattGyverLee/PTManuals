@@ -37,7 +37,6 @@ contentType="fr"
 ><date
 >Mar. 2017</date
 ><contents
-contentType="fr"
 showLevel="3"
 ><labelContentChoices
 ><labelContent
@@ -2002,27 +2001,33 @@ id="sChangeCode"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Change your Paratext code</titleContent
+>Change (generate) a new Paratext code</titleContent
 ><titleContent
 contentType="fr"
->Changer votre code Paratext</titleContent
+>Changer (générer) un code nouveau</titleContent
 ></titleContentChoices
 ></secTitle
-><p
-contentType="en"
->(Generate a new code)</p
-><p
-contentType="fr"
->(générer un code nouveau)</p
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
->There are many reasons why you may need to change your Paratext code, but especially if your computer is stolen.</p
+>There are many reasons why you may need to change your Paratext code, particularly if your computer is stolen.</p
 ><p
 contentType="fr"
 >Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.</p
 ></framedUnit
+><section2
+id="sGenNewCode"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Change your own code</titleContent
+><titleContent
+contentType="fr"
+>Changer votre propre code</titleContent
+></titleContentChoices
+></secTitle
 ><ul
 ><li
 contentType="en"
@@ -2243,6 +2248,118 @@ type="tmenu"
 >Modifier les informations d'inscription</object
 > et y collez le code.</li
 ></ul
+></section2
+><section2
+id="sGenOtherCode"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Change a user's code (who you registered)</titleContent
+><titleContent
+contentType="fr"
+>Changer un code pour un utilisateur (qui vous avez inscrit)</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Go to the registration website, <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="fr"
+>Accédez au site d'inscription <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="en"
+>Log in (if you are not logged in) <br
+></br
+></li
+><li
+contentType="fr"
+>Se connecter (si vous n'êtes pas connecté)</li
+><li
+contentType="en"
+>Click on User</li
+><li
+contentType="fr"
+>Cliquez sur User</li
+><li
+contentType="en"
+>Click on the user's name in the list</li
+><li
+contentType="fr"
+>Cliquez sur le nom d'utilisateur de la liste</li
+><li
+contentType="en"
+>Click on the down arrow beside View</li
+><li
+contentType="fr"
+>Cliquez sur la flèche bas (à droite de View)</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Generate code</object
+><br
+></br
+><br
+></br
+><img
+src="supimgeng\GenerateCodeAddedUser.png"
+></img
+><br
+></br
+>A message is displayed.<br
+></br
+><img
+src="supimgeng\GenerateUsersCodeProceed.png"
+></img
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Generate code</object
+><br
+></br
+><br
+></br
+><img
+src="supimgfr\GenerateCodeAddedUser.png"
+></img
+><br
+></br
+>Une message s'affiche.<br
+></br
+><img
+src="supimgfr\GenerateUsersCodeProceed.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Proceed</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Proceed</object
+></li
+><li
+contentType="en"
+>Check your email for the code.</li
+><li
+contentType="fr"
+>Regardez votre email.</li
+></ul
+></section2
 ></section1
 ><section1
 id="sREGNoEmail"
@@ -2389,10 +2506,13 @@ type="tItalic"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Hang onto this code, because it cannot be recovered again if you lose it.</p
+>Hang onto this code, because it cannot be recovered again if you lose it. But you can generate a new code see <sectionRef
+sec="sGenNewCode"
+></sectionRef
+></p
 ><p
 contentType="fr"
->Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez.</p
+>Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir</p
 ></framedUnit
 ></section1
 ><section1
@@ -4272,7 +4392,7 @@ contentType="en"
 >From the <object
 type="tmenu"
 >"Show Base Plan"</object
-> drop-down, select the project plan  that contains the desired task.</li
+> drop-down, select the project plan that contains the desired task.</li
 ><li
 contentType="fr"
 >Dans la liste déroulante « Afficher le plan de base (<object
@@ -5770,11 +5890,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

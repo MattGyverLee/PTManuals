@@ -111,7 +111,7 @@ pagecontrol="letFormatterDecide"
 >Les participants traiteront leur traduction à l’aide de <object
 type="tPT"
 ></object
-> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Il y a trois manuels. Le premier manuel traite les tâches qui doivent être faire par un administrateur. Les deux premières étapes sont traites dans un autre manuel. Ce manuel traite des étapes 3 au 6.</p
+> , un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction. Il y a trois manuels. Le premier manuel traite les tâches qui doivent être faire par un administrateur. Les deux premières étapes sont traitées dans un autre manuel. Ce manuel traite des étapes 3 au 6.</p
 ><section1
 id="scourseObjectives"
 showinlandscapemode="no"
@@ -338,35 +338,77 @@ src="36imgeng\image5.png"
 ></img
 ></p
 ><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+><img
+src="36imgfr\image2.png"
+></img
+></p
+><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >The following modules will help you in this stage:</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Les modules suivant vous aidera avec ces étapes :</p
+>Les modules suivants vous aideront avec ces étapes :</p
 ><ul
 ><li
 contentType="en"
->BT1 and BT2: Back translations</li
+><sectionRef
+sec="sBT1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->RT1: Retraductions 1</li
-><li
-contentType="fr"
->RT2 : Retraductions 2 mot à mot</li
+><sectionRef
+sec="sBT1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->BC3: Basic checks</li
+><sectionRef
+sec="sBT2"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->BC3: Effectuer les vérifications de base – à faire</li
+><sectionRef
+sec="sBT2"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->PPU: Update progress plan</li
+><sectionRef
+sec="sBC3"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->**missing**</li
+><sectionRef
+sec="sBC3"
+showTitle="full"
+></sectionRef
+></li
+><li
+contentType="en"
+><sectionRef
+sec="sPPR"
+showTitle="full"
+></sectionRef
+></li
+><li
+contentType="fr"
+><sectionRef
+sec="sPPR"
+showTitle="full"
+></sectionRef
+></li
 ></ul
 ><chapter
 id="sBT1"
@@ -375,7 +417,7 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->BT1: Draft a Back translation</titleContent
+>BT1: Draft a Back Translation</titleContent
 ><titleContent
 contentType="fr"
 >RT1 : Retraductions 1</titleContent
@@ -444,7 +486,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connait pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
+>Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connaît pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
 ><pc
 contentType="en"
 ><object
@@ -498,7 +540,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->(première fois, seulement par l’administrateur)</p
+>(Première fois, seulement par l’administrateur)</p
 ><ul
 ><li
 contentType="en"
@@ -532,7 +574,7 @@ contentType="en"
 >Type a full name for the project and a short name</li
 ><li
 contentType="fr"
->Saisissez le nom complet et un nom raccourci puis cliquez sur OK</li
+>Saisissez le nom complet et un nom raccourci </li
 ><li
 contentType="en"
 >Click <object
@@ -559,13 +601,19 @@ contentType="en"
 >For the Type of project choose "Back Translation"</li
 ><li
 contentType="fr"
->Pour le type de projet, choisissez « retraduction »</li
+>Comme type de projet, choisissez « retraduction »</li
 ><li
 contentType="en"
->For Based on choose your project</li
+>For <object
+type="tmenu"
+>Based on</object
+> choose your project</li
 ><li
 contentType="fr"
->Choisissez votre projet du liste « Based on » (basé sur).</li
+>Choisissez votre projet du liste <object
+type="tmenu"
+>Based on (basé sur)</object
+>.</li
 ><li
 contentType="en"
 >Click the <object
@@ -574,7 +622,10 @@ type="tmenu"
 > tab</li
 ><li
 contentType="fr"
->Cliquez sur l’onglet Livres</li
+>Cliquez sur l’onglet <object
+type="tmenu"
+>Books (Livres)</object
+></li
 ><li
 contentType="en"
 >Choose the desired books</li
@@ -589,22 +640,28 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->OK encore</li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> encore</li
 ><li
 contentType="en"
 >Click the <object
 type="tmenu"
->Create Books</object
+>Create Book(s)</object
 > link</li
 ><li
 contentType="fr"
->**missing**</li
+>Cliquer sur le lien <object
+type="tmenu"
+>Create book(s) (Créer des livres)</object
+>.</li
 ><li
 contentType="en"
 >Create books as needed.</li
 ><li
 contentType="fr"
->**missing**</li
+>Créez des livres comme voulu.</li
 ></ul
 ><framedUnit
 contentType="fr"
@@ -650,7 +707,7 @@ contentType="en"
 >Arrange the windows so that you can easily see both windows.</li
 ><li
 contentType="fr"
->Arrange les fenêtres côté à côté pour facilement voir les deux fenêtres.</li
+>Arrange les fenêtres côte à côte pour facilement voir les deux fenêtres.</li
 ><li
 contentType="en"
 >Click in the back translation window, (the verse in your project is highlighted).</li
@@ -757,7 +814,7 @@ pagecontrol="letFormatterDecide"
 >Paratext détectera tout changement à votre texte (quand le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge <img
 src="36imgeng\image3.png"
 ></img
-> et d’ajouter des questions à l’état de la retraduction dans le plan de projet.</p
+> et ajouter des questions à l’état de la retraduction dans le plan de projet.</p
 ><ul
 ><li
 contentType="en"
@@ -781,12 +838,13 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Cliquez sur le point d’interrogation rouge</li
+>Cliquez sur le point d’interrogation rouge.<br
+></br
+><object
+type="italic"
+>Il change à une coche verte. </object
+>    </li
 ></ul
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Il change à une coche verte</p
 ></section1
 ><section1
 id="sViewDifferences"
@@ -804,7 +862,15 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click on the ab icon on the toolbar to see the differences.<br
+>Click on the <img
+src="36imgeng/ab.png"
+></img
+> icon on the toolbar to see the differences.<br
+></br
+><object
+type="italic"
+>A comparison window is displayed.</object
+><br
 ></br
 ><img
 src="36imgeng\image8.png"
@@ -812,12 +878,16 @@ src="36imgeng\image8.png"
 ></li
 ><li
 contentType="fr"
->Cliquez sur l’icône ab dans la barre d’outils pour voir les différences.</li
-><li
-contentType="fr"
->Une fenêtre de comparaison s’affiche.</li
-><li
-contentType="fr"
+>Cliquez sur l’icône <img
+src="36imgfr/ab.png"
+></img
+> dans la barre d’outils pour voir les différences.<br
+></br
+><object
+type="italic"
+>Une fenêtre de comparaison s’affiche.</object
+><br
+></br
 ><img
 src="36imgfr/image5.png"
 ></img
@@ -848,7 +918,7 @@ src="36imgeng\image9.png"
 ></li
 ><li
 contentType="fr"
->Cliquez sur les flèches haut et bas pour passer aux différences précédentes ou suivantes. <img
+>Cliquez sur les flèches de haut et de bas pour passer aux différences précédentes ou suivantes. <img
 src="36imgfr/image6.png"
 ></img
 ></li
@@ -889,19 +959,21 @@ src="36imgeng\image10.png"
 ></li
 ><li
 contentType="fr"
->(les vérifications de la retraduction arrière sont à la fin de la phase 4)</li
-></ul
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Le nombre de problèmes est affiché</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
+>Développez l'étape 3, les vérifications de la retraduction sont à la fin)<br
+></br
 ><img
 src="36imgfr/image7.png"
 ></img
-></p
+><br
+></br
+><object
+type="italic"
+>Le nombre de problèmes est affiché. </object
+>  </li
+></ul
+><p
+contentType="dn"
+>Is this interface translated? No, it is still in English!</p
 ></section1
 ><section1
 id="sCheckBTVerse"
@@ -929,7 +1001,10 @@ type="tItalic"
 contentType="fr"
 >Cliquez sur le lien d’issues de « back translation verse check » <br
 ></br
->Une liste de résultats s’affiche de toutes les erreurs.</li
+><object
+type="italic"
+>Une liste de résultats s’affiche de toutes les erreurs.</object
+></li
 ><li
 contentType="en"
 >Correct any errors.</li
@@ -1000,7 +1075,10 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Consultez la rubrique Aide sur les symboles et les symboles suivants: «Quels symboles peuvent se produire dans les cases à cocher de statut dans une retraduction?»</p
+>Consultez la rubrique Aide sur les symboles et les symboles suivants: « Quels symboles peuvent se produire dans les cases à cocher de statut dans une retraduction ? »</p
+><tablenumbered
+contentType="en"
+id="ntBTIconsEN"
 ><table
 align="left"
 border="1"
@@ -1131,6 +1209,10 @@ valign="top"
 >Out of date</td
 ></tr
 ></table
+></tablenumbered
+><tablenumbered
+contentType="fr"
+id="ntBTIconsFR"
 ><table
 align="left"
 border="1"
@@ -1261,6 +1343,7 @@ valign="top"
 >Dépassé (Out of date)</td
 ></tr
 ></table
+></tablenumbered
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -1268,7 +1351,10 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Réponses: A3, B4, C5, D1, E2</p
+>Reponses: A3, B4, C5, D1, E2</p
+><p
+contentType="dn"
+>I am thinking of deleting this exercise as the formatting isn't great.</p
 ></section1
 ></chapter
 ><chapter
@@ -1284,58 +1370,6 @@ contentType="fr"
 >RT2 : Retraductions 2 (mot à mot)</titleContent
 ></titleContentChoices
 ></secTitle
-><table
-align="left"
-border="1"
-pagecontrol="letFormatterDecide"
-><tr
-><td
-align="left"
-valign="top"
->Create a new project for the second back translation (first time only)</td
-><td
-align="left"
-valign="top"
->Setup project interlineariser</td
-><td
-align="left"
-valign="top"
->Correct glosses</td
-><td
-align="left"
-valign="top"
->Exporter / approve the verses</td
-></tr
-></table
-><table
-align="left"
-border="1"
-pagecontrol="letFormatterDecide"
-><tr
-><td
-align="left"
-valign="top"
->Créez un nouveau projet pour <br
-></br
->la retraduction</td
-><td
-align="left"
-valign="top"
->Créez une glose interlinéaire <br
-></br
->mot à mot</td
-><td
-align="left"
-valign="top"
->Corriger les gloses</td
-><td
-align="left"
-valign="top"
->Exporter / <br
-></br
->approuver le verset</td
-></tr
-></table
 ><pc
 contentType="en"
 ><object
@@ -1428,22 +1462,6 @@ pagecontrol="letFormatterDecide"
 contentType="fr"
 pagecontrol="letFormatterDecide"
 >Premièrement, on utilisera la fonction du générateur d’Interlinéaire de projet pour créer automatiquement une glose interlinéaire mot à mot du texte. L’ordinateur est bon, mais il fait encore beaucoup d’erreurs. Ensuite, vous corrigez les gloses proposées si nécessaire. Vous voulez que les mots soient traduits correctement bien que l’ordre des mots ne soit pas correct pour cette langue. Quand vous êtes contents du texte, vous pouvez l’exporter dans un autre projet.</p
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->Summary</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Résumé</p
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->This module shows you how to:</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Ce module vous montre comment :</p
 ><section1
 id="screateNewBT"
 showinlandscapemode="no"
@@ -1464,7 +1482,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->(première fois seulement par l’administrateur)</p
+>(Première fois seulement par l’administrateur)</p
 ><ul
 ><li
 contentType="en"
@@ -1555,7 +1573,10 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->OK encore</li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
 ><li
 contentType="en"
 >Click the <object
@@ -1564,20 +1585,23 @@ type="tmenu"
 > link</li
 ><li
 contentType="fr"
->**missing**</li
+>Cliquez sur le lien <object
+type="tmenu"
+>Create Books</object
+> (créer les livres)</li
 ><li
 contentType="en"
 >Create books as needed.</li
 ><li
 contentType="fr"
->**missing**</li
+>Créez les livres comme nécessaire.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->The project should not need to be registered as it inherits the registration from your project.</p
+>The project should not need to be registered as it inherits the registration from your project. [You will have two back translation projects - one for the free back translation and one for the word by word.]</p
 ></framedUnit
 ><framedUnit
 framedtype="tTeacher"
@@ -1630,9 +1654,14 @@ type="tmenu"
 type="tmenu"
 >Ouvrir</object
 > le <object
-type="tmenu"
+type="tXMLmind"
 >générateur d’Interlinéaire de projet</object
-></li
+><br
+></br
+><img
+src="36imgeng\image16.png"
+></img
+>   </li
 ><li
 contentType="en"
 >Choose your project as the text to interlinearise</li
@@ -1687,11 +1716,11 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Note: You do not need to use the Model and text are related checkbox – this is for when you are doing an adaptation (or orthography change)...</p
+>Note: You do not need to use the "Model and text are related" checkbox – this is for when you are doing an adaptation (or orthography change).</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->**missing**</p
+>N.B. : Vous n'avez pas besoin d'utiiser le case "Model and text are related". c'est pour quand vous faites une adaptation (ou le changement d'orthographe).</p
 ></framedUnit
 ></section1
 ><section1
@@ -1701,19 +1730,22 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Confirm and correct the interlinearised text</titleContent
+>Correct the interlinearised text</titleContent
 ><titleContent
 contentType="fr"
->Confirmer et corriger l’interlinéaire</titleContent
+>Corriger l’interlinéaire</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
 ><p
+contentType="en"
+>Note: You do not have to confirm the correct glosses. Any glosses that are not corrected will be automatically confirmed when you approve and export.</p
+><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Vous n’avez pas besoin de confirmer les gloses correctes, seulement corriger les incorrectes.</p
+>Vous n’avez pas besoin de confirmer les gloses correctes. Toutes gloses qui ne sont pas corrigées seront confirmées automatiquement quand vous approuvez et exportez.</p
 ></framedUnit
 ><p
 contentType="en"
@@ -1734,7 +1766,12 @@ type="tItalic"
 ></li
 ><li
 contentType="fr"
->Cliquez sur la glose</li
+>Cliquez sur la glose<br
+></br
+><object
+type="italic"
+>Un list s'affiche.</object
+></li
 ><li
 contentType="en"
 >Either click on the correct gloss in the list<br
@@ -1752,17 +1789,6 @@ contentType="en"
 contentType="fr"
 >Cliquez sur Entrée</li
 ></ul
-><framedUnit
-framedtype="tTeacher"
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->Note: You do not have to confirm the correct glosses. Any glosses that are correct will be automatically confirmed when you approve and export.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->**missing**</p
-></framedUnit
 ></section1
 ><section1
 id="sTranslate"
@@ -1788,7 +1814,12 @@ src="36imgeng\image17.png"
 ></li
 ><li
 contentType="fr"
->Cliquez entre les deux mots</li
+>Cliquez entre les deux mots<br
+></br
+><img
+src="36imgfr/image13.png"
+></img
+></li
 ><li
 contentType="en"
 >Click the icon « Link words »</li
@@ -1796,9 +1827,6 @@ contentType="en"
 contentType="fr"
 >Cliquez sur l’icône « Lier mots »<br
 ></br
-><img
-src="36imgfr/image13.png"
-></img
 ></li
 ><li
 contentType="en"
@@ -1830,7 +1858,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click bin the space between two glosses</li
+>Click in the space between two glosses</li
 ><li
 contentType="fr"
 >Cliquez entre deux gloses</li
@@ -1839,7 +1867,7 @@ contentType="en"
 >Type the extra word(s)</li
 ><li
 contentType="fr"
->Saisissez la glose</li
+>Saisissez le(s) mot(s) supplémentaires</li
 ></ul
 ></section1
 ><section1
@@ -1906,7 +1934,7 @@ type="tmenu"
 contentType="fr"
 >Cliquer sur <object
 type="tmenu"
->Approuver le verset</object
+>Approuver le verset vers ***</object
 ></li
 ><li
 contentType="en"
@@ -1918,7 +1946,7 @@ type="tmenu"
 contentType="fr"
 >Pour continuer, cliquez <object
 type="tmenu"
->Prochain verset non approuvé</object
+>Verset suivant non approuvé</object
 ></li
 ></ul
 ></section1
@@ -1939,25 +1967,50 @@ contentType="fr"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >For more help on using the Interlineariser function see:</p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+>Pour plus d'aide lors de l'utilisation de la fonction Interlineariser voir:</p
 ><ul
 ><li
 contentType="en"
 >Introduction to Project Interlinearizer</li
 ><li
+contentType="fr"
+>Introduction pour générateur d'interlinéaire</li
+><li
 contentType="en"
 >How do I open the Project Interlinearizer?</li
+><li
+contentType="fr"
+>Comment ouvrir l'outil de générateur d'interlinéaire?</li
 ><li
 contentType="en"
 >How do I generate an interlinear back translation?</li
 ><li
+contentType="fr"
+>Comment générer une retraduction mot-à-mot?</li
+><li
 contentType="en"
 >How do I create a back translation project with the Interlinearizer?</li
+><li
+contentType="fr"
+>Comment créer une retraduction avec l'outi de générateur d'interlineariser ?</li
 ><li
 contentType="en"
 >How do I create a text revision/adaptation project with the Interlinearizer?</li
 ><li
+contentType="fr"
+>Comment créer une project d'adaptation avec l'outi de générateur d'interlineariser ?</li
+><li
 contentType="en"
 >What do the colours of glosses mean in the Interlinearizer?</li
+><li
+contentType="fr"
+>Qu'est-ce que veut dire les coleurs des gloses dans l'interlineasizer ?</li
+><li
+contentType="dn"
+>Since the help hasn't been translated is there any point in translating these?</li
 ></ul
 ></section1
 ></chapter
@@ -2013,6 +2066,12 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >Vous avez travaillé sur votre texte dans Paratext et vous êtes arrivé au un point important (point de repère) du projet.</p
 ><pc
+contentType="en"
+><object
+type="tsub"
+>Why is this important?</object
+></pc
+><pc
 contentType="fr"
 ><object
 type="tsub"
@@ -2020,11 +2079,17 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->**missing</p
+>As you work on your translation, you are continually making changes. It is good to have a copy of the previous version of your text, for example the text as it was before you went to a consultant check. You can do this by marking a point in the history of your project. After marking a point in the history, you can compare the version at that point with the current version.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Après avoir « marqué un point de repère dans l’historique du projet », vous pouvez comparer les anciennes versions du texte avec le texte actuel.</p
+>Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Vous faites un version quand vous faites « marqué un point de repère dans l’historique du projet ». Vous pouvez comparer les anciennes versions du texte avec le texte actuel.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>What will you do?</object
+></pc
 ><pc
 contentType="fr"
 ><object
@@ -2033,19 +2098,11 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->**missing</p
+>You will mark a point in the history of the project which you can go back to later and compare your work</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
 >Vous allez marquer un point de repère dans l’historique du projet auquel vous pourrez revenir plus tard afin de comparer votre travail.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Résumé</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Ce module vous montre comment :</p
 ><section1
 id="sPointInHistory"
 showinlandscapemode="no"
@@ -2053,7 +2110,7 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->***Mark Point in History</titleContent
+>Mark Point in History</titleContent
 ><titleContent
 contentType="fr"
 >Sauvegarder à chaque étape majeure de votre projet</titleContent
@@ -2061,8 +2118,20 @@ contentType="fr"
 ></secTitle
 ><ul
 ><li
+contentType="en"
+>Click in your project window to make it active (in Paratext).</li
+><li
 contentType="fr"
 >Cliquez dans votre fenêtre de projet (dans Paratext )</li
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Project </object
+> menu choose <object
+type="tmenu"
+>Mark a point in project history.</object
+></li
 ><li
 contentType="fr"
 >Du menu <object
@@ -2073,20 +2142,36 @@ type="tmenu"
 >Marquer un point de repère dans l’historique du projet.</object
 ></li
 ><li
+contentType="en"
+>Type a comment to describe the point.</li
+><li
 contentType="fr"
->Tapez un commentaire qui décrit le point de repère dans l’historique du projet.</li
+>Saisissez un commentaire pour décrire l'étape du project.</li
 ></ul
+><framedUnit
+contentType="en"
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: It is good to start the comment with some symbols, such as ###, to be able to find the point in the list.</p
 ><p
 contentType="fr"
-pagecontrol="letFormatterDecide"
 >N.B. C’est bon de commencer le commentaire avec quelques symboles, comme ###, pour bien trouver les points dans la liste.</p
-><p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
 contentType="fr"
-pagecontrol="letFormatterDecide"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->.</p
+></li
+></ul
 ></section1
 ><section1
 id="sCompare"
@@ -2095,12 +2180,17 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->***Compare Two Versions</titleContent
+>Compare Two Versions</titleContent
 ><titleContent
 contentType="fr"
 >Voir les différences entre deux points (ou versions)</titleContent
 ></titleContentChoices
 ></secTitle
+><ul
+><li
+contentType="en"
+>From the Tools menu, choose Compare Texts</li
+><li
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -2114,36 +2204,48 @@ type="tmenu"
 type="tmenu"
 >textes...</object
 ></p
-><p
+></li
+><li
+contentType="en"
+>Click on the version dropdown list Current version</li
+><li
 contentType="fr"
-pagecontrol="letFormatterDecide"
-><object
+>Cliquez sur le list déroulante  <object
 type="tmenu"
-></object
-></p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Cliquez sur le bouton <object
-type="tmenu"
->Sélectionner</object
->.</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Choisissez votre point désiré dans l’historique.<br
+>Version actuel (current version)</object
+>.</li
+><li
+contentType="en"
+>Choose the desired point in the history<br
 ></br
 ><img
 src="36imgfr/image14.png"
 ></img
-></p
+></li
+><li
+contentType="fr"
+>Choisissez votre point désiré dans l’historique<br
+></br
+><img
+src="36imgfr/image14.png"
+></img
+><br
+></br
+><object
+type="italic"
+>L’écran changera et montrera les différences entre les deux versions.</object
+></li
+></ul
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
 ><p
+contentType="en"
+>Text which has been deleted has a strike through, and text which has been added is underlined.</p
+><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->L’écran changera et montrera les différences entre les deux versions. Chaque partie du texte qui a été supprimée est barrée. Chaque partie de texte qui a été ajoutée est soulignée.</p
+>Chaque partie du texte qui a été supprimée est barrée. Chaque partie de texte qui a été ajoutée est soulignée.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -2256,16 +2358,6 @@ contentType="en"
 contentType="fr"
 >Corrigez toutes erreurs.</li
 ></ul
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->This module shows you how to:</p
 ><section1
 id="sunmatchedPairsOfPunctuation"
 showinlandscapemode="no"
@@ -2468,7 +2560,7 @@ src="36imgeng\image19.png"
 ></img
 ></li
 ><li
-contentType="en"
+contentType="fr"
 >Cliquez sur l'onglet <object
 type="tmenu"
 >Book names</object
@@ -2578,7 +2670,7 @@ contentType="en"
 >Numbers check</titleContent
 ><titleContent
 contentType="fr"
->Muméros</titleContent
+>Numéros</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -2603,10 +2695,18 @@ contentType="fr"
 >Vérifications &gt; Paramètres des chiffres</li
 ><li
 contentType="en"
->Fill-in the dialog box.<br
+>Fill in the dialog box.<br
 ></br
 ><img
 src="36imgeng\image20.png"
+></img
+></li
+><li
+contentType="fr"
+>Remplissez la boîte de dialogue. <br
+></br
+><img
+src="36imgfr/Parametres%20de%20chiffres.png"
 ></img
 ></li
 ><li
@@ -2649,7 +2749,7 @@ type="tmenu"
 contentType="fr"
 >Cochez « <object
 type="tmenu"
->Numéors»</object
+>Numéros»</object
 ></li
 ><li
 contentType="en"
@@ -2675,19 +2775,25 @@ contentType="en"
 >Quotation rules</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Règles de guillemets</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >The quotations check is used to ensure you have been consistent in marking the direct speech correctly.</p
+><p
+contentType="fr"
+>La vérification de citations est utilisée pour garantir que vous avez été conhhérent avec les quillemets du discours direct.</p
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Before you can run the quotation check, your Administrator must define the rules for your quotations.</p
+><p
+contentType="fr"
+>Avant que vous puissiez lancer la vérification de citation, votre Administrateur doit définir les règles pour vos citations.</p
 ></framedUnit
 ><ul
 ><li
@@ -2700,17 +2806,38 @@ type="tmenu"
 >Quotation rules</object
 ></li
 ><li
+contentType="fr"
+><object
+type="tmenu"
+>Vérification</object
+> &gt; <object
+type="tmenu"
+>Règles de guillemets</object
+></li
+><li
 contentType="en"
 >Fill-in the quotation marks used for each level [1] [2] [3]</li
+><li
+contentType="fr"
+>Remplisissez les guillemets utilisé pour chaque niveau [1] [2] [3]</li
 ><li
 contentType="en"
 ><object
 type="tmenu"
->Check Flag all quotes near other errors [5]</object
+>Check Flag all quotes near other errors [8]</object
 ></li
 ><li
+contentType="fr"
+>Cochez "Surlligner les guillemets [8]"</li
+><li
 contentType="en"
->Click<object
+>Click <object
+type="tmenu"
+>OK.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
 type="tmenu"
 > OK.</object
 ></li
@@ -2726,7 +2853,7 @@ contentType="en"
 >Quotation check</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Vérification des citations</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -2737,8 +2864,23 @@ type="tmenu"
 >Checking &gt; Basic checks</object
 ></li
 ><li
+contentType="fr"
+><object
+type="tmenu"
+>Vérification</object
+> &gt; <object
+type="tmenu"
+>Effectuer les vérifications de base </object
+></li
+><li
 contentType="en"
 ><object
+type="tmenu"
+>Quotations</object
+></li
+><li
+contentType="fr"
+>Cochez <object
 type="tmenu"
 >Quotations</object
 ></li
@@ -2754,17 +2896,40 @@ type="tItalic"
 >A list of errors is displayed. It shows possible errors but includes four correct quotations before and after the possible error.</object
 ></li
 ><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tItalic"
+>Une liste d'erreurs est affichée. Il montre des erreurs possibles, mais inclut quatre citations correctes auparavant et après l'erreur possible.</object
+></li
+><li
 contentType="en"
->Double-click the first item which doesn’t start with</li
+>Double-click the first item which doesn’t start with ...</li
+><li
+contentType="fr"
+>Double-clicquez sur le premier élément qui ne commence pas par « … »</li
 ><li
 contentType="en"
 >Correct as necessary.</li
+><li
+contentType="fr"
+>Corigez si nécessaire.</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >Rerun</object
 > button to confirm you have corrected the error.</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Relancer</object
+> pour confirmer que vous avez corrigé l'erreur.</li
 ></ul
 ></section1
 ><section1
@@ -2777,7 +2942,7 @@ contentType="en"
 >Quoted text</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Texte cité</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -2786,6 +2951,9 @@ framedtype="tTeacher"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >The Quoted text check looks at text in footnotes or cross-references which has been marked with \qt \qt* markers. It checks that the quoted text matches the text in the verse.</p
+><p
+contentType="fr"
+>La vérification de texte cité regarde le texte dans les notes en bas de page ou les renvois qui a été marqué avec les marqueurs \qt … \qt *. Il vérifie que le texte cité correspond au texte dans le verset.</p
 ></framedUnit
 ><ul
 ><li
@@ -2795,10 +2963,25 @@ type="tmenu"
 >Checking &gt; Basic checks</object
 ></li
 ><li
+contentType="fr"
+><object
+type="tmenu"
+>Vérification</object
+> &gt; <object
+type="tmenu"
+>Effectuer les vérifications de base </object
+></li
+><li
 contentType="en"
 ><object
 type="tmenu"
 >Quoted text</object
+></li
+><li
+contentType="fr"
+>Cochez <object
+type="tmenu"
+>Quoted text (texte cité)</object
 ></li
 ><li
 contentType="en"
@@ -2812,8 +2995,22 @@ type="tItalic"
 >A list of errors is displayed.</object
 ></li
 ><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tItalic"
+>Une liste d'erreurs est affichée.</object
+></li
+><li
 contentType="en"
 >Make corrections as needed.</li
+><li
+contentType="fr"
+>Corigez si nécessaire.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -2821,6 +3018,9 @@ framedtype="tTeacher"
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Note: the text has to be exactly the same as in the text. That is, even additional punctuation can’t be in the \qt \\qt* markers.</p
+><p
+contentType="fr"
+>N.B. : le texte doit être exactement le même comme dans le texte. C'est-à-dire, on ne peut pas avoir même la ponctuation supplémentaire entre les marqueurs \qt … \\qt *.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -2962,13 +3162,13 @@ contentType="en"
 >PPR: Progress report</li
 ><li
 contentType="fr"
->Rapport — progrès de projet — à faire</li
+>Rapport — progrès de projet</li
 ><li
 contentType="en"
 >BBTR: Biblical key terms report</li
 ><li
 contentType="fr"
->Rapport — termes clés — à faire</li
+>Rapport — termes clés</li
 ></ul
 ><chapter
 id="sPPR"
@@ -2989,54 +3189,83 @@ contentType="en"
 type="tsub"
 >Introduction</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >In this module you will create a progress report.</p
+><p
+contentType="fr"
+>Dans ce module vous créerez un rapport sur l'état d'avancement.</p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >Where we are</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will project a report.</p
+>As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will prepare a project a report.</p
+><p
+contentType="fr"
+>Comme vous avez travaillé sur votre traduction, vous avez actualisé votre plan de projet avec votre progrès sur les chapitres accomplis et les livres. Maintenant vous préparer un rapport.</p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >Why this is important</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi est-il important ? </object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Your administrators and funders need accurate reports of your progress.</p
+><p
+contentType="fr"
+>Vos administrateurs et fonders ont besoin des rapports exacts de votre progrès.</p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >What are you going to do?</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Que ferez-vous ? </object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Check that your project plan is up-to-date.</p
 ><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->Produce several reports.</p
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
+contentType="fr"
+>Vérifiez que votre plan de projet est à jour.</p
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->This module shows you how to:</p
+>Produce several reports.</p
+><p
+contentType="fr"
+>Produisez plusieurs rapports.</p
 ><section1
 id="sCheckYourPlan"
 showinlandscapemode="no"
@@ -3047,7 +3276,7 @@ contentType="en"
 >Check your plan</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Vérifiez votre plan</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3055,11 +3284,20 @@ contentType="fr"
 contentType="en"
 >Open your project</li
 ><li
+contentType="fr"
+>Ouvrez votre projet</li
+><li
 contentType="en"
 >Click on the Project plan icon</li
 ><li
+contentType="fr"
+>Cliquez sur l'icône de plan de Projet</li
+><li
 contentType="en"
 >Update your progress as necessary.</li
+><li
+contentType="fr"
+>Actualisez votre progrès comme nécessaire.</li
 ></ul
 ></section1
 ><section1
@@ -3072,7 +3310,7 @@ contentType="en"
 >Produce team progress chart</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Produire le graphique de progrès d'équipe</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3083,7 +3321,16 @@ type="tmenu"
 >Project</object
 > menu, choose <object
 type="tmenu"
->Team progress chart</object
+>Progress chart</object
+></li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Projet</object
+>, choose <object
+type="tmenu"
+>Progress chart</object
 ></li
 ><li
 contentType="en"
@@ -3094,8 +3341,19 @@ src="36imgeng\image23.png"
 ></img
 ></li
 ><li
+contentType="fr"
+>Cliquez sur la flèche bas dans la liste à gauche.<br
+></br
+><img
+src="36imgfr\image23.png"
+></img
+></li
+><li
 contentType="en"
 >Choose as appropriate.</li
+><li
+contentType="fr"
+>Choisissez comme appropriés.</li
 ><li
 contentType="en"
 >Click the print icon<br
@@ -3105,20 +3363,43 @@ type="tItalic"
 >A window opens</object
 ></li
 ><li
+contentType="fr"
+>Cliquez sur l'icône d'imprimante<br
+></br
+><object
+type="tItalic"
+>Une fenêtre s'affiche.</object
+></li
+><li
 contentType="en"
 >Click the <object
 type="tmenu"
 >Print</object
-> menu</li
+> icon</li
+><li
+contentType="fr"
+>Cliquez sur l'icône <object
+type="tmenu"
+>Print</object
+></li
 ><li
 contentType="en"
 >Choose your printer (or PDF printer)</li
+><li
+contentType="fr"
+>Choisissez votre imprimante (ou PDF creator)</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
 >.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
 ></ul
 ></section1
 ></chapter
@@ -3141,50 +3422,77 @@ contentType="en"
 type="tsub"
 >Introduction</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introduction </object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >One task in this stage is to produce a report of the changes made in the key biblical terms.</p
+><p
+contentType="fr"
+>Une tâche dans ce étape est de produire un rapport des changements faits dans les termes bibliques. </p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >Where we are</object
 ></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >In working on your translation you have identified and changed a number of key biblical terms.</p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+>Dans le fait de travailler sur votre traduction vous avez identifié et avez changé un certain nombre de termes bibliques clés.</p
 ><pc
 contentType="en"
 ><object
 type="tsub"
->Why this is important</object
+>Why is this important?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi est-il important ? </object
 ></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
 >Although you can’t use Paratext to write the report, it can produce of list of the terms that you have been dealing with and may need to include in your report.</p
+><p
+contentType="fr"
+>Bien que vous ne puissiez pas utiliser Paratext pour écrire le rapport, il peut produire une liste des termes dont vous vous auriez besoin d'inclure dans votre rapport. </p
 ><pc
 contentType="en"
 ><object
 type="tsub"
 >What are you going to do?</object
 ></pc
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.</p
 ><pc
-contentType="en"
+contentType="fr"
 ><object
 type="tsub"
->Summary</object
+>Que ferez-vous ? </object
 ></pc
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->This module shows you how to:</p
+>In the Biblical terms tool you will filter on the book(s) that you want to include in your report. You will then save the list of the terms as a separate HTML file. You can also filter the list on any discussion notes you may have made.</p
+><p
+contentType="fr"
+>Dans l'outil de termes biblique, vous filtrez les livres que vous voulez inclure dans votre rapport. Vous sauverez alors la liste des termes comme un Fichier HTML séparé. Vous pouvez aussi filtrer la liste sur toutes notes de discussion que vous avez faites.</p
 ><section1
 id="sBiblicalTermsTool"
 showinlandscapemode="no"
@@ -3195,7 +3503,7 @@ contentType="en"
 >Biblical terms tool</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Outil de termes biblique</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3203,23 +3511,44 @@ contentType="fr"
 contentType="en"
 >Click in your project</li
 ><li
+contentType="fr"
+>Cliquez dans votre projet</li
+><li
 contentType="en"
 ><object
 type="tmenu"
 >Tools</object
 > – <object
 type="tmenu"
->Biblical Terms tool</object
+>Biblical Terms </object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Outils</object
+> – <object
+type="tmenu"
+>Termes bibliques</object
 ></li
 ><li
 contentType="en"
 >Set the terms filter</li
 ><li
+contentType="fr"
+>Activez le fitre des termes comme désiré.</li
+><li
 contentType="en"
 >Set the verses filter (for the books you have been working on).</li
 ><li
+contentType="fr"
+>Activez le filtre des versets (des livres que vous voulez inclure).</li
+><li
 contentType="en"
 >Sort the list as desired.</li
+><li
+contentType="fr"
+>Triez la liste comme désiré.</li
 ></ul
 ></section1
 ><section1
@@ -3232,7 +3561,7 @@ contentType="en"
 >Save the list to a file</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Enregistrez la liste à un fichier</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3246,8 +3575,20 @@ type="tmenu"
 >Save as HTML</object
 ></li
 ><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Enregistrer en format HTML</object
+></li
+><li
 contentType="en"
 >Type a name for the file</li
+><li
+contentType="fr"
+>Tapez un nom pour le fichier</li
 ><li
 contentType="en"
 >Click <object
@@ -3255,10 +3596,22 @@ type="tmenu"
 >Save</object
 ></li
 ><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Save/Enregistrer</object
+></li
+><li
 contentType="en"
 >Open the file in <object
 type="tmenu"
->Word</object
+>Word/LibreOffice</object
+></li
+><li
+contentType="fr"
+>Ouvrez le fichier dans  <object
+type="tmenu"
+>Word/LibreOffice</object
 ></li
 ></ul
 ></section1
@@ -3272,11 +3625,10 @@ contentType="en"
 >Other ways to identify renderings</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>D'autres façons d'identifier des équivalents</titleContent
 ></titleContentChoices
 ></secTitle
-></section1
-><section1
+><section2
 id="ssortOnTermsNotes"
 showinlandscapemode="no"
 ><secTitle
@@ -3286,21 +3638,29 @@ contentType="en"
 >Sort on terms notes</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Tirer par les remarques des équivalents</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
 ><li
 contentType="en"
->Click on the ? on second column to sort on Rendering discussion notes.<br
+>Click on the ? (second column heading) to sort on Rendering discussion notes.<br
+></br
+><img
+src="36imgeng\image24.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur ? (l'en-tête du deuxiem colonne) pour tirer par les remarques des équivalents.<br
 ></br
 ><img
 src="36imgeng\image24.png"
 ></img
 ></li
 ></ul
-></section1
-><section1
+></section2
+><section2
 id="sfindTermsWithText"
 showinlandscapemode="no"
 ><secTitle
@@ -3310,7 +3670,7 @@ contentType="en"
 >Find terms with text in the rendering description</titleContent
 ><titleContent
 contentType="fr"
->***missing</titleContent
+>Trouvez des termes avec du texte dans la description d'équivalents</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3318,10 +3678,22 @@ contentType="fr"
 contentType="en"
 >Click the arrow beside Find on the toolbar</li
 ><li
+contentType="fr"
+>Cliquez sur la flèche à côté du <object
+type="tmenu"
+>Rechercher</object
+> sur la barre d'outils.</li
+><li
 contentType="en"
 >Choose <object
 type="tmenu"
 >Rendering Description</object
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Rendering Description (descriptions des équivalents)</object
 ></li
 ><li
 contentType="en"
@@ -3332,9 +3704,21 @@ type="tItalic"
 >The list is filtered.</object
 ></li
 ><li
+contentType="fr"
+>Tapez le texte à rechercher<br
+></br
+><object
+type="tItalic"
+>La liste est filtré.</object
+></li
+><li
 contentType="en"
 >Save the list to HTML (as above).</li
+><li
+contentType="fr"
+>Enregistrez la liste à HTML (comme au-dessus).</li
 ></ul
+></section2
 ></section1
 ></chapter
 ></part
@@ -3388,7 +3772,10 @@ type="tsub"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Qu’est-ce que vous allez faire ?</p
+><object
+type="tsub"
+>Qu’est-ce que vous allez faire ?</object
+></p
 ><ul
 ><li
 contentType="en"
@@ -3591,6 +3978,9 @@ contentType="fr"
 ></secTitle
 ><ul
 ><li
+contentType="en"
+>Click in your project.</li
+><li
 contentType="fr"
 >Cliquez dans votre projet.</li
 ><li
@@ -3640,7 +4030,7 @@ contentType="en"
 >Filter on a specific map number (e.g. [01])</li
 ><li
 contentType="fr"
->**missing**</li
+>Filtre sur un nombre de carte spécifique (par ex. [01])</li
 ><li
 contentType="en"
 >Add renderings for all terms</li
@@ -3658,13 +4048,19 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->**missing**</li
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Enregistrer au format HTML</object
+></li
 ><li
 contentType="en"
 >Type a name for the file</li
 ><li
 contentType="fr"
->**missing**</li
+>Tapez un nom pour le fichier.</li
 ><li
 contentType="en"
 >Click <object
@@ -3673,7 +4069,10 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->**missing**</li
+>Cliquez sur <object
+type="tmenu"
+>Save</object
+>/Enregistre.</li
 ></ul
 ></section1
 ><section1
@@ -4141,26 +4540,6 @@ contentType="en"
 contentType="fr"
 pagecontrol="letFormatterDecide"
 >Vous pouvez également voir un autre passage dans une fenêtre (qui ne déroule pas avec les autres fenêtres) pendant que vous traduisez un passage.</p
-><pc
-contentType="en"
-><object
-type="tsub"
->Summary</object
-></pc
-><pc
-contentType="fr"
-><object
-type="tsub"
->Résume</object
-></pc
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->This module shows you how to:</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Ce module vous montre comment :</p
 ><section1
 id="sopenTheParallelPassages"
 showinlandscapemode="no"
@@ -7505,10 +7884,10 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="yes"
+active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice

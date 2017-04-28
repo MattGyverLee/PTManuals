@@ -2148,7 +2148,7 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Enregistrez tout.</object
->  (ou <object
+> (ou <object
 type="tkey"
 >Ctrl</object
 >+<object
@@ -13863,11 +13863,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

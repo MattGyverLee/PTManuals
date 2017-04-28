@@ -166,3 +166,42 @@ type="tPT"
 > also is protected by United States Copyright Law and International Treaty provisions. Each of the electronic resources and Scripture texts included in this Software is protected by copyright. These resources and Scripture texts may not be edited or used or adapted in other software without prior written permission from the respective copyright holders.</pc
 ></publishingBlurb
 >
+
+
+<?xml version="1.0"?>
+<ns:clipboard
+xmlns:ns="http://www.xmlmind.com/xmleditor/namespace/clipboard"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+><p
+>For languages that don't need more than two diacritics above the character and one diacritic below, SIL has developed alternate "compact" fonts that have the same ascender and descender values as fonts like <object
+type="tFont"
+>Times New Roman</object
+>. They can be found on the download sites for the fonts below, just look for the "compact" version. If using XEP, you will have to add an entry to the font configuration of <sectionRef
+sec="sInstallingRenderXXep"
+></sectionRef
+>.</p
+><ul
+><li
+><link
+href="http://software.sil.org/charis/download/"
+>Charis SIL</link
+></li
+><li
+><link
+href="http://software.sil.org/charis/download/"
+>Doulos SIL</link
+></li
+><li
+><link
+href="http://software.sil.org/andika/download/"
+>Andika</link
+></li
+><li
+><link
+href="http://software.sil.org/gentium/download/"
+>Gentium Plus</link
+></li
+></ul
+></ns:clipboard
+>
+

@@ -99,6 +99,9 @@ contentType="en"
 ><titleContent
 contentType="fr"
 >But</titleContent
+><titleContent
+contentType="???"
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -2135,7 +2138,7 @@ pagecontrol="letFormatterDecide"
 >In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p
 ><p
 contentType="fr"
->Dans ce module vous apprendrez comment diriger les vérifications de base  restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre alors vous avez besoin de diriger les vérifications du menu vérification. </p
+>Dans ce module vous apprendrez comment diriger les vérifications de base restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre alors vous avez besoin de diriger les vérifications du menu vérification.</p
 ><pc
 contentType="en"
 ><object
@@ -2192,7 +2195,7 @@ pagecontrol="letFormatterDecide"
 >As before, most of the checks require some setup to be done by your administrator. In this module you will:</p
 ><p
 contentType="fr"
->Comme auparavant, la plupart des vérifications exigent qu'un peu d'installation soit faite par votre administrateur. Dans ce module, vous allez </p
+>Comme auparavant, la plupart des vérifications exigent qu'un peu d'installation soit faite par votre administrateur. Dans ce module, vous allez</p
 ><ul
 ><li
 contentType="en"
