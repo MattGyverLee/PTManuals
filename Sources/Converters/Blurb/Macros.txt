@@ -1,0 +1,21 @@
+Commands.xml
+
+<cfg:command name="ConvertSelectedTextToObjectTMenu">
+        <cfg:macro>
+            <cfg:sequence>
+                <cfg:pass>
+                    <!-- if no text has been selected, we do not do anything -->
+                    <cfg:command name="convert" parameter="object"/>
+                </cfg:pass>
+                <cfg:command name="convert" parameter="object"/>
+                <cfg:command name="putAttribute" parameter="type 'tmenu'" />
+                <cfg:command name="moveDotTo" parameter="nextTextNode"/>
+            </cfg:sequence>
+        </cfg:macro>
+    </cfg:command>
+
+Menus
+
+       <cfg:item command="ConvertSelectedTextToObjectTMenu" label="Convert selected text to tmenu xobject">
+           <cfg:accelerator code="F12" modifiers="ctrl"/>
+       </cfg:item>
