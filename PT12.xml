@@ -6,6 +6,7 @@ version="2.24.0"
 ><styledPaper
 ><lingPaper
 automaticallywrapinterlinears="yes"
+tablenumberedLabelAndCaptionLocation="before"
 version="2.28.0"
 ><frontMatter
 ><title
@@ -112,7 +113,7 @@ contentType="fr"
 >Les participants traiteront leur traduction à l’aide de <object
 type="tPT"
 ></object
->, un logiciel créé pour stocker et vérifier les textes de la traduction. On suit les six étapes du plan de SIL du processus de traduction.</p
+>, qui est un logiciel créé pour stocker et vérifier les textes de la traduction. Ainsi on suit les six étapes du plan de SIL du processus de traduction.</p
 ></section1
 ><section1
 id="s3"
@@ -354,7 +355,10 @@ contentType="en"
 >Use the Biblical terms rendering window and tool to ensure you are consistent in the use of terms.</li
 ><li
 contentType="fr"
->Utiliser la fenêtre de termes bibliques et l’outil de termes bibliques pour assurer que l’utilisation des termes est cohérente. </li
+>Utiliser l'outil <object
+type="tmenu"
+>Termes Bibliques</object
+> pour s'assurer que l’utilisation des termes est cohérente. </li
 ></ul
 ><pc
 contentType="en"
@@ -419,7 +423,7 @@ contentType="en"
 >Add project, Spelling and Biblical term notes to discuss various issues and record the decisions made.</li
 ><li
 contentType="fr"
->Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions faites.  </li
+>Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions prises.</li
 ></ul
 ><pc
 contentType="en"
@@ -728,7 +732,7 @@ src="12imgeng/image2.png"
 ></p
 ><p
 contentType="fr"
->Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour assurer que vous comprenez bien le texte source, puis vous allez saisir le texte de votre traduction plus d’autres éléments, puis vous commencerez les vérifications préliminaires.<br
+>Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saissisez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.<br
 ></br
 ><img
 src="12imgfr/image2a.png"
@@ -858,7 +862,7 @@ type="tPT"
 > you will want to see a variety of resources. In this module, you will learn how to open resources and organise your desktop.</p
 ><p
 contentType="fr"
->Vous voulez travailler sur votre texte en <object
+>Vous désirez travailler sur votre texte en <object
 type="tPT"
 ></object
 > et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
@@ -1649,7 +1653,7 @@ contentType="en"
 >You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, the choosing _____ the your project .</li
 ><li
 contentType="fr"
->On fait une liste de versets avec un terme dans une langue de source par cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.</li
+>On fait une liste de versets avec un terme dans une langue de source en cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.</li
 ></ul
 ></section1
 ></chapter
@@ -1685,7 +1689,7 @@ type="tPT"
 > .]</p
 ><p
 contentType="fr"
->On utilise le plan du projet pour nous aider à organiser notre travail et pour voir les taches à faire prochainement. Dès qu’on a fini une tâche, on la note comme fini pour qu’il soit dans le rapport des tâches accompli. [Si vous avez utilisé une version précédente, vous allez voir que c’est bien amélioré en Paratext 8.]</p
+>On utilise le plan du projet pour nous aider à organiser notre travail et pour voir les taches à faire prochainement. Dès qu’on a fini une tâche, on la note comme fini pour qu’il soit dans le rapport des tâches accomplis. [Si vous avez utilisé une version précédente, vous allez voir que c’est bien amélioré en Paratext 8.]</p
 ><pc
 contentType="en"
 ><object
@@ -1705,7 +1709,7 @@ contentType="en"
 >[This is usually done by your project administrator who will add the appropriate organisational plan and configure it for your team.]</p
 ><p
 contentType="fr"
->Avant que vous puissiez utiliser le plan, quelqu’un doit avoir l’ajouté et le configuré. [C’est normalement votre administrateur du projet ou votre conseiller en technologie linguistique.]</p
+>Avant que vous puissiez utiliser le plan, quelqu’un doit l'avoir ajouté et le configuré. [C’est normalement votre administrateur du projet ou votre conseiller en technologie linguistique.]</p
 ><pc
 contentType="en"
 ><object
@@ -1723,8 +1727,9 @@ contentType="en"
 >There are so many tasks to be done in a translation project. It is important to have a system to make sure these are all done. Now that your plan has been configured, you can use the plan to see what tasks have been assigned to you to be done next. Then when you finish the task, you can mark the task as completed and see the next task to do. You can use this information to generate reports for supervisors and donors (see PP2: Project plan reporting).</p
 ><p
 contentType="fr"
->Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. On veut aussi une moyenne assez facile pour générer les rapports pour les superviseurs et bailleurs. (Voir <sectionRef
+>Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. On veut avoir un moyen assez facile pour générer les rapports pour les superviseurs et bailleurs. (Voir <sectionRef
 sec="sProduceAProgressReport"
+showTitle="full"
 ></sectionRef
 >.)</p
 ><pc
@@ -1742,6 +1747,9 @@ type="tsub"
 ><p
 contentType="en"
 >You will mark a variety of tasks as complete. The exact steps will vary slightly depending on whether the task is set to once per project, once per book, or by chapter. The place to mark progress for all types of tasks is the Status column.</p
+><p
+contentType="dn"
+>These don't match!!!!</p
 ><p
 contentType="fr"
 >Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Les administrateurs peuvent également apporter des ajustements au plan si nécessaire.</p
@@ -1897,7 +1905,7 @@ contentType="en"
 >Check that it is not waiting for another task.</li
 ><li
 contentType="fr"
->Vérifiez qu’il n’y a pas une autre tâche dont il attend. </li
+>Vérifiez qu’il n'est pas en train d'attendre une autre tâche.</li
 ><li
 contentType="en"
 >Do the task (see other modules if necessary).</li
@@ -2043,13 +2051,16 @@ contentType="en"
 >Check the chapters that have been completed.</li
 ><li
 contentType="fr"
->Cochez la case à gauche du numéro de chapitre pour marquer le chapitre comme terminé. </li
+>Cochez la case à gauche du numéro de chapitre pour le marquer comme terminé. </li
 ><li
-contentType="en"
+contentType="dn"
 >To mark some verses only, click to the right and check the individual verses.</li
 ><li
-contentType="fr"
->Pour marquer quelques versets, cliquez à droite sur et cochez les versets individuels. </li
+contentType="dn"
+>This doesn't seem possible!</li
+><li
+contentType="dn"
+>Pour marquer quelques versets, cliquez à droite et cochez les versets individuels. </li
 ></ul
 ></section2
 ></section1
@@ -2131,13 +2142,13 @@ contentType="en"
 >Complete the setup as appropriate.</li
 ><li
 contentType="fr"
->Complétez-la comme nécessaire. </li
+>Complétez-la comme nécessaire.</li
 ><li
 contentType="en"
 >Close the window when finished.</li
 ><li
 contentType="fr"
->Quand fini, fermez la fenêtre. </li
+>Fermez la fenêtre quand c'est fini.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -2182,13 +2193,13 @@ contentType="en"
 >Make the necessary corrections.</li
 ><li
 contentType="fr"
->Faites les corrections. </li
+>Faites les corrections.</li
 ><li
 contentType="en"
 >Close the list result.</li
 ><li
 contentType="fr"
->Fermez la liste de résultats. </li
+>Fermez la liste de résultats.</li
 ><li
 contentType="en"
 ><object
@@ -2218,13 +2229,13 @@ type="tkey"
 >+<object
 type="tkey"
 >s</object
->). </li
+>).</li
 ><li
 contentType="en"
 >Return to the Project plan.</li
 ><li
 contentType="fr"
->Retournez au plan de projet. </li
+>Retournez au plan de projet.</li
 ><li
 contentType="en"
 >The check is considered complete with there are 0 issues.</li
@@ -2270,7 +2281,7 @@ contentType="fr"
 >Ce module explique comment vous pouvez saisir votre traduction (taper les données) dans un projet existant de <object
 type="tPT"
 ></object
-> .</p
+>.</p
 ><pc
 contentType="en"
 ><object
@@ -2392,7 +2403,7 @@ src="12imgfr/image13.png"
 ></img
 ><br
 ></br
->La barre de titre doit dire soit (Modifiable) soit un nom.</li
+>La barre de titre doit afficher « Modifiable » ou le nom de quelqu'un.</li
 ><li
 contentType="en"
 >If your project is shared and your name is not on the titlebar, you should talk with your project administrator.</li
@@ -2404,7 +2415,7 @@ contentType="en"
 >If it is not editable, try changing the view (see below).</li
 ><li
 contentType="fr"
->Si votre projet n’est pas partagé et ce n’est pas modifiable, essayez de changer l’affichage (voir ci-dessous).  </li
+>Si votre projet est toujours non-modifiable, essayez de changer l’affichage (voir ci-dessous) pour trouver un affichage modifiable.</li
 ></ul
 ></section1
 ><section1
@@ -2494,7 +2505,7 @@ contentType="en"
 >Change your keyboard system as needed on your computer.</li
 ><li
 contentType="fr"
->Changez le système de clavier comme nécessaire.</li
+>Changez le système de clavier si nécessaire.</li
 ><li
 contentType="en"
 >If you are using Keyman then choose Tchad Unicode <br
@@ -2513,7 +2524,7 @@ app="sChadSpecChar"
 >.</li
 ><li
 contentType="fr"
->Saisissez les touches comme dans les tableaux à <appendixRef
+>Tapez les touches comme dans les tableaux à <appendixRef
 app="sChadSpecChar"
 ></appendixRef
 >. </li
@@ -2594,7 +2605,13 @@ type="tkey"
 > » (or select it from the list).</li
 ><li
 contentType="fr"
->Saisissez le marquer (comme s1 ou ip), puis tapez <object
+>Saisissez le marquer (comme <object
+type="ttyped"
+>s1</object
+> ou <object
+type="ttyped"
+>ip</object
+>), puis tapez <object
 type="ttyped"
 >Entrée</object
 >  (ou le sélectionnez de la liste). </li
@@ -3068,7 +3085,7 @@ id="sRecall"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Recall :</titleContent
+>Recall:</titleContent
 ><titleContent
 contentType="fr"
 >Bilan : Complétez les champs vides :</titleContent
@@ -5746,7 +5763,10 @@ type="tmenu"
 ></li
 ><li
 contentType="en"
->Enter letters which sound alike separated by / (e.g. <object
+>Enter letters which sound alike separated by <object
+type="ttyped"
+>/</object
+> (e.g. <object
 type="ttyped"
 >s</object
 >/<object
@@ -5758,7 +5778,16 @@ type="ttyped"
 >)</li
 ><li
 contentType="fr"
->Remplissez la boîte de dialogue avec les paires de lettres qui peuvent être confondues (p.e.x s/sh)</li
+>Remplissez la boîte de dialogue avec les paires de lettres qui peuvent être confondues séparé par <object
+type="ttyped"
+>/</object
+> (p.e.x <object
+type="ttyped"
+>s</object
+>/<object
+type="ttyped"
+>sh</object
+>)</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -5844,7 +5873,7 @@ type="tmenu"
 framedtype="tTeacher"
 ><p
 contentType="en"
->A progress meter is displayed initially then all the words that are either unknown or incorrect have red squiggly lines underneath.</p
+>A progress meter is displayed initially, then all the words that are either unknown or incorrect have red squiggly lines underneath.</p
 ><p
 contentType="fr"
 >Un mètre de progrès s’affiche puis tous les mots inconnus ou incorrects sont soulignés avec les lignes ondulées rouges.</p
@@ -5862,6 +5891,21 @@ contentType="fr"
 >Corrections des erreurs</titleContent
 ></titleContentChoices
 ></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+><object
+type="tPT"
+></object
+> will underline in red the words that have not been approved in the word list. This either means that the word is misspelled or unknown. You must decide.</p
+><p
+contentType="fr"
+><object
+type="tPT"
+></object
+> soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu ou soit mal-écrit. C'est á vous de décider.</p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -6499,7 +6543,7 @@ contentType="en"
 >Correct a word which was incorrectly marked</titleContent
 ><titleContent
 contentType="fr"
->Corrige un mot mal marqué</titleContent
+>Corriger un mot mal marqué</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -6508,7 +6552,7 @@ contentType="en"
 >Find the word in the list (using the filter if necessary)</li
 ><li
 contentType="fr"
->Trouvez le mot dans la liste </li
+>Trouvez le mot dans la liste (en utilisant un filtre si nécessaire)</li
 ><li
 contentType="en"
 >Click on the line</li
@@ -6534,7 +6578,7 @@ contentType="en"
 >BT: A 4-Step process for consistent Biblical Terms</titleContent
 ><titleContent
 contentType="fr"
->TB : Un processus de 4 étapes pour les termes bibliques cohérents </titleContent
+>TB : Un processus de 4 étapes pour les termes bibliques cohérents</titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -7428,9 +7472,11 @@ contentType="fr"
 ></secTitle
 ><p
 contentType="en"
+pagecontrol="keepWithNext"
 >In Paratext</p
 ><p
 contentType="fr"
+pagecontrol="keepWithNext"
 >Dans Paratext</p
 ><ul
 ><li
@@ -7470,9 +7516,11 @@ type="tresult"
 ></ul
 ><p
 contentType="en"
+pagecontrol="keepWithNext"
 >From the list of results</p
 ><p
 contentType="fr"
+pagecontrol="keepWithNext"
 >Dans la liste des résultats</p
 ><ul
 ><li
@@ -8692,7 +8740,7 @@ type="tmenu"
 contentType="en"
 >For each item, choose <object
 type="tmenu"
->Valide</object
+>Valid</object
 > ou <object
 type="tmenu"
 >Invalid</object
@@ -8728,7 +8776,7 @@ type="tmenu"
 contentType="en"
 >For each item, choose <object
 type="tmenu"
->Valide</object
+>Valid</object
 > ou <object
 type="tmenu"
 >Invalid</object
@@ -8764,7 +8812,7 @@ type="tmenu"
 contentType="en"
 >For each item, choose <object
 type="tmenu"
->Valide</object
+>Valid</object
 > ou <object
 type="tmenu"
 >Invalid</object
@@ -8800,7 +8848,7 @@ type="tmenu"
 contentType="en"
 >For each item, choose <object
 type="tmenu"
->Valide</object
+>Valid</object
 > ou <object
 type="tmenu"
 >Invalid</object
@@ -12437,18 +12485,14 @@ contentType="fr"
 >PT8-Codes des livres Bibliques</titleContent
 ></titleContentChoices
 ></shortTitle
-><p
-contentType="en"
->Old Testament</p
-><p
-contentType="fr"
->Ancien Testament</p
 ><tablenumbered
 contentType="en"
 id="ntBooksEng"
 ><table
 align="left"
 border="1"
+><caption
+>Old Testament</caption
 ><tr
 ><td
 align="left"
@@ -12638,6 +12682,8 @@ contentType="fr"
 id="ntATLivres"
 ><table
 border="1"
+><caption
+>Ancien Testament</caption
 ><tr
 ><td
 >Genèse [Genesis] [GEN]</td
@@ -12756,6 +12802,8 @@ id="ntNTBooks"
 ><table
 align="left"
 border="1"
+><caption
+>New Testament</caption
 ><tr
 ><td
 align="left"
@@ -12889,9 +12937,11 @@ contentType="fr"
 id="ntNTLivres"
 ><table
 border="1"
+><caption
+>Nouveau Testament</caption
 ><tr
 ><td
->Matthieu [Matthew] [MAT]</td
+>Mathieu [Matthew] [MAT]</td
 ><td
 >Marc [Mark] [MRK]</td
 ><td
@@ -14225,11 +14275,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
