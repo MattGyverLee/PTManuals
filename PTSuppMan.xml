@@ -489,7 +489,10 @@ type="tresult"
 ></li
 ><li
 contentType="en"
->Go to https://registry.paratext.org<br
+>Go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+><br
 ></br
 ><object
 type="tresult"
@@ -497,7 +500,10 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->Dans votre navigateur web, Accédez à https://registry.paratext.org <br
+>Dans votre navigateur web, Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> <br
 ></br
 ><object
 type="tresult"
@@ -1674,13 +1680,13 @@ type="tPT"
 > both users and projects should to be registered. Access to specific text resources, e.g. TEV, is determined by what organization you are a part of</p
 ><p
 contentType="fr"
->Dans Paratext 8, l’on doit enregistrer aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie. Les projets peuvent être inscrits par l'administrateur (ou par un conseiller jouant le rôle d'administrateur).</p
+>Dans Paratext 8, l’on doit inscrire aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie. Les projets peuvent être inscrits par l'administrateur (ou par un conseiller jouant le rôle d'administrateur).</p
 ><p
 contentType="en"
 >Projects may be registered by the administrator (or a consultant serving as an administrator)</p
 ><p
 contentType="fr"
->Les projets peuvent être inscrits par l'administrateur (ou un conseillèr servant d'administrateur.</p
+>Les projets peuvent être inscrits par l'administrateur (ou un conseillèr servant d'administrateur).</p
 ><p
 contentType="en"
 >Other organizations/users are notified and may object to BoG. Basic project metadata information is available to all in ParaTExt community</p
@@ -1767,7 +1773,10 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Go to registry.paratext.org in your web browser.<br
+>Go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> in your web browser.<br
 ></br
 ><object
 type="tresult"
@@ -1775,7 +1784,10 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->Accédez à registry.paratext.org<br
+>Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+><br
 ></br
 ><object
 type="tresult"
@@ -2449,15 +2461,15 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Go to <object
-type="tlink"
->registry.paratext.org</object
+>Go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
 ></li
 ><li
 contentType="fr"
->Accédez à <object
-type="tlink"
->registry.paratext.org</object
+>Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
 ></li
 ><li
 contentType="en"
@@ -2980,7 +2992,7 @@ type="tmenu"
 >.</li
 ><li
 contentType="en"
->Fill in the advaced fields if necessary.</li
+>Fill in the advanced fields if necessary.</li
 ><li
 contentType="fr"
 >Remplissez les champs avancés si nécessaire.</li

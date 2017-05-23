@@ -1,0 +1,2501 @@
+!Introduction du Cours
+
+!1: Introduction 
+
+----
+!!1.1: But
+
+Les participants traiteront leur traduction à l’aide de Paratext 8, qui est un logiciel créé pour stocker et vérifier les textes de la traduction. Ainsi on suit les six étapes du plan de SIL du processus de traduction.
+----
+!!1.2: Objectifs
+
+À la fin de ce cours, le participant sera capable de :
+* Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau (ou menu Démarrer).
+''Étape 1 : Première ébauche ''''Ouvrir des projets et des ressources pour comprendre le texte avant de traduire ''
+* Ouvrir des projets et des ressources supplémentaires, par exemple des Bibles françaises, les textes sources, les dictionnaires, etc.  
+* Organiser plusieurs fenêtres sur l’écran.  ''Saisir la traduction ''
+* Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique désiré.  
+* Saisir le texte dans un projet ouvert à l’aide des marqueurs USFM tels que \c, \v, etc.
+* Utiliser un clavier (MS-clavier ou Keyman) pour saisir les caractères spéciaux. 
+* Ajouter des éléments supplémentaires tels que les titres de section, les introductions, etc.  
+* Ajouter des notes de bas de page.  
+* Faire une ébauche des entrées de glossaire et les ajouter avec l'outil de termes biblique.
+* Utiliser la fonction Envoyer/recevoir pour sauvegarder le projet sur Internet ou sur une clé USB. ''Vérifications de base ''
+* Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.
+* Exécuter la vérification afin de s’assurer que les éléments de texte sont correctement marqués (marqueurs, styles, etc.).  ''Progrès du projet''
+* Mettre à jour le progrès de projet 
+''Étape 2 : Vérifications par l’équipe ''''Noms propres ''
+* Transliterater les noms propres. 
+* Vérifiez que les noms propres ont été translittérés selon les règles convenues et sont cohérents. ''Termes bibliques ''
+* Utiliser l'outil __Termes Bibliques__ pour s'assurer que l’utilisation des termes est cohérente. ''Vérifications ''
+* Utiliser les listes récapitulatives pour corriger les problèmes de mises en forme dans les en-têtes, les paragraphes, la mise en page et les retraits. 
+* Effectuer les vérifications de bases pour assurer que tous les caractères, ponctuations, mise en majuscule et mots répétés sont valides. (Votre administrateur doit configurer les inventaires/paramètres comme nécessaires.)
+* Corriger les fautes d’orthographe en utilisant l’outil __Vérifier l’orthographe__ du texte et/ou les vérifications de la liste de mots.  ''Utiliser des remarques''
+* Ajouter des remarques pour communiquer avec l’équipe et conseillère. 
+* Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions prises.''Imprimer des ébauches ''
+* Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.
+----
+!!1.3: Plan du cours
+
+''Présentations, préparations ''''Se présenter ''
+Les participants et encadrants doivent se présenter en donnant :
+* leur nom 
+* leur langue 
+* leur ville 
+* quelles sont la première et la dernière version de Paratext que vous avez utilisées. 
+||5.0 |6.0 |7.0 |7.1 |7.2 |7.3 |7.4 |7.5 |8 
+1998 |2003 |2008 |2010 |2011 |2012 |2013 |2014 |2017 ||
+Pendant que les facilitateurs installent Paratext 8 sur les ordinateurs, le participant devrait lire le matériel d'introduction et cocher (vérifier) les objectifs auxquels ils se sentent confiants dans la version la plus récente de Paratext qu'ils ont utilisée.''Pour chaque module ''
+* Faire une activité de révision du module précédent.
+* Présenter l’introduction (lectures, sketch, PowerPoint, etc.)
+* Lire les aptitudes pour ce module. Si une aptitude est assez simple, demander à un participant de venir démontrer l’aptitude.
+* Suivre les résumés pour les autres aptitudes :
+* Démonstration
+* Reprendre ensemble
+* Permettre aux participants de les faire eux-mêmes
+* Demander à un participant de démontrer les aptitudes.
+* Poser des questions.
+* Faire des activités de révision/bilan.
+* Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, et de les ajouter à Anki.!Étape 1 : Première ébauche
+''Introduction''
+Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saissisez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image2a.png" class=img-responsive}
+Les modules suivants vous aiderez avec cette étape :
+* ((Paratext_8_1-2_Étape1|2: OB : Organisation du bureau|OB : Organisation du bureau))
+* ((Paratext_8_1-2_Étape1|3: PP1 : Plan et progrès du projet|PP1 : Plan et progrès du projet))
+* ((Paratext_8_1-2_Étape1|4: SD : Saisie des données|SD : Saisie des données))
+* ((Paratext_8_1-2_Étape1|5: GL : Glossaire|GL : Glossaire))
+* ((Paratext_8_1-2_Étape1|6: VT1 : Vérifications de base|VT1 : Vérifications de base))
+* ((Paratext_8_1-2_Étape1|7: PP2 : Progrès de projet|PP2 : Progrès de projet))
+!2: OB : Organisation du bureau
+''Introduction''
+Vous désirez travailler sur votre texte en Paratext 8 et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.''Où en sommes-nous ? ''
+Avant de pouvoir faire ceci, Paratext 8 et les ressources diverses doivent avoir été installés et un projet pour vos données doit avoir été créé.''Pourquoi cette aptitude est-elle importante ? ''
+Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.''Qu’est-ce qu’on va faire ? ''
+On va lancer le logiciel Paratext 8, puis ouvrir une disposition des fenêtres qu’est déjà enregistré. Si nécessaire vous pouvez modifier la disposition des fenêtres et réenregistrer la disposition.
+----
+!!2.1: Lancer le programme Paratext
+
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
+* Double-cliquez sur l’icône Paratext 8 sur le bureau OU
+* (Dans le menu Démarrer, choisissez Paratext 8)
+----
+!!2.2: Ouvrir une disposition des fenêtres
+
+* Cliquez sur le menu __Fenêtre__  
+* Choisissez une disposition des fenêtres qui est déjà enregistrée. Votre écran doit ressemble à l’image ci-dessous (sinon, voir ci-dessous). 
+ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image4.png" class=img-responsive}
+----
+!!2.3: Créer une nouvelle disposition
+
+Si vous n’avez pas encore enregistré une disposition de fenêtres, on vous suggère de faire comme ci-dessous
+!!!2.3.1: Ouvrir et arranger les fenêtres
+
+* __Fenêtre__ > __Non disposées__ 
+* Ouvrez 5 fenêtres comme suit :
+* 5 = votre projet (__Fichier__ > __Ouvrir projet/ressource)__
+* 1 = équivalents (__Fichier__ > __Ouvrir les termes équivalents aux termes bibliques__)
+* 2 = texte source (__Fichier__ > __Ouvrir le texte de langue source__)
+* 3 = dictionnaire (__Fichier__ > __Ouvrir un dictionnaire de langue source__)
+* 4 = ressources en collection de textes (__Fichier__ > __Ouvrir projet/ressource en collection de textes__)
+* Arrangez les fenêtres comme vous le souhaitez
+!!!2.3.2: Enregistrer une disposition des fenêtres
+
+Après avoir arrangé les fenêtres comme vous le souhaitez
+* __Fenêtre__ > __Enregistrer la disposition des fenêtres __
+* Saisissez un nom [[ou pour réenregistrer, choisissez un nom existant] 
+* Cliquez sur __OK__ 
+----
+!!2.4: Supprimer une disposition des fenêtres
+
+Si vous ne voulez plus une disposition des fenêtres,
+* __Fenêtre__ > __Supprimer la disposition des fenêtres __
+* Choisissez le nom de la disposition enregistré.
+* Cliquez sur __Supprimer__
+----
+!!2.5: Ouvrir Projet/Ressource en collection de textes
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avec Paratext, il est possible d’avoir plusieurs projets ouverts au même moment. Mais au lieu d’avoir trop de fenêtres, il vaut mieux ouvrir plusieurs ressources dans une seule fenêtre en collection de textes.{BOX}
+* __Fichier__ > __Ouvrir Projet/Ressource en collection de textes__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image5.png" class=img-responsive} 
+* Cliquez sur une ressource (à gauche) 
+* Cliquez sur la flèche droite 
+* Répétez si nécessaire 
+* Si nécessaire, changez l’ordre avec les boutons haut/bas 
+* Cliquez sur __OK__ 
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez changer le texte qui remplira le volet à droite en cliquant sur le lien bleu de la ressource. En Paratext 8 on peut changer l’affichage à aperçu/non-formaté/normale.{BOX}
+----
+!!2.6: Ouvrir un dictionnaire
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ouvrir un dictionnaire de langue source avec des gloses en français :{BOX}
+* __Fichier__ > __Ouvrir dictionnaire de langue source __
+* Choisissez « A Concise Greek-English Dictionary of the New Testament » 
+* __Affichage__ > __français __
+----
+!!2.7: Faire une liste de versets avec un terme dans une langue de source
+
+* Cliquez à droit sur un lemme (bleu) en langue source.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image7a.png" class=img-responsive}
+* Choisissez __Ajouter aux termes bibliques du projet__
+* Choisissez votre projet 
+* Modifier la glose si nécessaire 
+* Cliquez sur __OK__  
+* Changez à l’outil de Termes bibliques 
+* Double-cliquez sur le terme. 
+----
+!!2.8: Bilan
+
+* Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.
+* On peut utiliser le menu ________ (fichier/fenêtre) pour enregistrer ou supprimer des dispositions de fenêtres.
+* On utilise le menu _________ (fichier/fenêtre) pour :
+* Ouvrir les équivalents de termes bibliques
+* Ouvrir le texte source
+* Ouvrir le dictionnaire de langue source
+* Ouvrir le projet/ressource en collection de textes
+* Ouvrir le projet/ressource
+* On fait une liste de versets avec un terme dans une langue de source en cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.
+!3: PP1 : Plan et progrès du projet
+''Introduction''
+On utilise le plan du projet pour nous aider à organiser notre travail et pour voir les taches à faire prochainement. Dès qu’on a fini une tâche, on la note comme fini pour qu’il soit dans le rapport des tâches accomplis. [[Si vous avez utilisé une version précédente, vous allez voir que c’est bien amélioré en Paratext 8.]''Où en sommes-nous ?''
+Avant que vous puissiez utiliser le plan, quelqu’un doit l'avoir ajouté et le configuré. [[C’est normalement votre administrateur du projet ou votre conseiller en technologie linguistique.]''Pourquoi cette aptitude est-elle importante ?''
+Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et .(Voir ((Paratext_8_1-2_Étape1|7.3: Produisez un rapport sur l'état d'avancement|Produisez un rapport sur l'état d'avancement)).)''Qu’est-ce qu’on va faire ? ''
+Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement ,selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Status (Statut).
+----
+!!3.1: Vérifier que votre projet est actif
+
+* Cliquez dans votre projet.
+----
+!!3.2: Afficher les taches à faire
+
+* Cliquez sur le bouton « __Assignments and Progress__ » {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image7.png" class=img-responsive} OU[[__Projet__ > __Assignments and progress]__
+* De la première liste roulante, choisissez __Mes tâches __ou __All tasks__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image8.png" class=img-responsive}
+----
+!!3.3: Identifiez la prochaine tâche à faire
+
+La liste des tâches vous montre les taches inachevées.
+* Identifiez la prochaine tâche à faire.
+* Vérifiez qu’il n'est pas en train d'attendre une autre tâche.
+* Faites les taches. (Voir les autres modules si nécessaire.)
+{BOX(bg="#FFE6FF" width="60%")}
+Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il n’y a rien à signaler (0 issues). {BOX}
+----
+!!3.4: Marquer une tâche comme achevée
+
+!!!3.4.1: Marquer une tâche de livre comme terminée
+
+* Cochez sur la case à gauche du statut de la tâche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}Il devient plein pour montre qu’il est terminé.
+!!!3.4.2: Marquer une tâche de chapitre comme terminée
+
+* Cliquez sur __+__ pour marquer le prochain chapitre comme terminé{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
+* Cliquez à droite sur le mot « __Completed__ »{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image10.png" class=img-responsive}
+Une boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
+* Cochez la case à gauche du numéro de chapitre pour le marquer comme terminé. 
+----
+!!3.5: Vérifications
+
+* Si la tâche est une vérification, l’état de la vérification indiquera soit la configuration requise, soit le nombre de problèmes (issues) restants. 
+* Une vérification est complète quand il y a __No issues__.
+!!!3.5.1: Vérifications - setup required (Administrateur)
+
+* Cliquez sur le lien bleu « Setup required »Paratext 8 va soit lancer l’inventaire soit afficher les paramètres appropriés.
+* Complétez-la comme nécessaire.
+* Fermez la fenêtre quand c'est fini.
+{BOX(bg="#FFE6FF" width="60%")}
+S'il y a plus d'un inventaire pour un vérification (p.ex. mise en majuscule), vous devrez les configurer manuellement dans le menu Vérification.{BOX}
+!!!3.5.2: Vérifications - erreurs
+
+* Cliquez sur le lien bleu « … issues » Une liste de problème s’affiche.
+* Faites les corrections.
+* Fermez la liste de résultats.
+* __Fichier__ > __Enregistrez tout.__ (ou __Ctrl__+__s__).
+* Retournez au plan de projet.
+{BOX(bg="#FFE6FF" width="60%")}
+La vérification est considérée comme achevée quand il n’y a rien à signaler.{BOX}
+!4: SD : Saisie des données
+''Introduction''
+Ce module explique comment vous pouvez saisir votre traduction (taper les données) dans un projet existant de Paratext 8.''Où en sommes-nous ? ''
+Nous sommes sur le point de saisir du texte dans un projet existant. Avant que vous puissiez faire ceci, quelqu’un doit avoir installé le programme et avoir créé un projet pour vos données.''Pourquoi cette aptitude est-elle importante ? ''
+C’est la première étape de l’introduction de votre traduction dans l’ordinateur. Une fois que le texte a été saisi, vous pourrez exécuter divers contrôles sur le contenu et le format du texte.
+----
+!!4.1: Naviguer vers une référence biblique.
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant de pouvoir commencer à saisir un texte, vous devez déplacer votre curseur au livre, au chapitre et au verset appropriés. Servez-vous de la barre d’outils Référence pour le faire.{BOX}
+* Utilisez la barre d’outils Référence pour changer le projet, le livre, le chapitre et le verset selon les besoins. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image12.png" class=img-responsive}
+----
+!!4.2: Vérifier que le projet est modifiable
+
+* Regardez la barre de titre de votre projet.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image13.png" class=img-responsive}La barre de titre doit afficher « Modifiable » ou le nom de quelqu'un.
+* Si votre projet est partagé et votre nom n’est pas mentionné, et que vous deviez l’éditer, il faut parler avec votre administrateur. 
+* Si votre projet est toujours non-modifiable, essayez de changer l’affichage (voir ci-dessous) pour trouver un affichage modifiable.
+----
+!!4.3: Changer l’affichage
+
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext 8 a cinq affichages. Seul le mode Aperçu n’est pas modifiable.{BOX}
+* __Ctrl__ +  __E__ —ou—
+* Du menu __Affichage__, choisissez l’affichage que vous préférez (p.ex. Normal).
+----
+!!4.4: Taper les caractères spéciaux
+
+{BOX(bg="#FFE6FF" width="60%")}
+Certains des caractères orthographiques ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus d’une touche.{BOX}
+* Changez le système de clavier si nécessaire.
+* Passez de Keyman (p.ex. à Tchad Unicode) (ou changez le clavier virtuel pour passer à une langue appropriée [[TR ou SQ/TZ/AF…]) 
+* Tapez les touches comme dans les tableaux à Annexe . 
+{BOX(bg="#FFE6FF" width="60%")}
+Note : Vous pouvez utiliser le menu __Affichage__ > __Highlight Invalid Characters__ pour mettre en surbrillance des caractères invalides qui sont dans le texte.{BOX}
+----
+!!4.5: Ajouter texte avec un autre marqueur - titre ou introduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Chaque élément de texte doit avoir un marqueur. Les marqueurs pour les versets sont déjà dans votre projet. Pour ajouter un titre à votre texte, vous devez faire ce qui suit :{BOX}
+* Déplacez votre curseur à la fin du paragraphe qui est au-dessus du titre.
+* Appuyez sur Entrée ou Saisissez « \ » 
+* Saisissez le marquer (comme s1 ou ip), puis tapez Entrée  (ou le sélectionnez de la liste). 
+* Saisissez le texte
+* Ajoutez un marqueur de paragraphe (par exemple : \p) 
+{BOX(bg="#FFE6FF" width="60%")}
+Vous devez toujours avoir un marqueur USFM après un titre et avant les versets. C’est habituellement \p (paragraphe), mais peut être autre chose (par exemple \q1).{BOX}
+----
+!!4.6: Ajouter des marqueurs de paragraphe
+
+{BOX(bg="#FFE6FF" width="60%")}
+Pour diviser le texte en paragraphes :{BOX}
+* Déplacez le curseur où vous voulez casser le paragraphe.
+* Appuyez sur __Entrée__.
+* Saisissez __p__ puis tapez __Entrée__  (ou le sélectionnez de la liste). 
+----
+!!4.7: Enregistrer votre travail
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il est important d’enregistrer votre travail régulièrement.{BOX}
+* __Fichier__ > __Enregistrer tout__ ou __Ctrl__ + __S__ 
+----
+!!4.8: Insérer une Note de bas de page
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ajouter les notes de bas de page dans le texte à l’endroit où la référence apparaît dans votre texte.{BOX}
+* __Insérer__ > __Note de bas de page,__
+* Un ensemble de marqueurs de note en bas de page est ajouté dans la boîte au-dessous du texte{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image14.png" class=img-responsive}
+* Saisir le texte de la note après \ft
+{BOX(bg="#FFE6FF" width="60%")}
+Pour voir la note de bas de page, déplacez la souris au-dessus de la petite lettre sans cliquer sur les boutons. [[La note de bas de page s’affiche dans une petite boîte.]
+Pour modifier la note de bas de page, cliquez sur la petite lettre et modifiez le texte dans le petit volet en bas. Pour supprimer la note en bas de page, vous pouvez supprimer la petite lettre.{BOX}
+----
+!!4.9: Envoyer/Recevoir à une clé pour sauvegarder
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :{BOX}
+* Si nécessaire, insérez votre clé USB dans un port de l’ordinateur.
+* Cliquez sur l’icône Envoyer/Recevoir {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image15.png" class=img-responsive} pour faire Envoyer/Recevoir suivant les paramètres précédents.ou
+* __Fichier__ > __Envoyer/Recevoir projet(s__) 
+* Choisissez soit Internet soit USB clé (comme désiré) 
+* Cliquez sur le bouton __Envoyer/Recevoir__.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image16.png" class=img-responsive}L’ordinateur fera une copie des fichiers. Un indicateur de progrès s’affiche jusqu’à ce que le processus soit fini. Une boîte de message vous dit s’il y a des problèmes.
+----
+!!4.10: Déplacer votre point d’insertion rapidement
+
+{BOX(bg="#FFE6FF" width="60%")}
+Beaucoup de temps est dépensé en déplaçant le curseur à l’endroit correct où vous voulez taper du texte ou faire des corrections. Voilà quelques touches utiles.{BOX}
+* Les touches flèches, __←__ __↑__ __→__ __↓__ __début__ (Home), __fin__ (End), __PgPréc__, et __PgSuiv__, __F8__ (chapitre), __F9__ (livre) 
+* ou __Ctrl__ + les touches 
+----
+!!4.11: Bilan : Complétez les champs vides :
+
+Si la barre de titre n'affiche pas Modifiable (ou votre nom), on peut changer l’__________.
+Pour ajouter un autre balise (marqueur), on appuyez _______.
+Pour ajouter des balises (marqueurs) de paragraphe, vous appuyez ________.
+Pour insérer une Note de bas de page, on utilise le menu _______ et choisissez ___________________.
+Pour Envoyer/recevoir, on utilise le menu ________ puis ________________
+[[Réponse : affichage, entre or \, entre, Insérer, Note de bas de page, Fichier, Envoyer/Recevoir]
+!5: GL : Glossaire
+''Introduction''
+Ce module explique comment ajouter des entrées dans le glossaire avec l’outil __Termes bibliques__.''Où en sommes-nous ? ''
+Vous avez entré et vérifié votre texte dans Paratext 8. Maintenant, vous voulez ajouter des mots importants dans le glossaire.''Pourquoi cette aptitude est-elle importante ? ''
+C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil __Termes bibliques__, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.''Qu’est-ce qu’on va faire ? ''
+Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.
+----
+!!5.1: Ajouter une entrée
+
+* Accédez à un verset qui contient le mot/terme que vous voulez dans le glossaire. 
+* Cliquez à droite et choisissez « __Afficher les termes bibliques__ », puis choisissez « __Verset(s) actuel(s)__ » 
+* Vérifiez que la liste désirée est ouverte (p.ex. Termes bibliques clés du NT [[SIL]) 
+* Double-cliquez sur le mot dans la liste du haut
+* Cliquez sur l’onglet « __Glossaire__ »{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image17.png" class=img-responsive}
+* Saisissez le mot dans la forme de citation (c.-à.d. ce que vous voulez dans la glossaire) [[1] 
+* Saisissez la __Définition [[2]__ 
+* Cliquer sur __OK__ Le mot ainsi que la définition seront ajoutés au livre de glossaire dans l’ordre alphabétique.
+----
+!!5.2: Lier une entrée existante
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si le mot est déjà dans le glossaire, on peut avoir un lien avec un mot-clé dans le glossaire.{BOX}
+* Dans l’outil termes bibliques
+* Vérifiez que la liste désirée est sélectionné (p.ex. Termes bibliques clés du NT [[SIL]) 
+* Double-cliquez sur le mot dans la liste sur le volet de haut 
+* Cliquez sur l’onglet « __Glossaire__ » 
+* Cliquez sur la flèche à côté de Forme de citation (1) 
+* Choisissez l’entrée du glossaire 
+* Cliquez sur __OK__ 
+----
+!!5.3: Afficher le glossaire
+
+Dans Paratext
+* Utilisez la barre de navigation pour changer le livre{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image18.png" class=img-responsive}
+* Choisissez le livre GLO
+----
+!!5.4: Modifier une entrée  – dans le livre GLO
+
+Dans Paratext
+* Ouvrez le livre GLO 
+* Modifiez le texte comme normal.
+----
+!!5.5: Modifier une entrée  – dans les termes bibliques
+
+* __Outils__ > __Termes__ __bibliques__... 
+* Double-cliquez sur le mot dans la liste en haut 
+* Cliquez sur l’onglet « __Glossaire__ » 
+* Modifiez la définition 
+* Cliquez sur __OK__. 
+----
+!!5.6: Ajouter un terme biblique 
+
+* voir la section 10.6 ((Paratext_8_1-2_Étape2|10.6: Ajouter un terme|Ajouter un terme))
+----
+!!5.7: Bilan
+
+* Vous pouvez ouvrir l'outil termes bibliques du menu ________ .
+* L'onglet « glossaire » se trouve dans la boîte de dialogue ________. Pour ouvrir cette boîte de dialogue ________-clique sur le terme dans le volet en _____.
+* Pour voir la glossaire, on change au livre _____ (après Apocalypse).
+{BOX(bg="#FFE6FF" width="60%")}
+Réponses : Outils, Modifier l'équivalents, double, haut, GLO{BOX}
+!6: VT1 : Vérifications de base
+''Introduction ''
+Dans ce module, vous allez vérifier les chapitres/verset et les marqueurs dans deux façons: le plan de projet et le menu de vérification.''Où en sommes-nous ? ''
+Vous avez déjà saisi votre texte dans Paratext 8. Maintenant, vous voulez commencer à faire les vérifications. Dans ce module on commence avec les deux premières vérifications de base.''Pourquoi cette aptitude est-elle importante ? ''
+Ces vérifications vous permettent d’être sûr que votre texte contient tous les chapitres et tous les versets et que les marqueurs sont bons. Il est important d’exécuter la vérification « chapitre/verset » tout d’abord parce que tous les autres contrôles en dépendent. C’est également nécessaire pour assurer que l’étape de « ébauchage » est finie.''Qu’est-ce qu’on va faire ? ''
+Vous allez effectuer les deux premières vérifications de base. Le moyen le plus facile est d’utiliser du plan de projet. [[C’est aussi possible de faire les vérifications à partir du menu vérification pour faire plus qu'un livre à la fois.]
+----
+!!6.1: Vérifications avec plan de projet
+
+C’est plus facile à faire des vérifications à partir du plan de projet
+* Affichez plan du projet en cliquant sur l’icône{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image19.png" class=img-responsive}
+* S’il y a des « issues » (erreurs), cliquez le lien bleu à droit  {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image20.png" class=img-responsive}Une fenêtre s’affiche avec les erreurs.
+* Double-cliquez une ligne dans la liste. 
+* Corrigez l’erreur dans votre projet. 
+* Double-cliquez la prochaine ligne dans la liste. 
+* Continuez jusqu’à il n’y a plus d’erreurs. 
+* Cliquez sur le bouton « __Relancer__ » pour vérifier toutes les erreurs sont corrigées. 
+* Fermez la fenêtre de résultats. 
+* Continuez avec la vérification des marqueurs. 
+----
+!!6.2: Faire les vérifications manuellement
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous voulez vérifier plus qu’un livre, vous pourriez faire ces vérifications du menu vérifications.{BOX}
+!!!6.2.1: Vérification des « Chapitres/ Versets »
+
+* Cliquez sur votre projet
+* __Vérification__ > __Effectuer les vérifications de base __ 
+* Cocher seulement __Numérotage Chapitre/verset__ 
+* Décochez d'autres vérifications
+* Si nécessaire, cliquez __Choose…__ et choisissez les livres à vérifier.
+* Cliquez sur__ OK__ Une fenêtre s’affiche avec les erreurs.
+* Double-cliquez une ligne dans la liste. 
+* Corrigez l’erreur dans votre projet. 
+* Double-cliquez la prochaine ligne dans la liste. 
+* Continuez jusqu’à il n’y a plus d’erreurs. 
+* Cliquez sur le bouton « __Relancer__ » pour vérifier que toutes les erreurs sont corrigés. 
+* Fermez la fenêtre de résultats. 
+!!!6.2.2: Vérification des « Marqueurs »
+
+* __Vérification > __Inventaire de marqueurs____ Cette liste donne un vu d'ensemble des marqueurs. On ne peut que regarder la liste, mais on peut chercher les marqueurs erronés.
+* Fermez l'inventaire de marqueurs.
+* __Vérification__ > __Effectuer les vérifications de base __ 
+* Cochez seulement__ Marqueurs__ 
+* Cliquez sur __OK__ 
+* Corrigez les erreurs. 
+!7: PP2 : Progrès de projet
+''Introduction''
+Dans ce module, vous apprendrez comment actualiser votre progrès et créer un rapport sur l'état d'avancement.''Où en sommes-nous ?''
+Vous avez travaillé sur votre traduction et avez fini une tâche. Vous voulez maintenant actualiser votre progrès.
+Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permit au Paratext 8 de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.
+Vous ouvrirez la fenêtre des affectations et progrès, et actualiserez le progrès fait. Vous produirez alors un rapport.
+----
+!!7.1: S'assurer le progrès du plan est à jour
+
+* Ouvrez le plan de projet (utilisant le bouton)
+* Actualisez le progrès sur toute tâche (voir PP1 pour les instructions sur chaque type de tâche).
+----
+!!7.2: Modifier une affectation
+
+{BOX(bg="#FFE6FF" width="60%")}
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image21.png" class=img-responsive}Cela peut seulement être fait par un administrateur de projet.{BOX}
+* Du menu __Projet__, select __Assignments and Progress....__(Affectations et Progrès)
+* De la première liste roulante en haut du dialogue, choisissez __All Tasks__ (Toutes les Tâches).
+* Dans la colonne, "__Assigned to__" (affecté à), utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne __Task/Check__ (Tâche/Vérification) au gauche).
+----
+!!7.3: Produisez un rapport sur l'état d'avancement
+
+* Du menu __Outils__ menu, choisissez __Rapport sur l'état de Projet..__.
+* Choisissez le projet(s) à faire un rapport
+* Cliquez sur __OK__. Le rapport contiendra une colonne pour chaque projet que vous avez choisi.
+----
+!!7.4: Les équipes de vue font des progrès des graphiques
+
+* Du menu __Project__, choisissez __Progress charts....__ (des graphiques de progrès d'équipe).{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image23.png" class=img-responsive}
+* Utilisez la première boîte dropdown pour choisir le type de graphique
+* Choisissez les livres comme nécessaires.
+* Cliquez sur l'icône d'imprimanteUne fenêtre s'affiche.
+* Cliquez sur l'icône __Print__
+* Choisissez votre imprimante (ou PDF creator)
+* Cliquez sur __OK__!Étape 2 : Vérification par l’équipe
+
+La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe et notes bibliques pour enregistrer vos questions, des discussions et des décisions.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image21.png" class=img-responsive}
+Les modules suivants vous aiderez avec cette Étape :
+* ((Paratext_8_1-2_Étape2|8: NP : Noms propres|NP : Noms propres))
+* ((Paratext_8_1-2_Étape2|9: VO : Vérification de l’orthographe|VO : Vérification de l’orthographe))
+* ((Paratext_8_1-2_Étape2|10: TB : Un processus de 4 étapes pour les termes bibliques cohérents|TB : Un processus de 4 étapes pour les termes bibliques cohérents))
+* ((Paratext_8_1-2_Étape2|13: VM : Vérification de mise en page |VM : Vérification de mise en page ))
+* ((Paratext_8_1-2_Étape2|12: VB2 : Les vérifications de base  |VB2 : Les vérifications de base  ))
+* ((Paratext_8_1-2_Étape2|14: IE : Impression d’ébauches |IE : Impression d’ébauches ))
+* ((Paratext_8_1-2_Étape2|15: UR : L’utilisation des remarques|UR : L’utilisation des remarques))
+!8: NP : Noms propres
+''Introduction''
+Dans ce module, vous allez vérifier que les noms propres sont bien translitérés.''Où en sommes-nous ? ''
+Vous avez (ou vous êtes en train de faire) un accord des règles pour la translittération de noms.''Pourquoi cette aptitude est-elle importante ? ''
+On veut être cohérent. [[Vous voulez être conséquent pour que soient clairs à qui on parle dans le texte.]''Qu’est-ce qu’on va faire ? ''
+Vous filtrez la liste de termes bibliques principaux de noms propres. Puis vous allez taper les règles de translittération et ajouter les propositions de noms. Puis vous allez vérifier les versets.
+----
+!!8.1: Lancer l’outil Termes biblique
+
+* Cliquez dans votre projet 
+* __Outils__ > __Termes bibliques...__ 
+!!!8.1.1: Ouvrir la liste de termes
+
+* __Fichier__ > __Sélectionner liste de termes__ 
+* Double-cliquez sur la liste __Termes bibliques principaux__  
+!!!8.1.2: Choisir le texte de référence pour comparer
+
+* Cliquez le bouton __Textes comparatifs__ sur la barre d’outils. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image22.png" class=img-responsive} 
+* Choisissez un texte et puis cliquez sur ____ . 
+* Cliquez sur __OK__. 
+!!!8.1.3: Modifier divers paramètres
+
+* Cliquez sur le deuxième bouton de filtre  
+* Cliquez sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image23.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. : Si vous voulez voir les termes grecs ou hébreux avec l’alphabet romanisé, vous pouvez changer l’affichage en utilisant Affichage > __Translitérer termes.__.{BOX}
+!!!8.1.4: Choisir les types de termes
+
+* Cliquez sur le premier bouton de filtre 
+* Choisissez « __Nouveau Filtre__ » 
+* Dans la boîte de dialogue, sous __Catégories…__ 
+* Sélectionnez « __Noms propres__ »
+* Cliquez sur __OK__  
+----
+!!8.2: Modifier noms propres
+
+* __Outils__ __> __Modifier les noms propres____ 
+* Choisissez la langue de référence (p.ex. française, arabe)La boîte de dialogue Modification de noms propres s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image24.png" class=img-responsive}
+!!!8.2.1: Entre les modifications des lettres individuelles (ou des groupes de lettres)
+
+* Dans le volet à gauche, entrez d’abord des modifications des lettres individuelles et des groupes de lettres dans la colonne « Caractère modifié ».
+!!!8.2.2: Puis réviser les noms propres (à droite) un par un
+
+* Dans la colonne __Nom propre modifié__ au volet droite.
+* Pour chaque nom propre, si la modification n’est pas juste, cliquez sur __Nom propre modifié__.
+* précisez la modification juste et cliquez sur __OK__
+* Une fois qu’un nom modifié est juste, cliquez sur « __Approuvé__ » pour empêcher qu’il ne soit changé de nouveau.
+* Cliquez sur __OK__. > Paratext 8 proposera un mot en rouge pour tous les noms.
+----
+!!8.3: Vérifier que votre texte est cohérent
+
+Vous devez identifier le(s) mot(s) que vous avez utilisés dans votre texte pour chaque nom propre.
+* Cliquez sur le nom dans la liste en haut. 
+* Cliquez dans un verset dans le volet en bas qui n'a pas le forme du nom.
+* Cliquez sur le lien Modifier
+* Corrigez comme nécessaire, cliquez sur __OK__.
+* Retournez à l'Outil Termes Bibliques 
+* Répétez pour chaque nom 
+----
+!!8.4: Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte)
+
+* Cliquez sur le nom dans la liste en haut. 
+* Sélectionnez le(s) mot(s) dans votre texte (en bas) qui est (sont) l’équivalent de ce nom. 
+* Cliquez sur __Ajouter équivalents__ ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/add.png" class=img-responsive}) ou Ctrl+A
+----
+!!8.5: Traiter des versets qui n’ont pas le nom dans la traduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il arrive qu’un verset soit traduit correctement sans utiliser le nom réel. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas un équivalent de ce mot précis dans ce verset.{BOX}
+* Cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image26.png" class=img-responsive} à la fin du verset. La croix rouge X se transforme en {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image27.png" class=img-responsive} (et/ou le verset disparaît de la liste). 
+* Si vous avez cliqué sur la croix rouge par erreur, cliquez de nouveau sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image27.png" class=img-responsive} pour retourner à la croix rouge. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image26.png" class=img-responsive}
+{BOX(bg="#FFE6FF" width="60%")}
+Note : Paratext 8 ne vérifie pas les noms dans l’introduction, les en-têtes, les notes de bas de page, les légendes et le glossaire.{BOX}
+----
+!!8.6: Bilan
+
+* Pour translittér les noms propres, vous ______ la liste de noms sur _________________ .
+* Puis vous utilisez le menu _______ et choisissez le commande ____________ .
+* Après avoir saisi les changements des _______ puis __________ les noms adaptés.
+* Paratext 8 ajoute un équivalent __________ pour tous les noms.
+* Vous travaillez alors par la liste, en faisant des ________ et/ou ajoutantes et en vous assurant que tous les versets sont ________.
+* Vous pouvez ajouter un équivalent en sélectionnat la texte et appuyant __Ctrl__+__.
+* Si un pronom est utilisé, vous pouvez _____ l'équivalent en cliquant sur le {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive}.
+{BOX(bg="#FFE6FF" width="60%")}
+Réponses : filtrez, Termes bibliques principaux, noms, Outils, Adapt Names, caractères, approver, proposé, corrections, conhérents, A, deny{BOX}
+!9: VO : Vérification de l’orthographe
+''Introduction'' 
+Ce module explique comment utiliser une fonctionnalité de Paratext 8 pour la vérification des fautes d’orthographe.''Où en sommes-nous ? ''
+Vous avez saisi votre texte dans Paratext 8 et vous l’avez examiné pour déceler les fautes de frappe et les erreurs de composition. Mais il peut encore rester un certain nombre d’erreurs d’orthographe.''Pourquoi cette fonction est-elle importante ? ''
+Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message sans ambiguïté.''Qu’est-ce qu’on va faire ? ''
+Vous devez d’abord configurer la liste de mots pour avoir une base de mots avec une orthographe correcte. Puis vous pouvez configurer l’ordinateur pour qu’il souligne les fautes d’orthographe à l’aide de lignes ondulées rouges dans le texte. Vous pouvez ensuite les corriger du texte. Vous pouvez ensuite faire diverses vérifications à la liste de mots.''Ce qui a changé en passant de Paratext 7 à Paratext 8''
+Paratext 8 a diverses vérifications à la liste de mots. Il peut également souligner les caractères invalides dans le texte.
+----
+!!9.1: Configurer la liste de mots
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant de vérifier l’orthographe, il est important d’avoir une base de mots corrects. Il y a trois choses à faire :{BOX}
+!!!9.1.1: Approuver l’orthographe des mots fréquents
+
+Dans Paratext
+* __Outils__ > __Liste de mots__ 
+Dans le Liste des Mots
+* __Outils__ > __Approuvez l’orthographe des mots fréquents __
+* Saisissez un chiffre  
+{BOX(bg="#FFE6FF" width="60%")}
+Saisissez un chiffre qui représente le minimum d’occurrences d’un mot pour permettre l’approbation automatique de son orthographe. En d’autres termes, combien de fois le mot doit-il être dans la liste pour qu’on le considère comme bien orthographié ? Le paramètre par défaut est 100, mais on peut choisir plus ou moins que cela.{BOX}
+* Cliquez sur __OK__ 
+* Cliquez sur __Oui__ (pour confirmer que vous ne pouvez pan annuler)
+!!!9.1.2: Vérifier les mots que Paratext pense être erronés
+
+Dans la liste de mots (__Outils__ > __Liste de mots__)
+* __Outils__ > __Vérifier l’orthographe__  > __All Checks__La liste de mots s'affiche.
+* Cliquez sur un mot dans le volet en haut.
+* Si correct — cliquez sur la case verte  {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26.png" class=img-responsive}
+* Si le mot est incorrect, mais Paratext a proposé le mot juste, puis cliquez sur le lien bleu du mot juste
+* Si incorrect, et Paratext n'a pas proposé le mot juste, cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26a.png" class=img-responsive} et corriger le mot.
+!!!9.1.3: Vérifier les mots ayant une orthographe similaire
+
+Dans la liste de mots
+* __Outils__ > __Rechercher mots semblables__
+* Remplissez la boîte de dialogue avec les paires de lettres qui peuvent être confondues séparé par / (p.e.x s/sh)
+{BOX(bg="#FFE6FF" width="60%")}
+Selon votre langue, cochez ou décochez « ne pas tenir compte des signes diacritiques lors de la comparaison des mots ».{BOX}
+* Cliquez sur __OK__ Une liste de mots s'affiche.
+* Vérifiez les mots comme au-dessus. 
+----
+!!9.2: Vérifier l’orthographe — dans le texte
+
+Dans Paratext
+* __Vérification __ > __Afficher l’orthographe__
+{BOX(bg="#FFE6FF" width="60%")}
+Un mètre de progrès s’affiche puis tous les mots inconnus ou incorrects sont soulignés avec les lignes ondulées rouges.{BOX}
+----
+!!9.3: Corrections des erreurs
+
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext 8 soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu ou soit mal-écrit. C'est á vous de décider.{BOX}
+* Cliquez à droite sur un mot souligné en rouge ou gris Une boîte s'affiche {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image29.png" class=img-responsive}
+* Soit saisissez la correction soit choisissez un mot de la liste 
+* Cliquez sur __OK__.
+{BOX(bg="#FFE6FF" width="60%")}
+C’est préférable d’utiliser « vérifier l’orthographe » au lieu de corriger les mots un par un dans le texte. C’est mieux parce que Paratext 8 va se rappeler la correction pour l’appliquer aussi dans les autres chapitres.{BOX}
+
+{BOX(bg="#FFE6FF" width="60%")}
+Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin.
+__Oui__ = change ce verset et cherche d’autres.__Non__ = ne change pas ce verset, mais cherche d’autres__Oui à tous__ est trop dangereux. Ne l’utilisez pas!__Annuler__ = arrête d’ici, ne change rien d’autre{BOX}
+----
+!!9.4: Vérifier l’orthographe – du livre actuel
+
+* __Vérification__ > __Vérifier l’orthographe du livre actuel__ Une fenêtre s’affiche avec une liste de plusieurs mots suspects du livre actuel.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image30.png" class=img-responsive}
+* Faites les corrections comme ci-dessus 
+* Cliquez sur « Encore des éléments disponibles » pour afficher des mots supplémentaires. 
+* Continuez si nécessaire. 
+----
+!!9.5: Vérification d’orthographe — dans la liste de mots
+
+!!!9.5.1: Utiliser les nouvelles vérifications
+
+Dans la liste de mots
+* __Outils__ > __Vérifier l’orthographe__ 
+* Choisissez la vérification désirée (voir dessous) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image31.png" class=img-responsive}
+Une liste de mots s’affiche.
+* Faites les corrections comme ci-dessus 
+* Cliquez sur « __Encore des éléments disponibles__ » pour afficher des mots supplémentaires. 
+* Continuez si nécessaire. 
+* Quand la liste est vide, un message s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image32.png" class=img-responsive}
+* Oui (__Yes__).
+!!!9.5.2: Toutes les vérifications
+
+Cela gère tous les contrôles. Ceci est très utile, car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.
+!!!9.5.3: Majuscules manquantes
+
+* Une liste de mots s’affiche avec les liens d’autres mots qui n’ont pas toujours en majuscules. Le mot en minuscule a le mot en majuscule dessous avec un lien bleu.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image33.png" class=img-responsive}
+* Cliquez sur le lien bleu pour le mot en majuscule.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image34.png" class=img-responsive} 
+* Cliquez sur le lien bleu qui convient.
+* ''Show Incorrect'' (pour voir tous les versets)
+* ''Toutes les deux formes sont acceptables ''(pour accepter les deux formes)
+* ''Capitalise All ''(pour corriger tous les mots)
+!!!9.5.4: Single Character Typos (faut de frappe d’un caractère unique)
+
+Une liste de mots s’affiche avec les liens d’autres mots qui ressemble, mais qui n’a qu’une seule lettre différente.
+!!!9.5.5: Unusual Letter Combinations (combinaisons caractères inhabituelles
+
+Une liste des mots s’affiche qui ont une séquence des caractères rares comme plus qu’une consonante ou plusieurs voyelles…
+!!!9.5.6: Diacritic Errors (erreurs diacritiques)
+
+Une liste s’affiche des mots qui sont les mêmes sauf une ou plusieurs différences en diacritique.
+!!!9.5.7: Common Typos (fautes de frappe habituelles)
+
+Une liste s’affiche des mots qui ont le même type de problème que vous avez résolu avant. P.ex. si vous aviez corrigé « teh » en « the », et il trouve « tehm » il suggérait « them ».
+!!!9.5.8: Morphologie inconnue
+
+Une liste de mots s’affiche dont l’ordinateur ne peut pas deviner la morphologie basée sur d’autres mots.
+!!!9.5.9: Rechercher des mots mal liés ou mal divisés
+
+Dans la liste de mots (__Outils__ – Liste de mots)
+* __Outils__ > __Rechercher des mots mal liés ou mal divisés__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image35.png" class=img-responsive} 
+* Saisissez la ponctuation si elle existe 
+* Cliquez sur __OK__. Une liste de mots regroupés s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/maldivise.png" class=img-responsive}
+!!!9.5.10: Corriger un mot mal marqué
+
+* Trouvez le mot dans la liste (en utilisant un filtre si nécessaire)
+* Cliquez sur la ligne 
+* Cliquez sur l’état d’orthographe désiré  
+!10: TB : Un processus de 4 étapes pour les termes bibliques cohérents
+''Introduction ''
+La fenêtre d’__Équivalents de termes bibliques__ et l’outil __Termes bibliques__ sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. C'est un processus et doit être considéré comme une partie du processus de traduction et pas comme une vérification.''Où en sommes-nous ? ''
+Vous êtes en train de traduire un verset en Paratext 8 et vous voulez voir les équivalents qui sont déjà choisis pour les termes de verset actuel puis vérifier qu’ils sont cohérents avec les autres versets.''Pourquoi cette aptitude est-elle importante ? ''
+Pour que votre texte communique le message clairement, vous devez utiliser les termes de manière cohérente. C’est une grande tâche pour les rendre complètement cohérents. Si vous commencez à partir du verset que vous traduisez, et travail à partir de là, la tâche est plus facile à gérer. Le but est d’avoir les équivalents de termes bibliques systématiquement rendus et les décisions bien documentées sur les raisons pour les modifications.''Qu’est-ce qu’on va faire ? ''
+Cette méthode se résume à une courte liste des étapes :
+# Trouver tous les équivalents que vous avez utilisés pour ce terme, et les entrer dans la boîte de dialogue des équivalents.
+# Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.
+# Document la raison pour laquelle vous avez rejeté les autres équivalents.
+# Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).
+* Répétez ce processus avec le prochain terme biblique que vous trouvez dans la fenêtre d’équivalentes de termes bibliques.
+----
+!!10.1: Ouvrir la fenêtre d’équivalents de termes bibliques
+
+* Cliquez dans votre projet 
+* __Fichier__ > __Équivalents de termes bibliques__ 
+* __Fichier__ > __Sélectionner liste de termes__  
+* Choisissez la liste désirée
+* Cliquez sur __OK__. > 
+----
+!!10.2: [[A] Trouver tous les équivalents pour ce terme
+
+!!!10.2.1: Trouver le terme pour le verset actuel
+
+* Y a-t-il une coche dans la colonne trouvée ?  
+* S’il y a une coche, le verset utilise le terme et vous pouvez continuer avec le prochain terme. 
+* Sinon, vous devez soit corriger votre texte soit ajouter le nouveau terme que vous avez utilisé (voir ci-dessous) 
+!!!10.2.2: Ajouter un autre équivalent
+
+Si l’équivalent que vous avez utilisé doit être ajouté à la liste :
+* Sélectionnez l’équivalent dans votre texte. 
+* Copiez (__Ctrl__ + __c__) 
+* Double-cliquez dans la cellule des équivalents. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image36.png" class=img-responsive}Une boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderings1a.png" class=img-responsive}
+* Collez (__Ctrl__ + __v__) l’équivalent dans la boîte de dialogue. 
+* Cliquez sur __OK__. >
+!!!10.2.3: Trouver d’autres versets dans le livre actuel avec le même terme biblique
+
+* Double-cliquez sur un mot dans la colonne __Terme__ L’outil termes bibliques s’affiche.
+* À partir du deuxième champ de filtre, choisissez __Livre actuel__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image38.png" class=img-responsive}
+* Ajouter les équivalents de tous les versets (voir ci-dessous). 
+!!!10.2.4: Ajouter les équivalents d’autres versets
+
+* Sélectionnez l’équivalent dans le verset 
+* Ajoutez l’équivalent en utilisant __Ctrl__+__A__ 
+* Continuez jusqu’à tous les équivalents ont été identifié. 
+!!!10.2.5: Traiter des versets qui n’ont pas le terme dans la traduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Parfois il arrive qu’un verset soit traduit correctement sans utiliser le nom réel ou le terme. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas d’équivalents de ce mot précis dans ce verset.{BOX}
+* Cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} à gauche du lien de verset. La Croix-Rouge se transforme en tique verte avec petit x rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive}
+{BOX(bg="#FFE6FF" width="60%")}
+Si vouz avez cliqué sur la croix par erreur, cliquez sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive} et elle reviendra à {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} {BOX}
+----
+!!10.3: [[B] Identifier le meilleur équivalent
+
+* Double-cliquez sur le terme dans le volet en haut. La boîte de dialogue s’affiche avec tous les équivalents qui ont été ajoutés.
+* Décidez le meilleur équivalent 
+* Sélectionnez-le, coupez-le (__Ctrl__+__x__) et collez-le (__Ctrl__+__v__) à la première ligne de la liste.  
+* Ajoutez les * comme nécessaire pour combiner les équivalents similaires. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderings2b.png" class=img-responsive}
+----
+!!10.4: [[C] Rejeter tous les autres
+
+* Sélectionnez et coupez les autres équivalents.
+----
+!!10.5: [[D] Documenter la raison pour la modification
+
+* Cliquez sur le bouton __Historique__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image39.png" class=img-responsive}
+* Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image40.png" class=img-responsive}
+* Cliquez sur __OK__
+!!!10.5.1: Si vous aviez besoin de plus qu’un équivalent
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ajouter plus qu’un équivalent si nécessaire. Dans ce cas il est bon d’ajouter une retraduction entre parenthèses après l’équivalent. Par exemple,  slave (esclave) guy * work fo (type qui travail pour){BOX}
+* Ouvrez la boîte de dialogue pour les équivalents 
+* Ajoutez/modifiez les équivalents comme nécessaires. 
+!!!10.5.2: Nettoyer d’autres livres (si le temps le permet)
+
+* Changez le filtre pour que tous les livres publiés soient affichés. 
+* Nettoyez les versets comme nécessaires. 
+!!!10.5.3: Ajouter les remarques des discussions des équivalents - discussion en cours
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous ne décidez pas définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.{BOX}
+* Double-cliquez sur l’icône de remarque (dans la deuxième colonne) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderingsnote2.png" class=img-responsive} 
+* Saisissez la remarque 
+* Affectez la remarque comme désiré. 
+* Cliquez sur __OK__. 
+!!!10.5.4: Ajouter la décision dans la remarque
+
+* Double-cliquez sur le terme 
+* Saisissez l’équivalent décidé dans les « remarques » de la boîte de dialogue.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image37a.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+----
+!!10.6: Ajouter un terme
+
+Il y aura quelques termes qui sont importants pour votre langue et culture qui ne sont pas dans la liste. Vous pouvez ajouter ces termes à la liste de votre projet.
+Dans Paratext
+* Cliquez dans votre texte de référence, recherchez le terme 
+* __Édition__ > __Rechercher__ puis saisissez le terme et cliquez sur __OK__. Une liste s’affiche montrant les verses avec ce terme.
+Dans la liste des résultats
+* __Édition__ > __Ajouter aux termes bibliques du projet__, puis choisissez votre projet {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image42.png" class=img-responsive}
+* Modifiez la glose comme désiré 
+* Cliquez sur l’onglet __Avancé__ 
+* Saisissez un nom pour le terme 
+* Cliquez sur __OK__ 
+!11: MP : Comparer un mot ou expression 
+''Introduction''
+Dans ce module, vous allez chercher un mot ou phrase dans un projet et le comparer avec la traduction de ce mot ou phrase dans un autre projet.''​Pourquoi cette aptitude est-elle importante ? ''
+Dans Paratext 8 (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où le mot « roi » se produit dans un projet français et le comparer avec « rey » dans un projet espagnol.''​Qu’est-ce qu’on va faire ? ''
+On va
+* utiliser la liste « Mot ou expression » du texte et également l’outil termes bibliques. 
+* définir les paramètres et textes comparatifs 
+* saisir le mot ou expression à comparer 
+----
+!!11.1: Comparer un Mot ou expression — du texte
+
+* Cliquez dans le projet que vous souhaitez comparer. 
+* Dans le menu __Outils__, pointez sur __Listes récapitulatives__ et sélectionnez « __Word or Phrase__ » La boîte de dialogue « Paramètres » s’affiche.
+* Entrez le mot ou l’expression que vous souhaitez voir dans chaque projet dans le dialogue 
+* Cliquez sur __OK__ Une fenêtre s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image43.png" class=img-responsive}
+* Cliquez sur __Textes comparatifs__...  
+* Sélectionnez les textes que vous souhaitez comparer et cliquez sur __OK__. La boîte de dialogue « Paramètres » s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image44.png" class=img-responsive}
+* Saisissez le mot ou l’expression que vous souhaitez comparer dans la zone correspondant à chaque projet, puis cliquez sur __OK__.Une fenêtre s’affiche et le bouton __Masquer des correspondances__ s’affiche sur la barre d’outils.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image45.png" class=img-responsive}
+* Cliquez sur __Masquer les correspondances__ pour afficher uniquement les références où le nombre d’occurrences du mot ou de l’expression diffère. La liste montre où chacun de ces éléments se trouve dans chaque verset d'un projet. Les mots où les phrases sont mises en surbrillance en bleu clair.
+----
+!!11.2: Comparer utilisation d’un Mot ou expression – de l’outil termes bibliques
+
+* Dans l’outil Termes bibliques,  
+* Sélectionnez un terme biblique qui a déjà un équivalent. 
+* Cliquez sur l’icône « __Afficher les rendus pour le terme courant dans Word ou Phrase checklist__ » {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image46.png" class=img-responsive}La boîte de dialogue « __Paramètres__ » s’affiche avec l’équivalent déjà rempli.
+* Saisissez le mot ou l’expression pour les autres projets. 
+* Cliquez sur __OK__. 
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous souhaitez comparer plus d’un mot ou d’une phrase, tapez __Entrée__ après chaque mot ou expression.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/MultipleWordPhrase.png" class=img-responsive}{BOX}
+!12: VB2 : Les vérifications de base  
+''Introduction''
+Dans ce module, vous apprendrez à faire plusieurs autres vérifications de base (les caractères, la ponctuation, les majuscules et les mots répétés). Comme dans le premier module, il est plus facile de lancer ces vérifications à partir du plan de projet. Toutefois, si vous souhaitez vérifier plusieurs livres, vous devez le faire dans le menu de vérification.''Où sommes-nous ?''
+Vous avez saisi votre traduction dans Paratext. Assurez-vous d’avoir vérifié les numéros de chapitre et de verset, ainsi que les marqueurs, tels que décrits dans le module ((Paratext_8_1-2_Étape1|6: VT1 : Vérifications de base|VT1 : Vérifications de base)), avant de continuer et que votre administrateur a complété la configuration des vérifications ou est là pour les faire avec vous.''Pourquoi est-ce important ?''
+Paratext 8 permet d’effectuer onze vérifications de base. Vous avez déjà vu les deux premières (le chapitre / les versets et les marqueurs). La prochaine série vous aide à localiser les erreurs liées à l’orthographe, la ponctuation, l’utilisation des majuscules et les mots répétés. Bien que ces erreurs n’influent pas nécessairement sur le contenu du texte, les corriger rend le texte plus facile à lire.''Ce que nous allons faire :''
+La plupart des vérifications exigent qu’une certaine configuration soit faite par votre administrateur. Dans ce module, vous allez :
+* assurer que la configuration a été effectuée (ou avoir l'administrateur les faire)
+* faire les vérifications de base 
+* corriger toutes les erreurs.
+----
+!!12.1: Confirmer la configuration
+
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.{BOX}
+La configuration peut être un inventaire, des règles ou des paramètres
+----
+!!12.2: Utiliser les inventaires pour préparer l’exécution des vérifications
+
+{BOX(bg="#FFE6FF" width="60%")}
+Ces inventaires montrent ce que vous avez dans votre texte, c’est-à-dire qu’ils montrent tous les bons caractères et les erreurs. Vous devez travailler en utilisant les inventaires et enseigner à Paratext 8 lesquels des éléments sont bons (valides) et lesquels sont des erreurs (non valides).{BOX}
+Une fois que vous avez fini les inventaires, vous êtes prêts à faire les vérifications.
+* Dans le menu __Vérification__, choisissez l’inventaire (par exemple l’inventaire de caractères).  
+* Cliquez sur un élément dans la liste en haut.Les versets sont affichées dans le volet en bas.
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__.
+* Répétez pour chaque élément.
+* Cliquez sur __OK__. Une liste d'erreurs s'affiche.
+* Faites les corrections nécessaires.
+----
+!!12.3: Caractères
+
+{BOX(bg="#FFE6FF" width="60%")}
+Identifier et/ou corriger tous les caractères inadmissibles, c.-à-d., des caractères qui ne sont pas dans votre alphabet.{BOX}
+* __Vérification__ > __Inventaire de caractères__  
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Caractères__ » 
+* Cliquez sur __OK__.
+* Faites les corrections nécessaires.
+----
+!!12.4: Ponctuation
+
+{BOX(bg="#FFE6FF" width="60%")}
+Identifier et/ou corriger tous les signes de ponctuation inadmissibles ou mal placés.{BOX}
+* __Vérification__ > __Inventaire de signes de ponctuation__,  
+* Vérifiez chaque signe de ponctuation et son contexte. 
+{BOX(bg="#FFE6FF" width="60%")}
+Les contextes peuvent être : __Mot initial__, __Milieu du mot__, __Fin du mot__ et __Isolé__ (un espace avant et après){BOX}
+* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image49.png" class=img-responsive}
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Ponctuation__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.5: Paires correspondantes
+
+{BOX(bg="#FFE6FF" width="60%")}
+C’est pour identifier toutes les erreurs de signes de ponctuation qui se produisent dans les paires, par exemple ( ), [[ ], etc.{BOX}
+* __Vérification__ > __Inventaire d’erreurs ponctuation en paires correspondantes__ :  
+* Si la liste est vide, il n’y a pas d’erreurs. 
+* Si nécessaire, cliquez sur __Options...__ pour ajouter d’autres paires 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Erreurs de ponctuation en paires correspondantes __ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.6: Mots répétés
+
+{BOX(bg="#FFE6FF" width="60%")}
+C’est pour identifier les mots qui ont été répétés dans le texte.{BOX}
+* __Vérification__ > __Inventaire de mots répétés__ :  
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Mots répétés__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.7: Mise en majuscules
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il y a quatre inventaires concernant des majuscules, mais une seule vérification.{BOX}
+* __Vérification__ > __Markers Missing Final Sentence Punctuation__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire des marqueurs suivis d’une minuscule__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire de signes de ponctuation suivis d’une minuscule__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire de mise en majuscules mixte__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Mise en majuscules__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.8: Faire de petites corrections
+
+{BOX(bg="#FFE6FF" width="60%")}
+C'est possible de faire des corrigés mineurs à partir d'un inventaire:{BOX}
+* Cliquez sur un verset dans la liste en bas
+* Appuyez sur __Maj__ + double-cliquez,  
+* Faites la correction,  
+* Cliquez sur __OK__. 
+{BOX(bg="#FFE6FF" width="60%")}
+Pensez à utiliser la Liste de mots ou afficher l’orthographe pour corriger toutes les erreurs.{BOX}
+!!!12.8.1: Révision :
+
+Il y a plusieurs vérifications de bases en Paratext 8. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque __Vérification de base__, remplissez ce tableau.
+|||Vérification|Faire avant|…  quoi ?
+« Chapitres/versets » |aucun |  
+« marqueurs » |inventaire |des marqueurs 
+« caractères » |inventaire |des caractères 
+« ponctuation » |inventaire |de signes de ponctuation 
+« paires correspondantes » |inventaire |d’erreurs ponctuation en paires correspondantes 
+« mots répétés » |inventaire |de mots répétés 
+« mise en majuscules » |inventaire |de marqueurs non exigeant une majuscule, 
+inventaire |de signes de ponctuation non exigeât une majuscule, 
+inventaire |de mise en majuscules mixte 
+« références » |paramètres |Projet > __Paramètres de références bibliques__ 
+« guillemets » |règle |Vérification > __Règles de Guillemets__ 
+« numération » |paramètres |Vérification > __Paramètres de chiffres__ 
+« quoted text » |aucun |  ||
+On peut faire toutes les vérifications à la même fois, mais si c’est la première fois que vous les faites, il serait mieux de les faire l’une après l’autre.
+!13: VM : Vérification de mise en page 
+''Introduction ''
+Dans ce module, vous apprendrez à trouver et à corriger les erreurs de mise en forme et de mise en page.''Où en sommes-nous ? ''
+Vous avez saisi votre ébauche dans un projet dans Paratext. Ce module vous montrera comment utiliser les __Listes récapitulatifs__ pour trouver et corriger les erreurs de mise en forme et de mise en page.''Pourquoi cette aptitude est-elle importante ? ''
+Un Nouveau Testament ne contient pas que des chapitres et des versets. On y trouve également des titres, des sous-titres, et plusieurs types de paragraphes. Les vérifications que vous faites vous permettent de vous rassurer que la mise en page de votre texte est correcte, et que vos titres et autres sont cohérents.''Qu’est-ce qu’on va faire ? ''
+Servez-vous des listes récapitulatives pour
+* comparer vos titres et sous-titres ;  
+* vérifier vos casses de paragraphes ; 
+* comparer les marqueurs de paragraphe de votre texte avec ceux de votre texte de référence ;
+* ajouter des marqueurs pour la mise en forme des textes spéciaux ; 
+----
+!!13.1: Utilisation des listes récapitulatives - générique
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il existe un certain nombre de listes récapitulatives qui diffèrent légèrement, mais ils ont un mode d’emploi en commun :{BOX}
+''Comment afficher la liste''
+* __Outils__ > __Listes récapitulatives__ > choisissez la liste désirée 
+* Ajoutez un texte comparatif (si voulu) en cliquant sur le bouton __Textes comparatifs__ 
+* Sélectionnez la plage (si nécessaire) en utilisant le bouton __Sélectionner plage__ 
+''Comment faire les modifications''
+* Cliquez sur le lien « modifier » pour corriger des problèmes vus 
+* Cliquez sur le lien de référence pour voir plus de contexte  
+''Fermer la liste''
+* Après avoir fini la liste, fermez-le en cliquant X 
+----
+!!13.2: Utilisation des listes récapitulatives - En-têtes de section
+
+Vérifiez que
+* les en-têtes sont cohérents avec votre texte de référence 
+* tous commence avec majuscule. 
+* il n’y a pas de ponctuation à la fin. 
+* ils ne sont pas trop longs. 
+----
+!!13.3: Vérification des paragraphes
+
+* __Outils__ > __Listes récapitulatives__ > __Marqueurs__ 
+* Choisissez votre texte de référence comme le __texte comparatif__ 
+* Cliquer sur __Paramètres__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image47.png" class=img-responsive}
+* Saisissez les marqueurs à afficher (p.ex. p m) 
+* Cliquez sur __OK__
+* Cliquez sur le lien « modifier » pour corriger des problèmes vus. 
+OU
+* Cliquez sur le lien bleu
+* Faites les corrections en Paratext
+* Retournez aux listes récapitulatives en cliquant sur l'icône sur la barre des tâches.
+----
+!!13.4: Mise en page et retraits
+
+* __Outils__ > __Listes récapitulatives__ > __Marqueurs__ 
+* Choisissez votre texte de référence comme texte comparatif 
+* Cliquer sur __Paramètres__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image48.png" class=img-responsive}
+* Saisissez les marqueurs pour vérifier.
+* Cliquez sur __OK__.
+* Cherchez des passages qui ont été mis au format avec de différents marqueurs tels que q1 et q2
+* Faites les modifications comme au-dessus. 
+----
+!!13.5: Ajouter USFMs pour la mise en forme spéciale
+
+* Regardez la liste de mise en forme spéciale (annexe A) 
+* Ajoutez les USFM comme nécessaire. 
+!14: IE : Impression d’ébauches 
+''Introduction''
+Dans ce module, vous apprendrez comment préparer une ébauche de votre traduction pour la vérification et la révision.''Où en sommes-nous ? ''
+Vous avez travaillé sur votre texte dans Paratext. Maintenant, vous voulez l’imprimer pour le donner aux réviseurs ou pour la vérification. Votre projet doit être inscrit dans le registre de Paratext 8 pour imprimer une ébauche.''Pourquoi cette aptitude est-elle importante ? ''
+C’est plus facile de faire réviser et vérifier votre travail sur le papier qu’à l’écran. Avec des copies imprimées, vous pouvez donner le texte à plusieurs personnes.''Qu’est-ce qu’on va faire ? ''
+Vous devez d’abord produire ce qu’on appelle une « version PDF » de la traduction que vous voulez imprimer. Si nécessaire, vous pouvez copier la version PDF sur votre clé USB pour la transférer sur un ordinateur lié à une imprimante.
+----
+!!14.1: Créer une ébauche en PDF
+
+{BOX(bg="#FFE6FF" width="60%")}
+Assurez-vous d’avoir fait la vérification des marqueurs avant d’imprimer l’ébauche.{BOX}
+* ____Fichier__ > __Imprimer ébauche...____ 
+* Vérifiez si votre projet est sélectionné. 
+* Choisissez les livres et chapitres que vous souhaitez imprimer. 
+* Choisissez les paramètres : 
+* Taille de page : 210mm, 297mm (A4)  ou148mm, 210mm (A5) 
+* Colonnes : 1 
+* Marges : 25 mm (pour A4) ou 12 mm pour A5 
+* Police du corps du texte : Charis SIL (ou Charis SIL Compact) 
+* Taille : 10 (or 11) 
+* Interligne : Double ou simple 
+* Cliquez sur l’onglet __Avancé__ 
+* Choisissez les polices 
+* Choisissez ce que vous voulez dans les en-têtes de page. 
+* Cliquez pour cocher « Pages en vis-à-vis » 
+* Faites les autres choix selon les besoins. 
+* Cliquez sur __OK__ et attendez l’ouverture du lecteur PDF. S’il y a des erreurs avec des marqueurs par exemple, une boîte s’affiche. Cliquez sur Non, puis corrigez les erreurs et reprendre. 
+----
+!!14.2: Imprimer un PDF
+
+Dans Adobe
+* ____Fichier__ > __Imprimer____. 
+* Pour A5
+* Pour imprimer recto verso
+* Cliquez sur le bouton __Propriétés__
+* Cliquez sur __Finition__
+* Choisissez __recto-verso__ ou __deux côtes__
+* Orientation: __Portrait __(nouveau) ou __Paysage__ (Win7)
+* Cliquez sur __OK__
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous voulez suivre un système de ponctuation qui ajoute un espace avant ou après un signe de ponctuation complexe, demandez à un encadreur de modifier votre PrintDraftChanges.txt{BOX}
+----
+!!14.3: Copiez le fichier PDF à une clé USB
+
+{BOX(bg="#FFE6FF" width="60%")}
+Le Paratext sauve le fichier de PDF dans le dossier PrintDrafts de votre dossier de projet. Par exemple, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
+Il y a beaucoup de façons de copier des fichiers. Une méthode est décrite ci-dessous.{BOX}
+* Maintenez la touche Windows + ELa fenêtre de Windows Explorer s'affiche.
+* Accédez à dossier __My Paratext 8 Projects__.
+* Double-cliquez sur votre dossier du projet
+* Double-cliquez sur le dossier __PrintDraft__
+* Cliquez-droite sur le fichier PDF
+* Choisissez __Envoyer vers__
+* Choisissez votre clé USB.
+!15: UR : L’utilisation des remarques
+''Introduction ''
+Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous ayez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. Paratext 8 vous permet d’enregistrer de tels commentaires directement dans le texte, dans la liste des termes bibliques ou dans la liste des mots.''Où en sommes-nous ?  ''
+Vous êtes en train de saisir ou de réviser votre texte, votre liste de mots ou vos mots-clés et vous devez faire des commentaires sur un problème que vous avez observé
+{BOX(bg="#FFE6FF" width="60%")}
+Attention :  Les remarques décrites ci-dessus sont très différentes des notes de bas de page. Ces dernières apparaissent dans la Bible alors que les notes servent à conserver les questions et les commentaires et ne s’affichent pas dans la Bible.  {BOX}''​Qu’est-ce qu’on va faire ? ''
+Vous allez
+* créer des remarques dans le texte en utilisant différentes icônes ; 
+* modifier et résoudre les remarques ; 
+* ouvrir une fenêtre des remarques à partir du texte ; 
+* filtrer la liste ; 
+* imprimer la liste des remarques ; 
+* ajouter à la liste de termes bibliques des remarques de discussion des équivalents ; 
+* ajouter à la liste de mots des remarques sur l’orthographe 
+----
+!!15.1: Les différentes icônes de remarques 
+
+Vous pouvez choisir parmi plusieurs icônes différentes pour vos remarques de projet dans Paratext 8 :
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image50.png" class=img-responsive} 
+{BOX(bg="#FFE6FF" width="60%")}
+Astuce : Ne prenez pas trop d’icônes !{BOX}''Les différentes formes d’icônes ''
+Chaque icône peut avoir plusieurs formes :
+||Icône |Description |Signification 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image43.jpeg" class=img-responsive} |L’icône a une bordure et une couleur de base jaune clair. |La note a au moins un commentaire non lu. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image44.png" class=img-responsive} |L’icône est rouge, violet, ou bleu clair. |Une note de projet assignée à vous ou à l’équipe entière. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image45.png" class=img-responsive} |L’icône est grise. |Une note de projet assignée à quelqu’un d’autre ou non assigné. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image46.png" class=img-responsive} |L’icône est grise avec une « coche » verte. |Une note de projet avec le statut résolu. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image47.png" class=img-responsive} |L’icône est un point d’interrogation blanc sur la couverture d’un livre bleu. |Il y a une note de discussion d’orthographe pour ce mot. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image48.png" class=img-responsive} |L’icône est un point d’interrogation blanc sur la couverture d’un livre gris. |Il n’y a PAS de note de discussion d’orthographe pour ce mot. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image49.png" class=img-responsive} |L’icône est un plus bleu clair. |Une note du conseiller. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image50.png" class=img-responsive} |L’icône est un globe bleu clair. |Une note globale du conseiller. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image51.png" class=img-responsive} |L’icône est un point d’exclamation noir dans un triangle rouge. |Il y a un conflit de fusion Envoyer/Recevoir parce que deux utilisateurs ont fait de différents changements dans le même verset. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image52.png" class=img-responsive} |L’icône est une flèche blanche sur la couverture d’un livre bleu. |Il y a une note de discussion des équivalents pour ce terme biblique. Cette icône apparaît uniquement dans l’outil Termes bibliques ou dans la fenêtre des équivalents des termes bibliques. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |L’icône est une flèche blanche sur la couverture d’un livre gris. |Il n’y a PAS de note de discussion d’équivalent pour ce terme biblique ||
+----
+!!15.2: Définir des types de remarques
+
+(On doit être un Administrateur)
+* ____Project__ > __Propriétés et paramètres de projet____ 
+* Cliquez sur l’onglet __Remarque__ 
+* Cliquez sur le bouton__ Ajouter étiquette__Une nouvelle ligne est ajoutée 
+* Cliquez sur__ l’icône__ de la nouvelle ligne 
+* Choisissez __l’icône __désirée 
+* Cliquez sur__ « Nom »__ et saisissez un nom 
+* Continuez pour définir toutes les remarques. 
+----
+!!15.3: Insertion d’une remarque
+
+* Cliquez dans le texte où vous voulez le note (et si désiré, sélectionnez du texte)
+* __Insérer __> __Remarque__ 
+* Choisissez l’étiquette pour la remarque {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image61.png" class=img-responsive} 
+* Saisissez le texte de la remarque 
+* Cliquez sur __OK__. Une icône s’affiche à côté du texte.
+----
+!!15.4: Ouvrir des remarques
+
+* __Fichier__ > __Ouvrir les remarques__...
+* Sélectionnez votre projet. 
+* Cliquez sur __OK__. Les remarques s’affichent dans une fenêtre séparée.
+* Sélectionnez le livre. 
+{BOX(bg="#FFE6FF" width="60%")}
+Si la fenêtre est vide, modifiez le filtre en utilisant les boutons des filtres. Le premier filtre est le type de remarque, et le deuxième est le lieu.{BOX}
+----
+!!15.5: Ajouter des commentaires dans une remarque ouverte dans le texte
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte.La remarque s'ouvre. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image64.png" class=img-responsive}
+* Saisissez le commentaire
+* Cliquez sur __OK__
+----
+!!15.6: Ajouter des commentaires dans une remarque d'une fenêtre des remarques
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image65.png" class=img-responsive}) dans le texte.La remarque s'ouvre.
+* Saisissez un commentaire dans la case de texte en bas.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image66.png" class=img-responsive}
+* Resoolvez ou affectez le remarque comme désiré.
+* Cliquez sur la flèche pour réduire la remarque.
+----
+!!15.7: Affecter une remarque à quelqu’un
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte. 
+* Saisissez le commentaire 
+* Cliquez sur __Affecter à__
+* Choisissez comme désiré
+* Cliquez sur __OK__ 
+----
+!!15.8: Relie une remarque à plusieurs textes
+
+* Ouvrez la remarque 
+* Cliquer sur le bouton « __Multiple__ » 
+* Choisissez les projets 
+* Cliquez sur __OK__ 
+* Cliquez sur __OK __ encore pour fermer la boîte de dialogue. 
+----
+!!15.9: Rattacher une remarque
+
+{BOX(bg="#FFE6FF" width="60%")}
+Parfois, en éditant un verset, le mot à qui la remarque était attachée est supprimé et l’icône est déplacé au début du verset. On peut rattacher la remarque à un autre mot.{BOX}
+* Ouvrez la remarqueUne boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/ReattachNote.png" class=img-responsive}
+* Cliquez sur le bouton rattacher {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image58.png" class=img-responsive} 
+* Cliquez sur le(s) mot(s) à attacher 
+* Cliquez sur __OK__. La remarque est attachée au mot.
+----
+!!15.10: Marquer une remarque comme étant résolue
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte. 
+* Saisissez un autre commentaire si nécessaire. 
+* Cliquez sur le bouton __Résoudre remarque__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image68.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+----
+!!15.11: Imprimer un rapport des remarques
+
+* Cliquez dans la fenêtre des remarques. 
+* Filtrez les remarques comme vous le souhaitez.
+* __Fichier__ > __Imprimer__.
+* Choisissez l’imprimante et les options désirées.
+* Cliquez sur __OK__. 
+* Fermez la fenêtre.
+----
+!!15.12: Supprimer des remarques
+
+* Cliquez sur l’icône de la remarque
+* Cliquez sur le petit x rouge
+* Cliquez sur __Oui__ pour supprimer définitivement le commentaire.
+* S’il y a plus qu’un commentaire, continuez à supprimer pour supprimer la remarque.
+----
+!!15.13: Fenêtres des remarques
+
+* Il y a quatre listes déroulantes sur la barre d’outils 
+* Filtre de remarques
+* Filtre de versets
+* Recherche
+* Trier par [[verset, date, affectée à]
+----
+!!15.14: Filtre de remarques
+
+* Cliquez sur le premier bouton/liste
+* Choisissez un filtre existant
+----
+!!15.15: Définir un nouveau filtre de remarques
+
+* Cliquez sur le premier bouton/liste
+* Choisissez __Nouveau filtre__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image69.png" class=img-responsive}
+* Choisissez le statut, l’étiquette, la personne, et la date comme vous le souhaite.
+* Cliquez sur __OK__  
+----
+!!15.16: Enregistrer un filtre
+
+* Définissez le filtre comme nécessaire.
+* Cliquez sur la case de texte en haut.
+* Saisissez un nom pour le filtre
+* Cliquez sur l’icône de la disquette pour enregistrer.!Introduction du Cours
+
+!1: Introduction 
+
+----
+!!1.1: But
+
+Les participants traiteront leur traduction à l’aide de Paratext 8, qui est un logiciel créé pour stocker et vérifier les textes de la traduction. Ainsi on suit les six étapes du plan de SIL du processus de traduction.
+----
+!!1.2: Objectifs
+
+À la fin de ce cours, le participant sera capable de :
+* Lancer le programme Paratext 8 à l’aide de l’icône sur le bureau (ou menu Démarrer).
+''Étape 1 : Première ébauche ''''Ouvrir des projets et des ressources pour comprendre le texte avant de traduire ''
+* Ouvrir des projets et des ressources supplémentaires, par exemple des Bibles françaises, les textes sources, les dictionnaires, etc.  
+* Organiser plusieurs fenêtres sur l’écran.  ''Saisir la traduction ''
+* Utiliser efficacement la barre d’outils de navigation pour se déplacer vers le livre, le chapitre et le verset biblique désiré.  
+* Saisir le texte dans un projet ouvert à l’aide des marqueurs USFM tels que \c, \v, etc.
+* Utiliser un clavier (MS-clavier ou Keyman) pour saisir les caractères spéciaux. 
+* Ajouter des éléments supplémentaires tels que les titres de section, les introductions, etc.  
+* Ajouter des notes de bas de page.  
+* Faire une ébauche des entrées de glossaire et les ajouter avec l'outil de termes biblique.
+* Utiliser la fonction Envoyer/recevoir pour sauvegarder le projet sur Internet ou sur une clé USB. ''Vérifications de base ''
+* Exécuter les vérifications pour s’assurer que tous les chapitres/versets sont présents.
+* Exécuter la vérification afin de s’assurer que les éléments de texte sont correctement marqués (marqueurs, styles, etc.).  ''Progrès du projet''
+* Mettre à jour le progrès de projet 
+''Étape 2 : Vérifications par l’équipe ''''Noms propres ''
+* Transliterater les noms propres. 
+* Vérifiez que les noms propres ont été translittérés selon les règles convenues et sont cohérents. ''Termes bibliques ''
+* Utiliser l'outil __Termes Bibliques__ pour s'assurer que l’utilisation des termes est cohérente. ''Vérifications ''
+* Utiliser les listes récapitulatives pour corriger les problèmes de mises en forme dans les en-têtes, les paragraphes, la mise en page et les retraits. 
+* Effectuer les vérifications de bases pour assurer que tous les caractères, ponctuations, mise en majuscule et mots répétés sont valides. (Votre administrateur doit configurer les inventaires/paramètres comme nécessaires.)
+* Corriger les fautes d’orthographe en utilisant l’outil __Vérifier l’orthographe__ du texte et/ou les vérifications de la liste de mots.  ''Utiliser des remarques''
+* Ajouter des remarques pour communiquer avec l’équipe et conseillère. 
+* Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions prises.''Imprimer des ébauches ''
+* Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.
+----
+!!1.3: Plan du cours
+
+''Présentations, préparations ''''Se présenter ''
+Les participants et encadrants doivent se présenter en donnant :
+* leur nom 
+* leur langue 
+* leur ville 
+* quelles sont la première et la dernière version de Paratext que vous avez utilisées. 
+||5.0 |6.0 |7.0 |7.1 |7.2 |7.3 |7.4 |7.5 |8 
+1998 |2003 |2008 |2010 |2011 |2012 |2013 |2014 |2017 ||
+Pendant que les facilitateurs installent Paratext 8 sur les ordinateurs, le participant devrait lire le matériel d'introduction et cocher (vérifier) les objectifs auxquels ils se sentent confiants dans la version la plus récente de Paratext qu'ils ont utilisée.''Pour chaque module ''
+* Faire une activité de révision du module précédent.
+* Présenter l’introduction (lectures, sketch, PowerPoint, etc.)
+* Lire les aptitudes pour ce module. Si une aptitude est assez simple, demander à un participant de venir démontrer l’aptitude.
+* Suivre les résumés pour les autres aptitudes :
+* Démonstration
+* Reprendre ensemble
+* Permettre aux participants de les faire eux-mêmes
+* Demander à un participant de démontrer les aptitudes.
+* Poser des questions.
+* Faire des activités de révision/bilan.
+* Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, et de les ajouter à Anki.!Étape 1 : Première ébauche
+''Introduction''
+Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saissisez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image2a.png" class=img-responsive}
+Les modules suivants vous aiderez avec cette étape :
+* ((Paratext_8_1-2_Étape1|2: OB : Organisation du bureau|OB : Organisation du bureau))
+* ((Paratext_8_1-2_Étape1|3: PP1 : Plan et progrès du projet|PP1 : Plan et progrès du projet))
+* ((Paratext_8_1-2_Étape1|4: SD : Saisie des données|SD : Saisie des données))
+* ((Paratext_8_1-2_Étape1|5: GL : Glossaire|GL : Glossaire))
+* ((Paratext_8_1-2_Étape1|6: VT1 : Vérifications de base|VT1 : Vérifications de base))
+* ((Paratext_8_1-2_Étape1|7: PP2 : Progrès de projet|PP2 : Progrès de projet))
+!2: OB : Organisation du bureau
+''Introduction''
+Vous désirez travailler sur votre texte en Paratext 8 et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.''Où en sommes-nous ? ''
+Avant de pouvoir faire ceci, Paratext 8 et les ressources diverses doivent avoir été installés et un projet pour vos données doit avoir été créé.''Pourquoi cette aptitude est-elle importante ? ''
+Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.''Qu’est-ce qu’on va faire ? ''
+On va lancer le logiciel Paratext 8, puis ouvrir une disposition des fenêtres qu’est déjà enregistré. Si nécessaire vous pouvez modifier la disposition des fenêtres et réenregistrer la disposition.
+----
+!!2.1: Lancer le programme Paratext
+
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image3.png" class=img-responsive}
+* Double-cliquez sur l’icône Paratext 8 sur le bureau OU
+* (Dans le menu Démarrer, choisissez Paratext 8)
+----
+!!2.2: Ouvrir une disposition des fenêtres
+
+* Cliquez sur le menu __Fenêtre__  
+* Choisissez une disposition des fenêtres qui est déjà enregistrée. Votre écran doit ressemble à l’image ci-dessous (sinon, voir ci-dessous). 
+ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image4.png" class=img-responsive}
+----
+!!2.3: Créer une nouvelle disposition
+
+Si vous n’avez pas encore enregistré une disposition de fenêtres, on vous suggère de faire comme ci-dessous
+!!!2.3.1: Ouvrir et arranger les fenêtres
+
+* __Fenêtre__ > __Non disposées__ 
+* Ouvrez 5 fenêtres comme suit :
+* 5 = votre projet (__Fichier__ > __Ouvrir projet/ressource)__
+* 1 = équivalents (__Fichier__ > __Ouvrir les termes équivalents aux termes bibliques__)
+* 2 = texte source (__Fichier__ > __Ouvrir le texte de langue source__)
+* 3 = dictionnaire (__Fichier__ > __Ouvrir un dictionnaire de langue source__)
+* 4 = ressources en collection de textes (__Fichier__ > __Ouvrir projet/ressource en collection de textes__)
+* Arrangez les fenêtres comme vous le souhaitez
+!!!2.3.2: Enregistrer une disposition des fenêtres
+
+Après avoir arrangé les fenêtres comme vous le souhaitez
+* __Fenêtre__ > __Enregistrer la disposition des fenêtres __
+* Saisissez un nom [[ou pour réenregistrer, choisissez un nom existant] 
+* Cliquez sur __OK__ 
+----
+!!2.4: Supprimer une disposition des fenêtres
+
+Si vous ne voulez plus une disposition des fenêtres,
+* __Fenêtre__ > __Supprimer la disposition des fenêtres __
+* Choisissez le nom de la disposition enregistré.
+* Cliquez sur __Supprimer__
+----
+!!2.5: Ouvrir Projet/Ressource en collection de textes
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avec Paratext, il est possible d’avoir plusieurs projets ouverts au même moment. Mais au lieu d’avoir trop de fenêtres, il vaut mieux ouvrir plusieurs ressources dans une seule fenêtre en collection de textes.{BOX}
+* __Fichier__ > __Ouvrir Projet/Ressource en collection de textes__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image5.png" class=img-responsive} 
+* Cliquez sur une ressource (à gauche) 
+* Cliquez sur la flèche droite 
+* Répétez si nécessaire 
+* Si nécessaire, changez l’ordre avec les boutons haut/bas 
+* Cliquez sur __OK__ 
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez changer le texte qui remplira le volet à droite en cliquant sur le lien bleu de la ressource. En Paratext 8 on peut changer l’affichage à aperçu/non-formaté/normale.{BOX}
+----
+!!2.6: Ouvrir un dictionnaire
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ouvrir un dictionnaire de langue source avec des gloses en français :{BOX}
+* __Fichier__ > __Ouvrir dictionnaire de langue source __
+* Choisissez « A Concise Greek-English Dictionary of the New Testament » 
+* __Affichage__ > __français __
+----
+!!2.7: Faire une liste de versets avec un terme dans une langue de source
+
+* Cliquez à droit sur un lemme (bleu) en langue source.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image7a.png" class=img-responsive}
+* Choisissez __Ajouter aux termes bibliques du projet__
+* Choisissez votre projet 
+* Modifier la glose si nécessaire 
+* Cliquez sur __OK__  
+* Changez à l’outil de Termes bibliques 
+* Double-cliquez sur le terme. 
+----
+!!2.8: Bilan
+
+* Le traducteur qui organise bien son bureau a toutes les ressources nécessaires pour son travail.
+* On peut utiliser le menu ________ (fichier/fenêtre) pour enregistrer ou supprimer des dispositions de fenêtres.
+* On utilise le menu _________ (fichier/fenêtre) pour :
+* Ouvrir les équivalents de termes bibliques
+* Ouvrir le texte source
+* Ouvrir le dictionnaire de langue source
+* Ouvrir le projet/ressource en collection de textes
+* Ouvrir le projet/ressource
+* On fait une liste de versets avec un terme dans une langue de source en cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.
+!3: PP1 : Plan et progrès du projet
+''Introduction''
+On utilise le plan du projet pour nous aider à organiser notre travail et pour voir les taches à faire prochainement. Dès qu’on a fini une tâche, on la note comme fini pour qu’il soit dans le rapport des tâches accomplis. [[Si vous avez utilisé une version précédente, vous allez voir que c’est bien amélioré en Paratext 8.]''Où en sommes-nous ?''
+Avant que vous puissiez utiliser le plan, quelqu’un doit l'avoir ajouté et le configuré. [[C’est normalement votre administrateur du projet ou votre conseiller en technologie linguistique.]''Pourquoi cette aptitude est-elle importante ?''
+Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et .(Voir ((Paratext_8_1-2_Étape1|7.3: Produisez un rapport sur l'état d'avancement|Produisez un rapport sur l'état d'avancement)).)''Qu’est-ce qu’on va faire ? ''
+Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement ,selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Status (Statut).
+----
+!!3.1: Vérifier que votre projet est actif
+
+* Cliquez dans votre projet.
+----
+!!3.2: Afficher les taches à faire
+
+* Cliquez sur le bouton « __Assignments and Progress__ » {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image7.png" class=img-responsive} OU[[__Projet__ > __Assignments and progress]__
+* De la première liste roulante, choisissez __Mes tâches __ou __All tasks__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image8.png" class=img-responsive}
+----
+!!3.3: Identifiez la prochaine tâche à faire
+
+La liste des tâches vous montre les taches inachevées.
+* Identifiez la prochaine tâche à faire.
+* Vérifiez qu’il n'est pas en train d'attendre une autre tâche.
+* Faites les taches. (Voir les autres modules si nécessaire.)
+{BOX(bg="#FFE6FF" width="60%")}
+Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il n’y a rien à signaler (0 issues). {BOX}
+----
+!!3.4: Marquer une tâche comme achevée
+
+!!!3.4.1: Marquer une tâche de livre comme terminée
+
+* Cochez sur la case à gauche du statut de la tâche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image9.png" class=img-responsive}Il devient plein pour montre qu’il est terminé.
+!!!3.4.2: Marquer une tâche de chapitre comme terminée
+
+* Cliquez sur __+__ pour marquer le prochain chapitre comme terminé{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image10.png" class=img-responsive}
+* Cliquez à droite sur le mot « __Completed__ »{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image10.png" class=img-responsive}
+Une boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image11.png" class=img-responsive}
+* Cochez la case à gauche du numéro de chapitre pour le marquer comme terminé. 
+----
+!!3.5: Vérifications
+
+* Si la tâche est une vérification, l’état de la vérification indiquera soit la configuration requise, soit le nombre de problèmes (issues) restants. 
+* Une vérification est complète quand il y a __No issues__.
+!!!3.5.1: Vérifications - setup required (Administrateur)
+
+* Cliquez sur le lien bleu « Setup required »Paratext 8 va soit lancer l’inventaire soit afficher les paramètres appropriés.
+* Complétez-la comme nécessaire.
+* Fermez la fenêtre quand c'est fini.
+{BOX(bg="#FFE6FF" width="60%")}
+S'il y a plus d'un inventaire pour un vérification (p.ex. mise en majuscule), vous devrez les configurer manuellement dans le menu Vérification.{BOX}
+!!!3.5.2: Vérifications - erreurs
+
+* Cliquez sur le lien bleu « … issues » Une liste de problème s’affiche.
+* Faites les corrections.
+* Fermez la liste de résultats.
+* __Fichier__ > __Enregistrez tout.__ (ou __Ctrl__+__s__).
+* Retournez au plan de projet.
+{BOX(bg="#FFE6FF" width="60%")}
+La vérification est considérée comme achevée quand il n’y a rien à signaler.{BOX}
+!4: SD : Saisie des données
+''Introduction''
+Ce module explique comment vous pouvez saisir votre traduction (taper les données) dans un projet existant de Paratext 8.''Où en sommes-nous ? ''
+Nous sommes sur le point de saisir du texte dans un projet existant. Avant que vous puissiez faire ceci, quelqu’un doit avoir installé le programme et avoir créé un projet pour vos données.''Pourquoi cette aptitude est-elle importante ? ''
+C’est la première étape de l’introduction de votre traduction dans l’ordinateur. Une fois que le texte a été saisi, vous pourrez exécuter divers contrôles sur le contenu et le format du texte.
+----
+!!4.1: Naviguer vers une référence biblique.
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant de pouvoir commencer à saisir un texte, vous devez déplacer votre curseur au livre, au chapitre et au verset appropriés. Servez-vous de la barre d’outils Référence pour le faire.{BOX}
+* Utilisez la barre d’outils Référence pour changer le projet, le livre, le chapitre et le verset selon les besoins. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image12.png" class=img-responsive}
+----
+!!4.2: Vérifier que le projet est modifiable
+
+* Regardez la barre de titre de votre projet.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image13.png" class=img-responsive}La barre de titre doit afficher « Modifiable » ou le nom de quelqu'un.
+* Si votre projet est partagé et votre nom n’est pas mentionné, et que vous deviez l’éditer, il faut parler avec votre administrateur. 
+* Si votre projet est toujours non-modifiable, essayez de changer l’affichage (voir ci-dessous) pour trouver un affichage modifiable.
+----
+!!4.3: Changer l’affichage
+
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext 8 a cinq affichages. Seul le mode Aperçu n’est pas modifiable.{BOX}
+* __Ctrl__ +  __E__ —ou—
+* Du menu __Affichage__, choisissez l’affichage que vous préférez (p.ex. Normal).
+----
+!!4.4: Taper les caractères spéciaux
+
+{BOX(bg="#FFE6FF" width="60%")}
+Certains des caractères orthographiques ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus d’une touche.{BOX}
+* Changez le système de clavier si nécessaire.
+* Passez de Keyman (p.ex. à Tchad Unicode) (ou changez le clavier virtuel pour passer à une langue appropriée [[TR ou SQ/TZ/AF…]) 
+* Tapez les touches comme dans les tableaux à Annexe . 
+{BOX(bg="#FFE6FF" width="60%")}
+Note : Vous pouvez utiliser le menu __Affichage__ > __Highlight Invalid Characters__ pour mettre en surbrillance des caractères invalides qui sont dans le texte.{BOX}
+----
+!!4.5: Ajouter texte avec un autre marqueur - titre ou introduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Chaque élément de texte doit avoir un marqueur. Les marqueurs pour les versets sont déjà dans votre projet. Pour ajouter un titre à votre texte, vous devez faire ce qui suit :{BOX}
+* Déplacez votre curseur à la fin du paragraphe qui est au-dessus du titre.
+* Appuyez sur Entrée ou Saisissez « \ » 
+* Saisissez le marquer (comme s1 ou ip), puis tapez Entrée  (ou le sélectionnez de la liste). 
+* Saisissez le texte
+* Ajoutez un marqueur de paragraphe (par exemple : \p) 
+{BOX(bg="#FFE6FF" width="60%")}
+Vous devez toujours avoir un marqueur USFM après un titre et avant les versets. C’est habituellement \p (paragraphe), mais peut être autre chose (par exemple \q1).{BOX}
+----
+!!4.6: Ajouter des marqueurs de paragraphe
+
+{BOX(bg="#FFE6FF" width="60%")}
+Pour diviser le texte en paragraphes :{BOX}
+* Déplacez le curseur où vous voulez casser le paragraphe.
+* Appuyez sur __Entrée__.
+* Saisissez __p__ puis tapez __Entrée__  (ou le sélectionnez de la liste). 
+----
+!!4.7: Enregistrer votre travail
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il est important d’enregistrer votre travail régulièrement.{BOX}
+* __Fichier__ > __Enregistrer tout__ ou __Ctrl__ + __S__ 
+----
+!!4.8: Insérer une Note de bas de page
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ajouter les notes de bas de page dans le texte à l’endroit où la référence apparaît dans votre texte.{BOX}
+* __Insérer__ > __Note de bas de page,__
+* Un ensemble de marqueurs de note en bas de page est ajouté dans la boîte au-dessous du texte{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image14.png" class=img-responsive}
+* Saisir le texte de la note après \ft
+{BOX(bg="#FFE6FF" width="60%")}
+Pour voir la note de bas de page, déplacez la souris au-dessus de la petite lettre sans cliquer sur les boutons. [[La note de bas de page s’affiche dans une petite boîte.]
+Pour modifier la note de bas de page, cliquez sur la petite lettre et modifiez le texte dans le petit volet en bas. Pour supprimer la note en bas de page, vous pouvez supprimer la petite lettre.{BOX}
+----
+!!4.9: Envoyer/Recevoir à une clé pour sauvegarder
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :{BOX}
+* Si nécessaire, insérez votre clé USB dans un port de l’ordinateur.
+* Cliquez sur l’icône Envoyer/Recevoir {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image15.png" class=img-responsive} pour faire Envoyer/Recevoir suivant les paramètres précédents.ou
+* __Fichier__ > __Envoyer/Recevoir projet(s__) 
+* Choisissez soit Internet soit USB clé (comme désiré) 
+* Cliquez sur le bouton __Envoyer/Recevoir__.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image16.png" class=img-responsive}L’ordinateur fera une copie des fichiers. Un indicateur de progrès s’affiche jusqu’à ce que le processus soit fini. Une boîte de message vous dit s’il y a des problèmes.
+----
+!!4.10: Déplacer votre point d’insertion rapidement
+
+{BOX(bg="#FFE6FF" width="60%")}
+Beaucoup de temps est dépensé en déplaçant le curseur à l’endroit correct où vous voulez taper du texte ou faire des corrections. Voilà quelques touches utiles.{BOX}
+* Les touches flèches, __←__ __↑__ __→__ __↓__ __début__ (Home), __fin__ (End), __PgPréc__, et __PgSuiv__, __F8__ (chapitre), __F9__ (livre) 
+* ou __Ctrl__ + les touches 
+----
+!!4.11: Bilan : Complétez les champs vides :
+
+Si la barre de titre n'affiche pas Modifiable (ou votre nom), on peut changer l’__________.
+Pour ajouter un autre balise (marqueur), on appuyez _______.
+Pour ajouter des balises (marqueurs) de paragraphe, vous appuyez ________.
+Pour insérer une Note de bas de page, on utilise le menu _______ et choisissez ___________________.
+Pour Envoyer/recevoir, on utilise le menu ________ puis ________________
+[[Réponse : affichage, entre or \, entre, Insérer, Note de bas de page, Fichier, Envoyer/Recevoir]
+!5: GL : Glossaire
+''Introduction''
+Ce module explique comment ajouter des entrées dans le glossaire avec l’outil __Termes bibliques__.''Où en sommes-nous ? ''
+Vous avez entré et vérifié votre texte dans Paratext 8. Maintenant, vous voulez ajouter des mots importants dans le glossaire.''Pourquoi cette aptitude est-elle importante ? ''
+C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil __Termes bibliques__, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.''Qu’est-ce qu’on va faire ? ''
+Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.
+----
+!!5.1: Ajouter une entrée
+
+* Accédez à un verset qui contient le mot/terme que vous voulez dans le glossaire. 
+* Cliquez à droite et choisissez « __Afficher les termes bibliques__ », puis choisissez « __Verset(s) actuel(s)__ » 
+* Vérifiez que la liste désirée est ouverte (p.ex. Termes bibliques clés du NT [[SIL]) 
+* Double-cliquez sur le mot dans la liste du haut
+* Cliquez sur l’onglet « __Glossaire__ »{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image17.png" class=img-responsive}
+* Saisissez le mot dans la forme de citation (c.-à.d. ce que vous voulez dans la glossaire) [[1] 
+* Saisissez la __Définition [[2]__ 
+* Cliquer sur __OK__ Le mot ainsi que la définition seront ajoutés au livre de glossaire dans l’ordre alphabétique.
+----
+!!5.2: Lier une entrée existante
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si le mot est déjà dans le glossaire, on peut avoir un lien avec un mot-clé dans le glossaire.{BOX}
+* Dans l’outil termes bibliques
+* Vérifiez que la liste désirée est sélectionné (p.ex. Termes bibliques clés du NT [[SIL]) 
+* Double-cliquez sur le mot dans la liste sur le volet de haut 
+* Cliquez sur l’onglet « __Glossaire__ » 
+* Cliquez sur la flèche à côté de Forme de citation (1) 
+* Choisissez l’entrée du glossaire 
+* Cliquez sur __OK__ 
+----
+!!5.3: Afficher le glossaire
+
+Dans Paratext
+* Utilisez la barre de navigation pour changer le livre{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image18.png" class=img-responsive}
+* Choisissez le livre GLO
+----
+!!5.4: Modifier une entrée  – dans le livre GLO
+
+Dans Paratext
+* Ouvrez le livre GLO 
+* Modifiez le texte comme normal.
+----
+!!5.5: Modifier une entrée  – dans les termes bibliques
+
+* __Outils__ > __Termes__ __bibliques__... 
+* Double-cliquez sur le mot dans la liste en haut 
+* Cliquez sur l’onglet « __Glossaire__ » 
+* Modifiez la définition 
+* Cliquez sur __OK__. 
+----
+!!5.6: Ajouter un terme biblique 
+
+* voir la section 10.6 ((Paratext_8_1-2_Étape2|10.6: Ajouter un terme|Ajouter un terme))
+----
+!!5.7: Bilan
+
+* Vous pouvez ouvrir l'outil termes bibliques du menu ________ .
+* L'onglet « glossaire » se trouve dans la boîte de dialogue ________. Pour ouvrir cette boîte de dialogue ________-clique sur le terme dans le volet en _____.
+* Pour voir la glossaire, on change au livre _____ (après Apocalypse).
+{BOX(bg="#FFE6FF" width="60%")}
+Réponses : Outils, Modifier l'équivalents, double, haut, GLO{BOX}
+!6: VT1 : Vérifications de base
+''Introduction ''
+Dans ce module, vous allez vérifier les chapitres/verset et les marqueurs dans deux façons: le plan de projet et le menu de vérification.''Où en sommes-nous ? ''
+Vous avez déjà saisi votre texte dans Paratext 8. Maintenant, vous voulez commencer à faire les vérifications. Dans ce module on commence avec les deux premières vérifications de base.''Pourquoi cette aptitude est-elle importante ? ''
+Ces vérifications vous permettent d’être sûr que votre texte contient tous les chapitres et tous les versets et que les marqueurs sont bons. Il est important d’exécuter la vérification « chapitre/verset » tout d’abord parce que tous les autres contrôles en dépendent. C’est également nécessaire pour assurer que l’étape de « ébauchage » est finie.''Qu’est-ce qu’on va faire ? ''
+Vous allez effectuer les deux premières vérifications de base. Le moyen le plus facile est d’utiliser du plan de projet. [[C’est aussi possible de faire les vérifications à partir du menu vérification pour faire plus qu'un livre à la fois.]
+----
+!!6.1: Vérifications avec plan de projet
+
+C’est plus facile à faire des vérifications à partir du plan de projet
+* Affichez plan du projet en cliquant sur l’icône{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image19.png" class=img-responsive}
+* S’il y a des « issues » (erreurs), cliquez le lien bleu à droit  {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image20.png" class=img-responsive}Une fenêtre s’affiche avec les erreurs.
+* Double-cliquez une ligne dans la liste. 
+* Corrigez l’erreur dans votre projet. 
+* Double-cliquez la prochaine ligne dans la liste. 
+* Continuez jusqu’à il n’y a plus d’erreurs. 
+* Cliquez sur le bouton « __Relancer__ » pour vérifier toutes les erreurs sont corrigées. 
+* Fermez la fenêtre de résultats. 
+* Continuez avec la vérification des marqueurs. 
+----
+!!6.2: Faire les vérifications manuellement
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous voulez vérifier plus qu’un livre, vous pourriez faire ces vérifications du menu vérifications.{BOX}
+!!!6.2.1: Vérification des « Chapitres/ Versets »
+
+* Cliquez sur votre projet
+* __Vérification__ > __Effectuer les vérifications de base __ 
+* Cocher seulement __Numérotage Chapitre/verset__ 
+* Décochez d'autres vérifications
+* Si nécessaire, cliquez __Choose…__ et choisissez les livres à vérifier.
+* Cliquez sur__ OK__ Une fenêtre s’affiche avec les erreurs.
+* Double-cliquez une ligne dans la liste. 
+* Corrigez l’erreur dans votre projet. 
+* Double-cliquez la prochaine ligne dans la liste. 
+* Continuez jusqu’à il n’y a plus d’erreurs. 
+* Cliquez sur le bouton « __Relancer__ » pour vérifier que toutes les erreurs sont corrigés. 
+* Fermez la fenêtre de résultats. 
+!!!6.2.2: Vérification des « Marqueurs »
+
+* __Vérification > __Inventaire de marqueurs____ Cette liste donne un vu d'ensemble des marqueurs. On ne peut que regarder la liste, mais on peut chercher les marqueurs erronés.
+* Fermez l'inventaire de marqueurs.
+* __Vérification__ > __Effectuer les vérifications de base __ 
+* Cochez seulement__ Marqueurs__ 
+* Cliquez sur __OK__ 
+* Corrigez les erreurs. 
+!7: PP2 : Progrès de projet
+''Introduction''
+Dans ce module, vous apprendrez comment actualiser votre progrès et créer un rapport sur l'état d'avancement.''Où en sommes-nous ?''
+Vous avez travaillé sur votre traduction et avez fini une tâche. Vous voulez maintenant actualiser votre progrès.
+Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permit au Paratext 8 de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.
+Vous ouvrirez la fenêtre des affectations et progrès, et actualiserez le progrès fait. Vous produirez alors un rapport.
+----
+!!7.1: S'assurer le progrès du plan est à jour
+
+* Ouvrez le plan de projet (utilisant le bouton)
+* Actualisez le progrès sur toute tâche (voir PP1 pour les instructions sur chaque type de tâche).
+----
+!!7.2: Modifier une affectation
+
+{BOX(bg="#FFE6FF" width="60%")}
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image21.png" class=img-responsive}Cela peut seulement être fait par un administrateur de projet.{BOX}
+* Du menu __Projet__, select __Assignments and Progress....__(Affectations et Progrès)
+* De la première liste roulante en haut du dialogue, choisissez __All Tasks__ (Toutes les Tâches).
+* Dans la colonne, "__Assigned to__" (affecté à), utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne __Task/Check__ (Tâche/Vérification) au gauche).
+----
+!!7.3: Produisez un rapport sur l'état d'avancement
+
+* Du menu __Outils__ menu, choisissez __Rapport sur l'état de Projet..__.
+* Choisissez le projet(s) à faire un rapport
+* Cliquez sur __OK__. Le rapport contiendra une colonne pour chaque projet que vous avez choisi.
+----
+!!7.4: Les équipes de vue font des progrès des graphiques
+
+* Du menu __Project__, choisissez __Progress charts....__ (des graphiques de progrès d'équipe).{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image23.png" class=img-responsive}
+* Utilisez la première boîte dropdown pour choisir le type de graphique
+* Choisissez les livres comme nécessaires.
+* Cliquez sur l'icône d'imprimanteUne fenêtre s'affiche.
+* Cliquez sur l'icône __Print__
+* Choisissez votre imprimante (ou PDF creator)
+* Cliquez sur __OK__!Étape 2 : Vérification par l’équipe
+
+La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe et notes bibliques pour enregistrer vos questions, des discussions et des décisions.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image21.png" class=img-responsive}
+Les modules suivants vous aiderez avec cette Étape :
+* ((Paratext_8_1-2_Étape2|8: NP : Noms propres|NP : Noms propres))
+* ((Paratext_8_1-2_Étape2|9: VO : Vérification de l’orthographe|VO : Vérification de l’orthographe))
+* ((Paratext_8_1-2_Étape2|10: TB : Un processus de 4 étapes pour les termes bibliques cohérents|TB : Un processus de 4 étapes pour les termes bibliques cohérents))
+* ((Paratext_8_1-2_Étape2|13: VM : Vérification de mise en page |VM : Vérification de mise en page ))
+* ((Paratext_8_1-2_Étape2|12: VB2 : Les vérifications de base  |VB2 : Les vérifications de base  ))
+* ((Paratext_8_1-2_Étape2|14: IE : Impression d’ébauches |IE : Impression d’ébauches ))
+* ((Paratext_8_1-2_Étape2|15: UR : L’utilisation des remarques|UR : L’utilisation des remarques))
+!8: NP : Noms propres
+''Introduction''
+Dans ce module, vous allez vérifier que les noms propres sont bien translitérés.''Où en sommes-nous ? ''
+Vous avez (ou vous êtes en train de faire) un accord des règles pour la translittération de noms.''Pourquoi cette aptitude est-elle importante ? ''
+On veut être cohérent. [[Vous voulez être conséquent pour que soient clairs à qui on parle dans le texte.]''Qu’est-ce qu’on va faire ? ''
+Vous filtrez la liste de termes bibliques principaux de noms propres. Puis vous allez taper les règles de translittération et ajouter les propositions de noms. Puis vous allez vérifier les versets.
+----
+!!8.1: Lancer l’outil Termes biblique
+
+* Cliquez dans votre projet 
+* __Outils__ > __Termes bibliques...__ 
+!!!8.1.1: Ouvrir la liste de termes
+
+* __Fichier__ > __Sélectionner liste de termes__ 
+* Double-cliquez sur la liste __Termes bibliques principaux__  
+!!!8.1.2: Choisir le texte de référence pour comparer
+
+* Cliquez le bouton __Textes comparatifs__ sur la barre d’outils. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image22.png" class=img-responsive} 
+* Choisissez un texte et puis cliquez sur ____ . 
+* Cliquez sur __OK__. 
+!!!8.1.3: Modifier divers paramètres
+
+* Cliquez sur le deuxième bouton de filtre  
+* Cliquez sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image23.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. : Si vous voulez voir les termes grecs ou hébreux avec l’alphabet romanisé, vous pouvez changer l’affichage en utilisant Affichage > __Translitérer termes.__.{BOX}
+!!!8.1.4: Choisir les types de termes
+
+* Cliquez sur le premier bouton de filtre 
+* Choisissez « __Nouveau Filtre__ » 
+* Dans la boîte de dialogue, sous __Catégories…__ 
+* Sélectionnez « __Noms propres__ »
+* Cliquez sur __OK__  
+----
+!!8.2: Modifier noms propres
+
+* __Outils__ __> __Modifier les noms propres____ 
+* Choisissez la langue de référence (p.ex. française, arabe)La boîte de dialogue Modification de noms propres s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image24.png" class=img-responsive}
+!!!8.2.1: Entre les modifications des lettres individuelles (ou des groupes de lettres)
+
+* Dans le volet à gauche, entrez d’abord des modifications des lettres individuelles et des groupes de lettres dans la colonne « Caractère modifié ».
+!!!8.2.2: Puis réviser les noms propres (à droite) un par un
+
+* Dans la colonne __Nom propre modifié__ au volet droite.
+* Pour chaque nom propre, si la modification n’est pas juste, cliquez sur __Nom propre modifié__.
+* précisez la modification juste et cliquez sur __OK__
+* Une fois qu’un nom modifié est juste, cliquez sur « __Approuvé__ » pour empêcher qu’il ne soit changé de nouveau.
+* Cliquez sur __OK__. > Paratext 8 proposera un mot en rouge pour tous les noms.
+----
+!!8.3: Vérifier que votre texte est cohérent
+
+Vous devez identifier le(s) mot(s) que vous avez utilisés dans votre texte pour chaque nom propre.
+* Cliquez sur le nom dans la liste en haut. 
+* Cliquez dans un verset dans le volet en bas qui n'a pas le forme du nom.
+* Cliquez sur le lien Modifier
+* Corrigez comme nécessaire, cliquez sur __OK__.
+* Retournez à l'Outil Termes Bibliques 
+* Répétez pour chaque nom 
+----
+!!8.4: Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte)
+
+* Cliquez sur le nom dans la liste en haut. 
+* Sélectionnez le(s) mot(s) dans votre texte (en bas) qui est (sont) l’équivalent de ce nom. 
+* Cliquez sur __Ajouter équivalents__ ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/add.png" class=img-responsive}) ou Ctrl+A
+----
+!!8.5: Traiter des versets qui n’ont pas le nom dans la traduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il arrive qu’un verset soit traduit correctement sans utiliser le nom réel. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas un équivalent de ce mot précis dans ce verset.{BOX}
+* Cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image26.png" class=img-responsive} à la fin du verset. La croix rouge X se transforme en {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image27.png" class=img-responsive} (et/ou le verset disparaît de la liste). 
+* Si vous avez cliqué sur la croix rouge par erreur, cliquez de nouveau sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image27.png" class=img-responsive} pour retourner à la croix rouge. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image26.png" class=img-responsive}
+{BOX(bg="#FFE6FF" width="60%")}
+Note : Paratext 8 ne vérifie pas les noms dans l’introduction, les en-têtes, les notes de bas de page, les légendes et le glossaire.{BOX}
+----
+!!8.6: Bilan
+
+* Pour translittér les noms propres, vous ______ la liste de noms sur _________________ .
+* Puis vous utilisez le menu _______ et choisissez le commande ____________ .
+* Après avoir saisi les changements des _______ puis __________ les noms adaptés.
+* Paratext 8 ajoute un équivalent __________ pour tous les noms.
+* Vous travaillez alors par la liste, en faisant des ________ et/ou ajoutantes et en vous assurant que tous les versets sont ________.
+* Vous pouvez ajouter un équivalent en sélectionnat la texte et appuyant __Ctrl__+__.
+* Si un pronom est utilisé, vous pouvez _____ l'équivalent en cliquant sur le {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive}.
+{BOX(bg="#FFE6FF" width="60%")}
+Réponses : filtrez, Termes bibliques principaux, noms, Outils, Adapt Names, caractères, approver, proposé, corrections, conhérents, A, deny{BOX}
+!9: VO : Vérification de l’orthographe
+''Introduction'' 
+Ce module explique comment utiliser une fonctionnalité de Paratext 8 pour la vérification des fautes d’orthographe.''Où en sommes-nous ? ''
+Vous avez saisi votre texte dans Paratext 8 et vous l’avez examiné pour déceler les fautes de frappe et les erreurs de composition. Mais il peut encore rester un certain nombre d’erreurs d’orthographe.''Pourquoi cette fonction est-elle importante ? ''
+Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message sans ambiguïté.''Qu’est-ce qu’on va faire ? ''
+Vous devez d’abord configurer la liste de mots pour avoir une base de mots avec une orthographe correcte. Puis vous pouvez configurer l’ordinateur pour qu’il souligne les fautes d’orthographe à l’aide de lignes ondulées rouges dans le texte. Vous pouvez ensuite les corriger du texte. Vous pouvez ensuite faire diverses vérifications à la liste de mots.''Ce qui a changé en passant de Paratext 7 à Paratext 8''
+Paratext 8 a diverses vérifications à la liste de mots. Il peut également souligner les caractères invalides dans le texte.
+----
+!!9.1: Configurer la liste de mots
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant de vérifier l’orthographe, il est important d’avoir une base de mots corrects. Il y a trois choses à faire :{BOX}
+!!!9.1.1: Approuver l’orthographe des mots fréquents
+
+Dans Paratext
+* __Outils__ > __Liste de mots__ 
+Dans le Liste des Mots
+* __Outils__ > __Approuvez l’orthographe des mots fréquents __
+* Saisissez un chiffre  
+{BOX(bg="#FFE6FF" width="60%")}
+Saisissez un chiffre qui représente le minimum d’occurrences d’un mot pour permettre l’approbation automatique de son orthographe. En d’autres termes, combien de fois le mot doit-il être dans la liste pour qu’on le considère comme bien orthographié ? Le paramètre par défaut est 100, mais on peut choisir plus ou moins que cela.{BOX}
+* Cliquez sur __OK__ 
+* Cliquez sur __Oui__ (pour confirmer que vous ne pouvez pan annuler)
+!!!9.1.2: Vérifier les mots que Paratext pense être erronés
+
+Dans la liste de mots (__Outils__ > __Liste de mots__)
+* __Outils__ > __Vérifier l’orthographe__  > __All Checks__La liste de mots s'affiche.
+* Cliquez sur un mot dans le volet en haut.
+* Si correct — cliquez sur la case verte  {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26.png" class=img-responsive}
+* Si le mot est incorrect, mais Paratext a proposé le mot juste, puis cliquez sur le lien bleu du mot juste
+* Si incorrect, et Paratext n'a pas proposé le mot juste, cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image26a.png" class=img-responsive} et corriger le mot.
+!!!9.1.3: Vérifier les mots ayant une orthographe similaire
+
+Dans la liste de mots
+* __Outils__ > __Rechercher mots semblables__
+* Remplissez la boîte de dialogue avec les paires de lettres qui peuvent être confondues séparé par / (p.e.x s/sh)
+{BOX(bg="#FFE6FF" width="60%")}
+Selon votre langue, cochez ou décochez « ne pas tenir compte des signes diacritiques lors de la comparaison des mots ».{BOX}
+* Cliquez sur __OK__ Une liste de mots s'affiche.
+* Vérifiez les mots comme au-dessus. 
+----
+!!9.2: Vérifier l’orthographe — dans le texte
+
+Dans Paratext
+* __Vérification __ > __Afficher l’orthographe__
+{BOX(bg="#FFE6FF" width="60%")}
+Un mètre de progrès s’affiche puis tous les mots inconnus ou incorrects sont soulignés avec les lignes ondulées rouges.{BOX}
+----
+!!9.3: Corrections des erreurs
+
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext 8 soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu ou soit mal-écrit. C'est á vous de décider.{BOX}
+* Cliquez à droite sur un mot souligné en rouge ou gris Une boîte s'affiche {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image29.png" class=img-responsive}
+* Soit saisissez la correction soit choisissez un mot de la liste 
+* Cliquez sur __OK__.
+{BOX(bg="#FFE6FF" width="60%")}
+C’est préférable d’utiliser « vérifier l’orthographe » au lieu de corriger les mots un par un dans le texte. C’est mieux parce que Paratext 8 va se rappeler la correction pour l’appliquer aussi dans les autres chapitres.{BOX}
+
+{BOX(bg="#FFE6FF" width="60%")}
+Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin.
+__Oui__ = change ce verset et cherche d’autres.__Non__ = ne change pas ce verset, mais cherche d’autres__Oui à tous__ est trop dangereux. Ne l’utilisez pas!__Annuler__ = arrête d’ici, ne change rien d’autre{BOX}
+----
+!!9.4: Vérifier l’orthographe – du livre actuel
+
+* __Vérification__ > __Vérifier l’orthographe du livre actuel__ Une fenêtre s’affiche avec une liste de plusieurs mots suspects du livre actuel.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image30.png" class=img-responsive}
+* Faites les corrections comme ci-dessus 
+* Cliquez sur « Encore des éléments disponibles » pour afficher des mots supplémentaires. 
+* Continuez si nécessaire. 
+----
+!!9.5: Vérification d’orthographe — dans la liste de mots
+
+!!!9.5.1: Utiliser les nouvelles vérifications
+
+Dans la liste de mots
+* __Outils__ > __Vérifier l’orthographe__ 
+* Choisissez la vérification désirée (voir dessous) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image31.png" class=img-responsive}
+Une liste de mots s’affiche.
+* Faites les corrections comme ci-dessus 
+* Cliquez sur « __Encore des éléments disponibles__ » pour afficher des mots supplémentaires. 
+* Continuez si nécessaire. 
+* Quand la liste est vide, un message s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image32.png" class=img-responsive}
+* Oui (__Yes__).
+!!!9.5.2: Toutes les vérifications
+
+Cela gère tous les contrôles. Ceci est très utile, car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.
+!!!9.5.3: Majuscules manquantes
+
+* Une liste de mots s’affiche avec les liens d’autres mots qui n’ont pas toujours en majuscules. Le mot en minuscule a le mot en majuscule dessous avec un lien bleu.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image33.png" class=img-responsive}
+* Cliquez sur le lien bleu pour le mot en majuscule.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image34.png" class=img-responsive} 
+* Cliquez sur le lien bleu qui convient.
+* ''Show Incorrect'' (pour voir tous les versets)
+* ''Toutes les deux formes sont acceptables ''(pour accepter les deux formes)
+* ''Capitalise All ''(pour corriger tous les mots)
+!!!9.5.4: Single Character Typos (faut de frappe d’un caractère unique)
+
+Une liste de mots s’affiche avec les liens d’autres mots qui ressemble, mais qui n’a qu’une seule lettre différente.
+!!!9.5.5: Unusual Letter Combinations (combinaisons caractères inhabituelles
+
+Une liste des mots s’affiche qui ont une séquence des caractères rares comme plus qu’une consonante ou plusieurs voyelles…
+!!!9.5.6: Diacritic Errors (erreurs diacritiques)
+
+Une liste s’affiche des mots qui sont les mêmes sauf une ou plusieurs différences en diacritique.
+!!!9.5.7: Common Typos (fautes de frappe habituelles)
+
+Une liste s’affiche des mots qui ont le même type de problème que vous avez résolu avant. P.ex. si vous aviez corrigé « teh » en « the », et il trouve « tehm » il suggérait « them ».
+!!!9.5.8: Morphologie inconnue
+
+Une liste de mots s’affiche dont l’ordinateur ne peut pas deviner la morphologie basée sur d’autres mots.
+!!!9.5.9: Rechercher des mots mal liés ou mal divisés
+
+Dans la liste de mots (__Outils__ – Liste de mots)
+* __Outils__ > __Rechercher des mots mal liés ou mal divisés__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image35.png" class=img-responsive} 
+* Saisissez la ponctuation si elle existe 
+* Cliquez sur __OK__. Une liste de mots regroupés s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/maldivise.png" class=img-responsive}
+!!!9.5.10: Corriger un mot mal marqué
+
+* Trouvez le mot dans la liste (en utilisant un filtre si nécessaire)
+* Cliquez sur la ligne 
+* Cliquez sur l’état d’orthographe désiré  
+!10: TB : Un processus de 4 étapes pour les termes bibliques cohérents
+''Introduction ''
+La fenêtre d’__Équivalents de termes bibliques__ et l’outil __Termes bibliques__ sont liés et sont très utiles pour vérifier que vous avez été cohérent avec les termes, surtout les termes clés. Ce module explique un simple processus de 4 étapes pour assurer que les termes bibliques sont cohérents. C'est un processus et doit être considéré comme une partie du processus de traduction et pas comme une vérification.''Où en sommes-nous ? ''
+Vous êtes en train de traduire un verset en Paratext 8 et vous voulez voir les équivalents qui sont déjà choisis pour les termes de verset actuel puis vérifier qu’ils sont cohérents avec les autres versets.''Pourquoi cette aptitude est-elle importante ? ''
+Pour que votre texte communique le message clairement, vous devez utiliser les termes de manière cohérente. C’est une grande tâche pour les rendre complètement cohérents. Si vous commencez à partir du verset que vous traduisez, et travail à partir de là, la tâche est plus facile à gérer. Le but est d’avoir les équivalents de termes bibliques systématiquement rendus et les décisions bien documentées sur les raisons pour les modifications.''Qu’est-ce qu’on va faire ? ''
+Cette méthode se résume à une courte liste des étapes :
+# Trouver tous les équivalents que vous avez utilisés pour ce terme, et les entrer dans la boîte de dialogue des équivalents.
+# Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.
+# Document la raison pour laquelle vous avez rejeté les autres équivalents.
+# Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).
+* Répétez ce processus avec le prochain terme biblique que vous trouvez dans la fenêtre d’équivalentes de termes bibliques.
+----
+!!10.1: Ouvrir la fenêtre d’équivalents de termes bibliques
+
+* Cliquez dans votre projet 
+* __Fichier__ > __Équivalents de termes bibliques__ 
+* __Fichier__ > __Sélectionner liste de termes__  
+* Choisissez la liste désirée
+* Cliquez sur __OK__. > 
+----
+!!10.2: [[A] Trouver tous les équivalents pour ce terme
+
+!!!10.2.1: Trouver le terme pour le verset actuel
+
+* Y a-t-il une coche dans la colonne trouvée ?  
+* S’il y a une coche, le verset utilise le terme et vous pouvez continuer avec le prochain terme. 
+* Sinon, vous devez soit corriger votre texte soit ajouter le nouveau terme que vous avez utilisé (voir ci-dessous) 
+!!!10.2.2: Ajouter un autre équivalent
+
+Si l’équivalent que vous avez utilisé doit être ajouté à la liste :
+* Sélectionnez l’équivalent dans votre texte. 
+* Copiez (__Ctrl__ + __c__) 
+* Double-cliquez dans la cellule des équivalents. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image36.png" class=img-responsive}Une boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderings1a.png" class=img-responsive}
+* Collez (__Ctrl__ + __v__) l’équivalent dans la boîte de dialogue. 
+* Cliquez sur __OK__. >
+!!!10.2.3: Trouver d’autres versets dans le livre actuel avec le même terme biblique
+
+* Double-cliquez sur un mot dans la colonne __Terme__ L’outil termes bibliques s’affiche.
+* À partir du deuxième champ de filtre, choisissez __Livre actuel__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image38.png" class=img-responsive}
+* Ajouter les équivalents de tous les versets (voir ci-dessous). 
+!!!10.2.4: Ajouter les équivalents d’autres versets
+
+* Sélectionnez l’équivalent dans le verset 
+* Ajoutez l’équivalent en utilisant __Ctrl__+__A__ 
+* Continuez jusqu’à tous les équivalents ont été identifié. 
+!!!10.2.5: Traiter des versets qui n’ont pas le terme dans la traduction
+
+{BOX(bg="#FFE6FF" width="60%")}
+Parfois il arrive qu’un verset soit traduit correctement sans utiliser le nom réel ou le terme. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas d’équivalents de ce mot précis dans ce verset.{BOX}
+* Cliquez sur la croix rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} à gauche du lien de verset. La Croix-Rouge se transforme en tique verte avec petit x rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive}
+{BOX(bg="#FFE6FF" width="60%")}
+Si vouz avez cliqué sur la croix par erreur, cliquez sur {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image25.png" class=img-responsive} et elle reviendra à {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image24.png" class=img-responsive} {BOX}
+----
+!!10.3: [[B] Identifier le meilleur équivalent
+
+* Double-cliquez sur le terme dans le volet en haut. La boîte de dialogue s’affiche avec tous les équivalents qui ont été ajoutés.
+* Décidez le meilleur équivalent 
+* Sélectionnez-le, coupez-le (__Ctrl__+__x__) et collez-le (__Ctrl__+__v__) à la première ligne de la liste.  
+* Ajoutez les * comme nécessaire pour combiner les équivalents similaires. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderings2b.png" class=img-responsive}
+----
+!!10.4: [[C] Rejeter tous les autres
+
+* Sélectionnez et coupez les autres équivalents.
+----
+!!10.5: [[D] Documenter la raison pour la modification
+
+* Cliquez sur le bouton __Historique__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image39.png" class=img-responsive}
+* Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image40.png" class=img-responsive}
+* Cliquez sur __OK__
+!!!10.5.1: Si vous aviez besoin de plus qu’un équivalent
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous pouvez ajouter plus qu’un équivalent si nécessaire. Dans ce cas il est bon d’ajouter une retraduction entre parenthèses après l’équivalent. Par exemple,  slave (esclave) guy * work fo (type qui travail pour){BOX}
+* Ouvrez la boîte de dialogue pour les équivalents 
+* Ajoutez/modifiez les équivalents comme nécessaires. 
+!!!10.5.2: Nettoyer d’autres livres (si le temps le permet)
+
+* Changez le filtre pour que tous les livres publiés soient affichés. 
+* Nettoyez les versets comme nécessaires. 
+!!!10.5.3: Ajouter les remarques des discussions des équivalents - discussion en cours
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous ne décidez pas définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.{BOX}
+* Double-cliquez sur l’icône de remarque (dans la deuxième colonne) {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/renderingsnote2.png" class=img-responsive} 
+* Saisissez la remarque 
+* Affectez la remarque comme désiré. 
+* Cliquez sur __OK__. 
+!!!10.5.4: Ajouter la décision dans la remarque
+
+* Double-cliquez sur le terme 
+* Saisissez l’équivalent décidé dans les « remarques » de la boîte de dialogue.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image37a.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+----
+!!10.6: Ajouter un terme
+
+Il y aura quelques termes qui sont importants pour votre langue et culture qui ne sont pas dans la liste. Vous pouvez ajouter ces termes à la liste de votre projet.
+Dans Paratext
+* Cliquez dans votre texte de référence, recherchez le terme 
+* __Édition__ > __Rechercher__ puis saisissez le terme et cliquez sur __OK__. Une liste s’affiche montrant les verses avec ce terme.
+Dans la liste des résultats
+* __Édition__ > __Ajouter aux termes bibliques du projet__, puis choisissez votre projet {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image42.png" class=img-responsive}
+* Modifiez la glose comme désiré 
+* Cliquez sur l’onglet __Avancé__ 
+* Saisissez un nom pour le terme 
+* Cliquez sur __OK__ 
+!11: MP : Comparer un mot ou expression 
+''Introduction''
+Dans ce module, vous allez chercher un mot ou phrase dans un projet et le comparer avec la traduction de ce mot ou phrase dans un autre projet.''​Pourquoi cette aptitude est-elle importante ? ''
+Dans Paratext 8 (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où le mot « roi » se produit dans un projet français et le comparer avec « rey » dans un projet espagnol.''​Qu’est-ce qu’on va faire ? ''
+On va
+* utiliser la liste « Mot ou expression » du texte et également l’outil termes bibliques. 
+* définir les paramètres et textes comparatifs 
+* saisir le mot ou expression à comparer 
+----
+!!11.1: Comparer un Mot ou expression — du texte
+
+* Cliquez dans le projet que vous souhaitez comparer. 
+* Dans le menu __Outils__, pointez sur __Listes récapitulatives__ et sélectionnez « __Word or Phrase__ » La boîte de dialogue « Paramètres » s’affiche.
+* Entrez le mot ou l’expression que vous souhaitez voir dans chaque projet dans le dialogue 
+* Cliquez sur __OK__ Une fenêtre s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image43.png" class=img-responsive}
+* Cliquez sur __Textes comparatifs__...  
+* Sélectionnez les textes que vous souhaitez comparer et cliquez sur __OK__. La boîte de dialogue « Paramètres » s’affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image44.png" class=img-responsive}
+* Saisissez le mot ou l’expression que vous souhaitez comparer dans la zone correspondant à chaque projet, puis cliquez sur __OK__.Une fenêtre s’affiche et le bouton __Masquer des correspondances__ s’affiche sur la barre d’outils.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image45.png" class=img-responsive}
+* Cliquez sur __Masquer les correspondances__ pour afficher uniquement les références où le nombre d’occurrences du mot ou de l’expression diffère. La liste montre où chacun de ces éléments se trouve dans chaque verset d'un projet. Les mots où les phrases sont mises en surbrillance en bleu clair.
+----
+!!11.2: Comparer utilisation d’un Mot ou expression – de l’outil termes bibliques
+
+* Dans l’outil Termes bibliques,  
+* Sélectionnez un terme biblique qui a déjà un équivalent. 
+* Cliquez sur l’icône « __Afficher les rendus pour le terme courant dans Word ou Phrase checklist__ » {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image46.png" class=img-responsive}La boîte de dialogue « __Paramètres__ » s’affiche avec l’équivalent déjà rempli.
+* Saisissez le mot ou l’expression pour les autres projets. 
+* Cliquez sur __OK__. 
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous souhaitez comparer plus d’un mot ou d’une phrase, tapez __Entrée__ après chaque mot ou expression.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/MultipleWordPhrase.png" class=img-responsive}{BOX}
+!12: VB2 : Les vérifications de base  
+''Introduction''
+Dans ce module, vous apprendrez à faire plusieurs autres vérifications de base (les caractères, la ponctuation, les majuscules et les mots répétés). Comme dans le premier module, il est plus facile de lancer ces vérifications à partir du plan de projet. Toutefois, si vous souhaitez vérifier plusieurs livres, vous devez le faire dans le menu de vérification.''Où sommes-nous ?''
+Vous avez saisi votre traduction dans Paratext. Assurez-vous d’avoir vérifié les numéros de chapitre et de verset, ainsi que les marqueurs, tels que décrits dans le module ((Paratext_8_1-2_Étape1|6: VT1 : Vérifications de base|VT1 : Vérifications de base)), avant de continuer et que votre administrateur a complété la configuration des vérifications ou est là pour les faire avec vous.''Pourquoi est-ce important ?''
+Paratext 8 permet d’effectuer onze vérifications de base. Vous avez déjà vu les deux premières (le chapitre / les versets et les marqueurs). La prochaine série vous aide à localiser les erreurs liées à l’orthographe, la ponctuation, l’utilisation des majuscules et les mots répétés. Bien que ces erreurs n’influent pas nécessairement sur le contenu du texte, les corriger rend le texte plus facile à lire.''Ce que nous allons faire :''
+La plupart des vérifications exigent qu’une certaine configuration soit faite par votre administrateur. Dans ce module, vous allez :
+* assurer que la configuration a été effectuée (ou avoir l'administrateur les faire)
+* faire les vérifications de base 
+* corriger toutes les erreurs.
+----
+!!12.1: Confirmer la configuration
+
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.{BOX}
+La configuration peut être un inventaire, des règles ou des paramètres
+----
+!!12.2: Utiliser les inventaires pour préparer l’exécution des vérifications
+
+{BOX(bg="#FFE6FF" width="60%")}
+Ces inventaires montrent ce que vous avez dans votre texte, c’est-à-dire qu’ils montrent tous les bons caractères et les erreurs. Vous devez travailler en utilisant les inventaires et enseigner à Paratext 8 lesquels des éléments sont bons (valides) et lesquels sont des erreurs (non valides).{BOX}
+Une fois que vous avez fini les inventaires, vous êtes prêts à faire les vérifications.
+* Dans le menu __Vérification__, choisissez l’inventaire (par exemple l’inventaire de caractères).  
+* Cliquez sur un élément dans la liste en haut.Les versets sont affichées dans le volet en bas.
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__.
+* Répétez pour chaque élément.
+* Cliquez sur __OK__. Une liste d'erreurs s'affiche.
+* Faites les corrections nécessaires.
+----
+!!12.3: Caractères
+
+{BOX(bg="#FFE6FF" width="60%")}
+Identifier et/ou corriger tous les caractères inadmissibles, c.-à-d., des caractères qui ne sont pas dans votre alphabet.{BOX}
+* __Vérification__ > __Inventaire de caractères__  
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Caractères__ » 
+* Cliquez sur __OK__.
+* Faites les corrections nécessaires.
+----
+!!12.4: Ponctuation
+
+{BOX(bg="#FFE6FF" width="60%")}
+Identifier et/ou corriger tous les signes de ponctuation inadmissibles ou mal placés.{BOX}
+* __Vérification__ > __Inventaire de signes de ponctuation__,  
+* Vérifiez chaque signe de ponctuation et son contexte. 
+{BOX(bg="#FFE6FF" width="60%")}
+Les contextes peuvent être : __Mot initial__, __Milieu du mot__, __Fin du mot__ et __Isolé__ (un espace avant et après){BOX}
+* {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image49.png" class=img-responsive}
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Ponctuation__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.5: Paires correspondantes
+
+{BOX(bg="#FFE6FF" width="60%")}
+C’est pour identifier toutes les erreurs de signes de ponctuation qui se produisent dans les paires, par exemple ( ), [[ ], etc.{BOX}
+* __Vérification__ > __Inventaire d’erreurs ponctuation en paires correspondantes__ :  
+* Si la liste est vide, il n’y a pas d’erreurs. 
+* Si nécessaire, cliquez sur __Options...__ pour ajouter d’autres paires 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Erreurs de ponctuation en paires correspondantes __ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.6: Mots répétés
+
+{BOX(bg="#FFE6FF" width="60%")}
+C’est pour identifier les mots qui ont été répétés dans le texte.{BOX}
+* __Vérification__ > __Inventaire de mots répétés__ :  
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Mots répétés__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.7: Mise en majuscules
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il y a quatre inventaires concernant des majuscules, mais une seule vérification.{BOX}
+* __Vérification__ > __Markers Missing Final Sentence Punctuation__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire des marqueurs suivis d’une minuscule__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire de signes de ponctuation suivis d’une minuscule__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Inventaire de mise en majuscules mixte__ 
+* Pour chaque élément, choisissez __Valide__ ou __Non valide__. 
+* __Vérification__ > __Effectuer les vérifications de base__ 
+* Cochez « __Mise en majuscules__ » 
+* Cliquez sur __OK__. 
+* Faites les corrections nécessaires. 
+----
+!!12.8: Faire de petites corrections
+
+{BOX(bg="#FFE6FF" width="60%")}
+C'est possible de faire des corrigés mineurs à partir d'un inventaire:{BOX}
+* Cliquez sur un verset dans la liste en bas
+* Appuyez sur __Maj__ + double-cliquez,  
+* Faites la correction,  
+* Cliquez sur __OK__. 
+{BOX(bg="#FFE6FF" width="60%")}
+Pensez à utiliser la Liste de mots ou afficher l’orthographe pour corriger toutes les erreurs.{BOX}
+!!!12.8.1: Révision :
+
+Il y a plusieurs vérifications de bases en Paratext 8. Il y a souvent quelque chose à faire avant d’effectuer la vérification ; soit un inventaire soit des paramètres soit des règles à faire. Pour chaque __Vérification de base__, remplissez ce tableau.
+|||Vérification|Faire avant|…  quoi ?
+« Chapitres/versets » |aucun |  
+« marqueurs » |inventaire |des marqueurs 
+« caractères » |inventaire |des caractères 
+« ponctuation » |inventaire |de signes de ponctuation 
+« paires correspondantes » |inventaire |d’erreurs ponctuation en paires correspondantes 
+« mots répétés » |inventaire |de mots répétés 
+« mise en majuscules » |inventaire |de marqueurs non exigeant une majuscule, 
+inventaire |de signes de ponctuation non exigeât une majuscule, 
+inventaire |de mise en majuscules mixte 
+« références » |paramètres |Projet > __Paramètres de références bibliques__ 
+« guillemets » |règle |Vérification > __Règles de Guillemets__ 
+« numération » |paramètres |Vérification > __Paramètres de chiffres__ 
+« quoted text » |aucun |  ||
+On peut faire toutes les vérifications à la même fois, mais si c’est la première fois que vous les faites, il serait mieux de les faire l’une après l’autre.
+!13: VM : Vérification de mise en page 
+''Introduction ''
+Dans ce module, vous apprendrez à trouver et à corriger les erreurs de mise en forme et de mise en page.''Où en sommes-nous ? ''
+Vous avez saisi votre ébauche dans un projet dans Paratext. Ce module vous montrera comment utiliser les __Listes récapitulatifs__ pour trouver et corriger les erreurs de mise en forme et de mise en page.''Pourquoi cette aptitude est-elle importante ? ''
+Un Nouveau Testament ne contient pas que des chapitres et des versets. On y trouve également des titres, des sous-titres, et plusieurs types de paragraphes. Les vérifications que vous faites vous permettent de vous rassurer que la mise en page de votre texte est correcte, et que vos titres et autres sont cohérents.''Qu’est-ce qu’on va faire ? ''
+Servez-vous des listes récapitulatives pour
+* comparer vos titres et sous-titres ;  
+* vérifier vos casses de paragraphes ; 
+* comparer les marqueurs de paragraphe de votre texte avec ceux de votre texte de référence ;
+* ajouter des marqueurs pour la mise en forme des textes spéciaux ; 
+----
+!!13.1: Utilisation des listes récapitulatives - générique
+
+{BOX(bg="#FFE6FF" width="60%")}
+Il existe un certain nombre de listes récapitulatives qui diffèrent légèrement, mais ils ont un mode d’emploi en commun :{BOX}
+''Comment afficher la liste''
+* __Outils__ > __Listes récapitulatives__ > choisissez la liste désirée 
+* Ajoutez un texte comparatif (si voulu) en cliquant sur le bouton __Textes comparatifs__ 
+* Sélectionnez la plage (si nécessaire) en utilisant le bouton __Sélectionner plage__ 
+''Comment faire les modifications''
+* Cliquez sur le lien « modifier » pour corriger des problèmes vus 
+* Cliquez sur le lien de référence pour voir plus de contexte  
+''Fermer la liste''
+* Après avoir fini la liste, fermez-le en cliquant X 
+----
+!!13.2: Utilisation des listes récapitulatives - En-têtes de section
+
+Vérifiez que
+* les en-têtes sont cohérents avec votre texte de référence 
+* tous commence avec majuscule. 
+* il n’y a pas de ponctuation à la fin. 
+* ils ne sont pas trop longs. 
+----
+!!13.3: Vérification des paragraphes
+
+* __Outils__ > __Listes récapitulatives__ > __Marqueurs__ 
+* Choisissez votre texte de référence comme le __texte comparatif__ 
+* Cliquer sur __Paramètres__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image47.png" class=img-responsive}
+* Saisissez les marqueurs à afficher (p.ex. p m) 
+* Cliquez sur __OK__
+* Cliquez sur le lien « modifier » pour corriger des problèmes vus. 
+OU
+* Cliquez sur le lien bleu
+* Faites les corrections en Paratext
+* Retournez aux listes récapitulatives en cliquant sur l'icône sur la barre des tâches.
+----
+!!13.4: Mise en page et retraits
+
+* __Outils__ > __Listes récapitulatives__ > __Marqueurs__ 
+* Choisissez votre texte de référence comme texte comparatif 
+* Cliquer sur __Paramètres__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image48.png" class=img-responsive}
+* Saisissez les marqueurs pour vérifier.
+* Cliquez sur __OK__.
+* Cherchez des passages qui ont été mis au format avec de différents marqueurs tels que q1 et q2
+* Faites les modifications comme au-dessus. 
+----
+!!13.5: Ajouter USFMs pour la mise en forme spéciale
+
+* Regardez la liste de mise en forme spéciale (annexe A) 
+* Ajoutez les USFM comme nécessaire. 
+!14: IE : Impression d’ébauches 
+''Introduction''
+Dans ce module, vous apprendrez comment préparer une ébauche de votre traduction pour la vérification et la révision.''Où en sommes-nous ? ''
+Vous avez travaillé sur votre texte dans Paratext. Maintenant, vous voulez l’imprimer pour le donner aux réviseurs ou pour la vérification. Votre projet doit être inscrit dans le registre de Paratext 8 pour imprimer une ébauche.''Pourquoi cette aptitude est-elle importante ? ''
+C’est plus facile de faire réviser et vérifier votre travail sur le papier qu’à l’écran. Avec des copies imprimées, vous pouvez donner le texte à plusieurs personnes.''Qu’est-ce qu’on va faire ? ''
+Vous devez d’abord produire ce qu’on appelle une « version PDF » de la traduction que vous voulez imprimer. Si nécessaire, vous pouvez copier la version PDF sur votre clé USB pour la transférer sur un ordinateur lié à une imprimante.
+----
+!!14.1: Créer une ébauche en PDF
+
+{BOX(bg="#FFE6FF" width="60%")}
+Assurez-vous d’avoir fait la vérification des marqueurs avant d’imprimer l’ébauche.{BOX}
+* ____Fichier__ > __Imprimer ébauche...____ 
+* Vérifiez si votre projet est sélectionné. 
+* Choisissez les livres et chapitres que vous souhaitez imprimer. 
+* Choisissez les paramètres : 
+* Taille de page : 210mm, 297mm (A4)  ou148mm, 210mm (A5) 
+* Colonnes : 1 
+* Marges : 25 mm (pour A4) ou 12 mm pour A5 
+* Police du corps du texte : Charis SIL (ou Charis SIL Compact) 
+* Taille : 10 (or 11) 
+* Interligne : Double ou simple 
+* Cliquez sur l’onglet __Avancé__ 
+* Choisissez les polices 
+* Choisissez ce que vous voulez dans les en-têtes de page. 
+* Cliquez pour cocher « Pages en vis-à-vis » 
+* Faites les autres choix selon les besoins. 
+* Cliquez sur __OK__ et attendez l’ouverture du lecteur PDF. S’il y a des erreurs avec des marqueurs par exemple, une boîte s’affiche. Cliquez sur Non, puis corrigez les erreurs et reprendre. 
+----
+!!14.2: Imprimer un PDF
+
+Dans Adobe
+* ____Fichier__ > __Imprimer____. 
+* Pour A5
+* Pour imprimer recto verso
+* Cliquez sur le bouton __Propriétés__
+* Cliquez sur __Finition__
+* Choisissez __recto-verso__ ou __deux côtes__
+* Orientation: __Portrait __(nouveau) ou __Paysage__ (Win7)
+* Cliquez sur __OK__
+{BOX(bg="#FFE6FF" width="60%")}
+Si vous voulez suivre un système de ponctuation qui ajoute un espace avant ou après un signe de ponctuation complexe, demandez à un encadreur de modifier votre PrintDraftChanges.txt{BOX}
+----
+!!14.3: Copiez le fichier PDF à une clé USB
+
+{BOX(bg="#FFE6FF" width="60%")}
+Le Paratext sauve le fichier de PDF dans le dossier PrintDrafts de votre dossier de projet. Par exemple, C:\Users\User\Documents\My Paratext 8 Projects\XXX\PrintDraft
+Il y a beaucoup de façons de copier des fichiers. Une méthode est décrite ci-dessous.{BOX}
+* Maintenez la touche Windows + ELa fenêtre de Windows Explorer s'affiche.
+* Accédez à dossier __My Paratext 8 Projects__.
+* Double-cliquez sur votre dossier du projet
+* Double-cliquez sur le dossier __PrintDraft__
+* Cliquez-droite sur le fichier PDF
+* Choisissez __Envoyer vers__
+* Choisissez votre clé USB.
+!15: UR : L’utilisation des remarques
+''Introduction ''
+Il est possible que pendant que vous faites la traduction et les vérifications, vous ayez envie de faire des commentaires sur divers problèmes que vous rencontrez ou erreurs que vous ayez trouvés. Vous pouvez également souhaiter enregistrer vos discussions au sujet des termes clés et des questions d’orthographe. Paratext 8 vous permet d’enregistrer de tels commentaires directement dans le texte, dans la liste des termes bibliques ou dans la liste des mots.''Où en sommes-nous ?  ''
+Vous êtes en train de saisir ou de réviser votre texte, votre liste de mots ou vos mots-clés et vous devez faire des commentaires sur un problème que vous avez observé
+{BOX(bg="#FFE6FF" width="60%")}
+Attention :  Les remarques décrites ci-dessus sont très différentes des notes de bas de page. Ces dernières apparaissent dans la Bible alors que les notes servent à conserver les questions et les commentaires et ne s’affichent pas dans la Bible.  {BOX}''​Qu’est-ce qu’on va faire ? ''
+Vous allez
+* créer des remarques dans le texte en utilisant différentes icônes ; 
+* modifier et résoudre les remarques ; 
+* ouvrir une fenêtre des remarques à partir du texte ; 
+* filtrer la liste ; 
+* imprimer la liste des remarques ; 
+* ajouter à la liste de termes bibliques des remarques de discussion des équivalents ; 
+* ajouter à la liste de mots des remarques sur l’orthographe 
+----
+!!15.1: Les différentes icônes de remarques 
+
+Vous pouvez choisir parmi plusieurs icônes différentes pour vos remarques de projet dans Paratext 8 :
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image50.png" class=img-responsive} 
+{BOX(bg="#FFE6FF" width="60%")}
+Astuce : Ne prenez pas trop d’icônes !{BOX}''Les différentes formes d’icônes ''
+Chaque icône peut avoir plusieurs formes :
+||Icône |Description |Signification 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image43.jpeg" class=img-responsive} |L’icône a une bordure et une couleur de base jaune clair. |La note a au moins un commentaire non lu. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image44.png" class=img-responsive} |L’icône est rouge, violet, ou bleu clair. |Une note de projet assignée à vous ou à l’équipe entière. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image45.png" class=img-responsive} |L’icône est grise. |Une note de projet assignée à quelqu’un d’autre ou non assigné. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image46.png" class=img-responsive} |L’icône est grise avec une « coche » verte. |Une note de projet avec le statut résolu. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image47.png" class=img-responsive} |L’icône est un point d’interrogation blanc sur la couverture d’un livre bleu. |Il y a une note de discussion d’orthographe pour ce mot. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image48.png" class=img-responsive} |L’icône est un point d’interrogation blanc sur la couverture d’un livre gris. |Il n’y a PAS de note de discussion d’orthographe pour ce mot. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image49.png" class=img-responsive} |L’icône est un plus bleu clair. |Une note du conseiller. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image50.png" class=img-responsive} |L’icône est un globe bleu clair. |Une note globale du conseiller. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image51.png" class=img-responsive} |L’icône est un point d’exclamation noir dans un triangle rouge. |Il y a un conflit de fusion Envoyer/Recevoir parce que deux utilisateurs ont fait de différents changements dans le même verset. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image52.png" class=img-responsive} |L’icône est une flèche blanche sur la couverture d’un livre bleu. |Il y a une note de discussion des équivalents pour ce terme biblique. Cette icône apparaît uniquement dans l’outil Termes bibliques ou dans la fenêtre des équivalents des termes bibliques. 
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image53.png" class=img-responsive} |L’icône est une flèche blanche sur la couverture d’un livre gris. |Il n’y a PAS de note de discussion d’équivalent pour ce terme biblique ||
+----
+!!15.2: Définir des types de remarques
+
+(On doit être un Administrateur)
+* ____Project__ > __Propriétés et paramètres de projet____ 
+* Cliquez sur l’onglet __Remarque__ 
+* Cliquez sur le bouton__ Ajouter étiquette__Une nouvelle ligne est ajoutée 
+* Cliquez sur__ l’icône__ de la nouvelle ligne 
+* Choisissez __l’icône __désirée 
+* Cliquez sur__ « Nom »__ et saisissez un nom 
+* Continuez pour définir toutes les remarques. 
+----
+!!15.3: Insertion d’une remarque
+
+* Cliquez dans le texte où vous voulez le note (et si désiré, sélectionnez du texte)
+* __Insérer __> __Remarque__ 
+* Choisissez l’étiquette pour la remarque {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image61.png" class=img-responsive} 
+* Saisissez le texte de la remarque 
+* Cliquez sur __OK__. Une icône s’affiche à côté du texte.
+----
+!!15.4: Ouvrir des remarques
+
+* __Fichier__ > __Ouvrir les remarques__...
+* Sélectionnez votre projet. 
+* Cliquez sur __OK__. Les remarques s’affichent dans une fenêtre séparée.
+* Sélectionnez le livre. 
+{BOX(bg="#FFE6FF" width="60%")}
+Si la fenêtre est vide, modifiez le filtre en utilisant les boutons des filtres. Le premier filtre est le type de remarque, et le deuxième est le lieu.{BOX}
+----
+!!15.5: Ajouter des commentaires dans une remarque ouverte dans le texte
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte.La remarque s'ouvre. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image64.png" class=img-responsive}
+* Saisissez le commentaire
+* Cliquez sur __OK__
+----
+!!15.6: Ajouter des commentaires dans une remarque d'une fenêtre des remarques
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image65.png" class=img-responsive}) dans le texte.La remarque s'ouvre.
+* Saisissez un commentaire dans la case de texte en bas.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image66.png" class=img-responsive}
+* Resoolvez ou affectez le remarque comme désiré.
+* Cliquez sur la flèche pour réduire la remarque.
+----
+!!15.7: Affecter une remarque à quelqu’un
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte. 
+* Saisissez le commentaire 
+* Cliquez sur __Affecter à__
+* Choisissez comme désiré
+* Cliquez sur __OK__ 
+----
+!!15.8: Relie une remarque à plusieurs textes
+
+* Ouvrez la remarque 
+* Cliquer sur le bouton « __Multiple__ » 
+* Choisissez les projets 
+* Cliquez sur __OK__ 
+* Cliquez sur __OK __ encore pour fermer la boîte de dialogue. 
+----
+!!15.9: Rattacher une remarque
+
+{BOX(bg="#FFE6FF" width="60%")}
+Parfois, en éditant un verset, le mot à qui la remarque était attachée est supprimé et l’icône est déplacé au début du verset. On peut rattacher la remarque à un autre mot.{BOX}
+* Ouvrez la remarqueUne boîte de dialogue s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/ReattachNote.png" class=img-responsive}
+* Cliquez sur le bouton rattacher {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image58.png" class=img-responsive} 
+* Cliquez sur le(s) mot(s) à attacher 
+* Cliquez sur __OK__. La remarque est attachée au mot.
+----
+!!15.10: Marquer une remarque comme étant résolue
+
+* Cliquez sur l’icône ({img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgeng/image55.png" class=img-responsive}) dans le texte. 
+* Saisissez un autre commentaire si nécessaire. 
+* Cliquez sur le bouton __Résoudre remarque__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image68.png" class=img-responsive} 
+* Cliquez sur __OK__ 
+----
+!!15.11: Imprimer un rapport des remarques
+
+* Cliquez dans la fenêtre des remarques. 
+* Filtrez les remarques comme vous le souhaitez.
+* __Fichier__ > __Imprimer__.
+* Choisissez l’imprimante et les options désirées.
+* Cliquez sur __OK__. 
+* Fermez la fenêtre.
+----
+!!15.12: Supprimer des remarques
+
+* Cliquez sur l’icône de la remarque
+* Cliquez sur le petit x rouge
+* Cliquez sur __Oui__ pour supprimer définitivement le commentaire.
+* S’il y a plus qu’un commentaire, continuez à supprimer pour supprimer la remarque.
+----
+!!15.13: Fenêtres des remarques
+
+* Il y a quatre listes déroulantes sur la barre d’outils 
+* Filtre de remarques
+* Filtre de versets
+* Recherche
+* Trier par [[verset, date, affectée à]
+----
+!!15.14: Filtre de remarques
+
+* Cliquez sur le premier bouton/liste
+* Choisissez un filtre existant
+----
+!!15.15: Définir un nouveau filtre de remarques
+
+* Cliquez sur le premier bouton/liste
+* Choisissez __Nouveau filtre__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/12imgfr/image69.png" class=img-responsive}
+* Choisissez le statut, l’étiquette, la personne, et la date comme vous le souhaite.
+* Cliquez sur __OK__  
+----
+!!15.16: Enregistrer un filtre
+
+* Définissez le filtre comme nécessaire.
+* Cliquez sur la case de texte en haut.
+* Saisissez un nom pour le filtre
+* Cliquez sur l’icône de la disquette pour enregistrer.
+!Textes spéciaux
+
+Les passages suivants ont souvent le formatage spécial (en ajoutant d'autres codes d'USFM)
+* Mat 1.2-16 : La généalogie, qui n'est pas la prose normale. Souvent mis dans un format poétique spécial dont les pères se mettent en rang et le formulaire indique que c'est une liste spéciale (avec les commentaires).
+* Mat 5.3-10 : Les béatitudes. Souvent mis en forme poétique.
+* Mat 6.9-13 : La prière du Seigneur. Souvent mis en forme poétique.
+* Mat 21.9 : La salutation à Jésus. Souvent mis en forme poétique.
+* Mat 27.37 : Le signe sur la croix. Souvent mis en petites majuscules.
+* Mat 27.46 : Le cri de Jésus. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 5.41 : La commande à la fille morte. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 11.9 : La salutation à Jésus. Souvent mis en forme poétique.
+* Mrk 14.36 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 15,26 : Le signe sur la croix. Souvent mis en petites majuscules.
+* Mrk 15,34 : Le cri de Jésus. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 16,9 : Une note indiquant une autre fin de Mark. Quelquefois séparé par une règle horizontale.
+* Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Souvent mis en forme poétique.
+* Luk 1.68-79 : La chanson de Zechariah. Souvent mis en forme poétique.
+* Luk 2.14 : Le chant du chœur angélique. Souvent mis en forme poétique.
+* Luk 2.29-32 : La louange de Simeon. Souvent mis en forme poétique.
+* Luk 3.23-38 : La généalogie. Souvent mis en forme poétique spécial semblable à la généalogie dans Matthew.
+* Luke 6.20-22 : Les béatitudes (bénédictions). Souvent mis en forme poétique.
+* Luke 6.24-26 : Les béatitudes (malheurs). Souvent mis en forme poétique.
+* Luke 11.2-4 : la prière du Seigneur. Souvent mis en forme poétique.
+* Luke 19.38 : La salutation à Jésus. Souvent mis en forme poétique.
+* Luke 23.38 : Le signe sur la croix. Souvent mis dans de petites majuscules.
+* Jhn 7.53-8.11 : L'histoire de la femme prise sur le fait. La tête de section se produit d'habitude avant le vers 53. Rarement, séparé par une règle horizontale auparavant et après le texte.
+* Jhn 12.13 : La salutation à Jésus. Souvent mis en forme poétique.
+* Jhn 17.1-27 : La prière de Jésus. Quelquefois, bien que rarement, mit en paragraphes en retraite ajoutée de la marge gauche.
+* Jhn 19.19 : Le signe sur la croix. Souvent mis dans de petites casquettes.
+* Act 15.23-29 : La lettre. Souvent mis dans les paragraphes avec un retrait ajoutée de la marge gauche.
+* Act 23.26-30 : La lettre à Claudius Lysias. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.
+* Rom 8.15 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Rom 11.33-36 : La doxologie. Souvent mis en forme poétique.
+* Rom 16.3-16 : Les salutations spéciales. Quelquefois mis dans un format poétique spécial semblable aux généalogies.
+* Gal 4.6 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Php 2.6-11 : Les attitudes. Quelquefois mis en forme poétique.
+* 1Ti 2.5-6 : Un credo. Quelquefois mis en forme poétique.
+* 1Ti 3.16 : Un credo. Souvent mis en forme poétique.
+* 2Ti 2.11-13 : Un credo. Souvent mis en forme poétique.
+* 1Jn 2.12-14 : je vous écris. Quelquefois mis en forme poétique.
+* Apo 1.4-7 : La salutation et doxologie. Quelquefois mis comme la poésie et la prose.
+* Apo 2-3 : Les sept lettres. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.
+* Apo 4.8 : Un chant. Parfois mis en forme poétique centré.
+* Apo 4.11 : Un chant. Souvent mis en forme poétique.
+* Apo 5.9-10, 12, 13 : Chansons. Souvent mis en forme poétique.
+* Apo 7.5-8 : Une liste. Souvent mise en form poétique spécial.
+* Apo 7.10, 12 : Chants. Souvent mis en forme poétique.
+* Apo 7.15-17 : Une déclaration. Quelquefois mis en forme poétique.
+* Apo 11.15, 17-18 : Chants. Souvent mis en forme poétique.
+* Apo 12.10-12 : Une déclaration. Souvent mis en forme poétique.
+* Apo 15.3-4 : Une chanson. Souvent mis en forme poétique.
+* Apo 16.5-7 : Une déclaration. Souvent mis en forme poétique.
+* Apo 17.5 : Un signe. Souvent centré, en petites majuscules.
+* Apo 18.2-8 : Une déclaration. Souvent mis en forme poétique.
+* Apo 18.10-24 : Une série de malheurs. Souvent mis en forme poétique.
+* Apo 19.1-8 : Une série de déclarations. Souvent mis en forme poétique.
+* Apo 19.16 : Un signe. Souvent le jeu a centré, en petites majuscules.
+* Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique.
+!Les codes de livres bibliques (trois lettres)
+
+||Ancien TestamentGenèse [[Genesis] [[GEN] |Exode [[Exodus] [[EXO] |Lévitique [[Leviticus] [[LEV] 
+Nombres [[Numbers] (NUM) |Deutéronome [[Deuteronomy] (DEU) |Josué [[Joshua] [[JOS] 
+Juges [[Judges] (JDG) |Ruth [[RUT] |1 Samuel [[1SA] 
+2 Samuel [[2SA] |1 Rois [[1 Kings] [[1KI] |2 Rois [[2 Kings] [[2KI] 
+1 Chroniques [[1 Chronicles] [[1CH] |2 Chroniques [[2 Chronicles] [[2CH] |Esdras [[Ezra] [[EZR] 
+Néhémie [[Nehemiah] [[NEH] |Esther [[EST] |Job [[JOB] 
+Psaumes [[Psalms] [[PSA] |Proverbes [[Proverbs] [[PRO] |Ecclésiaste [[Ecclesiastes] (ECC) 
+Cantique des cantiques [[Song of Songs] [[SNG] |Ésaïe [[Isaiah] [[ISA] |Jérémie [[Jeremiah] [[JER] 
+Lamentations [[LAM] |Ézékiel [[Ezekiel] [[EZK] |Daniel [[DAN] 
+Osée [[Hosea] [[HOS] |Joël [[JOL] |Amos [[AMO] 
+Abdias [[Obadiah] (OBA) |Jonas [[Jonah] (JON) |Michée [[Micah] (MIC) 
+Nahoum [[Nahum] (NAM) |Habacuc [[Habakkuk] [[HAB] |Sophonie [[Zephaniah] [[ZEP] 
+Aggée [[Haggai] [[HAG] |Zacharie [[Zechariah] [[ZEC] |Malachie [[Malachi] [[MAL] ||
+||Nouveau TestamentMathieu [[Matthew] [[MAT] |Marc [[Mark] [[MRK] |Luc [[Luke] [[LUK] 
+Jean [[John] [[JHN] |Actes [[Acts] [[ACT] |Romains [[Romans] [[ROM] 
+1 Corinthiens [[1 Corinthians] [[1CO] |1 Corinthiens [[2 Corinthians] [[2CO] |Galates [[Galatians] [[GAL] 
+Éphésiens [[Ephesians] [[EPH] |Philippiens [[Philippians] (PHP |Colossiens Colossians (COL) 
+1 Thessaloniciens [[1 Thessalonians] (1TH) |1 Thessaloniciens [[2 Thessalonians] (2TH) |1 Timothée [[1 Timothy] (1TI) 
+2 Timothée [[2 Timothy] (2TI) |Tite [[Titus] (TIT) |Philémon [[Philemon] (PHM) 
+Hébreux [[Hebrews] (HEB) |Jacques [[James] (JAS) |1 Pierre [[1 Peter] (1PE) 
+2 Pierre [[2 Peter] (2PE) |1 Jean [[1 John] (1JN) |2 Jean [[2 John] (2JN) 
+3 Jean [[3 John] (3JN) |Jude (JUD) |Apocalypse [[Revelation] (REV) ||
+!Les caractères de Tchad Unicode
+
+Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche.
+Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère.
+|||Les caractères du Tchad|Les tons
+|Tapez ... pour avoir|Tapez ... pour avoir
+;’ ’ |;n ŋ |] |à ton bas 
+;b ɓ |;o ɔ |[[ |á ton haut 
+;c ç |;p œ |= |ā ton moyen 
+;d ɗ |;y ƴ |^ |â ton descendant 
+;e ɛ | || |ǎ ton montant 
+;f ə | |# |ä umlaut 
+;h ɦ | |~ |ã tilde 
+;k ɨ | |_ |a̰ sous-tilda 
+;m ɲ | |` |a̧ cédille ||
+Taper les autres caractères spéciaux de la façon suivante :
+|||Tapez|pour avoir||Tapez|Pour avoir
+;] |] | |;; |; 
+;[[ |[[ | |;{ |“ 
+;= |= | |;} |” 
+;^ |^ | |;( |’ 
+;| || | |;) |’ 
+;# |# | |;<[[1] |« 
+;~ |~ | |;> |» 
+;_ |_ | |;, |‹ 
+;` |` | |;. |› ||
+!USFM Marqueurs fréquents
+
+\c chapitre
+\v verset
+\p paragraphe (petit retrait)
+\m même paragraphe (retour à la ligne, mais sans retrait)
+\s1 sous-titre
+\r références parallèles
+\q1 poésie niveau 1
+\q2 poésie niveau 2
+\h entête (header)
+\mt1 titre principal
+\mt2 titre secondaire
+''Glossaire''
+\k .... \k* mot-clé dans glossaire (dans le glossaire)
+\w ... \w* mot qui est dans le glossaire (dans le texte)
+''Introductions''
+\ip paragraphe
+\is section heading
+\io1 outline 1
+\ili1 list level 1
+\ili2 list level 2Paratext 8SIL InternationalUnited Bible SocietiesBible Translation

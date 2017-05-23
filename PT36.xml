@@ -484,7 +484,7 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Your text needs to be check by a consultant. But because the consultant does not know your language, you need to translate your text back into a language they can understand. This is where the term back translation comes from. The consult will use this translation to help the team improve your exegetical choices in the text.</p
+>Your text needs to be check by a consultant. But because the consultant does not know your language, you need to translate your text back into a language they can understand. This is where the term “back translation” comes from. The consult will use this translation to help your team improve your exegetical choices in the text.</p
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -1627,11 +1627,11 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->The project should not need to be registered as it inherits the registration from your project. [You will have two back translation projects - one for the free back translation and one for the word by word.]</p
+>The project should not need to be registered as it inherits the registration from your project. [You may have two back translation projects - one for the free back translation and one for the word by word.]</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Ce projet n’a pas besoin d’être enregistré parce ce qu’il hérite la registration de votre projet. [Vous aurez deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p
+>Ce projet n’a pas besoin d’être enregistré parce ce qu’il hérite la registration de votre projet. [Vous pouvez avoir deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p
 ></framedUnit
 ></section1
 ><section1
@@ -1702,7 +1702,7 @@ contentType="fr"
 >Pour <object
 type="tmenu"
 >Model Text for Interlinearization [2]</object
->, choisissez un texte ressource dans la langue du conseiller pour le texte modèle ou votre projet de retraduction libre</li
+>, choisissez un texte ressource dans la langue du conseiller pour le texte modèle (ou votre projet de retraduction libre)</li
 ><li
 contentType="en"
 >Click the <object
@@ -1940,7 +1940,7 @@ contentType="fr"
 >Cliquez sur « Ajouter analyse de mot »</li
 ><li
 contentType="en"
->Add spaces to separate the morphemes and add «+ » prefixes and suffixes (see guide)</li
+>Add spaces to separate the morphemes and add « + » prefixes and suffixes (see guide)</li
 ><li
 contentType="fr"
 >Ajouter des espaces entre les morphèmes et « + » aux limites du morphème</li
@@ -1965,6 +1965,12 @@ contentType="fr"
 >Exporter/approuver le texte</titleContent
 ></titleContentChoices
 ></secTitle
+><p
+contentType="en"
+>When you approve and export the text any remaining red glosses will be approved.</p
+><p
+contentType="fr"
+>Quand vous approuvez et exportez le texte, toutes gloses rouges restantes seront approuvées.</p
 ><ul
 ><li
 contentType="en"
@@ -2008,11 +2014,11 @@ contentType="fr"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->For more help on using the Interlineariser function see:</p
+>For more help on using the Interlineariser function see the following topics in the Paratext Help:</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Pour plus d'aide lors de l'utilisation de la fonction Interlineariser voir:</p
+>Pour plus d'aide lors de l'utilisation de la fonction Interlineariser voir les rubriques suivantes dans l'Aide de Paratext :</p
 ><ul
 ><li
 contentType="en"
@@ -2195,10 +2201,10 @@ contentType="en"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Note: It is good to start the comment with some symbols, such as ###, to be able to find the point in the list.</p
+>Note: It is good to start the comment with some symbols, such as ###, to be able to find the point in the long list.</p
 ><p
 contentType="fr"
->N.B. C’est bon de commencer le commentaire avec quelques symboles, comme ###, pour bien trouver les points dans la liste.</p
+>N.B. C’est bon de commencer le commentaire avec quelques symboles, comme ###, pour bien trouver les points dans la liste longue.</p
 ></framedUnit
 ><ul
 ><li
@@ -2231,7 +2237,13 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->From the Tools menu, choose Compare Texts</li
+>From the <object
+type="tmenu"
+>Tools</object
+> menu, choose <object
+type="tmenu"
+>Compare Texts</object
+></li
 ><li
 contentType="fr"
 >Du menu <object
@@ -2260,6 +2272,11 @@ contentType="en"
 ><img
 src="36imgfr/image14.png"
 ></img
+><br
+></br
+><object
+type="tresult"
+>The screen will change and show the differences between both versions.</object
 ></li
 ><li
 contentType="fr"
@@ -2335,10 +2352,10 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->You have typed your translation into Paratext. Make sure you have done the checks described in modules BC1 and BC2 before continuing.</p
+>You have typed your translation into Paratext. Make sure you have done the checks described in modules BC1 and BC2 before continuing. And that either your administrator has done the setup for the checks or is available to do the setup with you.</p
 ><p
 contentType="fr"
->Vous avez saisi votre traduction en Paratext. Assurez-vous que vous avez fait les vérifications décrites dans les modules BC1 et BC2 avant la continuation.</p
+>Vous avez saisi votre traduction en Paratext. Assurez-vous que vous avez fait les vérifications décrites dans les modules BC1 et BC2 avant la continuation. Et que votre administrateur a soit fait l'installation pour les vérifications soit est disponible pour faire l'installation avec vous.</p
 ><pc
 contentType="en"
 ><object
@@ -2421,6 +2438,20 @@ contentType="fr"
 >Cette vérification regarde la ponctuation qui se produit dans les paires (une ouverture et une fermeture) et énumère des erreurs où il n'est pas correspondu par l'autre moitié de la paire. Cela peut être délibéré, mais sera plus probablement une erreur, par ex. (), [], etc.</p
 ></framedUnit
 ><ul
+></ul
+><section2
+id="sunmatchedPairsSetup"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Setup - inventory</titleContent
+><titleContent
+contentType="fr"
+>Inventaire</titleContent
+></titleContentChoices
+></secTitle
+><ul
 ><li
 contentType="en"
 ><object
@@ -2473,6 +2504,21 @@ contentType="fr"
 type="tmenu"
 >OK</object
 ></li
+></ul
+></section2
+><section2
+id="sUnmatchedCheck"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Run the check</titleContent
+><titleContent
+contentType="fr"
+>Faire la vérification</titleContent
+></titleContentChoices
+></secTitle
+><ul
 ><li
 contentType="en"
 ><object
@@ -2505,12 +2551,22 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
+> <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
 ></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
+> <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
 ></li
 ><li
 contentType="en"
@@ -2519,6 +2575,7 @@ contentType="en"
 contentType="fr"
 >Faites toutes corrections comme nécessaires.</li
 ></ul
+></section2
 ></section1
 ><section1
 id="srefs"
@@ -3839,6 +3896,49 @@ contentType="fr"
 src="36imgfr/image17.png"
 ></img
 ></p
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>The following modules will help you in this stage:</p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+>Les modules suivants vous aideront avec ces étapes :</p
+><p
+>FC: Finalize checks</p
+><p
+>PP: Compare parallel Passages</p
+><chapter
+id="s6intro"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Finalizing for Publication</titleContent
+><titleContent
+contentType="fr"
+>Finalisation pour la publication</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>​Introduction </object
+></pc
+><p
+contentType="en"
+>This module looks at the variety of tasks needed to finalize the text for publication.</p
+><p
+contentType="fr"
+>Ce module traite la variété de tâches qu'on doit faire pour finaliser le texte pour la publication.</p
 ><pc
 contentType="en"
 ><object
@@ -3854,13 +3954,13 @@ type="tsub"
 ><ul
 ><li
 contentType="en"
->Illustrations and captions</li
+>Add illustrations and captions</li
 ><li
 contentType="fr"
 >Ajouter des illustrations et légendes</li
 ><li
 contentType="en"
->Map names</li
+>Identify names for the maps</li
 ><li
 contentType="fr"
 >Trouver les noms des villes pour les cartes</li
@@ -3890,42 +3990,17 @@ contentType="fr"
 >Vérification finale des noms propres</li
 ><li
 contentType="en"
->Numbers, money, weights and measures</li
+>Numbers, money, weights and measures check</li
 ><li
 contentType="fr"
->Les chiffres, l’argent, les poids et les mesures</li
+>Vérifier les chiffres, l’argent, les poids et les mesures</li
 ><li
 contentType="en"
->Formatting checks:</li
+>Formatting checks.</li
 ><li
 contentType="fr"
->Vérification du formatage: ...</li
+>Vérification du formatage.</li
 ></ul
-><chapter
-id="s6intro"
-showinlandscapemode="no"
-><secTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Introduction to Stage 6</titleContent
-><titleContent
-contentType="fr"
->Introduction à Étape 6</titleContent
-></titleContentChoices
-></secTitle
-><pc
-contentType="en"
-><object
-type="tsub"
->Introduction</object
-></pc
-><pc
-contentType="fr"
-><object
-type="tsub"
->​Introduction </object
-></pc
 ><section1
 id="saddIllustrationsAndCaptions"
 showinlandscapemode="no"
@@ -4002,22 +4077,22 @@ contentType="fr"
 >Indiquez si l’image doit remplir la largeur d’une colonne ou d’une page. [3]</li
 ><li
 contentType="en"
->If applicable, type in a verse range as an acceptable location [4] (optional)</li
+>If applicable, type in a verse range as an acceptable location [*] (optional)</li
 ><li
 contentType="fr"
->Permets d’entrer des informations sur l’emplacement de l’image. [4] [Facultatif]</li
+>Permets d’entrer des informations sur l’emplacement de l’image. [*] [Facultatif]</li
 ><li
 contentType="en"
->Type in the copyright information [5]</li
+>Type in the copyright information [4]</li
 ><li
 contentType="fr"
->Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [5]</li
+>Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [4]</li
 ><li
 contentType="en"
->Paratext will fill-in the reference (of the current verse). [6]</li
+>Paratext will fill-in the reference (of the current verse). [5]</li
 ><li
 contentType="fr"
->Paratext va remplir la référence de chapitre et verset qui concerne l’image. [6]</li
+>Paratext va remplir la référence de chapitre et verset qui concerne l’image. [5]</li
 ><li
 contentType="en"
 >Click <object
@@ -4029,13 +4104,13 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Parcourir</object
->... pour rechercher le fichier de l’image. [7]</li
+>... pour rechercher le fichier de l’image. [6]</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. &gt;</li
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -4493,9 +4568,6 @@ contentType="fr"
 >Faites un filtre de noms propres avec les équivalents manquants (missing renderings)</li
 ><li
 contentType="en"
->Filter on missing renderings</li
-><li
-contentType="en"
 >Check that all names have an rendering (add if necessary).</li
 ><li
 contentType="fr"
@@ -4665,7 +4737,7 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->There are thousands of passage in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.</p
+>There are thousands of passages in the NT where either the same event is being described or where another verse is being quoted from the Old or New Testament. These verses need to be compared to make sure they are consistent.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -4685,11 +4757,11 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Normally you will have translated and checked the text of both books with a consultant first. Though there are times that you will want to compare the other verses before you translate the second passage.</p
+>Normally you will have translated and checked the text of both books with a consultant first before comparing the texts. Though there are times that you will want to compare the other verses before you translate the second passage.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller.</p
+>Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller avant de comparer les textes.Bien qu'il y ait des temps que vous voudrez comparer les autres versets avant que vous traduisez le deuxième passage.</p
 ><pc
 contentType="en"
 ><object
@@ -4713,7 +4785,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Normally you would make the comparisons made after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.</p
+>Normally you would make the comparisons after you have translated the passage because you don’t want to be influenced by what could be a bad earlier translation. But there are times when you will want to be able to see a second passage while you are translating.</p
 ><pc
 contentType="en"
 ><object
@@ -4741,7 +4813,7 @@ contentType="fr"
 >grâce aux nouvelles cases on peut savoir quels passages sont déjà finis et aussi s’il un passage était changé après vous l’avez vérifié.</li
 ><li
 contentType="en"
->filter for changed verses</li
+>filter for any changed verses</li
 ><li
 contentType="fr"
 >filtrer pour voir les versets qui étaient changé</li
@@ -4983,7 +5055,7 @@ framedtype="tTeacher"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Text is shown in yellow when it has the same meaning(thought) even though it is not exactly the same as in the other passage.</p
+>Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -5043,13 +5115,13 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. &gt;</li
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. &gt;</li
+>.</li
 ></ul
 ></section1
 ><section1
@@ -8246,11 +8318,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
