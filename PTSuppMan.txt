@@ -41,7 +41,7 @@ N.B. Les projets de Paratext 8 ne peuvent pas partager le même dossier que les 
 Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 8.{BOX}
 * Exécuter Paratext 8 (pour la première fois)
 * Choisissez la langue de l’interface Une boîte de dialogue s’affiche pour demander votre code d’enregistrement.
-* Dans votre navigateur web, Accédez à (( https://registry.paratext.org | https://registry.paratext.org )) La page “Sign in”(se connecter) s’affiche.
+* Dans votre navigateur web, Accédez à (( https://registry.paratext.org|https://registry.paratext.org )) La page “Sign in”(se connecter) s’affiche.
 * Tapez votre adresse émail (du Gmail)
 * Cliquez sur le lien __Register__/__Inscription__
 * Tapez le nom d’utilisateur
@@ -176,13 +176,13 @@ Si votre projet n’est pas inscrit, vous n’aurez pas accès à
 ----
 !!3.2: S'inscrire avec un compte Google
 
-* Accédez à (( https://registry.paratext.org | https://registry.paratext.org ))L'écran "Connexion" s'affiche.
+* Accédez à (( https://registry.paratext.org|https://registry.paratext.org ))L'écran "Connexion" s'affiche.
 * Tapez votre adresse émail (Votre adresse sera vérifiée)
 * Connectez-vous à l’aide de votre adresse email (Gmail)Un nouvel écran s'affiche pour demander votre mot de passe.
 * Tapez votre mot de passe Google
 * Cliquez sur __Yes__ pour autoriser Paratext à utiliser votre profile. __New Paratext 8 User__ s’affiche et vous pouvez remplir le formulaire.
 {BOX(bg="#FFE6FF" width="60%")}
-Si vous n’avez pas d’adresse Gmail, voir section ((PT8SuppManP1|3.4: S'inscrire sans un compte Google|S'inscrire sans un compte Google)){BOX}
+Si vous n’avez pas d’adresse Gmail, voir section ((PT8SuppManP1|#S_inscrire_sans_un_compte_Google|3.4: S'inscrire sans un compte Google)){BOX}
 ----
 !!3.3: Remplir le formulaire
 
@@ -204,7 +204,7 @@ Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le per
 * Si votre compte email ne se trouve pas sur un serveur Google, ou si vous choisissez de ne pas utiliser Google pour l'authentification, le serveur de registre vous demandera d'entrer un mot de passe.
 * Entrez le mot de passe que vous souhaitez configurer
 * Entrez le mot de passe à nouveau comme confirmation Le serveur enverra un courrier électronique à votre compte avec un lien de vérification.
-* Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir ((PT8SuppManP1|3.3: Remplir le formulaire|Remplir le formulaire))).
+* Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir ((PT8SuppManP1|#Remplir_le_formulaire|3.3: Remplir le formulaire))).
 ----
 !!3.5: Changer (générer) un code nouveau
 
@@ -212,7 +212,7 @@ Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le per
 Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.{BOX}
 !!!3.5.1: Changer votre propre code
 
-* Accédez au site d'inscription (( https://registry.paratext.org | https://registry.paratext.org )) .
+* Accédez au site d'inscription (( https://registry.paratext.org|https://registry.paratext.org )) .
 * Se connecter (si vous n'êtes pas connecté)
 * Cliquez sur le nom d'utilisateur en haut à gauche.Un menu s'affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image8.png" class=img-responsive}
 * Cliquez sur __Settings __(paramètres).{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image9.png" class=img-responsive}
@@ -229,7 +229,7 @@ Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code d
 * __Outils__> __Modifier les informations d'inscription__ et y collez le code.
 !!!3.5.2: Changer un code pour un utilisateur (qui vous avez inscrit)
 
-* Accédez au site d'inscription (( https://registry.paratext.org | https://registry.paratext.org ))
+* Accédez au site d'inscription (( https://registry.paratext.org|https://registry.paratext.org ))
 * Se connecter (si vous n'êtes pas connecté)
 * Cliquez sur User
 * Cliquez sur le nom d'utilisateur de la liste
@@ -242,7 +242,7 @@ Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code d
 
 {BOX(bg="#FFE6FF" width="60%")}
 Tout administrateur d'un projet enregistré peut créer de nouveaux enregistrements d'utilisateurs s'ils doivent ajouter des personnes à leur projet. Ces utilisateurs n'ont pas besoin d'avoir une adresse email.{BOX}
-* Accédez à (( https://registry.paratext.org | https://registry.paratext.org ))
+* Accédez à (( https://registry.paratext.org|https://registry.paratext.org ))
 * Connectez-vous à l’aide de votre adresse email
 * Cliquez sur __Users__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image11.png" class=img-responsive}
 * Cliquez sur __+Register New User__ Le dialogue New Paratext 8 User s’affiche.
@@ -252,11 +252,11 @@ Tout administrateur d'un projet enregistré peut créer de nouveaux enregistreme
 Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, ils peuvent s'inscrire pour Paratext, puis vous pouvez ajouter leur nom au projet.{BOX}
 * Cliquez sur __Create__ (Créer)Le code d’inscription pour le nouvel utilisateur sera envoyé par courrier électronique à l'administrateur après avoir été approuvé.
 {BOX(bg="#FFE6FF" width="60%")}
-Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir ((PT8SuppManP1|3.5: Changer (générer) un code nouveau|Changer (générer) un code nouveau)){BOX}
+Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir ((PT8SuppManP1|#Changer_g_n_rer_un_code_nouveau|3.5: Changer (générer) un code nouveau)){BOX}
 ----
 !!3.7: Si le projet de traduction ne fait pas partie d’une organisation reconnue
 
-* Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG ((( boardofgovernors@paratext.org | boardofgovernors@paratext.org ))) pour devenir membre de la pseudo-organisation « Independent Translators ».
+* Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG ((( boardofgovernors@paratext.org|boardofgovernors@paratext.org ))) pour devenir membre de la pseudo-organisation « Independent Translators ».
 {BOX(bg="#FFE6FF" width="60%")}
 Il se peut que peu de propriétaires de ressources textes accordent l’accès à ce groupe{BOX}
 !4: CP: Créer un nouveau projet
@@ -644,7 +644,7 @@ N.B. Les projets de Paratext 8 ne peuvent pas partager le même dossier que les 
 Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 8.{BOX}
 * Exécuter Paratext 8 (pour la première fois)
 * Choisissez la langue de l’interface Une boîte de dialogue s’affiche pour demander votre code d’enregistrement.
-* Dans votre navigateur web, Accédez à (( https://registry.paratext.org | https://registry.paratext.org )) La page “Sign in”(se connecter) s’affiche.
+* Dans votre navigateur web, Accédez à (( https://registry.paratext.org|https://registry.paratext.org )) La page “Sign in”(se connecter) s’affiche.
 * Tapez votre adresse émail (du Gmail)
 * Cliquez sur le lien __Register__/__Inscription__
 * Tapez le nom d’utilisateur
@@ -779,13 +779,13 @@ Si votre projet n’est pas inscrit, vous n’aurez pas accès à
 ----
 !!3.2: S'inscrire avec un compte Google
 
-* Accédez à (( https://registry.paratext.org | https://registry.paratext.org ))L'écran "Connexion" s'affiche.
+* Accédez à (( https://registry.paratext.org|https://registry.paratext.org ))L'écran "Connexion" s'affiche.
 * Tapez votre adresse émail (Votre adresse sera vérifiée)
 * Connectez-vous à l’aide de votre adresse email (Gmail)Un nouvel écran s'affiche pour demander votre mot de passe.
 * Tapez votre mot de passe Google
 * Cliquez sur __Yes__ pour autoriser Paratext à utiliser votre profile. __New Paratext 8 User__ s’affiche et vous pouvez remplir le formulaire.
 {BOX(bg="#FFE6FF" width="60%")}
-Si vous n’avez pas d’adresse Gmail, voir section ((PT8SuppManP1|3.4: S'inscrire sans un compte Google|S'inscrire sans un compte Google)){BOX}
+Si vous n’avez pas d’adresse Gmail, voir section ((PT8SuppManP1|#S_inscrire_sans_un_compte_Google|3.4: S'inscrire sans un compte Google)){BOX}
 ----
 !!3.3: Remplir le formulaire
 
@@ -807,7 +807,7 @@ Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le per
 * Si votre compte email ne se trouve pas sur un serveur Google, ou si vous choisissez de ne pas utiliser Google pour l'authentification, le serveur de registre vous demandera d'entrer un mot de passe.
 * Entrez le mot de passe que vous souhaitez configurer
 * Entrez le mot de passe à nouveau comme confirmation Le serveur enverra un courrier électronique à votre compte avec un lien de vérification.
-* Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir ((PT8SuppManP1|3.3: Remplir le formulaire|Remplir le formulaire))).
+* Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir ((PT8SuppManP1|#Remplir_le_formulaire|3.3: Remplir le formulaire))).
 ----
 !!3.5: Changer (générer) un code nouveau
 
@@ -815,7 +815,7 @@ Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le per
 Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur, surtout si votre ordinateur est volé.{BOX}
 !!!3.5.1: Changer votre propre code
 
-* Accédez au site d'inscription (( https://registry.paratext.org | https://registry.paratext.org )) .
+* Accédez au site d'inscription (( https://registry.paratext.org|https://registry.paratext.org )) .
 * Se connecter (si vous n'êtes pas connecté)
 * Cliquez sur le nom d'utilisateur en haut à gauche.Un menu s'affiche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image8.png" class=img-responsive}
 * Cliquez sur __Settings __(paramètres).{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image9.png" class=img-responsive}
@@ -832,7 +832,7 @@ Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code d
 * __Outils__> __Modifier les informations d'inscription__ et y collez le code.
 !!!3.5.2: Changer un code pour un utilisateur (qui vous avez inscrit)
 
-* Accédez au site d'inscription (( https://registry.paratext.org | https://registry.paratext.org ))
+* Accédez au site d'inscription (( https://registry.paratext.org|https://registry.paratext.org ))
 * Se connecter (si vous n'êtes pas connecté)
 * Cliquez sur User
 * Cliquez sur le nom d'utilisateur de la liste
@@ -845,7 +845,7 @@ Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code d
 
 {BOX(bg="#FFE6FF" width="60%")}
 Tout administrateur d'un projet enregistré peut créer de nouveaux enregistrements d'utilisateurs s'ils doivent ajouter des personnes à leur projet. Ces utilisateurs n'ont pas besoin d'avoir une adresse email.{BOX}
-* Accédez à (( https://registry.paratext.org | https://registry.paratext.org ))
+* Accédez à (( https://registry.paratext.org|https://registry.paratext.org ))
 * Connectez-vous à l’aide de votre adresse email
 * Cliquez sur __Users__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/supimgeng/image11.png" class=img-responsive}
 * Cliquez sur __+Register New User__ Le dialogue New Paratext 8 User s’affiche.
@@ -855,11 +855,11 @@ Tout administrateur d'un projet enregistré peut créer de nouveaux enregistreme
 Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, ils peuvent s'inscrire pour Paratext, puis vous pouvez ajouter leur nom au projet.{BOX}
 * Cliquez sur __Create__ (Créer)Le code d’inscription pour le nouvel utilisateur sera envoyé par courrier électronique à l'administrateur après avoir été approuvé.
 {BOX(bg="#FFE6FF" width="60%")}
-Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir ((PT8SuppManP1|3.5: Changer (générer) un code nouveau|Changer (générer) un code nouveau)){BOX}
+Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir ((PT8SuppManP1|#Changer_g_n_rer_un_code_nouveau|3.5: Changer (générer) un code nouveau)){BOX}
 ----
 !!3.7: Si le projet de traduction ne fait pas partie d’une organisation reconnue
 
-* Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG ((( boardofgovernors@paratext.org | boardofgovernors@paratext.org ))) pour devenir membre de la pseudo-organisation « Independent Translators ».
+* Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG ((( boardofgovernors@paratext.org|boardofgovernors@paratext.org ))) pour devenir membre de la pseudo-organisation « Independent Translators ».
 {BOX(bg="#FFE6FF" width="60%")}
 Il se peut que peu de propriétaires de ressources textes accordent l’accès à ce groupe{BOX}
 !4: CP: Créer un nouveau projet

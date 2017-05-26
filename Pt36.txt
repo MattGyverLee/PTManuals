@@ -26,13 +26,14 @@ Les participants traiteront leur traduction à l’aide de Paratext 8 , un logic
 * Les chiffres, l’argent, les poids et les mesures
 * Vérification du formatage!Étape 3 : Préparation pour le conseiller
 
+Note : Cette étape ne fait pas partie du plan d'UBS.
 Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image2.png" class=img-responsive}
 Les modules suivants vous aideront avec ces étapes :
-* ((Paratext_8_3-6_Etape3|2: RT1 : Retraductions 1|RT1 : Retraductions 1))
-* ((Paratext_8_3-6_Etape3|3: RT2 : Retraductions 2 (mot à mot)|RT2 : Retraductions 2 (mot à mot)))
-* ((Paratext_8_3-6_Etape3|5: BC3: Vérifications de base 3|BC3: Vérifications de base 3))
-* ((Paratext_8_3-6_Etape5|6: Rapport du progrès|Rapport du progrès))
+* ((Paratext_8_3-6_Etape3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1))
+* ((Paratext_8_3-6_Etape3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 (mot à mot)))
+* ((Paratext_8_3-6_Etape3|#BC3\:_V_rifications_de_base_3|5: BC3: Vérifications de base 3))
+* ((Paratext_8_3-6_Etape5|#Rapport_du_progr_s|6: Rapport du progrès))
 !2: RT1 : Retraductions 1
 ''Introduction ''
 En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot.''Où en sommes-nous ? ''
@@ -305,14 +306,16 @@ La vérification de texte cité regarde le texte dans les notes en bas de page o
 {BOX(bg="#FFE6FF" width="60%")}
 N.B. : le texte doit être exactement le même comme dans le texte. C'est-à-dire, on ne peut pas avoir même la ponctuation supplémentaire entre les marqueurs \qt … \\qt *.{BOX}!Étape 4 : Vérification par un conseiller
 ''​Introduction ''
+''Note : Cette étape ne fait pas partie du plan d'UBS.''
 La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluer votre texte, prendre des notes, réviser vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image15.png" class=img-responsive}
 * 
 Toutes les tâches de cette étape ont été couvertes dans les modules précédents.
 * Voir le manuel précédent
-* ((Paratext_8_3-6_Etape3|2: RT1 : Retraductions 1|RT1 : Retraductions 1)) Retraduction 1
-* ((Paratext_8_3-6_Etape3|3: RT2 : Retraductions 2 (mot à mot)|RT2 : Retraductions 2 (mot à mot))) Retraduction 2!Étape 5 : Tester/réviser avec la communauté
+* ((Paratext_8_3-6_Etape3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1)) Retraduction 1
+* ((Paratext_8_3-6_Etape3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 (mot à mot))) Retraduction 2!Étape 5 [[3 UBS] : Tester/réviser avec la communauté
 ''​Introduction ''
+''N.B.: Cette étape est équivalent à la troisième étape du plan du UBS.''
 La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image16.png" class=img-responsive}
 Les modules suivants vous aideront avec cette étape :
@@ -373,12 +376,12 @@ Dans l'outil de termes biblique, vous filtrez les livres que vous voulez inclure
 * Cliquez sur la flèche à côté du __Rechercher__ sur la barre d'outils.
 * Choisissez __Rendering Description (descriptions des équivalents)__
 * Tapez le texte à rechercherLa liste est filtré.
-* Enregistrez la liste à HTML (comme au-dessus).!Étape 6 : Finalisation pour la publication
+* Enregistrez la liste à HTML (comme au-dessus).!Étape 6 [[4 UBS] : Finalisation pour la publication
 
-La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
+La sixième étape d’un projet de traduction (ou quartrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
 Les modules suivants vous aideront avec ces étapes :
-FC: Finalize checks
-PP: Compare parallel Passages
+* FC: Finalisation pour la publication
+* PP: Comparer passages parallèles
 !8: Finalisation pour la publication
 ''​Introduction ''
 Ce module traite la variété de tâches qu'on doit faire pour finaliser le texte pour la publication.''Qu’est-ce que vous allez faire ?''
@@ -599,13 +602,14 @@ Les participants traiteront leur traduction à l’aide de Paratext 8 , un logic
 * Les chiffres, l’argent, les poids et les mesures
 * Vérification du formatage!Étape 3 : Préparation pour le conseiller
 
+Note : Cette étape ne fait pas partie du plan d'UBS.
 Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image2.png" class=img-responsive}
 Les modules suivants vous aideront avec ces étapes :
-* ((Paratext_8_3-6_Etape3|2: RT1 : Retraductions 1|RT1 : Retraductions 1))
-* ((Paratext_8_3-6_Etape3|3: RT2 : Retraductions 2 (mot à mot)|RT2 : Retraductions 2 (mot à mot)))
-* ((Paratext_8_3-6_Etape3|5: BC3: Vérifications de base 3|BC3: Vérifications de base 3))
-* ((Paratext_8_3-6_Etape5|6: Rapport du progrès|Rapport du progrès))
+* ((Paratext_8_3-6_Etape3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1))
+* ((Paratext_8_3-6_Etape3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 (mot à mot)))
+* ((Paratext_8_3-6_Etape3|#BC3\:_V_rifications_de_base_3|5: BC3: Vérifications de base 3))
+* ((Paratext_8_3-6_Etape5|#Rapport_du_progr_s|6: Rapport du progrès))
 !2: RT1 : Retraductions 1
 ''Introduction ''
 En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot.''Où en sommes-nous ? ''
@@ -878,14 +882,16 @@ La vérification de texte cité regarde le texte dans les notes en bas de page o
 {BOX(bg="#FFE6FF" width="60%")}
 N.B. : le texte doit être exactement le même comme dans le texte. C'est-à-dire, on ne peut pas avoir même la ponctuation supplémentaire entre les marqueurs \qt … \\qt *.{BOX}!Étape 4 : Vérification par un conseiller
 ''​Introduction ''
+''Note : Cette étape ne fait pas partie du plan d'UBS.''
 La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluer votre texte, prendre des notes, réviser vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image15.png" class=img-responsive}
 * 
 Toutes les tâches de cette étape ont été couvertes dans les modules précédents.
 * Voir le manuel précédent
-* ((Paratext_8_3-6_Etape3|2: RT1 : Retraductions 1|RT1 : Retraductions 1)) Retraduction 1
-* ((Paratext_8_3-6_Etape3|3: RT2 : Retraductions 2 (mot à mot)|RT2 : Retraductions 2 (mot à mot))) Retraduction 2!Étape 5 : Tester/réviser avec la communauté
+* ((Paratext_8_3-6_Etape3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1)) Retraduction 1
+* ((Paratext_8_3-6_Etape3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 (mot à mot))) Retraduction 2!Étape 5 [[3 UBS] : Tester/réviser avec la communauté
 ''​Introduction ''
+''N.B.: Cette étape est équivalent à la troisième étape du plan du UBS.''
 La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés.
 {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image16.png" class=img-responsive}
 Les modules suivants vous aideront avec cette étape :
@@ -946,12 +952,12 @@ Dans l'outil de termes biblique, vous filtrez les livres que vous voulez inclure
 * Cliquez sur la flèche à côté du __Rechercher__ sur la barre d'outils.
 * Choisissez __Rendering Description (descriptions des équivalents)__
 * Tapez le texte à rechercherLa liste est filtré.
-* Enregistrez la liste à HTML (comme au-dessus).!Étape 6 : Finalisation pour la publication
+* Enregistrez la liste à HTML (comme au-dessus).!Étape 6 [[4 UBS] : Finalisation pour la publication
 
-La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
+La sixième étape d’un projet de traduction (ou quartrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
 Les modules suivants vous aideront avec ces étapes :
-FC: Finalize checks
-PP: Compare parallel Passages
+* FC: Finalisation pour la publication
+* PP: Comparer passages parallèles
 !8: Finalisation pour la publication
 ''​Introduction ''
 Ce module traite la variété de tâches qu'on doit faire pour finaliser le texte pour la publication.''Qu’est-ce que vous allez faire ?''
@@ -1205,30 +1211,28 @@ Les passages suivants ont souvent le formatage spécial (en ajoutant d'autres co
 * Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique.
 !Livres de la Bible : Abréviations en trois lettres
 
-Ancien Testament
-||Genèse [[Genesis] [[GEN] |Exode [[Exodus] [[EXO] |Lévitique [[Leviticus] [[LEV] 
-Nombres [[Numbers] (NUM) |Deutéronome [[Deuteronomy] (DEU) |Josué [[Joshua] [[JOS] 
-Juges [[Judges] (JDG) |Ruth [[RUT] |1 Samuel [[1SA] 
-2 Samuel [[2SA] |1 Rois [[1 Kings] [[1KI] |2 Rois [[2 Kings] [[2KI] 
-1 Chroniques [[1 Chronicles] [[1CH] |2 Chroniques [[2 Chronicles] [[2CH] |Esdras [[Ezra] [[EZR] 
-Néhémie [[Nehemiah] [[NEH] |Esther [[EST] |Job [[JOB] 
-Psaumes [[Psalms] [[PSA] |Proverbes [[Proverbs] [[PRO] |Ecclésiaste [[Ecclesiastes] (ECC) 
-Cantique des cantiques [[Song of Songs] [[SNG] |Ésaïe [[Isaiah] [[ISA] |Jérémie [[Jeremiah] [[JER] 
-Lamentations [[LAM] |Ézékiel [[Ezekiel] [[EZK] |Daniel [[DAN] 
+||Ancien TestamentGenèse [[GEN] |Exode [[EXO] |Lévitique [[LEV] 
+Nombres (NUM) |Deutéronome (DEU) |Josué [[JOS] 
+Juges (JDG) |Ruth [[RUT] |1 Samuel [[1SA] 
+2 Samuel [[2SA] |1 Rois [[1KI] |2 Rois [[2KI] 
+1 Chroniques [[1CH] |2 Chroniques [[2CH] |Esdras [[EZR] 
+Néhémie [[NEH] |Esther [[EST] |Job [[JOB] 
+Psaumes [[PSA] |Proverbes [[PRO] |Ecclésiaste (ECC) 
+Cantique des cantiques [[SNG] |Ésaïe [[ISA] |Jérémie [[JER] 
+Lamentations [[LAM] |Ézékiel [[EZK] |Daniel [[DAN] 
 Osée [[Hosea] [[HOS] |Joël [[JOL] |Amos [[AMO] 
-Abdias [[Obadiah] (OBA) |Jonas [[Jonah] (JON) |Michée [[Micah] (MIC) 
-Nahoum [[Nahum] (NAM) |Habacuc [[Habakkuk] [[HAB] |Sophonie [[Zephaniah] [[ZEP] 
-Aggée [[Haggai] [[HAG] |Zacharie [[Zechariah] [[ZEC] |Malachie [[Malachi] [[MAL] ||
-Nouveau Testament
-||Matthieu [[Matthew] [[MAT] |Marc [[Mark] [[MRK] |Luc [[Luke] [[LUK] 
-Jean [[John] [[JHN] |Actes [[Acts] [[ACT] |Romains [[Romans] [[ROM] 
-1 Corinthiens [[1 Corinthians] [[1CO] |1 Corinthiens [[2 Corinthians] [[2CO] |Galates [[Galatians] [[GAL] 
-Éphésiens [[Ephesians] [[EPH] |Philippiens [[Philippians] (PHP |Colossiens Colossians (COL) 
-1 Thessaloniciens [[1 Thessalonians] (1TH) |1 Thessaloniciens [[2 Thessalonians] (2TH) |1 Timothée [[1 Timothy] (1TI) 
-2 Timothée [[2 Timothy] (2TI) |Tite [[Titus] (TIT) |Philémon [[Philemon] (PHM) 
-Hébreux [[Hebrews] (HEB) |Jacques [[James] (JAS) |1 Pierre [[1 Peter] (1PE) 
-2 Pierre [[2 Peter] (2PE) |1 Jean [[1 John] (1JN) |2 Jean [[2 John] (2JN) 
-3 Jean [[3 John] (3JN) |Jude (JUD) |Apocalypse [[Revelation] (REV) ||
+Abdias (OBA) |Jonas (JON) |Michée (MIC) 
+Nahoum (NAM) |Habacuc [[HAB] |Sophonie [[ZEP] 
+Aggée [[HAG] |Zacharie [[ZEC] |Malachie [[MAL] ||
+||Nouveau TestamentMatthieu [[MAT] |Marc [[MRK] |Luc [[LUK] 
+Jean [[JHN] |Actes [[ACT] |Romains [[ROM] 
+1 Corinthiens [[1CO] |1 Corinthiens [[2CO] |Galates [[GAL] 
+Éphésiens [[EPH] |Philippiens (PHP |Colossiens (COL) 
+1 Thessaloniciens (1TH) |1 Thessaloniciens (2TH) |1 Timothée (1TI) 
+2 Timothée (2TI) |Tite (TIT) |Philémon (PHM) 
+Hébreux (HEB) |Jacques (JAS) |1 Pierre (1PE) 
+2 Pierre (2PE) |1 Jean (1JN) |2 Jean (2JN) 
+3 Jean (3JN) |Jude (JUD) |Apocalypse (REV) ||
 !Les caractères de Tchad Unicode
 
 Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche.
