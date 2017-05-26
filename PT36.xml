@@ -324,9 +324,13 @@ contentType="en"
 >Paratext_8_3-6_Stage3</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_3-6_Étape3</titleContent
+>Paratext_8_3-6_Etape3</titleContent
 ></titleContentChoices
 ></shortTitle
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>Note: This state is not included in the UBS plan.</p
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -339,6 +343,10 @@ contentType="en"
 src="36imgeng\image5.png"
 ></img
 ></p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+>Note : Cette étape ne fait pas partie du plan d'UBS.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -362,7 +370,7 @@ pagecontrol="letFormatterDecide"
 ><li
 contentType="en"
 ><sectionRef
-sec="sBT1"
+sec="sBTStat"
 showTitle="full"
 ></sectionRef
 ></li
@@ -3139,7 +3147,7 @@ contentType="en"
 >Paratext_8_3-6_Stage4</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_3-6_Étape4</titleContent
+>Paratext_8_3-6_Etape4</titleContent
 ></titleContentChoices
 ></shortTitle
 ><pc
@@ -3157,6 +3165,13 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
+><object
+type="tItalic"
+>Note: This stage is not included in the USB plan.</object
+></p
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
 >The fourth stage of a translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in the project plan.</p
 ><p
 contentType="en"
@@ -3164,6 +3179,13 @@ pagecontrol="letFormatterDecide"
 ><img
 src="36imgeng\image21.png"
 ></img
+></p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+><object
+type="tItalic"
+>Note : Cette étape ne fait pas partie du plan d'UBS.</object
 ></p
 ><p
 contentType="fr"
@@ -3230,10 +3252,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 5: Review by the community</titleContent
+>Stage 5 [3 UBS]: Review by the community</titleContent
 ><titleContent
 contentType="fr"
->Étape 5 : Tester/réviser avec la communauté</titleContent
+>Étape 5 [3 UBS] : Tester/réviser avec la communauté</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -3243,7 +3265,7 @@ contentType="en"
 >Paratext_8_3-6_Stage5</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_3-6_Étape5</titleContent
+>Paratext_8_3-6_Etape5</titleContent
 ></titleContentChoices
 ></shortTitle
 ><pc
@@ -3261,6 +3283,13 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
+><object
+type="tItalic"
+>Note: This is equivalent to the third stage of the UBS plan.</object
+></p
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
 >The fifth stage of a translation project is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.</p
 ><p
 contentType="en"
@@ -3268,6 +3297,13 @@ pagecontrol="letFormatterDecide"
 ><img
 src="36imgeng\image22.png"
 ></img
+></p
+><p
+contentType="fr"
+pagecontrol="letFormatterDecide"
+><object
+type="tItalic"
+>N.B.: Cette étape est équivalent à la troisième étape du plan du UBS.</object
 ></p
 ><p
 contentType="fr"
@@ -3864,10 +3900,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 6: Finalizing for Publication</titleContent
+>Stage 6 [4 UBS]: Finalizing for Publication</titleContent
 ><titleContent
 contentType="fr"
->Étape 6 : Finalisation pour la publication</titleContent
+>Étape 6 [4 UBS] : Finalisation pour la publication</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -3877,12 +3913,12 @@ contentType="en"
 >Paratext_8_3-6_Stage6</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_3-6_Étape6</titleContent
+>Paratext_8_3-6_Etape6</titleContent
 ></titleContentChoices
 ></shortTitle
 ><p
 contentType="en"
->The sixth stage of a translation project is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.<br
+>The sixth stage of a translation project (or fourth stage for UBS) is finalizing for publication. This involves images, extra material, checking parallel passages and a number of other final checks.<br
 ></br
 ><img
 src="36imgeng\image25.png"
@@ -3890,7 +3926,7 @@ src="36imgeng\image25.png"
 ></p
 ><p
 contentType="fr"
->La sixième étape d’un projet de traduction est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.<br
+>La sixième étape d’un projet de traduction (ou quartrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.<br
 ></br
 ><img
 src="36imgfr/image17.png"
@@ -3904,10 +3940,20 @@ pagecontrol="letFormatterDecide"
 contentType="fr"
 pagecontrol="letFormatterDecide"
 >Les modules suivants vous aideront avec ces étapes :</p
-><p
->FC: Finalize checks</p
-><p
->PP: Compare parallel Passages</p
+><ul
+><li
+contentType="en"
+>FC: Finalizing for Publication</li
+><li
+contentType="fr"
+>FC: Finalisation pour la publication</li
+><li
+contentType="en"
+>PP: Compare Parallel Passages</li
+><li
+contentType="fr"
+>PP: Comparer passages parallèles</li
+></ul
 ><chapter
 id="s6intro"
 showinlandscapemode="no"
@@ -4716,7 +4762,7 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->PP: Compare parallel passages</titleContent
+>PP: Compare Parallel Passages</titleContent
 ><titleContent
 contentType="fr"
 >PP : Comparer passages parallèles</titleContent
@@ -6347,14 +6393,6 @@ contentType="fr"
 >Paratext_8_3-6_LivresBibliques</titleContent
 ></titleContentChoices
 ></shortTitle
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->Old Testament</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Ancien Testament</p
 ><tablenumbered
 contentType="en"
 id="ntOTEN"
@@ -6363,6 +6401,8 @@ location="here"
 align="left"
 border="1"
 pagecontrol="letFormatterDecide"
+><caption
+>Old Testament</caption
 ><tr
 ><td
 align="left"
@@ -6555,39 +6595,41 @@ location="here"
 align="left"
 border="1"
 pagecontrol="letFormatterDecide"
+><caption
+>Ancien Testament</caption
 ><tr
 ><td
 align="left"
 valign="top"
->Genèse [Genesis] [GEN]</td
+>Genèse [GEN]</td
 ><td
 align="left"
 valign="top"
->Exode [Exodus] [EXO]</td
+>Exode [EXO]</td
 ><td
 align="left"
 valign="top"
->Lévitique [Leviticus] [LEV]</td
+>Lévitique [LEV]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Nombres [Numbers] (NUM)</td
+>Nombres (NUM)</td
 ><td
 align="left"
 valign="top"
->Deutéronome [Deuteronomy] (DEU)</td
+>Deutéronome (DEU)</td
 ><td
 align="left"
 valign="top"
->Josué [Joshua] [JOS]</td
+>Josué [JOS]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Juges [Judges] (JDG)</td
+>Juges (JDG)</td
 ><td
 align="left"
 valign="top"
@@ -6605,31 +6647,31 @@ valign="top"
 ><td
 align="left"
 valign="top"
->1 Rois [1 Kings] [1KI]</td
+>1 Rois [1KI]</td
 ><td
 align="left"
 valign="top"
->2 Rois [2 Kings] [2KI]</td
+>2 Rois [2KI]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Chroniques [1 Chronicles] [1CH]</td
+>1 Chroniques [1CH]</td
 ><td
 align="left"
 valign="top"
->2 Chroniques [2 Chronicles] [2CH]</td
+>2 Chroniques [2CH]</td
 ><td
 align="left"
 valign="top"
->Esdras [Ezra] [EZR]</td
+>Esdras [EZR]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Néhémie [Nehemiah] [NEH]</td
+>Néhémie [NEH]</td
 ><td
 align="left"
 valign="top"
@@ -6643,29 +6685,29 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Psaumes [Psalms] [PSA]</td
+>Psaumes [PSA]</td
 ><td
 align="left"
 valign="top"
->Proverbes [Proverbs] [PRO]</td
+>Proverbes [PRO]</td
 ><td
 align="left"
 valign="top"
->Ecclésiaste [Ecclesiastes] (ECC)</td
+>Ecclésiaste (ECC)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Cantique des cantiques [Song of Songs] [SNG]</td
+>Cantique des cantiques [SNG]</td
 ><td
 align="left"
 valign="top"
->Ésaïe [Isaiah] [ISA]</td
+>Ésaïe [ISA]</td
 ><td
 align="left"
 valign="top"
->Jérémie [Jeremiah] [JER]</td
+>Jérémie [JER]</td
 ></tr
 ><tr
 ><td
@@ -6675,7 +6717,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Ézékiel [Ezekiel] [EZK]</td
+>Ézékiel [EZK]</td
 ><td
 align="left"
 valign="top"
@@ -6699,54 +6741,46 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Abdias [Obadiah] (OBA)</td
+>Abdias (OBA)</td
 ><td
 align="left"
 valign="top"
->Jonas [Jonah] (JON)</td
+>Jonas (JON)</td
 ><td
 align="left"
 valign="top"
->Michée [Micah] (MIC)</td
+>Michée (MIC)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Nahoum [Nahum] (NAM)</td
+>Nahoum (NAM)</td
 ><td
 align="left"
 valign="top"
->Habacuc [Habakkuk] [HAB]</td
+>Habacuc [HAB]</td
 ><td
 align="left"
 valign="top"
->Sophonie [Zephaniah] [ZEP]</td
+>Sophonie [ZEP]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Aggée [Haggai] [HAG]</td
+>Aggée [HAG]</td
 ><td
 align="left"
 valign="top"
->Zacharie [Zechariah] [ZEC]</td
+>Zacharie [ZEC]</td
 ><td
 align="left"
 valign="top"
->Malachie [Malachi] [MAL]</td
+>Malachie [MAL]</td
 ></tr
 ></table
 ></tablenumbered
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
->New Testament</p
-><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
->Nouveau Testament</p
 ><tablenumbered
 contentType="en"
 id="ntNTEN"
@@ -6755,6 +6789,8 @@ location="here"
 align="left"
 border="1"
 pagecontrol="letFormatterDecide"
+><caption
+>New Testament</caption
 ><tr
 ><td
 align="left"
@@ -6891,123 +6927,125 @@ location="here"
 align="left"
 border="1"
 pagecontrol="letFormatterDecide"
+><caption
+>Nouveau Testament</caption
 ><tr
 ><td
 align="left"
 valign="top"
->Matthieu [Matthew] [MAT]</td
+>Matthieu [MAT]</td
 ><td
 align="left"
 valign="top"
->Marc [Mark] [MRK]</td
+>Marc [MRK]</td
 ><td
 align="left"
 valign="top"
->Luc [Luke] [LUK]</td
+>Luc [LUK]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Jean [John] [JHN]</td
+>Jean [JHN]</td
 ><td
 align="left"
 valign="top"
->Actes [Acts] [ACT]</td
+>Actes [ACT]</td
 ><td
 align="left"
 valign="top"
->Romains [Romans] [ROM]</td
+>Romains [ROM]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Corinthiens [1 Corinthians] [1CO]</td
+>1 Corinthiens [1CO]</td
 ><td
 align="left"
 valign="top"
->1 Corinthiens [2 Corinthians] [2CO]</td
+>1 Corinthiens [2CO]</td
 ><td
 align="left"
 valign="top"
->Galates [Galatians] [GAL]</td
+>Galates [GAL]</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Éphésiens [Ephesians] [EPH]</td
+>Éphésiens [EPH]</td
 ><td
 align="left"
 valign="top"
->Philippiens [Philippians] (PHP</td
+>Philippiens (PHP</td
 ><td
 align="left"
 valign="top"
->Colossiens Colossians (COL)</td
+>Colossiens (COL)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Thessaloniciens [1 Thessalonians] (1TH)</td
+>1 Thessaloniciens (1TH)</td
 ><td
 align="left"
 valign="top"
->1 Thessaloniciens [2 Thessalonians] (2TH)</td
+>1 Thessaloniciens (2TH)</td
 ><td
 align="left"
 valign="top"
->1 Timothée [1 Timothy] (1TI)</td
+>1 Timothée (1TI)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Timothée [2 Timothy] (2TI)</td
+>2 Timothée (2TI)</td
 ><td
 align="left"
 valign="top"
->Tite [Titus] (TIT)</td
+>Tite (TIT)</td
 ><td
 align="left"
 valign="top"
->Philémon [Philemon] (PHM)</td
+>Philémon (PHM)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Hébreux [Hebrews] (HEB)</td
+>Hébreux (HEB)</td
 ><td
 align="left"
 valign="top"
->Jacques [James] (JAS)</td
+>Jacques (JAS)</td
 ><td
 align="left"
 valign="top"
->1 Pierre [1 Peter] (1PE)</td
+>1 Pierre (1PE)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Pierre [2 Peter] (2PE)</td
+>2 Pierre (2PE)</td
 ><td
 align="left"
 valign="top"
->1 Jean [1 John] (1JN)</td
+>1 Jean (1JN)</td
 ><td
 align="left"
 valign="top"
->2 Jean [2 John] (2JN)</td
+>2 Jean (2JN)</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->3 Jean [3 John] (3JN)</td
+>3 Jean (3JN)</td
 ><td
 align="left"
 valign="top"
@@ -7015,7 +7053,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Apocalypse [Revelation] (REV)</td
+>Apocalypse (REV)</td
 ></tr
 ></table
 ></tablenumbered

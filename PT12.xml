@@ -183,7 +183,7 @@ type="tsub"
 ><ul
 ><li
 contentType="en"
->Open projects and additional resources, for example an English Bible, a source text, a source text dictionary etc.</li
+>Open projects and additional resources, for example an English Bible, a source text, a source text dictionary, etc.</li
 ><li
 contentType="fr"
 >Ouvrir des projets et des ressources supplémentaires, par exemple des Bibles françaises, les textes sources, les dictionnaires, etc.  </li
@@ -227,7 +227,7 @@ contentType="fr"
 >Utiliser un clavier (MS-clavier ou Keyman) pour saisir les caractères spéciaux. </li
 ><li
 contentType="en"
->Add additional markers for section headings, introductions etc.</li
+>Add additional markers for section headings, introductions, etc.</li
 ><li
 contentType="fr"
 >Ajouter des éléments supplémentaires tels que les titres de section, les introductions, etc.  </li
@@ -705,7 +705,7 @@ contentType="en"
 >Paratext_8_1-2_Stage1</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_1-2_Étape1</titleContent
+>Paratext_8_1-2_Etape1</titleContent
 ></titleContentChoices
 ></shortTitle
 ><pc
@@ -1517,7 +1517,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Right-click on a lemma (blue word) in the source language text window<br
+>Right click on a lemma (blue word) in the source language text window<br
 ></br
 ><img
 src="12imgeng/image6.png"
@@ -1648,7 +1648,7 @@ contentType="fr"
 ></li
 ><li
 contentType="en"
->You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, the choosing _____ the your project .</li
+>You can make a list of verses which have a word from the source language text by clicking _____ (right/left) clicking on a ________ in the source language, then choosing _____ project .</li
 ><li
 contentType="fr"
 >On fait une liste de versets avec un terme dans une langue de source en cliquant _____ (droit/gauche) sur un ________ en source langue, puis choisissez _____ aux termes bibliques du projet et choisissez _____ projet.</li
@@ -1681,7 +1681,7 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->You use the Project Plan to help organise your work and to see which tasks to do next. Once you have finished the task you mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in <object
+>You use the Project Plan to help organise your work and to see which tasks to do next. Once you have finished the task, you should mark it as completed so that you can report on what has been achieved. [If you have used an earlier version of you will see that it has dramatically improved in <object
 type="tPT"
 ></object
 > .]</p
@@ -1702,7 +1702,7 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->Before you can use the plan it must have been configured. [This is usually done by your project administrator who will add the appropriate organisational plan and configure it for your team.]</p
+>Before you can use the plan, it must have been configured. [This is usually done by your project administrator who will add the appropriate organisational plan and configure it for your team.]</p
 ><p
 contentType="fr"
 >Avant que vous puissiez utiliser le plan, quelqu’un doit l'avoir ajouté et le configuré. [C’est normalement votre administrateur du projet ou votre conseiller en technologie linguistique.]</p
@@ -2949,7 +2949,7 @@ contentType="en"
 >Choose either Internet Server or USB drive (as desired)</li
 ><li
 contentType="fr"
->Choisissez soit Internet soit USB clé (comme désiré) </li
+>Choisissez soit Internet soit une USB clé (selon le choix)</li
 ><li
 contentType="en"
 >Click <object
@@ -3003,7 +3003,7 @@ contentType="en"
 >A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.</p
 ><p
 contentType="fr"
->Beaucoup de temps est dépensé en déplaçant le curseur à l’endroit correct où vous voulez taper du texte ou faire des corrections. Voilà quelques touches utiles.</p
+>Ça prend beaucoup de temps pour déplacer le curseur à l’endroit correct où vous voulez taper du texte ou faire des corrections. Voilà quelques touches utiles.</p
 ></framedUnit
 ><ul
 ><li
@@ -3114,7 +3114,7 @@ type="ttyped"
 > (or your name), you should try changing the __________.</p
 ><p
 contentType="fr"
->Si la barre de titre n'affiche pas <object
+>Si la barre de titre ne mentionne pas <object
 type="ttyped"
 >Modifiable</object
 > (ou votre nom), on peut changer l’__________.</p
@@ -3123,13 +3123,13 @@ contentType="en"
 >To add a different marker (such as section heading) you press _______.</p
 ><p
 contentType="fr"
->Pour ajouter un autre balise (marqueur), on appuyez _______.</p
+>Pour ajouter une autre balise (marqueur), on appuyez _______.</p
 ><p
 contentType="en"
 >To add paragraph marker you type ________.</p
 ><p
 contentType="fr"
->Pour ajouter des balises (marqueurs) de paragraphe, vous appuyez ________.</p
+>Pour ajouter d'autres balises (marqueurs) de paragraphe, vous appuyez ________.</p
 ><p
 contentType="en"
 >To insert a footnote, you use the _______ menu and choose ______________.</p
@@ -3392,16 +3392,16 @@ contentType="fr"
 >Dans l’outil termes bibliques</li
 ><li
 contentType="en"
->Check that you have the correct list (ex. NT Key Biblical terms [SIL])</li
+>Check that you have selected the correct list (ex. NT Key Biblical terms [SIL])</li
 ><li
 contentType="fr"
->Vérifiez que la liste désirée est sélectionné (p.ex. Termes bibliques clés du NT [SIL]) </li
+>Vérifiez que la liste désirée est sélectionné (p.ex. Termes bibliques clés du NT [SIL])</li
 ><li
 contentType="en"
 >Double-click on the word in the list in the top pane</li
 ><li
 contentType="fr"
->Double-cliquez sur le mot dans la liste sur le volet de haut </li
+>Double-cliquez sur le mot dans la liste sur le volet de haut</li
 ><li
 contentType="en"
 >Click the "<object
@@ -3413,13 +3413,13 @@ contentType="fr"
 >Cliquez sur l’onglet « <object
 type="tmenu"
 >Glossaire</object
-> » </li
+> »</li
 ><li
 contentType="en"
 >Click the down arrow near the citation form [1]</li
 ><li
 contentType="fr"
->Cliquez sur la flèche à côté de Forme de citation (1) </li
+>Cliquez sur la flèche à côté de Forme de citation (1)</li
 ><li
 contentType="en"
 >Choose the entry from the glossary</li
@@ -3611,7 +3611,10 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->see the section 10.6 <sectionRef
+>see the section <sectionRef
+sec="sAddATerm"
+></sectionRef
+> <sectionRef
 sec="sAddATerm"
 showTitle="full"
 textBefore="useDefault"
@@ -3619,15 +3622,15 @@ textBefore="useDefault"
 ></li
 ><li
 contentType="fr"
->voir la section 10.6 <sectionRef
+>voir la section <sectionRef
+sec="sAddATerm"
+></sectionRef
+> <sectionRef
 sec="sAddATerm"
 showTitle="full"
 textBefore="useDefault"
 ></sectionRef
 ></li
-><li
-contentType="dn"
->It is not adding a numbered heading so it is not clear what section. Can we get the Chapter number added automatically??</li
 ></ul
 ></section1
 ><section1
@@ -3660,7 +3663,7 @@ contentType="en"
 >To view the glossary, you change to the _____ book (after Revelation).</li
 ><li
 contentType="fr"
->Pour voir la glossaire, on change au livre _____ (après Apocalypse).</li
+>Pour voir le glossaire, vous changez au livre _____ (après Apocalypse).</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -3720,13 +3723,23 @@ contentType="en"
 >You have typed your text in <object
 type="tPT"
 ></object
->. Now you want to start checking. In this module we start with the first two basic checks.</p
+>. Now you want to start checking. In this module we start with the first two basic checks. The remaining checks are covered in <sectionRef
+contentType="en"
+sec="sBC2"
+showTitle="short"
+></sectionRef
+> in this manual and chapter 5 in the following manual.</p
 ><p
 contentType="fr"
 >Vous avez déjà saisi votre texte dans <object
 type="tPT"
 ></object
->. Maintenant, vous voulez commencer à faire les vérifications. Dans ce module on commence avec les deux premières vérifications de base.</p
+>. Maintenant, vous voulez commencer à faire les vérifications. Dans ce module on commence avec les deux premières vérifications de base. Les autres vérifications sont traitées dans <sectionRef
+contentType="fr"
+sec="sBC2"
+showTitle="short"
+></sectionRef
+> et chapitre 5 dans le suivant manuel.</p
 ><pc
 contentType="en"
 ><object
@@ -3845,7 +3858,7 @@ contentType="en"
 >Continue for all the errors.</li
 ><li
 contentType="fr"
->Continuez jusqu’à il n’y a plus d’erreurs. </li
+>Continuez jusqu'à ce qu'il n'y a plus d’erreurs. </li
 ><li
 contentType="en"
 >Click "<object
@@ -3891,7 +3904,7 @@ contentType="en"
 >If you want to check more than one book at a time, you can run the checks from the checking menu.</p
 ><p
 contentType="fr"
->Si vous voulez vérifier plus qu’un livre, vous pourriez faire ces vérifications du menu vérifications.</p
+>Si vous voulez vérifier plus d’un livre, vous pourriez faire ces vérifications du menu vérifications.</p
 ></framedUnit
 ><section2
 id="sChapVerse"
@@ -4178,7 +4191,7 @@ type="tPT"
 > to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><p
 contentType="fr"
->Pour le plan de projet de travailler bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permit au <object
+>Pour que le plan de projet travail ou fonctionne bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permet à <object
 type="tPT"
 ></object
 > de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
@@ -4326,7 +4339,7 @@ contentType="fr"
 >Du menu <object
 type="tmenu"
 >Outils</object
-> menu, choisissez <object
+>, choisissez <object
 type="tmenu"
 >Rapport sur l'état de Projet..</object
 >.</li
@@ -4395,7 +4408,7 @@ type="tmenu"
 >, choisissez <object
 type="tmenu"
 >Progress charts....</object
-> (des graphiques de progrès d'équipe).<br
+> (graphiques de progression d'équipe).<br
 ></br
 ><img
 src="36imgfr\image23.png"
@@ -4412,7 +4425,7 @@ contentType="en"
 >Choose the books as necessary.</li
 ><li
 contentType="fr"
->Choisissez les livres comme nécessaires.</li
+>Choisissez les livres si nécessaires.</li
 ><li
 contentType="en"
 >Click the print icon<br
@@ -4482,7 +4495,7 @@ contentType="en"
 >Paratext_8_1-2_Stage2</titleContent
 ><titleContent
 contentType="fr"
->Paratext_8_1-2_Étape2</titleContent
+>Paratext_8_1-2_Etape2</titleContent
 ></titleContentChoices
 ></shortTitle
 ><p
@@ -4503,10 +4516,10 @@ src="12imgfr/image21.png"
 ></p
 ><p
 contentType="en"
->The following modules will help you in this stage :</p
+>The following modules will help you in this stage:</p
 ><p
 contentType="fr"
->Les modules suivants vous aiderez avec cette Étape :</p
+>Les modules suivants vont vous aider dans cette étape :</p
 ><ul
 ><li
 contentType="en"
@@ -4636,7 +4649,7 @@ contentType="en"
 >In this module, you will check that the proper names have been transliterated consistently.</p
 ><p
 contentType="fr"
->Dans ce module, vous allez vérifier que les noms propres sont bien translitérés.</p
+>Dans ce module, vous vérifierez que que les noms propres sont bien translitérés.</p
 ><pc
 contentType="en"
 ><object
@@ -4687,23 +4700,47 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->You will</p
+>You will:</p
+><p
+contentType="fr"
+>Vous allez :</p
 ><ul
 ><li
 contentType="en"
 >filter the Major Biblical terms list on Names.</li
 ><li
+contentType="fr"
+>filtrez la liste des termes majeurs bibliques sur les noms.</li
+><li
 contentType="en"
->use the Adapt Names tool to enter your transliteration rules for each letter.</li
+>use the <object
+type="tmenu"
+>Adapt Names</object
+> tool to enter your transliteration rules for each letter.</li
+><li
+contentType="fr"
+>utilisez l'outil <object
+type="tmenu"
+>Adapt Names</object
+> pour entrer vos règles de translittération pour chaque lettre.</li
 ><li
 contentType="en"
 >edit and approve the individual names.</li
 ><li
+contentType="fr"
+>modifier et approuver les noms individuels.</li
+><li
 contentType="en"
->add the approved names as proposed names in the Biblical terms list</li
+>add the approved names as proposed names in the Biblical terms list.</li
+><li
+contentType="fr"
+>ajouter les noms approuvés comme noms proposés dans la liste des termes bibliques.</li
 ><li
 contentType="en"
 >work through the Biblical Terms list to ensure that all the verses are consistent.</li
+><li
+contentType="fr"
+>travailler à travers la liste des termes bibliques pour s'assurer que tous les versets sont cohérents.</li
 ></ul
 ><p
 contentType="fr"
@@ -4806,10 +4843,10 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click the "<object
+>Click the <object
 type="tmenu"
 >Comparative Texts</object
->" button on the toolbar.<br
+> button on the toolbar.<br
 ></br
 ><img
 src="12imgeng\CompTexts.png"
@@ -4832,6 +4869,9 @@ contentType="en"
 type="tmenu"
 ></object
 >.</li
+><li
+contentType="dn"
+>Arrows don't show up</li
 ><li
 contentType="fr"
 >Choisissez un texte et puis cliquez sur <object
@@ -5055,7 +5095,7 @@ contentType="en"
 >Enter the changes for the individual letters (or letter clusters)</titleContent
 ><titleContent
 contentType="fr"
->Entre les modifications des lettres individuelles (ou des groupes de lettres)</titleContent
+>Entrer les modifications des lettres individuelles (ou des groupes de lettres)</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -5183,7 +5223,7 @@ contentType="en"
 >Click on a verse in the lower pane which doesn’t have the proposed form of the name.</li
 ><li
 contentType="fr"
->Cliquez dans un verset dans le volet en bas qui n'a pas le forme du nom.</li
+>Cliquez dans un verset dans le volet en bas qui n'a pas la forme du nom.</li
 ><li
 contentType="en"
 >Click on the <object
@@ -5204,7 +5244,7 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Corrigez comme nécessaire, cliquez sur <object
+>Corrigez si nécessaire, cliquez sur <object
 type="tmenu"
 >OK</object
 >.</li
@@ -5415,7 +5455,7 @@ type="tkey"
 >+__.</li
 ><li
 contentType="fr"
->Vous pouvez ajouter un équivalent en sélectionnat la texte et appuyant <object
+>Vous pouvez ajouter un équivalent en sélectionnant la texte et appuyant <object
 type="tkey"
 >Ctrl</object
 >+__.</li
@@ -5520,7 +5560,7 @@ contentType="en"
 >It is important the correct any spelling mistakes so that your text will communicate clearly.</p
 ><p
 contentType="fr"
->Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message sans ambiguïté.</p
+>Vous devez corriger les fautes d’orthographe, afin que votre texte communique le message clairement.</p
 ><pc
 contentType="en"
 ><object
@@ -5544,7 +5584,7 @@ type="tPT"
 > that the words are correct.</p
 ><p
 contentType="fr"
->Vous devez d’abord configurer la liste de mots pour avoir une base de mots avec une orthographe correcte. Puis vous pouvez configurer l’ordinateur pour qu’il souligne les fautes d’orthographe à l’aide de lignes ondulées rouges dans le texte. Vous pouvez ensuite les corriger du texte. Vous pouvez ensuite faire diverses vérifications à la liste de mots.</p
+>Vous devez d’abord configurer la liste de mots pour avoir une base de mots avec une orthographe correcte. Vous pouvez alors configurer l’ordinateur pour qu’il souligne les fautes d’orthographe à l’aide de lignes ondulées rouges dans le texte. Vous pouvez ensuite travaillez dans votre texte. Vous pouvez ensuite faire diverses vérifications à la liste de mots.</p
 ><pc
 contentType="en"
 ><object
@@ -5642,7 +5682,7 @@ contentType="en"
 >In the Wordlist</p
 ><p
 contentType="fr"
->Dans le Liste des Mots</p
+>Dans la Liste des Mots</p
 ><ul
 ><li
 contentType="en"
@@ -5793,7 +5833,7 @@ type="tPT"
 > has suggested the correct word, then click the blue link for the correct word.</li
 ><li
 contentType="fr"
->Si le mot est incorrect, mais Paratext a proposé le mot juste, puis cliquez sur le lien bleu du mot juste</li
+>Si le mot est incorrect, et Paratext a proposé le mot juste, cliquez sur le lien bleu du mot juste</li
 ><li
 contentType="en"
 >If the word is incorrect, and <object
@@ -5805,7 +5845,7 @@ src="12imgeng\image26a.png"
 > and correct the word.</li
 ><li
 contentType="fr"
->Si incorrect, et Paratext n'a pas proposé le mot juste, cliquez sur la croix rouge <img
+>Si le mot est incorrect, et Paratext n'a pas proposé le mot juste, cliquez sur la croix rouge <img
 src="12imgeng\image26a.png"
 ></img
 > et corriger le mot.</li
@@ -6012,7 +6052,7 @@ contentType="fr"
 ></br
 ><object
 type="tresult"
->Une boîte s'affiche </object
+>Une boîte de dialogue s'affiche </object
 ><br
 ></br
 ><img
@@ -6080,12 +6120,14 @@ type="tmenu"
 ><object
 type="tmenu"
 >Cancel</object
-> = stops changing any more</p
+> = stops further changes</p
 ><p
 contentType="fr"
->Quand il y a plus d’une proposition, une boîte s’affiche. Choisissez selon le besoin.</p
+pagecontrol="keepWithNext"
+>Quand il y a plus d’une correction, une boîte de dialogue s’affiche. Choisissez une des options selon le besoin.</p
 ><p
 contentType="fr"
+pagecontrol="keepWithNext"
 ><object
 type="tmenu"
 >Oui</object
@@ -6119,9 +6161,6 @@ contentType="fr"
 >Vérifier l’orthographe – du livre actuel</titleContent
 ></titleContentChoices
 ></secTitle
-><p
-contentType="dn"
->I can't delete the tmenu in the second line. It took me ages to put the tresult on a second line (had to copy and paste then backspace but I can't select the tmenu)</p
 ><ul
 ><li
 contentType="en"
@@ -6131,11 +6170,8 @@ type="tmenu"
 ><br
 ></br
 ><object
-type="tmenu"
-> <object
 type="tresult"
->A window appears with a list of some words in the current book. </object
-></object
+>A window appears with a list of some words in the current book.</object
 ><br
 ></br
 > <img
@@ -6349,6 +6385,9 @@ src="12imgeng\image33.png"
 ></img
 ></li
 ><li
+contentType="dn"
+>Explain</li
+><li
 contentType="fr"
 >Une liste de mots s’affiche avec les liens d’autres mots qui n’ont pas toujours en majuscules. Le mot en minuscule a le mot en majuscule dessous avec un lien bleu.<br
 ></br
@@ -6413,7 +6452,7 @@ contentType="fr"
 ><object
 type="tItalic"
 >Capitalise All </object
->(pour corriger tous les mots)</li
+>(corriger tous les mots)</li
 ></ul
 ></section2
 ><section2
@@ -6425,7 +6464,7 @@ contentType="en"
 >Single Character Typos</titleContent
 ><titleContent
 contentType="fr"
->Single Character Typos (faut de frappe d’un caractère unique)</titleContent
+>Single Character Typos (faute de frappe d’un caractère unique)</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6471,7 +6510,7 @@ contentType="en"
 >A list of words is displayed with links to other words which are the same except for the diacritics.</p
 ><p
 contentType="fr"
->Une liste s’affiche des mots qui sont les mêmes sauf une ou plusieurs différences en diacritique.</p
+>Une liste de mots est affichée avec d'autres mots qui sont les mêmes sauf pour leurs diacritiques.</p
 ></section2
 ><section2
 id="sCommonTypos"
@@ -6502,7 +6541,7 @@ type="ttyped"
 >".</p
 ><p
 contentType="fr"
->Une liste s’affiche des mots qui ont le même type de problème que vous avez résolu avant. P.ex. si vous aviez corrigé « <object
+>Une liste de mots s'affiche qui vous montre les même types de problème qui ont déjà été corrigé en d'autres termes. Par exemple : si vous aviez corrigé « <object
 type="ttyped"
 >teh</object
 > » en « <object
@@ -6515,6 +6554,9 @@ type="ttyped"
 type="ttyped"
 >them</object
 > ».</p
+><p
+contentType="dn"
+>find French examples</p
 ></section2
 ><section2
 id="sUnknown"
@@ -6592,8 +6634,11 @@ src="12imgfr/image35.png"
 contentType="en"
 >Type in any word medial punctuation</li
 ><li
+contentType="dn"
+>Explain better in english</li
+><li
 contentType="fr"
->Saisissez la ponctuation si elle existe </li
+>Saisissez une ponctuation qui peut apparaître au milieu d'un mot, si elle existe.</li
 ><li
 contentType="en"
 >Click <object
@@ -6619,7 +6664,7 @@ type="tmenu"
 ></br
 ><object
 type="tresult"
->Une liste de mots regroupés s’affiche.</object
+>Une liste de mots est affichée avec des mots similaires regroupés.</object
 ><br
 ></br
 ><img
@@ -6746,7 +6791,7 @@ contentType="en"
 >For your readers to understand your text, you need to be consistent in your use of terms. It is a big task to make them completely consistent. If you start from the verse you are translating and work from there the task is more manageable. The goal is to have consistently rendered Biblical Terms and well documented decisions on why changes were made.</p
 ><p
 contentType="fr"
->Pour que votre texte communique le message clairement, vous devez utiliser les termes de manière cohérente. C’est une grande tâche pour les rendre complètement cohérents. Si vous commencez à partir du verset que vous traduisez, et travail à partir de là, la tâche est plus facile à gérer. Le but est d’avoir les équivalents de termes bibliques systématiquement rendus et les décisions bien documentées sur les raisons pour les modifications.</p
+>Pour que votre texte communique le message clairement, vous devez utiliser les termes de manière cohérente. C’est une grande tâche pour les rendre complètement cohérents. Si vous commencez à partir du verset que vous traduisez, et travailler à partir de là, la tâche est plus facile à gérer. Le but est d’avoir les équivalents de termes bibliques systématiquement rendus et les décisions bien documentées sur les raisons pour les modifications.</p
 ><pc
 contentType="en"
 ><object
@@ -6771,7 +6816,7 @@ contentType="en"
 >Find all the ways you have rendered this term, and enter them in the renderings dialog.</li
 ><li
 contentType="fr"
->Trouver tous les équivalents que vous avez utilisés pour ce terme, et les entrer dans la boîte de dialogue des équivalents.</li
+>Trouver tous les équivalents que vous avez utilisés pour ce terme, et entrez les équivalents dans la boîte de dialogue des équivalents.</li
 ><li
 contentType="en"
 >Choose which rendering is/are best, and record why it is best.</li
@@ -6783,7 +6828,7 @@ contentType="en"
 >Document why you rejected the other renderings.</li
 ><li
 contentType="fr"
->Document la raison pour laquelle vous avez rejeté les autres équivalents.</li
+>Expliquez pourquoi vous avez rejeté les autres équivalents.</li
 ><li
 contentType="en"
 >Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</li
@@ -7128,13 +7173,13 @@ type="tkey"
 >+<object
 type="tkey"
 >A</object
-> </li
+></li
 ><li
 contentType="en"
 >Continue until all terms for those verses have been identified.</li
 ><li
 contentType="fr"
->Continuez jusqu’à tous les équivalents ont été identifié. </li
+>Continuez jusqu’à ce que tous les équivalents ont été identifié.</li
 ></ul
 ></section2
 ><section2
@@ -7347,7 +7392,7 @@ src="12imgeng\renderings3b.png"
 ></li
 ><li
 contentType="fr"
->Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi la première est le meilleur. <br
+>Saisissez la raison pourquoi les autres équivalents sont été rejetés, et pourquoi le premier est le meilleur.<br
 ></br
 ><img
 src="12imgfr/image40.png"
@@ -7434,7 +7479,7 @@ contentType="en"
 >Clean up verses as necessary.</li
 ><li
 contentType="fr"
->Nettoyez les versets comme nécessaires. </li
+>Nettoyez les versets si nécessaire. </li
 ></ul
 ></section2
 ><section2
@@ -7526,7 +7571,7 @@ contentType="en"
 >Type the agreed-on rendering in the description field<br
 ></br
 ><img
-src="12imgeng/renderingsnote3.png"
+src="12imgeng/renderingsnote3a.png"
 ></img
 ></li
 ><li
@@ -7534,7 +7579,7 @@ contentType="fr"
 >Saisissez l’équivalent décidé dans les « remarques » de la boîte de dialogue.<br
 ></br
 ><img
-src="12imgfr/image37a.png"
+src="12imgfr/image37b.png"
 ></img
 > </li
 ><li
@@ -7656,7 +7701,7 @@ contentType="en"
 >Edit the gloss if necessary</li
 ><li
 contentType="fr"
->Modifiez la glose comme désiré </li
+>Modifiez la glose si nécessaire.</li
 ><li
 contentType="en"
 >Click on the <object
@@ -7743,7 +7788,7 @@ contentType="fr"
 >Dans <object
 type="tPT"
 ></object
-> (et versions ultérieures), vous pouvez voir où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où le mot « roi » se produit dans un projet français et le comparer avec « rey » dans un projet espagnol.</p
+> (et versions ultérieures), vous pouvez voir là où un mot ou une expression se trouve dans un projet et comparer celui où le mot ou l’expression (ou une traduction du mot ou de l’expression) se produit dans un ou plusieurs autres projets. Par exemple, vous pouvez voir où le mot « roi » se produit dans un projet français et le comparer avec « rey » dans un projet espagnol.</p
 ><pc
 contentType="fr"
 ><object
@@ -12872,112 +12917,192 @@ valign="top"
 contentType="fr"
 id="ntATLivres"
 ><table
+align="left"
 border="1"
+pagecontrol="letFormatterDecide"
 ><caption
 >Ancien Testament</caption
 ><tr
 ><td
->Genèse [Genesis] [GEN]</td
+align="left"
+valign="top"
+>Genèse [GEN]</td
 ><td
->Exode [Exodus] [EXO]</td
+align="left"
+valign="top"
+>Exode [EXO]</td
 ><td
->Lévitique [Leviticus] [LEV]</td
+align="left"
+valign="top"
+>Lévitique [LEV]</td
 ></tr
 ><tr
 ><td
->Nombres [Numbers] (NUM)</td
+align="left"
+valign="top"
+>Nombres (NUM)</td
 ><td
->Deutéronome [Deuteronomy] (DEU)</td
+align="left"
+valign="top"
+>Deutéronome (DEU)</td
 ><td
->Josué [Joshua] [JOS]</td
+align="left"
+valign="top"
+>Josué [JOS]</td
 ></tr
 ><tr
 ><td
->Juges [Judges] (JDG)</td
+align="left"
+valign="top"
+>Juges (JDG)</td
 ><td
+align="left"
+valign="top"
 >Ruth [RUT]</td
 ><td
+align="left"
+valign="top"
 >1 Samuel [1SA]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >2 Samuel [2SA]</td
 ><td
->1 Rois [1 Kings] [1KI]</td
+align="left"
+valign="top"
+>1 Rois [1KI]</td
 ><td
->2 Rois [2 Kings] [2KI]</td
+align="left"
+valign="top"
+>2 Rois [2KI]</td
 ></tr
 ><tr
 ><td
->1 Chroniques [1 Chronicles] [1CH]</td
+align="left"
+valign="top"
+>1 Chroniques [1CH]</td
 ><td
->2 Chroniques [2 Chronicles] [2CH]</td
+align="left"
+valign="top"
+>2 Chroniques [2CH]</td
 ><td
->Esdras [Ezra] [EZR]</td
+align="left"
+valign="top"
+>Esdras [EZR]</td
 ></tr
 ><tr
 ><td
->Néhémie [Nehemiah] [NEH]</td
+align="left"
+valign="top"
+>Néhémie [NEH]</td
 ><td
+align="left"
+valign="top"
 >Esther [EST]</td
 ><td
+align="left"
+valign="top"
 >Job [JOB]</td
 ></tr
 ><tr
 ><td
->Psaumes [Psalms] [PSA]</td
+align="left"
+valign="top"
+>Psaumes [PSA]</td
 ><td
->Proverbes [Proverbs] [PRO]</td
+align="left"
+valign="top"
+>Proverbes [PRO]</td
 ><td
->Ecclésiaste [Ecclesiastes] (ECC)</td
+align="left"
+valign="top"
+>Ecclésiaste (ECC)</td
 ></tr
 ><tr
 ><td
->Cantique des cantiques [Song of Songs] [SNG]</td
+align="left"
+valign="top"
+>Cantique des cantiques [SNG]</td
 ><td
->Ésaïe [Isaiah] [ISA]</td
+align="left"
+valign="top"
+>Ésaïe [ISA]</td
 ><td
->Jérémie [Jeremiah] [JER]</td
+align="left"
+valign="top"
+>Jérémie [JER]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Lamentations [LAM]</td
 ><td
->Ézékiel [Ezekiel] [EZK]</td
+align="left"
+valign="top"
+>Ézékiel [EZK]</td
 ><td
+align="left"
+valign="top"
 >Daniel [DAN]</td
 ></tr
 ><tr
 ><td
+align="left"
+valign="top"
 >Osée [Hosea] [HOS]</td
 ><td
+align="left"
+valign="top"
 >Joël [JOL]</td
 ><td
+align="left"
+valign="top"
 >Amos [AMO]</td
 ></tr
 ><tr
 ><td
->Abdias [Obadiah] (OBA)</td
+align="left"
+valign="top"
+>Abdias (OBA)</td
 ><td
->Jonas [Jonah] (JON)</td
+align="left"
+valign="top"
+>Jonas (JON)</td
 ><td
->Michée [Micah] (MIC)</td
+align="left"
+valign="top"
+>Michée (MIC)</td
 ></tr
 ><tr
 ><td
->Nahoum [Nahum] (NAM)</td
+align="left"
+valign="top"
+>Nahoum (NAM)</td
 ><td
->Habacuc [Habakkuk] [HAB]</td
+align="left"
+valign="top"
+>Habacuc [HAB]</td
 ><td
->Sophonie [Zephaniah] [ZEP]</td
+align="left"
+valign="top"
+>Sophonie [ZEP]</td
 ></tr
 ><tr
 ><td
->Aggée [Haggai] [HAG]</td
+align="left"
+valign="top"
+>Aggée [HAG]</td
 ><td
->Zacharie [Zechariah] [ZEC]</td
+align="left"
+valign="top"
+>Zacharie [ZEC]</td
 ><td
->Malachie [Malachi] [MAL]</td
+align="left"
+valign="top"
+>Malachie [MAL]</td
 ></tr
 ></table
 ></tablenumbered
@@ -13121,80 +13246,136 @@ valign="top"
 contentType="fr"
 id="ntNTLivres"
 ><table
+align="left"
 border="1"
+pagecontrol="letFormatterDecide"
 ><caption
 >Nouveau Testament</caption
 ><tr
 ><td
->Mathieu [Matthew] [MAT]</td
+align="left"
+valign="top"
+>Matthieu [MAT]</td
 ><td
->Marc [Mark] [MRK]</td
+align="left"
+valign="top"
+>Marc [MRK]</td
 ><td
->Luc [Luke] [LUK]</td
+align="left"
+valign="top"
+>Luc [LUK]</td
 ></tr
 ><tr
 ><td
->Jean [John] [JHN]</td
+align="left"
+valign="top"
+>Jean [JHN]</td
 ><td
->Actes [Acts] [ACT]</td
+align="left"
+valign="top"
+>Actes [ACT]</td
 ><td
->Romains [Romans] [ROM]</td
+align="left"
+valign="top"
+>Romains [ROM]</td
 ></tr
 ><tr
 ><td
->1 Corinthiens [1 Corinthians] [1CO]</td
+align="left"
+valign="top"
+>1 Corinthiens [1CO]</td
 ><td
->1 Corinthiens [2 Corinthians] [2CO]</td
+align="left"
+valign="top"
+>1 Corinthiens [2CO]</td
 ><td
->Galates [Galatians] [GAL]</td
+align="left"
+valign="top"
+>Galates [GAL]</td
 ></tr
 ><tr
 ><td
->Éphésiens [Ephesians] [EPH]</td
+align="left"
+valign="top"
+>Éphésiens [EPH]</td
 ><td
->Philippiens [Philippians] (PHP</td
+align="left"
+valign="top"
+>Philippiens (PHP</td
 ><td
->Colossiens Colossians (COL)</td
+align="left"
+valign="top"
+>Colossiens (COL)</td
 ></tr
 ><tr
 ><td
->1 Thessaloniciens [1 Thessalonians] (1TH)</td
+align="left"
+valign="top"
+>1 Thessaloniciens (1TH)</td
 ><td
->1 Thessaloniciens [2 Thessalonians] (2TH)</td
+align="left"
+valign="top"
+>1 Thessaloniciens (2TH)</td
 ><td
->1 Timothée [1 Timothy] (1TI)</td
+align="left"
+valign="top"
+>1 Timothée (1TI)</td
 ></tr
 ><tr
 ><td
->2 Timothée [2 Timothy] (2TI)</td
+align="left"
+valign="top"
+>2 Timothée (2TI)</td
 ><td
->Tite [Titus] (TIT)</td
+align="left"
+valign="top"
+>Tite (TIT)</td
 ><td
->Philémon [Philemon] (PHM)</td
+align="left"
+valign="top"
+>Philémon (PHM)</td
 ></tr
 ><tr
 ><td
->Hébreux [Hebrews] (HEB)</td
+align="left"
+valign="top"
+>Hébreux (HEB)</td
 ><td
->Jacques [James] (JAS)</td
+align="left"
+valign="top"
+>Jacques (JAS)</td
 ><td
->1 Pierre [1 Peter] (1PE)</td
+align="left"
+valign="top"
+>1 Pierre (1PE)</td
 ></tr
 ><tr
 ><td
->2 Pierre [2 Peter] (2PE)</td
+align="left"
+valign="top"
+>2 Pierre (2PE)</td
 ><td
->1 Jean [1 John] (1JN)</td
+align="left"
+valign="top"
+>1 Jean (1JN)</td
 ><td
->2 Jean [2 John] (2JN)</td
+align="left"
+valign="top"
+>2 Jean (2JN)</td
 ></tr
 ><tr
 ><td
->3 Jean [3 John] (3JN)</td
+align="left"
+valign="top"
+>3 Jean (3JN)</td
 ><td
+align="left"
+valign="top"
 >Jude (JUD)</td
 ><td
->Apocalypse [Revelation] (REV)</td
+align="left"
+valign="top"
+>Apocalypse (REV)</td
 ></tr
 ></table
 ></tablenumbered

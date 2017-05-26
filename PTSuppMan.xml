@@ -54,7 +54,7 @@ contentType="en"
 >Table of Contents</labelContent
 ><labelContent
 contentType="fr"
->Table de matières</labelContent
+>Contenu</labelContent
 ></labelContentChoices
 ></contents
 ></frontMatter
@@ -1316,7 +1316,7 @@ contentType="fr"
 >Lorsque vous cliquez sur <object
 type="tmenu"
 >Faire migrer maintenant</object
->, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoi / réception à Internet.</li
+>, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoyer / récevoir à Internet.</li
 ><li
 contentType="en"
 >Now your colleagues can go to <object
@@ -1350,7 +1350,7 @@ type="tPT"
 > that way.</p
 ><p
 contentType="fr"
->Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers ABU ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
+>Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
 ></framedUnit
 ></section2
 ></section1
@@ -6107,11 +6107,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
