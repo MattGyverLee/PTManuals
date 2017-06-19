@@ -16,11 +16,7 @@
                     <xsl:attribute name="contentType">en</xsl:attribute>
                     <xsl:attribute name="type">t-en</xsl:attribute>
                 </xsl:element> -->
-                <xsl:element name="object">
-                    <xsl:attribute name="contentType">fr</xsl:attribute>
-                    <xsl:attribute name="type">t-fr</xsl:attribute>
                     <xsl:apply-templates/>
-                </xsl:element>
             </xsl:element>
         <!--</xsl:element>-->
     </xsl:template>
@@ -55,28 +51,12 @@
     <xsl:template match="p[@class='P39']">
 <!--        <xsl:element name="chapter">-->
             <xsl:element name="secTitle">
-                <xsl:element name="object">
-                    <xsl:attribute name="contentType">
-                        <xsl:text>en</xsl:text>
-                    </xsl:attribute>
                     <xsl:apply-templates/>        
-                </xsl:element>
-                <xsl:element name="object">
-                    <xsl:attribute name="contentType">
-                        <xsl:text>fr</xsl:text>
-                    </xsl:attribute>
-                </xsl:element>
             </xsl:element>
         <!--</xsl:element>-->
     </xsl:template>
     <xsl:template match="p[@class='P40']">
-<!--        <xsl:element name="chapter">-->
             <xsl:element name="secTitle">
-<!--                <xsl:element name="object">
-                    <xsl:attribute name="contentType">
-                        <xsl:text>en</xsl:text>
-                    </xsl:attribute>        
-                </xsl:element>-->
                 <xsl:element name="object">
                     <xsl:attribute name="contentType">
                         <xsl:text>fr</xsl:text>
@@ -157,7 +137,7 @@
             <xsl:otherwise>
                 <!--<xsl:text>&#10;</xsl:text>-->
                 <xsl:element name="p">
-                    <xsl:attribute name="contentType">en</xsl:attribute>
+                    <xsl:attribute name="contentType">fr</xsl:attribute>
                     <xsl:choose>
                         <xsl:when test="@class='Teacher' or @class='P85'">
                             <xsl:element name="framedUnit">
@@ -175,6 +155,8 @@
                                 </xsl:element>
                             </xsl:element>
                         </xsl:when>
+                        <xsl:when test="text()=' '"/>
+                        <xsl:when test="text()=''"/>
                         <xsl:otherwise>
 <!--                            <xsl:call-template name="Smoothtext"/>-->
                             <xsl:apply-templates/>
@@ -258,10 +240,9 @@
 <!--        <xsl:choose>
             <xsl:when test="parent::not p] and parent::[not li]"></xsl:when>
         </xsl:choose>-->
-        <xsl:element name="img">
-            <xsl:attribute name="src"><xsl:value-of select="@src"></xsl:value-of></xsl:attribute>
-            <xsl:apply-templates/>
-        </xsl:element>
+            <xsl:element name="img">
+                <xsl:attribute name="href">i.png</xsl:attribute>
+            </xsl:element>
         <!--<xsl:text>&#10;</xsl:text>-->
     </xsl:template>
     <xsl:template match="span[@class='User_20_Interface']">

@@ -6105,10 +6105,10 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="no"
->Export Everything</contentControlChoice
-><contentControlChoice
 active="yes"
+>-Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
