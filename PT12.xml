@@ -1173,7 +1173,7 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Ouvrir le texte de langue source</object
+>Ouvrir le texte source</object
 >)</li
 ><li
 contentType="fr"
@@ -1423,7 +1423,7 @@ contentType="fr"
 >Vous pouvez changer le texte qui remplira le volet à droite en cliquant sur le lien bleu de la ressource. En <object
 type="tPT"
 ></object
-> on peut changer l’affichage à aperçu/non-formaté/normale.</p
+> on peut changer l’affichage à aperçu/non formaté/standard (normal).</p
 ></framedUnit
 ></section1
 ><section1
@@ -1501,7 +1501,7 @@ contentType="en"
 >Make a list of verses of a specific term from the source language text</titleContent
 ><titleContent
 contentType="fr"
->Faire une liste de versets avec un terme dans une langue de source</titleContent
+>Faire une liste de versets avec un terme dans le texte source</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -1512,7 +1512,7 @@ contentType="en"
 >You can create a list of verses for a specific Greek/Hebrew word.</p
 ><p
 contentType="fr"
->Pour avoir une liste de versets d’un terme grec</p
+>Pour avoir une liste de versets d’un terme grec/hébreu</p
 ></framedUnit
 ><ul
 ><li
@@ -1541,7 +1541,7 @@ type="tmenu"
 contentType="fr"
 >Choisissez <object
 type="tmenu"
->Ajouter aux termes bibliques du projet</object
+>Ajouter aux termes bibliques du projet pour</object
 ></li
 ><li
 contentType="en"
@@ -1748,7 +1748,7 @@ contentType="dn"
 >These d[i]n't match!!!! - moved the sentence up to the Pourquoi. So check the following translation.</p
 ><p
 contentType="fr"
->Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement ,selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Status (Statut).</p
+>Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement, selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Statut.</p
 ><section1
 id="s14"
 ><secTitle
@@ -1806,7 +1806,7 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur le bouton « <object
 type="tmenu"
->Assignments and Progress</object
+>Tâches et avancement</object
 > » <img
 src="12imgeng/image7.png"
 ></img
@@ -1819,7 +1819,7 @@ type="tmenu"
 >Projet</object
 > &gt; <object
 type="tmenu"
->Assignments and progress]</object
+>Tâches et avancement]</object
 ></li
 ><li
 contentType="en"
@@ -1852,11 +1852,11 @@ type="tmenu"
 >Mes tâches </object
 >ou <object
 type="tmenu"
->All tasks</object
+>Toutes les tâches</object
 ><br
 ></br
 ><img
-src="12imgeng/image8.png"
+src="12imgfr/mes-toutes-taches.png"
 ></img
 ><br
 ></br
@@ -2048,7 +2048,7 @@ type="tresult"
 ><br
 ></br
 ><img
-src="12imgeng/image11.png"
+src="12imgfr/image10b.png"
 ></img
 ><br
 ></br
@@ -2098,7 +2098,7 @@ type="tBold"
 contentType="fr"
 >Si la tâche est une vérification, l’état de la vérification indiquera soit la <object
 type="tBold"
->configuration requise</object
+>configuration requise (setup required) </object
 >, soit le nombre de problèmes (<object
 type="tBold"
 >issues</object
@@ -2564,7 +2564,7 @@ type="tmenu"
 >Affichage</object
 > &gt; <object
 type="tmenu"
->Highlight Invalid Characters</object
+>Surlinger les caractères non valid</object
 > pour mettre en surbrillance des caractères invalides qui sont dans le texte.</p
 ></framedUnit
 ></section1
@@ -3968,7 +3968,7 @@ type="tmenu"
 contentType="fr"
 >Si nécessaire, cliquez <object
 type="tmenu"
->Choose…</object
+>Sélectionner…</object
 > et choisissez les livres à vérifier.</li
 ><li
 contentType="en"
@@ -4278,8 +4278,8 @@ type="tmenu"
 >Projet</object
 >, select <object
 type="tmenu"
->Assignments and Progress....</object
->(Affectations et Progrès)</li
+>Tâches et avancement....</object
+></li
 ><li
 contentType="en"
 >From the first drop-down list at the top left of the dialog, select <object
@@ -4290,8 +4290,8 @@ type="tmenu"
 contentType="fr"
 >De la première liste roulante en haut du dialogue, choisissez <object
 type="tmenu"
->All Tasks</object
-> (Toutes les Tâches).</li
+>Toutes les Tâches</object
+>.</li
 ><li
 contentType="en"
 >In the "<object
@@ -4305,8 +4305,8 @@ type="tmenu"
 contentType="fr"
 >Dans la colonne, "<object
 type="tmenu"
->Assigned to</object
->" (affecté à), utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
+>Affecté à</object
+>" , utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
 type="tmenu"
 >Task/Check</object
 > (Tâche/Vérification) au gauche).</li
@@ -4407,11 +4407,11 @@ type="tmenu"
 >Project</object
 >, choisissez <object
 type="tmenu"
->Progress charts....</object
-> (graphiques de progression d'équipe).<br
+>Courbe de progression....</object
+>.<br
 ></br
 ><img
-src="36imgfr\image23.png"
+src="12imgfr\courbe.png"
 ></img
 ></li
 ><li
@@ -4452,7 +4452,7 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur l'icône <object
 type="tmenu"
->Print</object
+>Imprimer</object
 ></li
 ><li
 contentType="en"
@@ -4868,7 +4868,7 @@ contentType="en"
 >Choose your reference text, then click <object
 type="tmenu"
 ></object
->.</li
+>. </li
 ><li
 contentType="dn"
 >Arrows don't show up</li
@@ -4877,7 +4877,7 @@ contentType="fr"
 >Choisissez un texte et puis cliquez sur <object
 type="tmenu"
 ></object
-> . </li
+> . </li
 ><li
 contentType="en"
 >Click <object
@@ -5800,7 +5800,7 @@ type="tmenu"
 >Vérifier l’orthographe</object
 >  &gt; <object
 type="tmenu"
->All Checks</object
+>Toutes les vérifications</object
 ><br
 ></br
 ><object
@@ -6338,10 +6338,10 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->Oui (<object
+>Cliquez sur <object
 type="tmenu"
->Yes</object
->).</li
+>Oui</object
+>.</li
 ></ul
 ></section2
 ><section2
@@ -6543,20 +6543,20 @@ type="ttyped"
 contentType="fr"
 >Une liste de mots s'affiche qui vous montre les même types de problème qui ont déjà été corrigé en d'autres termes. Par exemple : si vous aviez corrigé « <object
 type="ttyped"
->teh</object
+>vres</object
 > » en « <object
 type="ttyped"
->the</object
-> », et il trouve « <object
+>vers</object
+>», et il trouve « <object
 type="ttyped"
->tehm</object
+>vreset</object
 > » il suggérait « <object
 type="ttyped"
->them</object
+>verset</object
 > ».</p
 ><p
 contentType="dn"
->find French examples</p
+>find French examples: JB: what do you think? Good enough?</p
 ></section2
 ><section2
 id="sUnknown"
@@ -6632,10 +6632,10 @@ src="12imgfr/image35.png"
 > </li
 ><li
 contentType="en"
->Type in any word medial punctuation</li
+>Type in any punctuation which can be in the middle of a word e.g. - '</li
 ><li
 contentType="dn"
->Explain better in english</li
+>Explain better in english JB: is that what you had in mind</li
 ><li
 contentType="fr"
 >Saisissez une ponctuation qui peut apparaître au milieu d'un mot, si elle existe.</li
@@ -7867,7 +7867,7 @@ type="tmenu"
 >Listes récapitulatives</object
 > et sélectionnez « <object
 type="tmenu"
->Word or Phrase</object
+>Mot ou expression</object
 > » <br
 ></br
 ><object
