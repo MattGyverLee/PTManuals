@@ -1611,7 +1611,9 @@ contentType="en"
 >To open windows you use the __________ menu.<ul
 ><li
 contentType="en"
->Open Biblical terms equivalents</li
+>Open Biblical terms equivalents<comment
+> Something weird here with spacing on the PDF just ENG</comment
+></li
 ><li
 contentType="en"
 >Open Source language text</li
@@ -1748,7 +1750,7 @@ contentType="dn"
 >These d[i]n't match!!!! - moved the sentence up to the Pourquoi. So check the following translation.</p
 ><p
 contentType="fr"
->Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement, selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Statut.</p
+>Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement, selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Status (Statut).</p
 ><section1
 id="s14"
 ><secTitle
@@ -2048,7 +2050,7 @@ type="tresult"
 ><br
 ></br
 ><img
-src="12imgfr/image10b.png"
+src="12imgeng/image11.png"
 ></img
 ><br
 ></br
@@ -2564,7 +2566,7 @@ type="tmenu"
 >Affichage</object
 > &gt; <object
 type="tmenu"
->Surlinger les caractères non valid</object
+>Surligner les caractères non valides</object
 > pour mettre en surbrillance des caractères invalides qui sont dans le texte.</p
 ></framedUnit
 ></section1
@@ -2942,8 +2944,8 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Envoyer/Recevoir projet(s</object
->) </li
+>Envoyer/Recevoir les projets</object
+>...</li
 ><li
 contentType="en"
 >Choose either Internet Server or USB drive (as desired)</li
@@ -3950,7 +3952,7 @@ type="tmenu"
 contentType="fr"
 >Cocher seulement <object
 type="tmenu"
->Numérotage Chapitre/verset</object
+>Numéros Chapitre(s)/verset(s)</object
 > </li
 ><li
 contentType="en"
@@ -4290,8 +4292,8 @@ type="tmenu"
 contentType="fr"
 >De la première liste roulante en haut du dialogue, choisissez <object
 type="tmenu"
->Toutes les Tâches</object
->.</li
+>Toutes les tâches</object
+></li
 ><li
 contentType="en"
 >In the "<object
@@ -4404,7 +4406,7 @@ src="36imgeng\image23.png"
 contentType="fr"
 >Du menu <object
 type="tmenu"
->Project</object
+>Projet</object
 >, choisissez <object
 type="tmenu"
 >Courbe de progression....</object
@@ -4721,7 +4723,7 @@ type="tmenu"
 contentType="fr"
 >utilisez l'outil <object
 type="tmenu"
->Adapt Names</object
+>Modifier Les Noms propres...</object
 > pour entrer vos règles de translittération pour chaque lettre.</li
 ><li
 contentType="en"
@@ -4812,7 +4814,7 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Sélectionner liste de termes</object
+>Sélectionner la liste de termes bibliques</object
 > </li
 ><li
 contentType="en"
@@ -4868,7 +4870,7 @@ contentType="en"
 >Choose your reference text, then click <object
 type="tmenu"
 ></object
->. </li
+>.</li
 ><li
 contentType="dn"
 >Arrows don't show up</li
@@ -4920,9 +4922,9 @@ type="tmenu"
 ><li
 contentType="fr"
 >Cliquez sur <img
-src="12imgfr/image23.png"
+src="12imgfr/QuiMeSontAffectes_jr.png"
 ></img
-> </li
+></li
 ><li
 contentType="en"
 >Click <object
@@ -6279,7 +6281,7 @@ contentType="fr"
 >Choisissez la vérification désirée (voir dessous) <br
 ></br
 ><img
-src="12imgfr/image31.png"
+src="12imgfr/Verifier_orthographe_jr.png"
 ></img
 ></li
 ></ul
@@ -6464,7 +6466,7 @@ contentType="en"
 >Single Character Typos</titleContent
 ><titleContent
 contentType="fr"
->Single Character Typos (faute de frappe d’un caractère unique)</titleContent
+>Faute de frappe d’un caractère unique</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6483,7 +6485,7 @@ contentType="en"
 >Unusual Letter Combinations</titleContent
 ><titleContent
 contentType="fr"
->Unusual Letter Combinations (combinaisons caractères inhabituelles)</titleContent
+>Combinaisons caractères inhabituelles</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6502,7 +6504,7 @@ contentType="en"
 >Diacritic Errors</titleContent
 ><titleContent
 contentType="fr"
->Diacritic Errors (erreurs diacritiques)</titleContent
+>Erreurs diacritiques</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6521,7 +6523,7 @@ contentType="en"
 >Common Typos</titleContent
 ><titleContent
 contentType="fr"
->Common Typos (fautes de frappe habituelles)</titleContent
+>Fautes de frappe habituelles</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6879,7 +6881,7 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Équivalents de termes bibliques</object
+>Ouvrir les termes équivalents aux termes bibliques</object
 > </li
 ><li
 contentType="en"
@@ -6897,7 +6899,7 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Sélectionner liste de termes</object
+>Sélectionner la liste de termes</object
 >  </li
 ><li
 contentType="en"
@@ -11331,7 +11333,7 @@ contentType="fr"
 type="tmenu"
 ><object
 type="tmenu"
->Project</object
+>Projet</object
 > &gt; <object
 type="tmenu"
 >Propriétés et paramètres de projet</object

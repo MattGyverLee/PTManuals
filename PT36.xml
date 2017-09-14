@@ -626,7 +626,7 @@ type="tmenu"
 contentType="fr"
 >Choisissez votre projet du liste <object
 type="tmenu"
->Based on (basé sur)</object
+>Basé sur</object
 >.</li
 ><li
 contentType="en"
@@ -638,7 +638,7 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur l’onglet <object
 type="tmenu"
->Books (Livres)</object
+>Livres</object
 ></li
 ><li
 contentType="en"
@@ -1690,7 +1690,7 @@ type="tmenu"
 ><br
 ></br
 ><img
-src="36imgeng\image16.png"
+src="36imgfr/Generer_interlineaire.png"
 ></img
 ></li
 ><li
@@ -1700,7 +1700,7 @@ contentType="en"
 contentType="fr"
 >Choisissez votre projet principal comme le texte source pour l’interlinéaire (<object
 type="tmenu"
->Text to Interlinearize [1]</object
+>Texte pour lequel il faut créer un interlinéaire [1]</object
 >)</li
 ><li
 contentType="en"
@@ -1709,7 +1709,7 @@ contentType="en"
 contentType="fr"
 >Pour <object
 type="tmenu"
->Model Text for Interlinearization [2]</object
+>Texte modèle à utiliser pour l'interlinéaire [2]</object
 >, choisissez un texte ressource dans la langue du conseiller pour le texte modèle (ou votre projet de retraduction libre)</li
 ><li
 contentType="en"
@@ -1759,7 +1759,7 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >N.B. : Vous n'avez pas besoin d'utiliser la case "<object
 type="tmenu"
->Model and text are related</object
+>La langue du projet est apparentée à celle du modèle</object
 >". C'est utile quand vous faites une adaptation (ou un changement d'orthographe).</p
 ></framedUnit
 ></section1
@@ -2278,7 +2278,7 @@ contentType="en"
 >Choose the desired point in the history<br
 ></br
 ><img
-src="36imgfr/image14.png"
+src="36imgeng/CompareTexts.png"
 ></img
 ><br
 ></br
@@ -2291,7 +2291,7 @@ contentType="fr"
 >Choisissez votre point désiré dans l’historique<br
 ></br
 ><img
-src="36imgfr/image14.png"
+src="36imgfr/comparerLestexts.png"
 ></img
 ><br
 ></br
@@ -2628,7 +2628,7 @@ type="tmenu"
 ><br
 ></br
 ><img
-src="36imgeng\image18.png"
+src="36imgfr/ParametresdesReferencebibliaques.png"
 ></img
 ></li
 ><li
@@ -2662,11 +2662,11 @@ src="36imgeng\image19.png"
 contentType="fr"
 >Cliquez sur l'onglet <object
 type="tmenu"
->Book names</object
-> (noms du livres)<br
+>Noms de livre</object
+> <br
 ></br
 ><img
-src="36imgeng\image19.png"
+src="36imgfr/NomsDeLivre.png"
 ></img
 ></li
 ><li
@@ -2984,7 +2984,7 @@ type="tmenu"
 contentType="fr"
 >Cochez <object
 type="tmenu"
->Quotations</object
+>Citations</object
 ></li
 ><li
 contentType="en"
@@ -3496,9 +3496,9 @@ contentType="fr"
 >Du menu <object
 type="tmenu"
 >Projet</object
->, choose <object
+>, choisissez <object
 type="tmenu"
->Progress chart</object
+>Courbe de progression</object
 ></li
 ><li
 contentType="en"
@@ -3513,7 +3513,7 @@ contentType="fr"
 >Cliquez sur la flèche bas dans la liste à gauche.<br
 ></br
 ><img
-src="36imgfr\image23.png"
+src="36imgfr/CourbedeProgression.png"
 ></img
 ></li
 ><li
@@ -4226,7 +4226,9 @@ contentType="en"
 >Choose NT MapBiblicalTerms</li
 ><li
 contentType="fr"
->Double-cliquez sur NTMaps Biblical Terms</li
+>Double-cliquez sur NTMaps Biblical Terms<comment
+> Jenni, I don't see this in the list in PT 8.0</comment
+></li
 ><li
 contentType="en"
 >Filter on a specific map number (e.g. [01])</li
@@ -4485,7 +4487,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->De la liste de mots</p
+>Dans la liste de mots:</p
 ><ul
 ><li
 contentType="en"
@@ -4674,7 +4676,7 @@ type="tmenu"
 >Fichier</object
 >, choisissez <object
 type="tmenu"
->Sélectionner liste de termes</object
+>Sélectionner liste de termes bibliques</object
 ></li
 ><li
 contentType="en"
@@ -4751,7 +4753,10 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Listes récapitulatives</object
-> &gt; Word or phrase (mots ou expression)</li
+> &gt; <object
+type="tmenu"
+>Mots ou expression</object
+></li
 ></ul
 ></section1
 ></chapter
@@ -4953,7 +4958,7 @@ contentType="fr"
 >Cliquez sur la liste déroulante (options de hébreu/grec)<br
 ></br
 ><img
-src="36imgeng\image27.png"
+src="36imgfr/Paralleles_derroulante.png"
 ></img
 ></li
 ><li
