@@ -4178,6 +4178,11 @@ contentType="fr"
 >Trouver les noms des villes pour les cartes</titleContent
 ></titleContentChoices
 ></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+>Teacher's Note: The NT Maps Biblical Terms list is not a standard list in Paratext 8. It is available here: </p
+></framedUnit
 ><ul
 ><li
 contentType="en"
@@ -5056,7 +5061,12 @@ contentType="en"
 >Choose the filters as desired: [e.g. All references, Current book, Synoptic gospels]</li
 ><li
 contentType="fr"
->Choisissez les filtres comme désiré: [All references, Current book, Synoptic gospels]</li
+>Choisissez les filtres comme désiré: [Tous les parallèles, NT/NT, NT/AT, AT/AT, Evangiles synoptiques]<br
+></br
+><img
+src="36imgfr/textes%20parallees.png"
+></img
+></li
 ></ul
 ></section1
 ><section1
@@ -8361,11 +8371,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
