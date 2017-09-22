@@ -4181,7 +4181,23 @@ contentType="fr"
 ><framedUnit
 framedtype="tTeacher"
 ><p
->Teacher's Note: The NT Maps Biblical Terms list is not a standard list in Paratext 8. It is available here: </p
+contentType="en"
+>Teacher's Note: The NT Maps Biblical Terms list is not a standard list in Paratext 8. It is available here: <link
+href="https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml"
+>https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml</link
+> and, once downloaded, the file should be copied into <link
+href="file:///C:/Program%20Files%20(x86)/Paratext%208/BiblicalTerms/Lists/"
+>C:\My Paratext 8 Projects</link
+>.</p
+><p
+contentType="fr"
+>Note à l'enseignant: La liste des noms propres n'est pas encore disponible dans Paratext 8. Le fichier est disponible ici: <link
+href="https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml"
+>https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml</link
+> et, une fois telechargé, le fichier doit être copier vers <link
+href="C:\My Paratext 8 Projects"
+>C:\My Paratext 8 Projects</link
+>.</p
 ></framedUnit
 ><ul
 ><li
@@ -4231,9 +4247,7 @@ contentType="en"
 >Choose NT MapBiblicalTerms</li
 ><li
 contentType="fr"
->Double-cliquez sur NTMaps Biblical Terms<comment
-> Jenni, I don't see this in the list in PT 8.0</comment
-></li
+>Double-cliquez sur NTMaps Biblical Terms</li
 ><li
 contentType="en"
 >Filter on a specific map number (e.g. [01])</li
@@ -7074,6 +7088,7 @@ valign="top"
 ></tablenumbered
 ></appendix
 ><appendix
+contentType="dn"
 id="sChadSpecChar"
 showinlandscapemode="no"
 ><secTitle
@@ -8151,24 +8166,6 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >\ili2 list level 2</p
 ></appendix
-><glossary
-showinlandscapemode="no"
-><p
-contentType="en"
-pagecontrol="letFormatterDecide"
-></p
-><dl
-showddOnNewLineInPDF="no"
-><dt
->Note</dt
-><dd
->Thing</dd
-><dt
-></dt
-><dd
-></dd
-></dl
-></glossary
 ><endnotes
 ></endnotes
 ><references
@@ -8176,9 +8173,6 @@ authorformtoshowineditor="full"
 showinlandscapemode="no"
 titleformtoshowineditor="uppercase"
 ></references
-><index
-kind="common"
-></index
 ></backMatter
 ><languages
 ><language
@@ -8371,11 +8365,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

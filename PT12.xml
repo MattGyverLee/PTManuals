@@ -2881,7 +2881,105 @@ contentType="fr"
 ></framedUnit
 ></section1
 ><section1
-id="sSendReceiveUSB"
+id="sSendReceiveNet"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Send/receive to the Internet to backup your data</titleContent
+><titleContent
+contentType="fr"
+>Envoyer/Recevoir vers l'Internet pour sauvegarder</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:</p
+><p
+contentType="fr"
+>Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Make sure your computer is connected to the Internet.</li
+><li
+contentType="fr"
+>Faites sûr que votre ordinateur est connecté à l'Internet.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Send/Receive project(s</object
+>)<br
+></br
+><img
+src="12imgeng/image16.png"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Envoyer/Recevoir les projets</object
+>...<br
+></br
+><img
+src="12imgfr/ERNet.png"
+></img
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Internet Server</object
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Serveur Internet</object
+></li
+><li
+contentType="en"
+>Check the box next to the projects to Send/Receive.</li
+><li
+contentType="fr"
+>Choissisez les projets à Envoyer/Recevoir.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/Receive</object
+>.<br
+></br
+><object
+type="tresult"
+>The computer will make a copy of your files. A progress meter will be displayed. A message box will only appear if there are any problems.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Envoyer/Recevoir</object
+>.<br
+></br
+><object
+type="tresult"
+>L’ordinateur fera une copie des fichiers. Un indicateur de progrès s’affiche jusqu’à ce que le processus soit fini. Une boîte de message vous dit s’il y a des problèmes.</object
+></li
+></ul
+></section1
+><section1
+id="sSendReceiveAgain"
 ><secTitle
 ><titleContentChoices
 ><titleContent
@@ -2904,30 +3002,10 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->If used, insert your USB key into your computer.</li
+>Insert your USB key into your computer.</li
 ><li
 contentType="fr"
->Si nécessaire, insérez votre clé USB dans un port de l’ordinateur.</li
-><li
-contentType="en"
->Click the Send/Receive icon <img
-src="12imgeng/image15.png"
-></img
-> <br
-></br
->(to send/receive using the same settings as the previous time)<br
-></br
->or</li
-><li
-contentType="fr"
->Cliquez sur l’icône Envoyer/Recevoir <img
-src="12imgeng/image15.png"
-></img
-> pour faire Envoyer/Recevoir suivant les paramètres précédents.<br
-></br
->ou</li
-></ul
-><ul
+>Insérez votre clé USB dans un port de l’ordinateur.</li
 ><li
 contentType="en"
 ><object
@@ -2936,7 +3014,12 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Send/Receive project(s</object
->)</li
+>)<br
+></br
+><img
+src="12imgeng/SRUSB.png"
+></img
+></li
 ><li
 contentType="fr"
 ><object
@@ -2945,24 +3028,36 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Envoyer/Recevoir les projets</object
->...</li
+>...<br
+></br
+><img
+src="12imgfr/image16.png"
+></img
+></li
 ><li
 contentType="en"
->Choose either Internet Server or USB drive (as desired)</li
+>Choose <object
+type="tmenu"
+>USB drive</object
+>. </li
 ><li
 contentType="fr"
->Choisissez soit Internet soit une USB clé (selon le choix)</li
+>Choisissez <object
+type="tmenu"
+>USB clé</object
+>.</li
+><li
+contentType="en"
+>Check the box next to the projects to Send/Receive.</li
+><li
+contentType="fr"
+>Choissisez les projets à Envoyer/Recevoir.</li
 ><li
 contentType="en"
 >Click <object
 type="tmenu"
 >Send/Receive</object
 >.<br
-></br
-><img
-src="12imgeng/image16.png"
-></img
-><br
 ></br
 ><object
 type="tresult"
@@ -2975,14 +3070,61 @@ type="tmenu"
 >Envoyer/Recevoir</object
 >.<br
 ></br
-><img
-src="12imgfr/image16.png"
-></img
-><br
-></br
 ><object
 type="tresult"
 >L’ordinateur fera une copie des fichiers. Un indicateur de progrès s’affiche jusqu’à ce que le processus soit fini. Une boîte de message vous dit s’il y a des problèmes.</object
+></li
+></ul
+></section1
+><section1
+id="sSendReceiveUSB"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Send/Receive Again</titleContent
+><titleContent
+contentType="fr"
+>Envoyer/Recevoir encore</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>This process will send/receive using the same settings as the previous time. This option does not allow you to choose a different method or different projects.</p
+><p
+contentType="fr"
+>Ce processus fera un Envoyer/Recevoir selon les paramètres précédents. Cette option ne vous laisse pas l'option de selectioner le moyen ou les projects:</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Insert your USB key into your computer or connect to the Internet.</li
+><li
+contentType="fr"
+>Si nécessaire, insérez votre clé USB dans un port de l’ordinateur ou se connectez à l'Internet.</li
+><li
+contentType="en"
+>Click the Send/Receive icon <img
+src="12imgeng/image15.png"
+></img
+>.<br
+></br
+><object
+type="tresult"
+>Paratext will immediately send/Receive.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur l’icône Envoyer/Recevoir <img
+src="12imgeng/image15.png"
+></img
+>.<br
+></br
+><object
+type="tresult"
+>Paratext fera l'Envoyer/Recevoir tout de suite.</object
 ></li
 ></ul
 ></section1
@@ -8409,6 +8551,30 @@ contentType="en"
 contentType="fr"
 >Faites les corrections nécessaires.</li
 ></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Instead of using the mouse, you can use <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>y</object
+> to mark an entry as <object
+type="tmenu"
+>Valid</object
+> or <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>n</object
+> to mark an entry as <object
+type="tmenu"
+>Invalid</object
+>.</p
+></framedUnit
 ></section1
 ><section1
 id="sCharacters"
@@ -8557,7 +8723,7 @@ type="tmenu"
 >,  </li
 ><li
 contentType="en"
->Check each punctuation mark an its context. </li
+>Check each punctuation mark in its context.</li
 ><li
 contentType="fr"
 >Vérifiez chaque signe de ponctuation et son contexte. </li
@@ -13383,6 +13549,7 @@ valign="top"
 ></tablenumbered
 ></appendix
 ><appendix
+contentType="dn"
 id="sChadSpecChar"
 ><secTitle
 ><titleContentChoices
