@@ -3039,7 +3039,7 @@ contentType="en"
 >Choose <object
 type="tmenu"
 >USB drive</object
->.</li
+>. </li
 ><li
 contentType="fr"
 >Choisissez <object
@@ -3058,11 +3058,6 @@ contentType="en"
 type="tmenu"
 >Send/Receive</object
 >.<br
-></br
-><img
-src="12imgeng/image16.png"
-></img
-><br
 ></br
 ><object
 type="tresult"
@@ -8431,9 +8426,6 @@ framedtype="tTeacher"
 contentType="en"
 >Note: Before you can run these other basic checks some form of setup must be done by your Administrator.</p
 ><p
-contentType="dn"
->seems like in Paratext 8 translators can do it now not just administrators</p
-><p
 contentType="fr"
 >N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.</p
 ></framedUnit
@@ -13557,6 +13549,7 @@ valign="top"
 ></tablenumbered
 ></appendix
 ><appendix
+contentType="dn"
 id="sChadSpecChar"
 ><secTitle
 ><titleContentChoices
@@ -14817,11 +14810,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
