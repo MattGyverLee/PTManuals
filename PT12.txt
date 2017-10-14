@@ -413,7 +413,7 @@ If you want to check more than one book at a time, you can run the checks from t
 !!!6.2.1: « Chapter/ Verse »
 
 * Click in your project window
-* Checking > __Run basic checks__
+* Checking > __Run Basic Checks__
 * Check only __Chapter/verse numbers__
 * Uncheck any other checks
 * If necessary, click __Choose…__ and choose the book you want to check
@@ -1599,7 +1599,7 @@ If you want to check more than one book at a time, you can run the checks from t
 !!!6.2.1: « Chapter/ Verse »
 
 * Click in your project window
-* Checking > __Run basic checks__
+* Checking > __Run Basic Checks__
 * Check only __Chapter/verse numbers__
 * Uncheck any other checks
 * If necessary, click __Choose…__ and choose the book you want to check

@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+tablenumberedLabelAndCaptionLocation="before"
+version="2.28.0"
+><frontMatter
+><title
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext 8</titleContent
+><titleContent
+contentType="fr"
+>Paratext 8</titleContent
+></titleContentChoices
+></title
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext_8_Cons</titleContent
+><titleContent
+contentType="fr"
+>Paratext_8_Cons</titleContent
+></titleContentChoices
+></shortTitle
+><subtitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Translation Consultant Manual (English)</titleContent
+><titleContent
+contentType="fr"
+>Manuel de Conseiller en Traduction (Français)</titleContent
+></titleContentChoices
+></subtitle
+><author
+>Jenni Beadle</author
+><author
+>Matthew Lee</author
+><contents
+label="Contenu"
+showLevel="3"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Table of Contents</labelContent
+><labelContent
+contentType="fr"
+>Table de matières</labelContent
+></labelContentChoices
+></contents
+></frontMatter
+><part
+id="pIntSt"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction du Cours</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext_8_Cons_Intro</titleContent
+><titleContent
+contentType="fr"
+>Paratext_8_Cons_Intro</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
+id="sIntroGoal"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction </titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sStartGoal"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Goal</titleContent
+><titleContent
+contentType="fr"
+>But</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>This manual is intended to teach skills that are beyond the scope of the typical MTT's work, or skills that are most useful when working with multiple projects.</p
+><p
+contentType="fr"
+>Ce manuel est conçu pour enseigner des competances qui peuvent être au de la des competances d'un traducteur, ou les competances qui sont plus utile pour des gens qui travailler avec plusieurs projets.</p
+><p
+contentType="en"
+>This little manual is not intended as a course, but as several small sections.</p
+><p
+contentType="fr"
+>Ce petit livre n'est pas conçu comme iun cours, mais des petites vignettes.</p
+></section1
+><section1
+id="s3"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Course Objectives</titleContent
+><titleContent
+contentType="fr"
+>Objectifs</titleContent
+></titleContentChoices
+></secTitle
+></section1
+></chapter
+></part
+><part
+id="p"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Consultant Skills</titleContent
+><titleContent
+contentType="fr"
+>Compétences du Conseiller</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext_8_Cons_Skills</titleContent
+><titleContent
+contentType="fr"
+>Paratext_8_Cons_Comp</titleContent
+></titleContentChoices
+></shortTitle
+><p
+></p
+><chapter
+id="cNotes"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Notes</titleContent
+><titleContent
+contentType="fr"
+>Remarques</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Because the consultant normally does not have the right to modify project text, a consultant will communicate with the team through notes.</p
+><p
+contentType="fr"
+>Parce que le conseiller n'a pas normallement le droit de modifier le texte d'un projet, le conseiller aura parler avec l'equipe à travers des remarques.</p
+><section1
+id="sStandardNotes"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Regular Notes</titleContent
+><titleContent
+contentType="fr"
+>Remarques standards</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>To learn how to use notes, see the section <object
+type="tItalic"
+>Using Notes</object
+> in the book <object
+type="tItalic"
+>Stages 1 and 2</object
+>.</p
+><p
+contentType="fr"
+>Pour apprendre á utiliser les remarques, regardez la section <object
+type="tItalic"
+>Using Notes</object
+> dans le livre <object
+type="tItalic"
+>Étapes 1 &amp; 2</object
+>.</p
+></section1
+><section1
+id="cConsNotesProj"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Consultant Notes Project</titleContent
+><titleContent
+contentType="fr"
+>Projet de Remarques du conseiller</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>As a consultant, you can create a shared project that does not contain Bible books, but only notes. This project can be shared with multiple teams.</p
+><p
+contentType="fr"
+>Comme conseiller, vous pouvez créer un projet partagé qui ne contienne pas des livres bibliques, mais rempli des remarques. Ce projet peut être partagé avec chaque projet avec lequel vous travailler.</p
+><p
+contentType="en"
+>As stated in the Paratext help:</p
+><p
+contentType="fr"
+>Comme dans l'aide de Paratext :</p
+><blockquote
+contentType="en"
+>A Consultant Notes project is NOT intended for a note from a consultant to a translator about a particular translation project (which can be assigned to the translator), but instead for notes which are relevant for multiple translation projects. For example:<ul
+><li
+>A consultant can insert notes in a personal project which represents a checklist for consulting with translators.</li
+><li
+>A consultant can insert notes in a personal project which represents a checklist for consulting with translators.</li
+><li
+>Several translators and consultants can have roles on a project for discussions which affect an entire cluster of related languages (for example, to reach a consensus about biblical terms).</li
+></ul
+></blockquote
+><blockquote
+contentType="fr"
+>Un projet de notes de consultant n'est pas destiné à une remarque au sujet d'un projet de traduction particulier (qui peut être assigné au traducteur), mais plutôt pour des notes qui sont pertinentes pour de multiples projets de traduction. Par exemple:<ul
+><li
+>Un consultant peut insérer des notes dans un projet personnel qui représente une liste de contrôle pour consulter les traducteurs.</li
+><li
+>Un consultant peut insérer des notes dans un projet personnel qui représente une liste de contrôle pour consulter les traducteurs.</li
+><li
+>Plusieurs traducteurs et consultants peuvent avoir des rôles sur un projet de discussions qui affectent tout un groupe de langues apparentées (par exemple, pour parvenir à un consensus sur les termes bibliques).</li
+></ul
+></blockquote
+><p
+contentType="en"
+>Because this type of note cannot be resolved, you should choose an icon that is easily distinguished from project notes. The default icon for a consultant note is a light blue plus sign.</p
+><p
+contentType="fr"
+>Parce que ce genre de note ne peut pas être resolu, donc il faut choisir des icônes particulier. L'icône par defaut pour une remarque de conseiller est une "plus" en blue claire.</p
+><section2
+id="sCP"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Creating a Consultant notes project</titleContent
+><titleContent
+contentType="fr"
+>Créer un projet remarques du conseiller</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>From the Supporters Manual, follow the process to create a new project, but select "<object
+type="ttyped"
+>Consultant Notes</object
+>" as the <object
+type="tmenu"
+>Type of project</object
+>.</p
+><p
+contentType="fr"
+>Du manuel de support, suivez le prcessus pour créer un nouvear projet, mais selectionnez <object
+type="ttyped"
+>Remarques du Conseiller</object
+> comme <object
+type="tmenu"
+>Type de projet</object
+>.</p
+></section2
+><section2
+id="sAddConsNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Add a Consultant Note</titleContent
+><titleContent
+contentType="fr"
+>Ajouter un remarque du conseiller</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>If you have a Consultant notes project, you can add a note on any passage from any Bible.</p
+><p
+contentType="fr"
+>Si vous avez un projet remarques du conseiller, vous pouvez ajouter un remarque depuis n'importe quel Bible.</p
+><ul
+><li
+contentType="en"
+>Click in the verse.</li
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Insert</object
+> menu, choose <object
+type="tmenu"
+>Consultant Note</object
+>.</li
+><li
+contentType="en"
+>Write the note and save it.<br
+></br
+><object
+type="tresult"
+>The Consultant notes will now show up in Notes project.</object
+></li
+><li
+contentType="fr"
+>Cliquez dans le verset.</li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Inserer</object
+>, cliquez sur <object
+type="tmenu"
+>Remarques du conseiller</object
+>.</li
+><li
+contentType="fr"
+>Saissisez le note et le fermer.<br
+></br
+><object
+type="tmenu"
+>Les remarques du conseiller afficheront dans le projet des remarques.</object
+></li
+></ul
+></section2
+><section2
+id="sShareConsNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Sharing a Consultant notes project</titleContent
+><titleContent
+contentType="fr"
+>Partager un projet remarques du conseiller</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>A Consultant notes project can be shared in the same way as a regular project:</p
+><p
+contentType="fr"
+>Un projet remarques du conseiller sera partagé de la même manière qu'un projet normale.</p
+><p
+contentType="en"
+>From the Supporters Manual, follow the process to create a new project, but select "<object
+type="ttyped"
+>Consultant Notes</object
+>" as the <object
+type="tmenu"
+>Type of project</object
+>.</p
+><ul
+><li
+contentType="en"
+>Open your new Consultant notes project and click inside.</li
+><li
+contentType="fr"
+>Ouvrez votre nouveau projet remarques du conseiller et le selectionnez.</li
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Project</object
+> menu, choose <object
+type="tmenu"
+>Users, Roles and Authorizations</object
+>.</li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Projet</object
+>, cliquez sur <object
+type="tmenu"
+>Utilisateurs, Rôles et Autorisations</object
+>.</li
+><li
+contentType="en"
+>Respond to the four questions and click OK.</li
+><li
+contentType="fr"
+>Répondez à ces quatre questions, et cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="en"
+>Paratext will ask you to Send/Receive, do it (by Internet).</li
+><li
+contentType="fr"
+>Paratext vous demandera de faire envoyez/recevoir, faites le (par Internet).</li
+></ul
+><p
+contentType="en"
+>Once the Project is Shared, you can add each translator as an Observer of your project:</p
+><p
+contentType="fr"
+>Une fois que le projet sois partagé, vous pouvez ajouter chaque traducteur comme Observateur à votre projet:</p
+><ul
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Project</object
+> menu, choose <object
+type="tmenu"
+>Users, Roles and Authorizations</object
+>.</li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Projet</object
+>, cliquez sur <object
+type="tmenu"
+>Utilisateurs, Rôles et Autorisations</object
+>.</li
+><li
+contentType="en"
+>Click on <object
+type="tmenu"
+>Add User</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Ajouter un Utilisateur</object
+>.</li
+><li
+contentType="en"
+>Type the name of the translator <object
+type="tItalic"
+>exactly</object
+> as typed in the translator's Paratext registration.<br
+></br
+><object
+type="tresult"
+>By default, the user will be added as an Observer.</object
+></li
+><li
+contentType="fr"
+>Saissisez le nom exactement comme c'est ecrit (même les majuscules) dans l'inscription de Paratext.<br
+></br
+><object
+type="tresult"
+>Par defaut, l'utilisateur sera ajouté comme Observateur.</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Send/Receive</object
+> your notes project.</li
+><li
+contentType="fr"
+>Faire <object
+type="tmenu"
+>Envoyez/Recevoir</object
+> votre projet des remarques.</li
+></ul
+><p
+contentType="en"
+>On each Translator's computer:</p
+><p
+contentType="fr"
+>Sur l'ordinateur de chaque traducteur:</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Send/Receive</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Envoyer/Recevoir</object
+></li
+><li
+contentType="en"
+>Check the box beside the Consultant notes project.</li
+><li
+contentType="fr"
+>Cochez la case à côté du projet Remarques du conseiller.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/Receive</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Envoyez/Recevoir</object
+>.</li
+></ul
+></section2
+><section2
+id="ShowConsNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Show Consultant notes in a project</titleContent
+><titleContent
+contentType="fr"
+>Montrer des remarques du conseiller dans un projet.</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>From the Supporters Manual, follow the process to create a new project, but select "<object
+type="ttyped"
+>Consultant Notes</object
+>" as the <object
+type="tmenu"
+>Type of project</object
+>.</p
+><p
+contentType="fr"
+>Du manuel de support, suivez le prcessus pour créer un nouvear projet, mais selectionnez <object
+type="ttyped"
+>Remarques du Conseiller</object
+> comme <object
+type="tmenu"
+>Type de projet</object
+>.</p
+><ul
+><li
+contentType="en"
+>Open the translation project and click inside.</li
+><li
+contentType="fr"
+>Ouvrez le projet de traduction et le selectionnez.</li
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>View</object
+> menu, choose <object
+type="tmenu"
+>Show Consultant Notes</object
+>.<br
+></br
+><object
+type="tresult"
+>The Consultant notes will now show up in the translation project.</object
+></li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Affichage</object
+>, cliquez sur <object
+type="tmenu"
+>Afficher les remarques du conseiller</object
+>.<br
+></br
+><object
+type="tmenu"
+>Les remarques du conseiller afficheront dans le projet.</object
+></li
+></ul
+></section2
+></section1
+></chapter
+></part
+><backMatter
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-weight="bold"
+id="tmenu"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-weight="bold"
+id="tkey"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tsub"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+font-style="italic"
+id="tresult"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tsubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+before="Paratext 8"
+id="tPT"
+></type
+><type
+before="Paratext 7"
+id="tPTPrev"
+></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
+><type
+XeLaTeXSpecial="underline"
+color="#0033cc"
+cssSpecial="text-decoration:underline"
+font-style="normal"
+font-weight="normal"
+id="tlink"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+align="left"
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after="2cm"
+indent-before="2cm"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter="3pt"
+spacebefore="3pt"
+></framedType
+><framedType
+align="left"
+backgroundcolor="#add8e6"
+description="Interface Translation Note"
+id="translation"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
+><publishingInfo
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
+><contentControl
+showOnlyChosenItemsInEditor="no"
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn"
+>Exclude English and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="fr dn"
+>Exclude French and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalBookletStylesheet.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>
