@@ -6105,14 +6105,14 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="no"
+active="yes"
 >-Export Everything</contentControlChoice
 ><contentControlChoice
 active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

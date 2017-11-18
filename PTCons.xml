@@ -131,7 +131,7 @@ contentType="fr"
 ></chapter
 ></part
 ><part
-id="p"
+id="pConsSkills"
 ><secTitle
 ><titleContentChoices
 ><titleContent
@@ -172,6 +172,32 @@ contentType="en"
 ><p
 contentType="fr"
 >Parce que le conseiller n'a pas normallement le droit de modifier le texte d'un projet, le conseiller aura parler avec l'equipe à travers des remarques.</p
+><p
+>Project Notes are the mechanism that consultants are increasingly using to communicate in writing with teams about their translations. You may already be familiar with Project Notes and understand the difference between these and Consultant Notes, which are designed primarily for a consultant to keep notes for himself and/or to share with other consultants.</p
+><p
+>Creating a Project Note is as simple as highlighting some text in a project, right-clicking, and choosing “Insert Note,” writing the note contents, and assigning it to a team member.</p
+><p
+>With Project Notes, you can:</p
+><ul
+><li
+>Write a note about an issue in the translation.</li
+><li
+>Assign a note to a particular person.</li
+><li
+>Define different types of note tags that can help you organize your notes by what a team needs to do with it (process-oriented tags) or by what type of problem it is (Analytical tags). See section <sectionRef
+sec="sSetupNoteTypes"
+></sectionRef
+>.</li
+><li
+>Restrict who can resolve notes to just the one who wrote the note. This option is available per note tag, not per individual note. See section <sectionRef
+sec="sSetupNoteTypes"
+></sectionRef
+>.</li
+><li
+></li
+></ul
+><p
+></p
 ><section1
 id="sStandardNotes"
 ><secTitle
@@ -202,6 +228,331 @@ type="tItalic"
 type="tItalic"
 >Étapes 1 &amp; 2</object
 >.</p
+><p
+contentType="en"
+>Project Notes are the mechanism that consultants are increasingly using to communicate in writing with teams about their translations. You may already be familiar with Project Notes and understand the difference between these and Consultant Notes, which are designed primarily for a consultant to keep notes for himself and/or to share with other consultants.</p
+><p
+contentType="en"
+>Creating a Project Note is as simple as highlighting some text in a project, right-clicking, and choosing “Insert Note,” writing the note contents, and assigning it to a team member.</p
+><section2
+id="sSetupNoteTypes"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Setup additional note types</titleContent
+><titleContent
+contentType="fr"
+>Définir des types de remarques</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>(One must be an Administrator)</p
+><p
+contentType="fr"
+>(On doit être un Administrateur)</p
+><p
+>You can define new note types by following this process.</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Propject proprities and settings</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+><object
+type="tmenu"
+>Projet</object
+> &gt; <object
+type="tmenu"
+>Propriétés et paramètres de projet</object
+></object
+> </li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Notes</object
+> tab</li
+><li
+contentType="fr"
+>Cliquez sur l’onglet <object
+type="tmenu"
+>Remarque</object
+> </li
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Add</object
+> Tab button<br
+></br
+><object
+type="tresult"
+>A new line is added.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton<object
+type="tmenu"
+> Ajouter étiquette</object
+><br
+></br
+><object
+type="tresult"
+>Une nouvelle ligne est ajoutée</object
+> </li
+><li
+contentType="en"
+>Click the icon on the new tag line</li
+><li
+contentType="fr"
+>Cliquez sur<object
+type="tmenu"
+> l’icône</object
+> de la nouvelle ligne </li
+><li
+contentType="en"
+>Choose the desired icon</li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>l’icône </object
+>désirée </li
+><li
+contentType="en"
+>Type a name for the new note type</li
+><li
+contentType="fr"
+>Cliquez sur<object
+type="tmenu"
+> « Nom »</object
+> et saisissez un nom </li
+><li
+contentType="en"
+>Continue for any other new notes.</li
+><li
+contentType="fr"
+>Continuez pour définir toutes les remarques.</li
+></ul
+><section3
+id="sTypesofNotes"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>What types of notes should a project have?</titleContent
+><titleContent
+contentType="fr"
+>Quels catégories de notes un projet devrait-t-il avoir?</titleContent
+></titleContentChoices
+></secTitle
+><p
+><object
+type="tsub"
+>Process tags</object
+></p
+><p
+>If you design your own scheme, consider what types of tags you want. The team I work with has “Process Tags,” tags that describe what we want to do with the note, e.g. To Do, To Discuss, etc. Sometimes we change the tag on a note as we go through our process. A To Do note becomes a To Discuss note when we see that it is an issue we must discuss with the whole team. A To Discuss or To Do note may become a Final Checking note when we see this issue should be something we check during the Final Checking event. Doing it this way makes it possible for us to get a list of the notes we need to deal with now, depending on what stage of the process we are in. I will discuss how to get those lists below in the section on filtering.</p
+><p
+contentType="en"
+>While the final decision falls with the team and consultant, one option is to use these basic note types:</p
+><dl
+><dt
+>To Do</dt
+><dd
+>(Somebody needs to fix this)</dd
+><dt
+contentType="en"
+>To Discuss</dt
+><dd
+contentType="en"
+>(We as a team need to talk about this together)</dd
+><dt
+>To Revise</dt
+><dd
+>(We need to have a look at this again later because we have done the best we can do now, but we are not happy with the text as it is. We intend to revise this before publishing a second edition.)</dd
+><dt
+>Final Checking</dt
+><dd
+>(Issues we want to bring up in the face-to-face check with local language experts)</dd
+><dt
+>To Remember</dt
+><dd
+>(We want to remember what we did here because it has implications for other passages)</dd
+></dl
+><p
+contentType="en"
+>Issue type tags.</p
+><p
+contentType="en"
+>Some teams have tags that describe the type of issue the note is about, e.g. Exegesis, Discourse, etc. Some teams have hybrid systems.</p
+><p
+contentType="en"
+>Other teams may have many note tags or may just use the default “To Do” note tag.</p
+><p
+contentType="en"
+>Whatever system you use to organize notes, the important thing is that the tags make sense to the team members so they know how to use them. Using notes consistently will allow each team member to sort and find relevant notes.</p
+><p
+></p
+></section3
+></section2
+><section2
+id="sInsertingAProjectNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Inserting a project note</titleContent
+><titleContent
+contentType="fr"
+>Insertion d’une remarque</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click in the text where you want the note (and select any appropriate text).</li
+><li
+contentType="fr"
+>Cliquez dans le texte où vous voulez le note (et si désiré, sélectionnez du texte)</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Insert </object
+>&gt; <object
+type="tmenu"
+>Note</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Insérer </object
+>&gt; <object
+type="tmenu"
+>Remarque</object
+> </li
+><li
+contentType="en"
+>Choose the desired tag from the list<br
+></br
+><img
+src="12imgeng/image54.png"
+></img
+></li
+><li
+contentType="fr"
+>Choisissez l’étiquette pour la remarque<br
+></br
+> <img
+src="12imgfr/image61.png"
+></img
+> </li
+><li
+contentType="en"
+>Type the text for the note</li
+><li
+contentType="fr"
+>Saisissez le texte de la remarque </li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>An icon is displayed beside the text.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+><object
+type="tresult"
+>Une icône s’affiche à côté du texte.</object
+></li
+></ul
+></section2
+><section2
+id="sAddMultNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Add a note to several projects at once</titleContent
+><titleContent
+contentType="fr"
+>Ajouter un remarque à plusieurs projets</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>When you find something that multiple teams may want to consider, you can create a note that will be inserted into several projects.</p
+><ul
+><li
+contentType="en"
+>Select some text in a project.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Insert</object
+> &gt; <object
+type="tmenu"
+>Note</object
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Multi</object
+> button</li
+><li
+contentType="en"
+>Choose your projects, or choose a pre-saved set of projects.<br
+></br
+><img
+src="ptconsimgen/SelectTexts.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="en"
+>Write your note as normal.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+><br
+></br
+><object
+type="tresult"
+>The note is inserted into each of the selected projects.</object
+></li
+></ul
+></section2
 ></section1
 ><section1
 id="cConsNotesProj"
@@ -226,7 +577,7 @@ contentType="en"
 >As stated in the Paratext help:</p
 ><p
 contentType="fr"
->Comme dans l'aide de Paratext :</p
+>Comme éxpliqué dans l'aide de Paratext :</p
 ><blockquote
 contentType="en"
 >A Consultant Notes project is NOT intended for a note from a consultant to a translator about a particular translation project (which can be assigned to the translator), but instead for notes which are relevant for multiple translation projects. For example:<ul
@@ -344,6 +695,71 @@ contentType="fr"
 ><object
 type="tmenu"
 >Les remarques du conseiller afficheront dans le projet des remarques.</object
+></li
+></ul
+></section2
+><section2
+id="sCopyNote"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Copy an existing note to a Consultant Notes Project</titleContent
+><titleContent
+contentType="fr"
+></titleContent
+></titleContentChoices
+></secTitle
+><p
+>During or after a consulting session, you may decide that a specific note or question that has been raised may be relevant to other teams. You can easily copy the first note in a series to a Consultant Notes Project.</p
+><ul
+><li
+contentType="en"
+>Open the note you want to copy.</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Multi</object
+> button</li
+><li
+contentType="en"
+>If there are multiple notes in this discussion, Paratext will warn you that only the first note in the discussion will be copied. Click <object
+type="tmenu"
+>Yes</object
+>.<br
+></br
+><img
+src="ptconsimgen/OnlyOneNote.png"
+></img
+></li
+><li
+contentType="en"
+>Choose the Consultant Notes Project by double-clicking or selecting the project and clicking the Right arrow.<br
+></br
+><img
+src="ptconsimgen/MoveConsNotes.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="en"
+>Write your note as normal.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>The note is inserted into each of the selected projects.</object
 ></li
 ></ul
 ></section2
@@ -610,9 +1026,49 @@ type="tmenu"
 ></section2
 ></section1
 ></chapter
+><chapter
+id="cCompareTexts"
+><secTitle
+>Compare Texts</secTitle
+><p
+></p
+></chapter
+><chapter
+id="cBibTerms"
+><secTitle
+>Biblical Terms</secTitle
+><p
+>PNG: 460 terms</p
+><p
+>Add terms gradually</p
+><p
+>Proper names</p
+><p
+>Expectations</p
+><p
+>copy/paste</p
+><p
+></p
+></chapter
+><chapter
+id="cProjectHealth"
+><secTitle
+>Project Health Report</secTitle
+><p
+></p
+></chapter
+><chapter
+id="cSuggestion"
+><secTitle
+>Suggestion</secTitle
+><p
+>Notes in the text</p
+><p
+>Changes</p
+><p
+>suggestions</p
+></chapter
 ></part
-><backMatter
-></backMatter
 ><languages
 ><language
 id="lVernacular"
@@ -822,14 +1278,14 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="no"
+active="yes"
 >Export Everything</contentControlChoice
 ><contentControlChoice
 active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

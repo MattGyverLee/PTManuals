@@ -1725,7 +1725,7 @@ contentType="en"
 >There are so many tasks to be done in a translation project. It is important to have a system to make sure these are all done. Now that your plan has been configured, you can use the plan to see what tasks have been assigned to you to be done next. Then when you finish the task, you can mark the task as completed and see the next task to do. You can use this information to generate reports for supervisors and donors (see PP2: Project plan reporting).</p
 ><p
 contentType="fr"
->Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et .(Voir <sectionRef
+>Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et bailleurs de fonds.(Voir <sectionRef
 sec="sProduceAProgressReport"
 showTitle="full"
 ></sectionRef
@@ -1747,7 +1747,7 @@ contentType="en"
 >You will mark a variety of tasks as complete. The exact steps will vary slightly depending on whether the task is set to once per project, once per book, or by chapter. The place to mark progress for all types of tasks is the Status column.</p
 ><p
 contentType="dn"
->These d[i]n't match!!!! - moved the sentence up to the Pourquoi. So check the following translation.</p
+>These d[i]n't match!!!! - moved the sentence up to the Pourquoi. So check the following translation. JB: looks good to me.</p
 ><p
 contentType="fr"
 >Vous marquerez une variété de tâches comme achevées. Les étapes exactes varieront légèrement, selon si la tâche est fixée à une fois par projet, une fois par livre, ou par le chapitre. L'endroit pour marquer le progrès pour tous les types de tâches est la colonne Status (Statut).</p
@@ -1849,7 +1849,7 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->De la première liste roulante, choisissez <object
+>De la première liste déroulante, choisissez <object
 type="tmenu"
 >Mes tâches </object
 >ou <object
@@ -2100,7 +2100,7 @@ type="tBold"
 contentType="fr"
 >Si la tâche est une vérification, l’état de la vérification indiquera soit la <object
 type="tBold"
->configuration requise (setup required) </object
+>configuration requise (setup required)</object
 >, soit le nombre de problèmes (<object
 type="tBold"
 >issues</object
@@ -3385,7 +3385,7 @@ contentType="fr"
 >C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil <object
 type="tmenu"
 >Termes bibliques</object
->, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à faire. Vous pouvez également voir l’historique des changements.</p
+>, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à garder la liste en ordre. Vous pouvez également voir l’historique des changements.</p
 ><pc
 contentType="en"
 ><object
@@ -3404,6 +3404,12 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.</p
+><p
+contentType="fr"
+>Vidéo: P8TC 1A.4</p
+><p
+contentType="en"
+>Vidéo: P8TC 1A.4</p
 ><section1
 id="sAddAnEntry"
 ><secTitle
@@ -3533,7 +3539,7 @@ contentType="en"
 >If the word is already in the glossary, you can link a term to the existing entry.</p
 ><p
 contentType="fr"
->Si le mot est déjà dans le glossaire, on peut avoir un lien avec un mot-clé dans le glossaire.</p
+>Si le mot est déjà dans le glossaire, on peut avoir un lien avec le terme et l'entrée dans le glossaire.</p
 ></framedUnit
 ><ul
 ><li
@@ -3924,7 +3930,7 @@ contentType="en"
 >You are going to run the first two basic checks using two different methods.The easiest way is to run the checks from the project plan. However, you can also do the checks from the checking menu if you need to check more than one book at a time.</p
 ><p
 contentType="fr"
->Vous allez effectuer les deux premières vérifications de base. Le moyen le plus facile est d’utiliser du plan de projet. [C’est aussi possible de faire les vérifications à partir du menu vérification pour faire plus qu'un livre à la fois.]</p
+>Vous allez effectuer les deux premières vérifications de base. Le moyen le plus facile est d’utiliser du plan de projet. C’est aussi possible de faire les vérifications à partir du menu vérification pour faire plus qu'un livre à la fois.</p
 ><section1
 id="sRunningChecksFromTheProjectPlan"
 ><secTitle
@@ -4033,6 +4039,15 @@ contentType="en"
 contentType="fr"
 >Continuez avec la vérification des marqueurs. </li
 ></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Video: See ‘P8TC 1.4.1 Basic Checks.mp4’ for examples of how to correct some common errors.</p
+><p
+contentType="fr"
+>Vidéo: voir ‘P8TC 1.4.1 Basic Checks.mp4’ (Vérifications de base) pour comment corriger des erreurs fréquents.</p
+></framedUnit
 ></section1
 ><section1
 id="sRunningTheChecksFromTheMenus"
@@ -4053,7 +4068,7 @@ contentType="en"
 >If you want to check more than one book at a time, you can run the checks from the checking menu.</p
 ><p
 contentType="fr"
->Si vous voulez vérifier plus d’un livre, vous pourriez faire ces vérifications du menu vérifications.</p
+>Si vous voulez vérifier plus d’un livre, vous pourriez faire ces vérifications du menu vérification.</p
 ></framedUnit
 ><section2
 id="sChapVerse"
@@ -4287,7 +4302,7 @@ contentType="en"
 >PP2: Project progress</titleContent
 ><titleContent
 contentType="fr"
->PP2 : Progrès de projet</titleContent
+>PP2 : Avancement de projet</titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -4340,7 +4355,7 @@ type="tPT"
 > to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><p
 contentType="fr"
->Pour que le plan de projet travail ou fonctionne bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permet à <object
+>Pour que le plan de projet fonctionne bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permet à <object
 type="tPT"
 ></object
 > de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
@@ -4355,7 +4370,7 @@ contentType="en"
 >You will open the assignments and progress window and update the progress made. You will then produce a report.</p
 ><p
 contentType="fr"
->Vous ouvrirez la fenêtre des affectations et progrès, et actualiserez le progrès fait. Vous produirez alors un rapport.</p
+>Vous ouvrirez la fenêtre des tâches et avancement, et actualiserez le progrès fait. Vous produirez alors un rapport.</p
 ><section1
 id="sHowToMakeSureTheProgress"
 ><secTitle
@@ -4531,7 +4546,9 @@ contentType="en"
 >View team progress charts</titleContent
 ><titleContent
 contentType="fr"
->Les équipes de vue font des progrès des graphiques</titleContent
+>Voir les courbes de progression<br
+></br
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -4568,7 +4585,7 @@ contentType="en"
 >Use the first dropdown box to choose the type of chart</li
 ><li
 contentType="fr"
->Utilisez la première boîte dropdown pour choisir le type de graphique</li
+>Utilisez la première boîte déroulant pour choisir le type de graphique</li
 ><li
 contentType="en"
 >Choose the books as necessary.</li
@@ -4834,7 +4851,7 @@ contentType="en"
 >You want to be consistent so that is clear who is being referred to in the text.</p
 ><p
 contentType="fr"
->On veut être cohérent. [Vous voulez être conséquent pour que soient clairs à qui on parle dans le texte.]</p
+>On veut être cohérent. [Vous voulez que le texte soit cohérent, de sorte qu'il soit clair qui nous discutons dans le texte.]</p
 ><pc
 contentType="en"
 ><object
@@ -7953,7 +7970,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->use the checklist “Word or Phrase” from both the text and also from the Biblical Terms Too.</li
+>use the checklist “Word or Phrase” from both the text and also from the Biblical Terms Tool.</li
 ><li
 contentType="fr"
 >utiliser la liste « Mot ou expression » du texte et également l’outil termes bibliques. </li
@@ -14817,11 +14834,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
