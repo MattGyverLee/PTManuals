@@ -45,7 +45,7 @@ contentType="fr"
 ><affiliation
 >SIL International</affiliation
 ><date
->May. 2017</date
+>Nov. 2017</date
 ><contents
 label="Contenu"
 showLevel="3"
@@ -6105,10 +6105,10 @@ id="dn"
 ></contentTypes
 ><contentControlChoices
 ><contentControlChoice
-active="yes"
+active="no"
 >-Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice

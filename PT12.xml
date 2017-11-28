@@ -1557,6 +1557,18 @@ contentType="fr"
 >Modifier la glose si nécessaire </li
 ><li
 contentType="en"
+>Click on the Advanced tab</li
+><li
+contentType="fr"
+>Cliquez sur l'onglet Avancé</li
+><li
+contentType="en"
+>Edit the terms if necessary</li
+><li
+contentType="fr"
+>Modifier la terme si nécessaire </li
+><li
+contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
@@ -1663,10 +1675,16 @@ id="sPP1"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->PP1 : Project Plan and progress</titleContent
+>PP1 : Project Plan and progress <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ><titleContent
 contentType="fr"
->PP1 : Plan et progrès du projet</titleContent
+>PP1 : Plan et progrès du projet <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -1909,7 +1927,7 @@ contentType="en"
 >Do the task (see other modules if necessary).</li
 ><li
 contentType="fr"
->Faites les taches. (Voir les autres modules si nécessaire.)</li
+>Faites la(es) tâche(s). (Voir les autres modules si nécessaire.)</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -1918,7 +1936,10 @@ contentType="en"
 >When the task is finished, see the instructions below to mark it as completed. (A check is completed when there are 0 issues.)</p
 ><p
 contentType="fr"
->Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il n’y a rien à signaler (0 issues). </p
+>Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il indique <object
+type="tBold"
+>Aucun problèms</object
+>. </p
 ></framedUnit
 ></section1
 ><section1
@@ -1951,7 +1972,7 @@ contentType="en"
 >Click on the checkmark to the left of the status.<br
 ></br
 ><img
-src="12imgfr/image9.png"
+src="12imgfr/image9e.png"
 ></img
 ><br
 ></br
@@ -2006,7 +2027,7 @@ type="tmenu"
 > pour marquer le prochain chapitre comme terminé<br
 ></br
 ><img
-src="12imgeng/image10.png"
+src="12imgfr/image10a2.png"
 ></img
 ></li
 ><li
@@ -2050,7 +2071,7 @@ type="tresult"
 ><br
 ></br
 ><img
-src="12imgeng/image11.png"
+src="12imgfr/image11n.png"
 ></img
 ><br
 ></br
@@ -2091,7 +2112,7 @@ contentType="fr"
 contentType="en"
 >If the task is a check, the status of the check will either say <object
 type="tBold"
->setup required </object
+>Setup required </object
 >or it will show number of remaining <object
 type="tBold"
 >issues</object
@@ -2100,10 +2121,10 @@ type="tBold"
 contentType="fr"
 >Si la tâche est une vérification, l’état de la vérification indiquera soit la <object
 type="tBold"
->configuration requise (setup required)</object
->, soit le nombre de problèmes (<object
+>Paramétrage requis</object
+>, soit le nombre de (<object
 type="tBold"
->issues</object
+>problèmes</object
 >) restants. </li
 ><li
 contentType="en"
@@ -2113,9 +2134,9 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->Une vérification est complète quand il y a <object
-type="tmenu"
->No issues</object
+>Une vérification est achevée quand il indique <object
+type="tBold"
+>Aucun problèms</object
 >.</li
 ></ul
 ><section2
@@ -2127,7 +2148,7 @@ contentType="en"
 >Checks - setup required (Administrator)</titleContent
 ><titleContent
 contentType="fr"
->Vérifications - setup required (Administrateur)</titleContent
+>Vérifications - paramétrage requis (Administrateur)</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -2149,7 +2170,7 @@ type="tPT"
 contentType="fr"
 >Cliquez sur le lien bleu « <object
 type="tlink"
->Setup required</object
+>Paramétrage requis</object
 > »<br
 ></br
 ><object
@@ -2210,12 +2231,12 @@ type="tresult"
 contentType="fr"
 >Cliquez sur le lien bleu « <object
 type="tlink"
->… issues</object
+>… problèmes</object
 > » <br
 ></br
 ><object
 type="tresult"
->Une liste de problème s’affiche.</object
+>Une liste de problèmes s’affiche.</object
 ></li
 ><li
 contentType="en"
@@ -2251,7 +2272,7 @@ type="tmenu"
 >Fichier</object
 > &gt; <object
 type="tmenu"
->Enregistrez tout.</object
+>Enregistrer tout.</object
 > (ou <object
 type="tkey"
 >Ctrl</object
@@ -2273,7 +2294,10 @@ contentType="en"
 >The check is considered complete with there are 0 issues.</p
 ><p
 contentType="fr"
->La vérification est considérée comme achevée quand il n’y a rien à signaler.</p
+>Une vérification est achevée quand il indique <object
+type="tBold"
+>Aucun problèms</object
+>. </p
 ></framedUnit
 ></section2
 ></section1
@@ -2359,7 +2383,7 @@ contentType="en"
 >Go to a Biblical verse</titleContent
 ><titleContent
 contentType="fr"
->Naviguer vers une référence biblique.</titleContent
+>Naviguer vers une référence biblique</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -2589,7 +2613,7 @@ contentType="en"
 >Each piece of text needs to have a marker. The markers for the chapters and verses are already in your project. When you want to add text such as headings, or introductions etc you need to also add the appropriate marker as follows:</p
 ><p
 contentType="fr"
->Chaque élément de texte doit avoir un marqueur. Les marqueurs pour les versets sont déjà dans votre projet. Pour ajouter un titre à votre texte, vous devez faire ce qui suit :</p
+>Chaque élément de texte doit avoir un marqueur. Les marqueurs pour les versets sont déjà dans votre projet. Pour ajouter d'autre texte, p.ex. un titre à votre texte, vous devez faire ce qui suit :</p
 ></framedUnit
 ><ul
 ><li
@@ -2814,6 +2838,12 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
+>Move the cursor to where you want to insert the footnote.</li
+><li
+contentType="fr"
+>Déplacez le curseur où vous voulez insérer la note de bas de page.</li
+><li
+contentType="en"
 ><object
 type="tmenu"
 >Insert</object
@@ -2886,20 +2916,20 @@ id="sSendReceiveNet"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Send/receive to the Internet to backup your data</titleContent
+>Send/receive to the Internet</titleContent
 ><titleContent
 contentType="fr"
->Envoyer/Recevoir vers l'Internet pour sauvegarder</titleContent
+>Envoyer/Recevoir vers Internet</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
 contentType="en"
->It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:</p
+>It is essential to have a second copy of your translation and to share your work with others in your team. This is done by doing a send/receive as follows:</p
 ><p
 contentType="fr"
->Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :</p
+>Il est essentiel d’avoir une seconde copie de votre traduction et de partager votre travail avec votre équipe. Pour sauvegarder une copie vers Internet, c’est idéal d’envoyer/recevoir comme suit :</p
 ></framedUnit
 ><ul
 ><li
@@ -2994,10 +3024,10 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->It is essential to have a second copy of your translation. This is done by doing a send/receive as follows:</p
+>It is essential to have a second copy of your translation. If you don't have access to the Internet, then you can use a USB stick.To backup your data to a USB stick you do a send/receive as follows:</p
 ><p
 contentType="fr"
->Il est essentiel d’avoir une seconde copie de votre traduction. Pour sauvegarder une copie, c’est idéal d’envoyer/recevoir comme suit :</p
+>Il est essentiel d’avoir une seconde copie de votre traduction. Si vous n'avez pas accès à l'Internet, vous pouvez utiliser une clé USB. Pour sauvegarder une copie sur une clé USB, vous pouvez envoyer/recevoir comme suit :</p
 ></framedUnit
 ><ul
 ><li
@@ -3031,7 +3061,7 @@ type="tmenu"
 >...<br
 ></br
 ><img
-src="12imgfr/image16.png"
+src="12imgfr/image16n.png"
 ></img
 ></li
 ><li
@@ -3044,7 +3074,7 @@ type="tmenu"
 contentType="fr"
 >Choisissez <object
 type="tmenu"
->USB clé</object
+>Clé USB</object
 >.</li
 ><li
 contentType="en"
@@ -3059,9 +3089,6 @@ type="tmenu"
 >Send/Receive</object
 >.<br
 ></br
-><img
-src="12imgeng/image16.png"
-></img
 ><br
 ></br
 ><object
@@ -3073,7 +3100,7 @@ contentType="fr"
 >Cliquez sur le bouton <object
 type="tmenu"
 >Envoyer/Recevoir</object
->.<br
+> .<br
 ></br
 ><object
 type="tresult"
@@ -3097,15 +3124,15 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->This process will send/receive using the same settings as the previous time. This option does not allow you to choose a different method or different projects.</p
+>The next time you want to send/receive you can use the toolbar to send/receive using the same settings as the previous time. This option does not allow you to choose a different method or different projects.</p
 ><p
 contentType="fr"
->Ce processus fera un Envoyer/Recevoir selon les paramètres précédents. Cette option ne vous laisse pas l'option de selectioner le moyen ou les projects:</p
+>La prochaine fois que vous voulez faire un Envoyer/Recevoir vous pouvez utilisez la barre d'outils pour envoyer/recevoir selon les paramètres précédents. Cette option ne vous laisse pas l'option de sélectionner le moyen ou les projets:</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
->Insert your USB key into your computer or connect to the Internet.</li
+>Insert your USB stick into your computer or connect to the Internet.</li
 ><li
 contentType="fr"
 >Si nécessaire, insérez votre clé USB dans un port de l’ordinateur ou se connectez à l'Internet.</li
@@ -3404,12 +3431,15 @@ contentType="en"
 ><p
 contentType="fr"
 >Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.</p
-><p
-contentType="fr"
->Vidéo: P8TC 1A.4</p
+><framedUnit
+framedtype="tTeacher"
 ><p
 contentType="en"
->Vidéo: P8TC 1A.4</p
+>Video: ‘P8TC 1A.4 How to make Glossary entries.mp4’</p
+><p
+contentType="fr"
+>Vidéo: ‘P8TC 1A.4 How to make Glossary entries.mp4’ (Comment faire des entrées de glossaire.)</p
+></framedUnit
 ><section1
 id="sAddAnEntry"
 ><secTitle
@@ -3449,10 +3479,10 @@ type="tmenu"
 > » </li
 ><li
 contentType="en"
->Check that you have the correct list open (p.ex. NT Key Biblical Terms [SIL])</li
+>Check that you have the correct list open (p.ex. your project list or the NT Key Biblical Terms [SIL])</li
 ><li
 contentType="fr"
->Vérifiez que la liste désirée est ouverte (p.ex. Termes bibliques clés du NT [SIL]) </li
+>Vérifiez que la liste désirée est ouverte (p.ex. Termes biblique du votre projet, ou Termes bibliques clés du NT [SIL]) </li
 ><li
 contentType="en"
 >Double-click on the term in the list in the top pane</li
@@ -3623,6 +3653,9 @@ src="12imgeng/image18.png"
 ></img
 ></li
 ><li
+contentType="dn"
+>I need to change image to match the French</li
+><li
 contentType="en"
 >Choose the <object
 type="tEmphasis"
@@ -3633,10 +3666,8 @@ contentType="fr"
 >Utilisez la barre de navigation pour changer le livre<br
 ></br
 ><img
-src="12imgeng/image18.png"
+src="12imgfr/image18n.png"
 ></img
-><br
-></br
 ></li
 ><li
 contentType="fr"
@@ -4010,7 +4041,7 @@ contentType="fr"
 >Double-cliquez la prochaine ligne dans la liste. </li
 ><li
 contentType="en"
->Continue for all the errors.</li
+>Continue for each error.</li
 ><li
 contentType="fr"
 >Continuez jusqu'à ce qu'il n'y a plus d’erreurs. </li
@@ -4352,13 +4383,13 @@ contentType="en"
 >For the project plan to work well, you need to mark the tasks you have finished. This allows <object
 type="tPT"
 ></object
-> to make the next task available for the other team members. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
+> to make the next task available for the other team members. It also gives Paratext accurate information on your progress for the reports. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><p
 contentType="fr"
 >Pour que le plan de projet fonctionne bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permet à <object
 type="tPT"
 ></object
-> de rendre la tâche suivante disponible pour les autres membres de l'équipe. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
+> de rendre la tâche suivante disponible pour les autres membres de l'équipe. Cela donne également information juste de votre progrès pour les rapports. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
 ><pc
 contentType="en"
 ><object
@@ -4392,7 +4423,7 @@ contentType="fr"
 >Ouvrez le plan de projet (utilisant le bouton)</li
 ><li
 contentType="en"
->Update the progress on any task (see PP1 for instructions on each type of task).</li
+>Update the progress on all tasks (see PP1 for instructions on each type of task).</li
 ><li
 contentType="fr"
 >Actualisez le progrès sur toute tâche (voir PP1 pour les instructions sur chaque type de tâche).</li
@@ -4417,13 +4448,13 @@ contentType="en"
 ><img
 src="12imgeng/image21.png"
 ></img
->This can only be done by a project administrator.</p
+>This can only be done if you have progress permissions.</p
 ><p
 contentType="fr"
 ><img
 src="12imgeng/image21.png"
 ></img
->Cela peut seulement être fait par un administrateur de projet.</p
+>Cela peut seulement être fait par quelqu'un qui a des autorisations d'avancement.</p
 ></framedUnit
 ><ul
 ><li
@@ -4452,7 +4483,7 @@ type="tmenu"
 >.</li
 ><li
 contentType="fr"
->De la première liste roulante en haut du dialogue, choisissez <object
+>De la première liste déroulante en haut du dialogue, choisissez <object
 type="tmenu"
 >Toutes les tâches</object
 ></li
@@ -4470,10 +4501,10 @@ contentType="fr"
 >Dans la colonne, "<object
 type="tmenu"
 >Affecté à</object
->" , utilisez la liste roulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
+>" , utilisez la liste déroulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
 type="tmenu"
->Task/Check</object
-> (Tâche/Vérification) au gauche).</li
+> Tâche/Vérification</object
+> au gauche).</li
 ></ul
 ></section1
 ><section1
@@ -4577,7 +4608,7 @@ type="tmenu"
 >.<br
 ></br
 ><img
-src="12imgfr\courbe.png"
+src="12imgfr\courben.png"
 ></img
 ></li
 ><li
@@ -4677,7 +4708,7 @@ contentType="fr"
 >La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous allez lire votre texte et travailler sur les noms propres, les termes clés bibliques, la vérification d’orthographe et les contrôles de mise en forme. Vous allez également imprimer un brouillon et utiliser une variété de notes : notes de projet, notes d’orthographe et notes bibliques pour enregistrer vos questions, des discussions et des décisions.<br
 ></br
 ><img
-src="12imgfr/image21.png"
+src="12imgfr/image21n.png"
 ></img
 ></p
 ><p
@@ -4792,10 +4823,16 @@ id="sPN"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->PN: Proper Names</titleContent
+>PN: Proper Names <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ><titleContent
 contentType="fr"
->NP : Noms propres</titleContent
+>NP : Noms propres <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -4876,7 +4913,7 @@ contentType="en"
 >filter the Major Biblical terms list on Names.</li
 ><li
 contentType="fr"
->filtrez la liste des termes majeurs bibliques sur les noms.</li
+>filtrez la liste des termes bibliques principaux des noms propres.</li
 ><li
 contentType="en"
 >use the <object
@@ -4887,7 +4924,7 @@ type="tmenu"
 contentType="fr"
 >utilisez l'outil <object
 type="tmenu"
->Modifier Les Noms propres...</object
+>Modifier les noms propres...</object
 > pour entrer vos règles de translittération pour chaque lettre.</li
 ><li
 contentType="en"
@@ -4908,9 +4945,6 @@ contentType="en"
 contentType="fr"
 >travailler à travers la liste des termes bibliques pour s'assurer que tous les versets sont cohérents.</li
 ></ul
-><p
-contentType="fr"
->Vous filtrez la liste de termes bibliques principaux de noms propres. Puis vous allez taper les règles de translittération et ajouter les propositions de noms. Puis vous allez vérifier les versets.</p
 ><section1
 id="sRunBTTool"
 ><secTitle
@@ -5034,7 +5068,7 @@ contentType="en"
 >Choose your reference text, then click <object
 type="tmenu"
 ></object
->.</li
+> .</li
 ><li
 contentType="dn"
 >Arrows don't show up</li
@@ -5085,9 +5119,9 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cliquez sur <img
-src="12imgfr/QuiMeSontAffectes_jr.png"
-></img
+>Cliquez sur <object
+type="tmenu"
+>Chapitres qui me sont confié (affectés)</object
 ></li
 ><li
 contentType="en"
@@ -5240,11 +5274,11 @@ src="12imgeng/image23.png"
 ></li
 ><li
 contentType="fr"
->Choisissez la langue de référence (p.ex. française, arabe)<br
+>Choisissez la langue de référence (p.ex. française ou arabe)<br
 ></br
 ><object
 type="tresult"
->La boîte de dialogue Modification de noms propres s’affiche. </object
+>La boîte de dialogue "Sélection de la base de noms propres s’affiche. </object
 ><br
 ></br
 ><img
@@ -5267,7 +5301,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->In the left pane, fill in the “Adapted Character” column for individual letters or letter clusters.</li
+>In the left pane, fill in the “Adapted Character” column for the individual letters or letter clusters.</li
 ><li
 contentType="fr"
 >Dans le volet à gauche, entrez d’abord des modifications des lettres individuelles et des groupes de lettres dans la colonne « Caractère modifié ».</li
@@ -5344,7 +5378,7 @@ type="tmenu"
 ><object
 type="tPT"
 ></object
-> will propose a name (in red) in the rendering column</li
+> will propose a name (in red) in the rendering column of the biblical terms tool.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -5355,7 +5389,7 @@ type="tmenu"
 ><object
 type="tPT"
 ></object
-> proposera un mot en rouge pour tous les noms.</li
+> proposera un mot en rouge pour tous les noms dans la colonne des équivalents dans l'outil termes bibliques.</li
 ></ul
 ></section2
 ></section1
@@ -5400,32 +5434,26 @@ type="tlink"
 contentType="fr"
 >Cliquez sur le lien <object
 type="tlink"
->Modifier</object
+>Édition</object
 ></li
 ><li
 contentType="en"
 >Correct as necessary, click <object
 type="tmenu"
->OK</object
+>Close</object
 ></li
 ><li
 contentType="fr"
 >Corrigez si nécessaire, cliquez sur <object
 type="tmenu"
->OK</object
+>Fermer</object
 >.</li
-><li
-contentType="en"
->Return to the Biblical Terms Tool</li
-><li
-contentType="fr"
->Retournez à l'Outil Termes Bibliques </li
 ><li
 contentType="en"
 >Repeat for each name.</li
 ><li
 contentType="fr"
->Répétez pour chaque nom </li
+>Répétez pour chaque nom propre. </li
 ></ul
 ></section1
 ><section1
@@ -5498,7 +5526,7 @@ type="tPT"
 > that it is correct (that is, deny that the rendering is missing).</p
 ><p
 contentType="fr"
->Il arrive qu’un verset soit traduit correctement sans utiliser le nom réel. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer qu’il n’y a pas un équivalent de ce mot précis dans ce verset.</p
+>Il arrive qu’un verset soit traduit correctement sans utiliser le nom réel. Par exemple, un pronom peut être utilisé à la place du nom. Dans ces cas, il faut indiquer que le verset est bien traduit même s’il n’y a pas un équivalent de ce mot précis dans ce verset.</p
 ></framedUnit
 ><ul
 ><li
@@ -5582,7 +5610,7 @@ contentType="en"
 >To transliterate proper names, you ______ the _________________ list on names.</li
 ><li
 contentType="fr"
->Pour translittér les noms propres, vous ______ la liste de noms sur _________________ .</li
+>Pour translittér les noms propres, vous ______ la liste de ___________ sur noms propres.</li
 ><li
 contentType="en"
 >Then use the _______ menu and ____________ command.</li
@@ -5645,7 +5673,7 @@ contentType="en"
 >Answers: filter, Major Biblical Terms, names, Tools, Adapt Names, character, approve, proposed, correcting, consistent, A, deny</p
 ><p
 contentType="fr"
->Réponses : filtrez, Termes bibliques principaux, noms, Outils, Adapt Names, caractères, approver, proposé, corrections, conhérents, A, deny</p
+>Réponses : filtrez, Termes bibliques principaux, noms, Outils, Modifier les noms propres, caractères, approver, proposé, corrections, cohérents, A, deny (refuser)</p
 ></framedUnit
 ></section1
 ></chapter
@@ -5699,7 +5727,7 @@ type="tsub"
 ></pc
 ><p
 contentType="en"
->You have type your text in <object
+>You have typed your text in <object
 type="tPT"
 ></object
 > and have done some checks but there may still be spelling mistakes in the text.</p
@@ -5777,7 +5805,7 @@ contentType="en"
 ><object
 type="tPT"
 ></object
-> has a number of specific checks that you can run on the wordlist. It can also highlight invalid characters in you text.</p
+> has a number of specific checks that you can run on the wordlist. It can also highlight invalid characters in your text.</p
 ><p
 contentType="fr"
 ><object
@@ -5866,7 +5894,7 @@ type="tmenu"
 >Outils</object
 > &gt; <object
 type="tmenu"
->Approuvez l’orthographe des mots fréquents </object
+>Approuver l’orthographe des mots fréquents </object
 ></li
 ><li
 contentType="en"
@@ -5908,7 +5936,7 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Oui</object
-> (pour confirmer que vous ne pouvez pan annuler)</li
+> (pour confirmer que vous ne pouvez pas annuler)</li
 ></ul
 ></section2
 ><section2
@@ -5917,10 +5945,16 @@ id="sCheckTheWordsThatParatextThinksAre"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Check the words that Paratext thinks are incorrect</titleContent
+>Check the words that Paratext thinks are incorrect <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ><titleContent
 contentType="fr"
->Vérifier les mots que Paratext pense être erronés</titleContent
+>Vérifier les mots que Paratext pense être erronés <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6008,13 +6042,13 @@ type="tPT"
 > hasn’t suggested the correct word, click on the red checkbox <img
 src="12imgeng\image26a.png"
 ></img
-> and correct the word.</li
+> and correct the word. (See 9.3)</li
 ><li
 contentType="fr"
 >Si le mot est incorrect, et Paratext n'a pas proposé le mot juste, cliquez sur la croix rouge <img
 src="12imgeng\image26a.png"
 ></img
-> et corriger le mot.</li
+> et corriger le mot.(Voir 9.3)</li
 ></ul
 ></section2
 ><section2
@@ -6196,7 +6230,7 @@ contentType="fr"
 ><object
 type="tPT"
 ></object
-> soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu ou soit mal-écrit. C'est á vous de décider.</p
+> soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu soit mal-écrit. C'est á vous de décider.</p
 ></framedUnit
 ><ul
 ><li
@@ -6445,7 +6479,7 @@ contentType="fr"
 >Choisissez la vérification désirée (voir dessous) <br
 ></br
 ><img
-src="12imgfr/Verifier_orthographe_jr.png"
+src="12imgfr/Verifier_orthographe_jb.png"
 ></img
 ></li
 ></ul
@@ -6493,7 +6527,7 @@ contentType="fr"
 >Quand la liste est vide, un message s’affiche.<br
 ></br
 ><img
-src="12imgfr/image32.png"
+src="12imgfr/image32a.png"
 ></img
 ></li
 ><li
@@ -6524,10 +6558,10 @@ contentType="fr"
 ></secTitle
 ><p
 contentType="en"
->This runs all of the checks. This is very useful as it will find all types of errors and even words with multiple types of errors.</p
+>This runs all of the checks. This is very useful as it will find all types of errors especially words with multiple types of errors.</p
 ><p
 contentType="fr"
->Cela gère tous les contrôles. Ceci est très utile, car il trouvera tous les types d'erreurs et même des mots avec plusieurs types d'erreurs.</p
+>Cela gère tous les contrôles. Ceci est très utile, car il trouvera tous les types d'erreurs et surtout des mots avec plusieurs types d'erreurs.</p
 ></section2
 ><section2
 id="sMissingCapitals"
@@ -6544,7 +6578,7 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->A list of words is displayed with a link to the capitalised form.<br
+>A list of words is displayed which have capitalised forms but are not always capitalised. A link to the capitalised form is displayed below.<br
 ></br
 ><img
 src="12imgeng\image33.png"
@@ -6649,7 +6683,7 @@ contentType="en"
 >Unusual Letter Combinations</titleContent
 ><titleContent
 contentType="fr"
->Combinaisons caractères inhabituelles</titleContent
+>Combinaisons caractères non habituelles</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6668,7 +6702,7 @@ contentType="en"
 >Diacritic Errors</titleContent
 ><titleContent
 contentType="fr"
->Erreurs diacritiques</titleContent
+>Erreurs de signes diacritiques</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -7522,10 +7556,16 @@ id="sDocumentTheReasonForTheChange"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->[D] Document the reason for the change</titleContent
+>[D] Document the reason for the change <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ><titleContent
 contentType="fr"
->[D] Documenter la raison pour la modification</titleContent
+>[D] Documenter la raison pour la modification <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -7907,10 +7947,16 @@ id="sMPComparer"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->MP: Compare a word or phrase</titleContent
+>MP: Compare a word or phrase <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ><titleContent
 contentType="fr"
->MP : Comparer un mot ou expression </titleContent
+>MP : Comparer un mot ou expression <img
+src="12imgeng/pt8.png"
+></img
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -8223,9 +8269,9 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->Cliquez sur l’icône « <object
+>Cliquez sur l’icône à droite « <object
 type="tmenu"
->Afficher les rendus pour le terme courant dans Word ou Phrase checklist</object
+>Afficher les traductions des termes actuels dans la liste de vérification de mot ou expression</object
 > » <br
 ></br
 ><img
@@ -8446,13 +8492,13 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->Note: Before you can run these other basic checks some form of setup must be done by your Administrator.</p
+>Note: Before you can run these other basic checks some form of setup must be done. Some checks require an inventory others require settings. You can do most of the inventories, but only your Administrator can do the settings.</p
 ><p
 contentType="dn"
->seems like in Paratext 8 translators can do it now not just administrators</p
+>seems like in Paratext 8 translators can do it now not just administrators - JJB: users can do inventories but not settings.</p
 ><p
 contentType="fr"
->N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée par votre administrateur.</p
+>N.B. Avant de pouvoir exécuter ces autres vérifications de base, une certaine forme de configuration doit être effectuée. Quelques vérifications ont besoin d'un inventaire, mais pour d'autres il y a des paramêtres ou regles. Vous pouvez faire les inventaires mais votre administrateur doit faire les paramêtres.</p
 ></framedUnit
 ><p
 contentType="en"
@@ -8552,29 +8598,13 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. <br
-></br
-><object
-type="tresult"
->A list of errors is displayed.</object
-></li
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. <br
-></br
-><object
-type="tresult"
->Une liste d'erreurs s'affiche.</object
-></li
-><li
-contentType="en"
->Make any corrections as needed.</li
-><li
-contentType="fr"
->Faites les corrections nécessaires.</li
+>.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -8600,6 +8630,30 @@ type="tmenu"
 >Invalid</object
 >.</p
 ></framedUnit
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="fr"
+>N.B.: Au lieu d'utiliser la sourie, vous pouvez utiliser <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>y</object
+> pour <object
+type="tmenu"
+>Valide</object
+> ou <object
+type="tkey"
+>Ctrl</object
+> + <object
+type="tkey"
+>n</object
+> pour <object
+type="tmenu"
+>Non valide</object
+>.</p
+></framedUnit
 ></section1
 ><section1
 id="sCharacters"
@@ -8617,11 +8671,17 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->This inventory helps you identify all the incorrect characters, i.e. the characters which are not in your alphabet.</p
+>This check (and inventory) helps you identify all the incorrect characters, i.e. the characters which are not in your alphabet.</p
 ><p
 contentType="fr"
->Identifier et/ou corriger tous les caractères inadmissibles, c.-à-d., des caractères qui ne sont pas dans votre alphabet.</p
+>Identifier tous les caractères inadmissibles, c.-à-d., des caractères qui ne sont pas dans votre alphabet.</p
 ></framedUnit
+><p
+contentType="en"
+>Setup required</p
+><p
+contentType="fr"
+>Configuration</p
 ><ul
 ><li
 contentType="en"
@@ -8656,6 +8716,14 @@ type="tmenu"
 type="tmenu"
 >Non valide</object
 >. </li
+></ul
+><p
+contentType="en"
+>Check</p
+><p
+contentType="fr"
+>Vérification</p
+><ul
 ><li
 contentType="en"
 ><object
@@ -8691,13 +8759,23 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->.</li
+>. <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->.</li
+>. <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
+></li
 ><li
 contentType="en"
 >Make any corrections as needed..</li
@@ -8725,8 +8803,14 @@ contentType="en"
 >Identify all the incorrect or misplaced punctuation marks. (Use the Unicode character column to clearly identify the punctuation.)</p
 ><p
 contentType="fr"
->Identifier et/ou corriger tous les signes de ponctuation inadmissibles ou mal placés.</p
+>Identifier et/ou corriger tous les signes de ponctuation inadmissibles ou mal placés. (Utilisez la colonne de caractères Unicode pour identifier clairement la ponctuation.)</p
 ></framedUnit
+><p
+contentType="en"
+>Setup required</p
+><p
+contentType="fr"
+>Configuration</p
 ><ul
 ><li
 contentType="en"
@@ -8800,7 +8884,25 @@ cssSpecial="fr"
 src="12imgfr/image49.png"
 ></img
 ></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
 ></ul
+><p
+contentType="en"
+>Check</p
+><p
+contentType="fr"
+>Vérification</p
 ><ul
 ><li
 contentType="en"
@@ -8837,13 +8939,23 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
+></li
 ><li
 contentType="en"
 >Make any corrections as needed.</li
@@ -8869,11 +8981,17 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->This is to indentify all the errors where the punctuation is in pairs, for example ( ), [ ], etc.</p
+>This is to identify all the errors where the punctuation occurs in pairs, for example ( ), [ ], etc.</p
 ><p
 contentType="fr"
 >C’est pour identifier toutes les erreurs de signes de ponctuation qui se produisent dans les paires, par exemple ( ), [ ], etc.</p
 ></framedUnit
+><p
+contentType="en"
+>Setup required</p
+><p
+contentType="fr"
+>Configuration</p
 ><ul
 ><li
 contentType="en"
@@ -8911,6 +9029,14 @@ contentType="fr"
 type="tmenu"
 >Options...</object
 > pour ajouter d’autres paires </li
+></ul
+><p
+contentType="en"
+>Check</p
+><p
+contentType="fr"
+>Vérification</p
+><ul
 ><li
 contentType="en"
 ><object
@@ -8946,13 +9072,23 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
+></li
 ><li
 contentType="en"
 >Make any corrections as needed. </li
@@ -8983,6 +9119,12 @@ contentType="en"
 contentType="fr"
 >C’est pour identifier les mots qui ont été répétés dans le texte.</p
 ></framedUnit
+><p
+contentType="en"
+>Setup required</p
+><p
+contentType="fr"
+>Configuration</p
 ><ul
 ><li
 contentType="en"
@@ -9020,6 +9162,14 @@ type="tmenu"
 type="tmenu"
 >Non valide</object
 >. </li
+></ul
+><p
+contentType="en"
+>Check</p
+><p
+contentType="fr"
+>Vérification</p
+><ul
 ><li
 contentType="en"
 ><object
@@ -9055,13 +9205,23 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
+></li
 ><li
 contentType="en"
 >Make any corrections as needed. </li
@@ -9087,11 +9247,17 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->There are four inventories needed for the capitalisation check but only one check. You may need to click the Options button to add markers or punctuation.</p
+>The capitalisation check looks for a variety of problems with capitalisation. There are four inventories needed for the capitalisation check but only one check. You may need to click the Options button to add markers or punctuation.</p
 ><p
 contentType="fr"
->Il y a quatre inventaires concernant des majuscules, mais une seule vérification.</p
+>La vérification de mis en majuscules cherche plusieurs types de problems de mis en majuscules. Il y a quatre inventaires concernant des majuscules, mais une seule vérification.</p
 ></framedUnit
+><p
+contentType="en"
+>Setup required</p
+><p
+contentType="fr"
+>Configuration</p
 ><ul
 ><li
 contentType="en"
@@ -9109,7 +9275,7 @@ type="tmenu"
 >Vérification</object
 > &gt; <object
 type="tmenu"
->Markers Missing Final Sentence Punctuation</object
+>Inventaire des marqueurs non exigeant la ponctuation de fin de phrase</object
 > </li
 ><li
 contentType="en"
@@ -9237,6 +9403,14 @@ type="tmenu"
 type="tmenu"
 >Non valide</object
 >. </li
+></ul
+><p
+contentType="en"
+>Check</p
+><p
+contentType="fr"
+>Vérification</p
+><ul
 ><li
 contentType="en"
 ><object
@@ -9272,13 +9446,23 @@ contentType="en"
 >Click <object
 type="tmenu"
 >OK</object
->.</li
+>. <br
+></br
+><object
+type="tresult"
+>A list of errors is displayed.</object
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. </li
+>. <br
+></br
+><object
+type="tresult"
+>Une liste d'erreurs s'affiche.</object
+></li
 ><li
 contentType="en"
 >Make any corrections as needed.</li
@@ -12057,7 +12241,7 @@ type="tresult"
 ><br
 ></br
 ><img
-src="12imgeng\ReattachNote.png"
+src="12imgfr\ReattachNote.png"
 ></img
 ></li
 ><li
