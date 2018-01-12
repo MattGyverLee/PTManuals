@@ -330,7 +330,7 @@ contentType="fr"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Note: This state is not included in the UBS plan.</p
+>Note: This stage is not included in the UBS plan.</p
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -500,7 +500,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connaît pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il fera ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
+>Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connaît pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il rendra ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.</p
 ><pc
 contentType="en"
 ><object
@@ -533,7 +533,7 @@ contentType="en"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côte à côte, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.</p
+>Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côté à côté, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.</p
 ><section1
 id="screateANewProject"
 showinlandscapemode="no"
@@ -687,7 +687,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite la registration de votre projet.</p
+>Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite l'inscription de votre projet.</p
 ></framedUnit
 ></section1
 ><section1
@@ -721,7 +721,7 @@ contentType="en"
 >Arrange the windows so that you can easily see both windows.</li
 ><li
 contentType="fr"
->Arrange les fenêtres côte à côte pour facilement voir les deux fenêtres.</li
+>Arrange les fenêtres côté à côté pour facilement voir les deux fenêtres.</li
 ><li
 contentType="en"
 >Click in the back translation window, (the verse in your project is highlighted).</li
@@ -829,7 +829,7 @@ src="36imgeng\image3.png"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Paratext détectera tout changement à votre texte (quand le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge <img
+>Paratext détectera tout changement dans votre texte (au moment où le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge <img
 src="36imgeng\image3.png"
 ></img
 > et ajouter des questions à l’état de la retraduction dans le plan de projet.</p
@@ -961,10 +961,16 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click the project plan icon</li
+>Click the project plan icon <img
+src="36imgeng/projplan.png"
+></img
+></li
 ><li
 contentType="fr"
->Cliquez sur l’icône du plan de projet</li
+>Cliquez sur l’icône du plan de projet <img
+src="36imgfr/projplan.png"
+></img
+></li
 ><li
 contentType="en"
 >Expand Stage 3, the back translation checks are at the end <br
@@ -983,7 +989,7 @@ contentType="fr"
 >Développez l'étape 3, les vérifications de la retraduction sont à la fin)<br
 ></br
 ><img
-src="36imgfr/image7.png"
+src="36imgfr/image7a.png"
 ></img
 ><br
 ></br
@@ -994,7 +1000,7 @@ type="tresult"
 ></ul
 ><p
 contentType="dn"
->Is this interface translated? No, it is still in English!</p
+>Is this interface translated? No, it is still in English! It is now.</p
 ></section1
 ><section1
 id="sCheckBTVerse"
@@ -1020,11 +1026,11 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->Cliquez sur le lien d’issues de « back translation verse check » <br
+>Cliquez sur le lien de « Statut de retraduction (xxx) achevée » <br
 ></br
 ><object
 type="tresult"
->Une liste de résultats s’affiche de toutes les erreurs.</object
+>Une liste de toutes les erreurs trouvées s’affiche.</object
 ></li
 ><li
 contentType="en"
@@ -1032,6 +1038,9 @@ contentType="en"
 ><li
 contentType="fr"
 >Corrigez toutes les erreurs.</li
+><li
+contentType="dn"
+>JB: I don't understand the point of having both 2.8 and 2.9. 2.9 seems to be a continuation??</li
 ></ul
 ></section1
 ><section1
@@ -1044,7 +1053,7 @@ contentType="en"
 >Back translation status complete in project plan</titleContent
 ><titleContent
 contentType="fr"
->Statut de la retraduction dans le plan du projet</titleContent
+>Statut de la retraduction dans « le plan du projet »</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -1059,13 +1068,13 @@ contentType="en"
 >The back translation window is displayed with the cursor in the first verse with problems.</li
 ><li
 contentType="fr"
->La fenêtre de retraduction s’affiche avec le curseur dans le premier verset avec des problèmes.</li
+>La fenêtre de retraduction s’affiche avec le curseur dans le premier verset qui a des problèmes.</li
 ><li
 contentType="en"
 >Correct the problem and move to the next outdated verse by clicking on the arrows on the toolbar.</li
 ><li
 contentType="fr"
->Corrigez le problème et passez au verset dépassé suivant en cliquant sur les flèches de la barre d’outils.</li
+>Corrigez le problème et passez au verset suivant qui a du « texte de verset dépassé » en cliquant sur les flèches de la barre d’outils.</li
 ></ul
 ></section1
 ><section1
@@ -1639,7 +1648,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Ce projet n’a pas besoin d’être enregistré parce ce qu’il hérite la registration de votre projet. [Vous pouvez avoir deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p
+>Ce projet n’a pas besoin d’être enregistré parce ce qu’il hérite l'inscription de votre projet. [Vous pouvez avoir deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]</p
 ></framedUnit
 ></section1
 ><section1
@@ -2051,19 +2060,19 @@ contentType="en"
 >How do I create a back translation project with the Interlinearizer?</li
 ><li
 contentType="fr"
->Comment créer une retraduction avec l'outi de générateur d'interlineariser ?</li
+>Comment créer une retraduction avec l'outi de générateur d'interlinéaire ?</li
 ><li
 contentType="en"
 >How do I create a text revision/adaptation project with the Interlinearizer?</li
 ><li
 contentType="fr"
->Comment créer une project d'adaptation avec l'outi de générateur d'interlineariser ?</li
+>Comment créer une project d'adaptation avec l'outi de générateur d'interlinéaire ?</li
 ><li
 contentType="en"
 >What do the colours of glosses mean in the Interlinearizer?</li
 ><li
 contentType="fr"
->Qu'est-ce que veut dire les coleurs des gloses dans l'interlineasizer ?</li
+>Qu'est-ce que les couleurs des gloses dans d'interlinéaire veulent dire ?</li
 ><li
 contentType="dn"
 >Since the help hasn't been translated is there any point in translating these? M: Probably not much.</li
@@ -2344,7 +2353,7 @@ pagecontrol="letFormatterDecide"
 >In this module you will learn how to run the remaining basic checks (references, quoted text, numbers, punctuation in pairs and quotations). As in the first two basic checks modules, it is easier to run the checks from the project plan. However, if you want to check more than one book then you need to run the checks from the checking menu.</p
 ><p
 contentType="fr"
->Dans ce module vous apprendrez comment diriger les vérifications de base restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre alors vous avez besoin de diriger les vérifications du menu vérification.</p
+>Dans ce module vous apprendrez comment diriger les vérifications de base restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre, vous devez effectuer les vérifications du menu vérification.</p
 ><pc
 contentType="en"
 ><object
@@ -2382,7 +2391,7 @@ pagecontrol="letFormatterDecide"
 >Paratext has eleven basic checks. You have already seen the first six checks. This last set of checks helps you find errors related to material referred from other books. You want to be sure the references are accurate so that the reader can find those passages.</p
 ><p
 contentType="fr"
->Paratext a onze vérifications de base. Vous avez déjà vu les six premières vérifications. Ce dernier ensemble des vérifications vous aide à trouver des erreurs rattachées à la matière renvoyée d'autres livres. Vous voulez être sûr que les références sont exactes pour que le lecteur puisse trouver ces passages.</p
+>Paratext a onze vérifications de base. Vous avez déjà vu les six premières vérifications. Cette dernière série de contrôles vous aide à trouver les erreurs liées au matériel mentionné d'autres livres.. Vous voulez être sûr que les références sont exactes pour que le lecteur puisse trouver ces passages.</p
 ><pc
 contentType="en"
 ><object
@@ -2443,7 +2452,7 @@ pagecontrol="letFormatterDecide"
 >This check looks at punctuation that occurs in pairs (opening and closing) and lists errors where it is not matched by the other half of the pair. This may be deliberate but is more likely to be an error, e.g. ( ), [ ], etc.</p
 ><p
 contentType="fr"
->Cette vérification regarde la ponctuation qui se produit dans les paires (une ouverture et une fermeture) et énumère des erreurs où il n'est pas correspondu par l'autre moitié de la paire. Cela peut être délibéré, mais sera plus probablement une erreur, par ex. (), [], etc.</p
+>Cette vérification regarde la ponctuation qui se produit dans les paires (une ouverture et une fermeture) et énumère des erreurs où un élément du paire n'a pas sa correspondance. Cela peut être délibéré, mais sera plus probablement une erreur, par ex. (), [], etc.</p
 ></framedUnit
 ><ul
 ></ul
@@ -2756,7 +2765,7 @@ pagecontrol="letFormatterDecide"
 >Paratext will inform you if there are any inconsistencies between these book name settings and the \toc lines and will allow you to check conflicts.</p
 ><p
 contentType="fr"
->Paratext vous informera s'il y a des incohérences entre ces paramètres de titre du livre et les lignes \toc et vous permettra de vérifier des conflits.</p
+>Paratext vous informera s'il y a des incohérences entre ces paramètres de titre du livre et les lignes \toc et vous permettra de résoudre des conflits.</p
 ></framedUnit
 ></section1
 ><section1
@@ -2780,7 +2789,7 @@ pagecontrol="letFormatterDecide"
 >Before you can run the references check, your Administrator must define various number settings.</p
 ><p
 contentType="fr"
->Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres de nombres.</p
+>Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres de chiffres.</p
 ></framedUnit
 ><ul
 ><li
@@ -2883,7 +2892,7 @@ pagecontrol="letFormatterDecide"
 >The quotations check is used to ensure you have been consistent in marking the direct speech correctly.</p
 ><p
 contentType="fr"
->La vérification de citations est utilisée pour garantir que vous avez été conhhérent avec les quillemets du discours direct.</p
+>La vérification de citations est utilisée pour garantir que vous avez été cohérent avec les guillemets du discours direct.</p
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3190,7 +3199,7 @@ type="tItalic"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluer votre texte, prendre des notes, réviser vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.</p
+>La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluez votre texte, prenez des notes, révisez vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -3308,7 +3317,7 @@ type="tItalic"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le caractère naturel, produisez un rapport d’avancement d’équipe et révisez les termes clés.</p
+>La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le style naturel, vous produirez un rapport d’avancement d’équipe et vous réviserez les termes clés.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -3388,7 +3397,7 @@ pagecontrol="letFormatterDecide"
 >As you have been working on your translation, you have been updating your project plan with your progress on completed chapters and books. Now you will prepare a project a report.</p
 ><p
 contentType="fr"
->Comme vous avez travaillé sur votre traduction, vous avez actualisé votre plan de projet avec votre progrès sur les chapitres accomplis et les livres. Maintenant vous préparer un rapport.</p
+>Comme vous avez travaillé sur votre traduction, vous avez actualisé votre plan de projet avec votre progrès sur les chapitres accomplis et les livres. Maintenant vous préparerez un rapport.</p
 ><pc
 contentType="en"
 ><object
@@ -3407,7 +3416,7 @@ pagecontrol="letFormatterDecide"
 >Your administrators and funders need accurate reports of your progress.</p
 ><p
 contentType="fr"
->Vos administrateurs et fonders ont besoin des rapports exacts de votre progrès.</p
+>Vos administrateurs et bailleurs ont besoin des rapports exacts de votre progrès.</p
 ><pc
 contentType="en"
 ><object
@@ -3426,13 +3435,13 @@ contentType="en"
 >Check that your project plan is up-to-date.</li
 ><li
 contentType="fr"
->Vérifiez que votre plan de projet est à jour.</li
+>Vous allez érifier que votre plan de projet est à jour.</li
 ><li
 contentType="en"
 >Produce several reports.</li
 ><li
 contentType="fr"
->Produisez plusieurs rapports.</li
+>Vous allez produire plusieurs rapports.</li
 ></ul
 ><section1
 id="sCheckYourPlan"
@@ -3444,7 +3453,7 @@ contentType="en"
 >Check your plan</titleContent
 ><titleContent
 contentType="fr"
->Vérifiez votre plan</titleContent
+>Vérifier votre plan</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3729,7 +3738,7 @@ contentType="en"
 >Save the list to a file</titleContent
 ><titleContent
 contentType="fr"
->Enregistrez la liste à un fichier</titleContent
+>Enregistrer la liste comme fichier HTML</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3806,7 +3815,7 @@ contentType="en"
 >Sort on terms notes</titleContent
 ><titleContent
 contentType="fr"
->Tirer par les remarques des équivalents</titleContent
+>Trier par les remarques des équivalents</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -3838,7 +3847,7 @@ contentType="en"
 >Find terms with text in the rendering description</titleContent
 ><titleContent
 contentType="fr"
->Trouvez des termes avec du texte dans la description d'équivalents</titleContent
+>Trouver des termes avec du texte dans la description d'équivalents</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -4105,7 +4114,7 @@ contentType="en"
 >If applicable, type in a verse range as an acceptable location [*] (optional)</li
 ><li
 contentType="fr"
->Permets d’entrer des informations sur l’emplacement de l’image. [*] [Facultatif]</li
+>Le cas échéant, saisissez une plage de verset comme emplacement acceptable de l’image. [*] [Facultatif]</li
 ><li
 contentType="en"
 >Type in the copyright information [4]</li
@@ -4474,7 +4483,7 @@ contentType="en"
 >Add renderings as usual.</li
 ><li
 contentType="fr"
->Ajouter les équivalents comme normaux.</li
+>Ajouter les équivalents comme normal.</li
 ></ul
 ></section1
 ><section1
@@ -4487,7 +4496,7 @@ contentType="en"
 >Formatting checks</titleContent
 ><titleContent
 contentType="fr"
->Vérification du mise en forme</titleContent
+>Vérification du mise en page</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -5489,7 +5498,7 @@ contentType="en"
 >open a third passage in a window.</li
 ><li
 contentType="fr"
->vous pouvez également voir un troisiem passage dans une fenêtre.</li
+>vous apprendrez comment ouvrir un troisième passage en même temps que votre passage principal et en plus de la fenêtre de référence rapide.</li
 ></ul
 ><section1
 id="sopenTheParallelPassages"
@@ -5714,7 +5723,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Le texte en vert montre qu’il y a les mots exactement la même dans d’un autre passage.</p
+>Le texte en vert montre les mots qui sont identiques dans les passages parallèles dans la langue originale (p.ex. grec pour le NT).</p
 ></framedUnit
 ><framedUnit
 framedtype="tTeacher"
@@ -5725,7 +5734,7 @@ pagecontrol="letFormatterDecide"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Le texte en jaune n’est pas exact, mais vient de la même racine.</p
+>Le texte en jaune montre les mots qui ne sont pas exactement les mêmes dans les passages parallèles, mais qui se ressemblent beaucoup (peut-être qu'il s'agit d'une autre forme du même verbe, ou d'un synonyme).</p
 ></framedUnit
 ><framedUnit
 framedtype="tTeacher"
@@ -8957,11 +8966,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

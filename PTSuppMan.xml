@@ -725,11 +725,11 @@ type="tPT"
 > use different send/receive servers so there is no way for a project to be shared with some users on Paratext and some users on <object
 type="tPT"
 ></object
->. It is also hoped that the old (Paratext 7) server will be closed down soon. So it is important to migrate as soon as possible.</p
+>. It is also hoped that the old (Paratext 7) server will be closed down at the end of December 2018. So it is important to migrate as soon as possible.</p
 ><p
 contentType="fr"
 xml:lang="fr"
->Pour que toutes les fonctionnalités de Paratext 8 soient opérationnelles, il faut que votre projet soit migré. Paratext 7 et Paratext 8 utilisent des serveurs différents pour faire envoyer/recevoir, alors il n'y aura aucun moyen de partager un projet avec les utilisateurs de Paratext 7 et Paratext 8 en même temps. De ce fait, l’ancien serveur sera éliminé un jour. Par conséquent, Il est donc important de faire migrer les projets rapidement.</p
+>Pour que toutes les fonctionnalités de Paratext 8 soient opérationnelles, il faut que votre projet soit migré. Paratext 7 et Paratext 8 utilisent des serveurs différents pour faire envoyer/recevoir, alors il n'y aura aucun moyen de partager un projet avec les utilisateurs de Paratext 7 et Paratext 8 en même temps. De ce fait, l’ancien serveur sera éliminé à la fin de décembre 2018. Par conséquent, Il est donc important de faire migrer les projets rapidement.</p
 ><p
 contentType="en"
 >Users can have both <object
@@ -756,7 +756,7 @@ type="tPT"
 > from then on.</p
 ><p
 contentType="fr"
->Dès que vous avez fait migré le projet, tout le monde doit recevoir le projet migré, et ne travaille qu'à partir de Paratext 8.</p
+>Dès que vous avez fait migrer le projet, tout le monde doit recevoir le projet migré, et ne travaille qu'à partir de Paratext 8.</p
 ><p
 contentType="en"
 >You need to have a good Internet connection to migrate the project, but if you usually work without an Internet connection, you can keep working that way in <object
@@ -1069,7 +1069,7 @@ contentType="fr"
 >Paratext 8 nécessite un identifiant de langue pour votre langue. Utilisez la <object
 type="tmenu"
 >Search (recherche)</object
-> dans le nom de la langue pour trouver le code ethnologue de votre langue.</li
+> dans le nom de la langue pour trouver le code Ethnologue de votre langue.</li
 ><li
 contentType="en"
 ><object
@@ -1081,7 +1081,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >Scope (L’étendue) </object
->Est-ce que le projet sera une Bible complète ou une Bible complète comprenant l'apocryphe, le Nouveau Testament ou tout autre groupe de livres.</li
+>Est-ce que le projet sera une Bible complète ou une Bible complète comprenant les deutérocanoniques, le Nouveau Testament ou tout autre groupe de livres.</li
 ><li
 contentType="en"
 >Translation type refers to whether it is the first translation for this language, a revision of an existing translation, or a new translation, or a translation including study materials, such as a study Bible. For a revision, you have to specify that you have permission from the rights holders of the translation you are revising.</li
@@ -1099,7 +1099,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >Country</object
-> : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus qu’un pays si la langue se propage au-delà des frontières</li
+> : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières</li
 ><li
 contentType="en"
 >The rights holder would be the organization you expect will have the copyright for a print edition. This too can be changed if it needs to be later on.</li
@@ -1126,7 +1126,7 @@ type="tPT"
 > users.</li
 ><li
 contentType="fr"
->Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même par d'autres utilisateurs de Paratext 8.</li
+>Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même devant les autres utilisateurs de Paratext 8.</li
 ><li
 contentType="en"
 >Another option is to mark a project as a test or training project. You can use this option for test projects you create, or for projects you use for practice in a training course.</li
@@ -1149,7 +1149,7 @@ contentType="en"
 >The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.</p
 ><p
 contentType="fr"
->La Bibliothèque Biblique Numérique est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.</p
+>La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.</p
 ></framedUnit
 ><ul
 ><li
@@ -1267,7 +1267,7 @@ contentType="fr"
 >Je suis le membre de l’équipe qui a été sélectionné pour faire ce processus pour toute l’équipe.</li
 ><li
 contentType="fr"
->Notre équipe comprend que le projet PT8 sera la copie autoritaire du projet</li
+>Notre équipe comprend que le projet PT8 sera la copie officielle du projet</li
 ><li
 contentType="fr"
 >Tous les membres de l’équipe ont cessé de modifier la copie de PT7 du projet.</li
@@ -1351,7 +1351,7 @@ type="tPT"
 > that way.</p
 ><p
 contentType="fr"
->Si elles ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
+>Si ils ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 8 de cette façon.</p
 ></framedUnit
 ></section2
 ></section1
@@ -1385,7 +1385,7 @@ type="tmenu"
 >Après avoir cliqué sur <object
 type="tmenu"
 >Faire migrer maintenant</object
->, Paratext 8 peut vous dire qu'il faut spécifier un identificateur de langue pour votre projet.</li
+>, il se peut que Paratext 8 vous dise qu'il faut spécifier un identificateur de langue pour votre projet.</li
 ></ul
 ><framedUnit
 framedtype="tTeacher"
@@ -1409,7 +1409,7 @@ type="tmenu"
 >&gt; <object
 type="tmenu"
 >Propriétés et paramètres du projet</object
-> et en consultant les paramètres de langue. L'identifiant de la langue est soit entre parenthèses après le nom de la langue ou en dessous le nom.</p
+> et en consultant les paramètres de langue. L'identifiant de la langue se trouve soit entre parenthèses après le nom de la langue ou en dessous du nom.</p
 ></framedUnit
 ><ul
 ><li
@@ -1457,7 +1457,7 @@ type="tmenu"
 > by using the buttons. You can change this list of books later on in the project if your plans for the project change.</p
 ><p
 contentType="fr"
->Vous pouvez choisir un livre par livre, ou spécifier l'Ancien Testament, le Nouveau Testament ou le Deuterocanon en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.</p
+>Vous pouvez choisir des livres individuels, l'un après l'autre, ou spécifier l'Ancien Testament, le Nouveau Testament ou les livres deutérocanoniques en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.</p
 ></framedUnit
 ><framedUnit
 framedtype="tTeacher"
@@ -1466,7 +1466,7 @@ contentType="en"
 >Note: Once you have migrated your project, you need to migrate the back translation and any other daughter projects (one after the other).</p
 ><p
 contentType="fr"
->N.B. Après avoir fait migrer votre projet, il faut également faire migrer la retraduction, et tous les projets filles l’un après l’autre.</p
+>N.B. Après avoir fait migrer votre projet, il faut également faire migrer la retraduction, et tous les projets de traduction-filles l’un après l’autre.</p
 ></framedUnit
 ></section1
 ><section1
@@ -1513,7 +1513,7 @@ type="tmenu"
 contentType="fr"
 ><object
 type="tmenu"
->Fichier&gt; Ouvrir un projet/ressource</object
+>Fichier&gt; Ouvrir projet/ressource</object
 ></li
 ><li
 contentType="en"
@@ -1579,7 +1579,7 @@ contentType="en"
 >Note: Non-shared projects don't have to be registered but it is recommended.</p
 ><p
 contentType="fr"
->N.B. Les projets non partagés n’ont pas besoin d’être inscrits (enregistrés), mais il est conseillé.</p
+>N.B. Les projets non partagés n’ont pas besoin d’être inscrits, mais il est conseillé.</p
 ></framedUnit
 ><framedUnit
 framedtype="tTeacher"
@@ -1600,7 +1600,7 @@ type="tPTPrev"
 > from their computer if they don't need it for other projects.</p
 ><p
 contentType="fr"
->Rappelez-vous que personne ne devrait plus modifier le projet dans Paratext 7. Ça serait un effort gaspillé, car personne d'autre ne verra jamais leurs changements. Pour aider les membres de votre équipe à se souvenir de cela, vous pourriez supprimer le projet de leur Paratext 7 une fois qu'ils l'ont obtenu en Paratext 8. Autrement, ils peuvent désinstaller Paratext 7 de leur ordinateur s'ils n'en ont pas besoin pour d'autres projets.</p
+>Rappelez-vous que personne ne devra plus modifier le projet dans Paratext 7. Ce serait un effort gaspillé, car personne d'autre ne verra jamais leurs changements. Pour aider les membres de votre équipe à se souvenir de cela, vous pourriez supprimer le projet de leur Paratext 7 une fois qu'ils l'ont obtenu en Paratext 8. Autrement, ils peuvent désinstaller Paratext 7 de leur ordinateur s'ils n'en ont pas besoin pour d'autres projets.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -1681,7 +1681,7 @@ type="tPT"
 > both users and projects should to be registered. Access to specific text resources, e.g. TEV, is determined by what organization you are a part of</p
 ><p
 contentType="fr"
->Dans Paratext 8, l’on doit inscrire aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie. Les projets peuvent être inscrits par l'administrateur (ou par un conseiller jouant le rôle d'administrateur).</p
+>Dans Paratext 8, l’on doit inscrire aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie.</p
 ><p
 contentType="en"
 >Projects may be registered by the administrator (or a consultant serving as an administrator)</p
@@ -1693,7 +1693,7 @@ contentType="en"
 >Other organizations/users are notified and may object to BoG. Basic project metadata information is available to all in ParaTExt community</p
 ><p
 contentType="fr"
->D’autres organisations / utilisateurs sont avisées de vos actions et pourraient s’opposer à BoG (Board of Governors). Des informations de base sur les métadonnées du projet sont accessibles à tous les membres de la communauté de Paratext. Si votre projet n’est pas inscrit, vous n’aurez pas accès à</p
+>D’autres organisations / utilisateurs sont avisées de vos actions et pourraient s’opposer à BoG (Board of Governors). Des informations de base sur les métadonnées du projet sont accessibles à tous les membres de la communauté de Paratext.</p
 ><p
 contentType="en"
 >If your project is not registered you will not have access to</p
@@ -1968,7 +1968,7 @@ type="tmenu"
 > you want to use Paratext.</li
 ><li
 contentType="fr"
->Expliquez la raison que vous voulez utiliser Paratext.</li
+>Expliquez la raison pourquoi vous voulez utiliser Paratext.</li
 ><li
 contentType="en"
 >Check the box at the bottom if you want to get émail announcements about Paratext updates and news.</li
@@ -1995,7 +1995,7 @@ type="tmenu"
 ></br
 ><object
 type="tresult"
->Vous recevrez votre code d’inscription (et également par émail</object
+>Vous recevrez votre code d’inscription (et également par émail).</object
 ></li
 ></ul
 ><framedUnit
@@ -2265,7 +2265,7 @@ contentType="fr"
 ></br
 ><object
 type="tresult"
->C’est possible que Paratext ait déjà trouvé votre nouveau code.</object
+>Il est possible que Paratext ait déjà trouvé votre nouveau code.</object
 ></li
 ><li
 contentType="en"
@@ -2323,7 +2323,7 @@ type="tmenu"
 >&gt; <object
 type="tmenu"
 >Modifier les informations d'inscription</object
-> et y collez le code.</li
+> et collez-y le code.</li
 ></ul
 ></section2
 ><section2
@@ -2335,7 +2335,7 @@ contentType="en"
 >Change a user's code (who you registered)</titleContent
 ><titleContent
 contentType="fr"
->Changer un code pour un utilisateur (qui vous avez inscrit)</titleContent
+>Changer un code pour un utilisateur (que vous avez inscrit)</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -2556,7 +2556,7 @@ contentType="en"
 >A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.</p
 ><p
 contentType="fr"
->Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, ils peuvent s'inscrire pour Paratext, puis vous pouvez ajouter leur nom au projet.</p
+>Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, doivent s'inscrire pour Paratext eux-mêmes, puis vous pouvez ajouter leur nom au projet.</p
 ></framedUnit
 ><ul
 ><li
@@ -2592,7 +2592,7 @@ sec="sChangeCode"
 ></p
 ><p
 contentType="fr"
->Gardez bien ce code, car il ne peut pas être récupéré à nouveau si vous le perdez. Vous pouvez générer un nouveau code voir <sectionRef
+>Gardez bien ce code, car il ne peut pas être récupéré si vous le perdez. Pourtant vous pouvez générer un nouveau code, voir <sectionRef
 sec="sChangeCode"
 ></sectionRef
 ></p
@@ -2631,7 +2631,7 @@ contentType="en"
 >It is unclear how many text resource owners will grant access to this group</p
 ><p
 contentType="fr"
->Il se peut que peu de propriétaires de ressources textes accordent l’accès à ce groupe</p
+>Il se peut que seulement peu de propriétaires de textes ressources accordent l’accès à ce groupe.</p
 ></framedUnit
 ></section1
 ></chapter
@@ -2704,13 +2704,13 @@ type="tPT"
 > is that projects need to be registered as well as users. This may feel like an extra complication, but it does offer benefits to users.</p
 ><p
 contentType="fr"
->Un aspect nouveau dans Paratext 8 est que les projets doivent être inscrits ainsi que les utilisateurs. Cela peut sembler une complication supplémentaire, mais il offre des avantages aux utilisateurs.</p
+>Un aspect nouveau dans Paratext 8 est que les projets et les utilisateurs doivent être inscrits. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.</p
 ><p
 contentType="en"
 >As we saw in the user registration section, the project administrator can create registrations for users they want to be part of their project.</p
 ><p
 contentType="fr"
->Comme nous avons vu dans la section d'enregistrement des utilisateurs, l'administrateur du projet peut créer des enregistrements pour les utilisateurs dont ils souhaitent faire partie de leur projet.</p
+>Comme nous avons vu dans la section d'inscription des utilisateurs, l'administrateur d'un projet peut créer des inscriptions pour les utilisateurs dont ils souhaitent faire participer à son projet.</p
 ><p
 contentType="en"
 ><object
@@ -2860,7 +2860,7 @@ contentType="fr"
 >Dans la section <object
 type="tmenu"
 >Nom complet</object
->, donnez au projet un nom et puis un <object
+>, donnez un nom au projet et puis un <object
 type="tmenu"
 >Nom abrégé</object
 > correspondant.</li
@@ -2996,7 +2996,7 @@ contentType="en"
 >Fill in the advanced fields if necessary.</li
 ><li
 contentType="fr"
->Remplissez les champs avancés si nécessaire.</li
+>Remplissez les champs de la section Advanced (Avancé) si nécessaire.</li
 ><li
 contentType="en"
 >Click <object
@@ -3017,7 +3017,7 @@ contentType="en"
 >You can also specify additional information if needed in the “advanced” section of the language settings dialog.</p
 ><p
 contentType="fr"
->Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancées" de la boîte de dialogue des paramètres de langue.</p
+>Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancé" de la boîte de dialogue des paramètres de langue.</p
 ></framedUnit
 ></section1
 ><section1
@@ -3069,7 +3069,7 @@ contentType="en"
 >If it is a back translation, or a daughter or transliteration project, you will need to define the source.</p
 ><p
 contentType="fr"
->S'il s'agit d'une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</p
+>S'il s'agit d'un projet dépendant comme une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</p
 ></framedUnit
 ></section1
 ><section1
@@ -3553,7 +3553,7 @@ type="tPT"
 > that will impact the day-to-day work of translation teams.</p
 ><p
 contentType="fr"
->Suivre le progrès basé sur un plan du projet est une fonctionnalité nouvelle qui sera un impact sur le travail quotidien des équipes de la traduction.</p
+>Suivre le progrès basé sur un plan du projet est une fonctionnalité nouvelle qui aura un impact sur le travail quotidien des équipes de la traduction.</p
 ><p
 contentType="en"
 ><object
@@ -3589,7 +3589,7 @@ contentType="en"
 >The Project Plan feature allows the administrator to define a set of translation tasks that your translation project will follow. Paratext comes with sets of pre-defined plans from the various Bible translation organisations that you can use a starting point. However, every project is different and therefore after adding the base plan it will need to be modified for the team.</p
 ><p
 contentType="fr"
->La configuration d’un plan de projet à partir de zéro est intimidante. Diverses organisations de traduction de la Bible (ABU, SIL et The Seed Company) incluront des plans “de base” qui peuvent être appliqués à des projets. Les équipes ne doivent que personnaliser ces plans dans les limites fixées par leurs organisations de parrainage. En générale, les organisations veulent la conformité au niveau de l’« étape » afin de faciliter un suivi de l’avancement du projet dans l’ensemble de l’organisation. Cependant, chaque plan devra être personnalisé au niveau des tâches.</p
+>La configuration d’un plan de projet à partir de zéro est intimidante. Diverses organisations de traduction de la Bible (ABU, SIL et The Seed Company) incluront des plans “de base” qui peuvent être appliqués à des projets. Les équipes ne doivent que personnaliser ces plans dans les limites fixées par leurs organisations. En générale, les organisations veulent la conformité au niveau de l’« étape » afin de faciliter un suivi de l’avancement du projet dans l’ensemble de l’organisation. Cependant, chaque plan devra être personnalisé au niveau des tâches.</p
 ><p
 contentType="en"
 >Typically, organizations want conformity at the “Stage” level in order to facilitate meaningful tracking of the progress of project across the entire organization. However, every plan will need to be customized at the task level.</p
@@ -3601,7 +3601,7 @@ contentType="fr"
 >Avant d’ajouter le plan, le projet doit être créé ou migré.</p
 ><p
 contentType="fr"
->Il y a beaucoup de tâches à faire dans un projet de traduction. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet). Bien que les organisations aient un plan de base, chaque projet est différent et, par conséquent, après avoir ajouté le plan de base, il doit être modifié pour l’équipe et diverses tâches affectées aux membres de l’équipe.</p
+>Il y a beaucoup de tâches à faire dans un projet de traduction. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet). Bien que les organisations aient un plan de base, chaque projet est différent et, par conséquent, après avoir ajouté le plan de base, il faut l'adapter pour l’équipe et les diverses tâches doivent être affectées aux différents membres de l'équipe.</p
 ><p
 contentType="en"
 ><object
@@ -3789,7 +3789,7 @@ contentType="en"
 >If the project has an old plan, you need to delete each of the current stages before adding a new base plan.</p
 ><p
 contentType="fr"
->Si le projet a un plan ancien, vous devez supprimer chacune des étapes actuelles avant d’ajouter un nouveau plan de base.</p
+>Si le projet a un ancien plan, vous devez supprimer chacune des étapes actuelles avant d’ajouter un nouveau plan de base.</p
 ></framedUnit
 ><ul
 ><li
@@ -3927,7 +3927,7 @@ src="supimgeng\image24.png"
 ></li
 ><li
 contentType="fr"
->For the desired check, drop down the list<br
+>Pour la vérification désirée, cliquez sur la liste déroulante<br
 ></br
 ><img
 src="supimgeng\image24.png"
@@ -3938,7 +3938,7 @@ contentType="en"
 >Choose the new stage or *none*</li
 ><li
 contentType="fr"
->Choisissez l'étape ou *None*</li
+>Choisissez l'étape ou *Aucun*</li
 ></ul
 ></section1
 ><section1
@@ -4016,7 +4016,7 @@ contentType="fr"
 ></br
 ><object
 type="tresult"
->Vous pouvez recevoir un message de confirmation si la tâche change d’étape.</object
+>Il se peut que vous recevrez un message de confirmation si la tâche change d’étape.</object
 ></li
 ><li
 contentType="en"
@@ -4050,7 +4050,7 @@ contentType="en"
 >Click on the task which is above the new task.</li
 ><li
 contentType="fr"
->Cliquez sur la tâche qui sera au-dessus la nouvelle tâche.</li
+>Cliquez sur la tâche qui sera au-dessus de la nouvelle tâche.</li
 ><li
 contentType="en"
 >Click on the <object
@@ -4061,8 +4061,8 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur le bouton <object
 type="tmenu"
->Add task</object
-> (ajouter une tâche)</li
+>Ajouter une tâche</object
+></li
 ><li
 contentType="en"
 >Type the name for the task and a description.</li
@@ -4104,7 +4104,7 @@ type="tmenu"
 >/Tasks tab</li
 ><li
 contentType="fr"
->Cliquez sur l’onglet Étape/Tâches</li
+>Cliquez sur l’onglet Étapes/Tâches</li
 ><li
 contentType="en"
 >Click on the task to delete<br
@@ -4134,10 +4134,10 @@ type="tmenu"
 > button</li
 ><li
 contentType="fr"
->Cliquez sur le bouton (supprimer la tâche) (<object
+>Cliquez sur le bouton <object
 type="tmenu"
->Remove task</object
->)</li
+>Retirer la tâche</object
+></li
 ><li
 contentType="en"
 >Click <object
@@ -4208,26 +4208,36 @@ contentType="fr"
 contentType="en"
 >There are three settings to check</li
 ><li
-contentType="fr"
->Il y a trois paramètres à vérifier</li
+><ul
 ><li
 contentType="en"
 >how do you to mark the task as complete (once for each chapter, book or project)</li
 ><li
-contentType="fr"
->comment marquer la complétion de la tâche (par chapitre, livre)</li
-><li
 contentType="en"
 >when can the task begin (anytime, or wait for another task ...)</li
+><li
+contentType="en"
+>do you need editing permission (if so, which project)</li
+></ul
+></li
+><li
+contentType="fr"
+>Il y a trois paramètres à vérifier</li
+><li
+><ul
+><li
+contentType="fr"
+>comment marquer la complétion de la tâche (par chapitre, livre)</li
 ><li
 contentType="fr"
 >quand on peut commencer une tâche (après une autre tâche…)</li
 ><li
-contentType="en"
->do you need editing permission (if so, which project)</li
-><li
 contentType="fr"
 >accorder le droit de modifier (donner la permission de modifier le texte)</li
+></ul
+></li
+></ul
+><ul
 ><li
 contentType="en"
 >From the <object
@@ -4484,9 +4494,9 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cliquez sur Gérer les plans (<object
+>Cliquez sur (<object
 type="tmenu"
->Manage Plans</object
+>Gérer les plans</object
 >)</li
 ><li
 contentType="en"
@@ -4496,10 +4506,10 @@ type="tmenu"
 > drop-down, select the project plan that contains the desired task.</li
 ><li
 contentType="fr"
->Dans la liste déroulante « Afficher le plan de base (<object
+>Dans la liste déroulante «  <object
 type="tmenu"
->Show base plan</object
->) », sélectionnez le plan de projet qui contienne la tâche voulu.</li
+>Afficher le plan de base</object
+>) », sélectionnez le plan de projet qui contienne la tâche voulue.</li
 ><li
 contentType="en"
 >On the <object
@@ -4510,10 +4520,10 @@ type="tmenu"
 >If you want the new task to be the first task in the stage, select the stage name instead.</li
 ><li
 contentType="fr"
->Dans la partie Plan actuelle (<object
+>Dans la partie <object
 type="tmenu"
->Current plan</object
->), cliquez sur la ligne qui précédera la nouvelle tâche.<br
+>Plan actuelle</object
+>, cliquez sur la ligne qui précédera la nouvelle tâche.<br
 ></br
 >Si vous voulez que la tâche ajoutée soit la première tâche de l’étape, sélectionnez le nom de l’étape.</li
 ><li
@@ -4613,7 +4623,7 @@ contentType="fr"
 >Pour les projets qui ont déjà complété plusieurs étapes au moment de passer à <object
 type="tPT"
 ></object
-> la vue de la "table des tâches/Tasks table" et/ou la vue de la table des "affectations et des progrès (Assignments and Progress)" peuvent être utiles pour marquer plusieurs livres, étapes ou tâches, comme complété.achevé.</p
+> la vue de la "table des tâches/Tasks table" et/ou la vue de la table des "affectations et des progrès (Assignments and Progress)" peuvent être utiles pour marquer plusieurs livres, étapes ou tâches, comme achevé.</p
 ></framedUnit
 ><ul
 ><li
@@ -4676,7 +4686,7 @@ contentType="fr"
 ></br
 ><object
 type="tresult"
->L'étape sera marquée comme complète à moins que des erreurs n'aient été trouvées. Les erreurs doivent être corrigées avant que l'étape ne puisse être marqué comme complété.</object
+>L'étape sera marquée comme complète à moins que des erreurs n'aient été trouvées. Les erreurs doivent être corrigées avant que l'étape ne puisse être marqué une étape comme complétée.</object
 ></li
 ></ul
 ><framedUnit
@@ -4844,13 +4854,13 @@ contentType="en"
 >Put the orthography in the language settings.</li
 ><li
 contentType="fr"
->Placez l’orthographe dans les paramètres de langue.</li
+>Placez les lettres de l’orthographe dans les paramètres de langue.</li
 ><li
 contentType="en"
 >(Keep in mind that what you put in the language settings could be going to the “Speech and Language Data Repository”</li
 ><li
 contentType="fr"
->(Rappelez que ce que vous avez mis dans les paramètres de langue pourrait aller à la « Speech and Language Data Repository ».)</li
+>(Rappelez-vous que ce que vous avez mis dans les paramètres de langue pourrait aller dans le « Speech and Language Data Repository ».)</li
 ></ul
 ><pc
 contentType="en"
@@ -4885,7 +4895,7 @@ contentType="fr"
 >C'est très utile, mais, si on fixe un des claviers, il faut le customizer pour tous les langues dans Paratext.</li
 ><li
 contentType="dn"
->where did this come from? wasn't in the original english.</li
+>where did this come from? wasn't in the original english. JB: no idea!</li
 ></ul
 ></li
 ><li
@@ -5039,7 +5049,10 @@ contentType="en"
 >If you have ever needed to rename your project, reduce the size of your project, change user names, change the encoding or struggled with composed/decomposed diacritics, then the convert project tool will help you solve these problems.</p
 ><p
 contentType="fr"
->Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, à modifiez les noms d’utilisateur, à modifier l’encodage ou lutter avec des signes diacritiques composés/décomposés, l’outil Convert projet [convertir projet] vous aidera à résoudre ces problèmes.</p
+>Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, de modifier les noms d’utilisateur, de modifier l’encodage ou de lutter avec des signes diacritiques composés/décomposés, l’outil <object
+type="tmenu"
+>Convertir le projet</object
+> vous aidera à résoudre ces problèmes.</p
 ><p
 contentType="en"
 ><object
@@ -5078,7 +5091,10 @@ contentType="fr"
 >Il n’est que possible d’apporter quelques modifications au projet dans le <object
 type="tmenu"
 >Propriétés et paramètres</object
-> du projet. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil convertir projet permet le nouveau projet de garder l’historique du projet.</p
+> du projet. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil <object
+type="tmenu"
+>Convertir le projet</object
+> permet le nouveau projet de garder l’historique du projet.</p
 ><p
 contentType="en"
 ><object
@@ -5109,7 +5125,7 @@ contentType="en"
 >Removing deleted files from the project history</li
 ><li
 contentType="fr"
->Suppression des fichiers supprimés de l’historique du projet</li
+>Retirer les fichiers effacées de l'historique de projet</li
 ><li
 contentType="en"
 >Clean up Paratext Live history</li
@@ -5206,7 +5222,7 @@ contentType="en"
 >Confirm that the old name of the project is correct. (If not, close the dialogue and click in the correct project window, and access the dialog again.)</li
 ><li
 contentType="fr"
->Confirmer que l’ancien nom du projet est correct. [Sinon, fermez le dialogue et cliquez dans la fenêtre projet correct et accéder à la boîte de dialogue Nouveau.]</li
+>Confirmez que l’ancien nom du projet est correct. [Sinon, fermez le dialogue et cliquez dans la fenêtre projet correct et accéder à la boîte de dialogue Nouveau.]</li
 ><li
 contentType="en"
 >Enter the new short name for the project in <object
@@ -5275,7 +5291,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >[3]</object
-> sélectionnez cette option si vous avez édité le projet avec Paratext Live et que vous souhaitez remplacer les noms dans l’histoire du projet.</li
+> Sélectionnez cette option si vous avez édité le projet avec Paratext Live et que vous souhaitez remplacer les noms dans l’histoire du projet.</li
 ></ul
 ></section2
 ><section2
@@ -5317,7 +5333,7 @@ contentType="fr"
 ><img
 src="supimgeng\image29.png"
 ></img
-> N.B. : Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composé ou décomposée.</p
+> N.B. : Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composés ou décomposés.</p
 ></framedUnit
 ></section2
 ><section2
@@ -5344,7 +5360,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >[5]</object
-> Sélectionnez Composé [NFC] ou une des options dans la liste déroulante si les données dans votre projet contiennent des caractères composé et décomposé.</li
+> Sélectionnez Composé [NFC] ou une des options dans la liste déroulante si les données dans votre projet contiennent des caractères composés et décomposés.</li
 ></ul
 ></section2
 ><section2
@@ -5371,7 +5387,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >[6]</object
-> sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.</li
+> Sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.</li
 ><li
 contentType="en"
 ><object
@@ -5383,7 +5399,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >[7]</object
-> tapez le nom d’un utilisateur inscrit de Paratext dans ce cas.</li
+> Tapez le nom d’un utilisateur inscrit de Paratext dans ce cas.</li
 ><li
 contentType="en"
 ><object
@@ -5419,7 +5435,7 @@ contentType="fr"
 >[Si vous faites une erreur en tapant le nom dans le champ <object
 type="tmenu"
 >With (Avec)</object
-> ou vous décidez de ne pas faire le remplacement, cliquez sur <object
+> ou que vous décidez de ne pas faire le remplacement, cliquez sur <object
 type="tmenu"
 >Remove (supprimer)</object
 >].</li
@@ -5502,7 +5518,7 @@ contentType="en"
 >Most languages do not have access to concordances and other Bible study materials in their own languages. Adding cross references to your New Testament can greatly help your reader understand the text by helping your reader find passages on similar themes.</p
 ><p
 contentType="fr"
->La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en aidant votre lecteur à trouver des passages sur des thèmes similaires.</p
+>La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.</p
 ><p
 contentType="en"
 ><object
@@ -5544,7 +5560,7 @@ type="tmenu"
 >. Extracting cross-references from a model text allows you to easily insert the same cross-references.</p
 ><p
 contentType="fr"
->Lire le Nouveau Testament n’est pas comme la lecture d’un roman. Avoir accès à traverser références permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un est trop fastidieux. Le menu <object
+>Lire le Nouveau Testament n’est pas comme la lecture d’un roman. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu <object
 type="tmenu"
 >Insérer les renvois</object
 > vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvois seront convertis également pour correspondre à vos <object
@@ -5571,7 +5587,7 @@ contentType="en"
 >If you don't have a model text with the desired cross-reference, you can create your own list and import it.</p
 ><p
 contentType="fr"
->Nous allons faire trois choses : exporter les renvois à partir d’un modèle de texte ; Assurez-vous que tous les paramètres des noms des livres et des références bibliques ont été saisis pour votre projet, et enfin insérer les renvois.</p
+>Nous allons faire trois choses : exporter les renvois à partir d’un modèle de texte ; Assurez-vous que tous les paramètres des noms des livres et des références bibliques ont été saisis pour votre projet, et puis insérez les renvois.</p
 ></section1
 ><section1
 id="sCRExtract"
@@ -5591,7 +5607,7 @@ contentType="en"
 >Open the model text.</li
 ><li
 contentType="fr"
->Ouvrir le projet du modèle.</li
+>Ouvrir le projet du modèle (p.ex. un autre projet de la filiale).</li
 ><li
 contentType="en"
 >From the <object
@@ -6108,11 +6124,11 @@ id="dn"
 active="no"
 >-Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice

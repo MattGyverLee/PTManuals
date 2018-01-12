@@ -329,7 +329,7 @@ contentType="en"
 >Transliterate proper names.</li
 ><li
 contentType="fr"
->Transliterater les noms propres. </li
+>Translittérer les noms propres. </li
 ><li
 contentType="en"
 >Check that proper names are consistent.</li
@@ -417,13 +417,13 @@ contentType="en"
 >Add project notes as needed to communicate with other team members and/or consultants.</li
 ><li
 contentType="fr"
->Ajouter des remarques pour communiquer avec l’équipe et conseillère. </li
+>Ajouter des remarques pour communiquer avec l’équipe et la conseillère ou la conseiller. </li
 ><li
 contentType="en"
 >Add project, Spelling and Biblical term notes to discuss various issues and record the decisions made.</li
 ><li
 contentType="fr"
->Ajouter les remarques du projet, de l’orthographe et des termes bibliques et surtout avec les décisions prises.</li
+>Ajouter les remarques du projet, de l’orthographe et des termes bibliques y compris les décisions prises.</li
 ></ul
 ><pc
 contentType="en"
@@ -602,7 +602,7 @@ type="tPT"
 > on the computers, the participant should read the introductory material and tick (check) the objectives that they feel confident doing in the most recent version of Paratext they have used.</p
 ><p
 contentType="fr"
->Pendant que les facilitateurs installent Paratext 8 sur les ordinateurs, le participant devrait lire le matériel d'introduction et cocher (vérifier) les objectifs auxquels ils se sentent confiants dans la version la plus récente de Paratext qu'ils ont utilisée.</p
+>Pendant que les facilitateurs installent Paratext 8 sur les ordinateurs, les participants liront le matériel d'introduction et cocheront (vérifieront) les objectifs qu'ils maîtrisent bien dans la version la plus récente de Paratext qu'ils ont utilisée.</p
 ><pc
 contentType="en"
 ><object
@@ -681,7 +681,7 @@ contentType="en"
 >Give the participant time to reflect, fill in the recall exercise, add to Anki.</li
 ><li
 contentType="fr"
->Donnez au participant le temps de réfléchir, complétez l'exercice de bilan, et de les ajouter à Anki.</li
+>Donner au participant le temps de réfléchir, complétez l'exercice de bilan, et de les ajouter à Anki.</li
 ></ul
 ></section1
 ></chapter
@@ -730,7 +730,7 @@ src="12imgeng/image2.png"
 ></p
 ><p
 contentType="fr"
->Il y a plusieurs étapes d’un projet de traduction. En cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saissisez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.<br
+>Il y a plusieurs étapes dans un projet de traduction. Dans cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saissisez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.<br
 ></br
 ><img
 src="12imgfr/image2a.png"
@@ -741,7 +741,7 @@ contentType="en"
 >The following modules will help you in this stage :</p
 ><p
 contentType="fr"
->Les modules suivants vous aiderez avec cette étape :</p
+>Les modules suivants vous aideront avec cette étape :</p
 ><ul
 ><li
 contentType="en"
@@ -863,7 +863,7 @@ contentType="fr"
 >Vous désirez travailler sur votre texte en <object
 type="tPT"
 ></object
-> et consultez les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
+> et consulter les ressources diverses. Dans ce module, vous allez apprendre comment ouvrir des ressources et organiser votre bureau.</p
 ><pc
 contentType="en"
 ><object
@@ -1019,7 +1019,7 @@ contentType="fr"
 ></br
 ><object
 type="tresult"
->Votre écran doit ressemble à l’image ci-dessous (sinon, voir ci-dessous). </object
+>Votre écran doit ressembler à l’image ci-dessous (sinon, voir ci-dessous pour comment ouvrir les fenêtres). </object
 ><p
 ><br
 ></br
@@ -1047,7 +1047,7 @@ contentType="en"
 >If you haven’t already saved a text combination, then we recommend you do the following:</p
 ><p
 contentType="fr"
->Si vous n’avez pas encore enregistré une disposition de fenêtres, on vous suggère de faire comme ci-dessous</p
+>Si vous n’avez pas encore enregistré une disposition de fenêtres, on vous suggère de faire comme ci-dessous:</p
 ><section2
 id="sArrangeWindows"
 ><secTitle
@@ -1286,7 +1286,7 @@ contentType="en"
 >If you want to delete a saved combination,</p
 ><p
 contentType="fr"
->Si vous ne voulez plus une disposition des fenêtres,</p
+>Si vous ne voulez plus garder une disposition des fenêtres,</p
 ><ul
 ><li
 contentType="en"
@@ -1399,7 +1399,7 @@ contentType="en"
 >If necessary, change the order using the up/down arrow buttons.</li
 ><li
 contentType="fr"
->Si nécessaire, changez l’ordre avec les boutons haut/bas </li
+>Si nécessaire, changez l’ordre avec les boutons vers le haut/vers le bas </li
 ><li
 contentType="en"
 >Click <object
@@ -1591,6 +1591,9 @@ contentType="en"
 ><li
 contentType="fr"
 >Double-cliquez sur le terme. </li
+><li
+contentType="dn"
+>this section is out of place. It needs to be moved to the Biblical terms section.</li
 ></ul
 ></section1
 ><section1
@@ -1743,7 +1746,7 @@ contentType="en"
 >There are so many tasks to be done in a translation project. It is important to have a system to make sure these are all done. Now that your plan has been configured, you can use the plan to see what tasks have been assigned to you to be done next. Then when you finish the task, you can mark the task as completed and see the next task to do. You can use this information to generate reports for supervisors and donors (see PP2: Project plan reporting).</p
 ><p
 contentType="fr"
->Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et bailleurs de fonds.(Voir <sectionRef
+>Il y a beaucoup de taches à faire dans un projet de traduction. C’est important d’avoir un système pour nous assurer que tous ont été faits. Puisque votre plan a été configuré, vous pouvez utiliser le plan pour voir quelles tâches ont été affectées (confiées) à vous. Lorsque vous avez terminé la tâche, vous pouvez marquer la tâche comme achevée et voir la tâche suivante à faire. Vous pouvez utiliser cet information pour générer les rapports pour les administrateurs et bailleurs de fonds.(Voir <sectionRef
 sec="sProduceAProgressReport"
 showTitle="full"
 ></sectionRef
@@ -1784,10 +1787,20 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Click in your project.</li
+>Click in your project.<br
+></br
+><object
+type="tresult"
+>The titlebar will be darker.</object
+></li
 ><li
 contentType="fr"
->Cliquez dans votre projet.</li
+>Cliquez dans votre projet.<br
+></br
+><object
+type="tresult"
+>La barre de la fenêtre sera en couleur foncée</object
+></li
 ></ul
 ></section1
 ><section1
@@ -1900,7 +1913,7 @@ contentType="en"
 >Identify the next task</titleContent
 ><titleContent
 contentType="fr"
->Identifiez la prochaine tâche à faire</titleContent
+>Identifier la prochaine tâche à faire</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -1936,7 +1949,7 @@ contentType="en"
 >When the task is finished, see the instructions below to mark it as completed. (A check is completed when there are 0 issues.)</p
 ><p
 contentType="fr"
->Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les noter comme achevées. Une vérification est achevée quand il indique <object
+>Quand les tâches sont finies, voir les instructions ci-dessous pour apprendre comment les marquer comme achevées. Une vérification est achevée quand il indique <object
 type="tBold"
 >Aucun problèms</object
 >. </p
@@ -2185,7 +2198,7 @@ contentType="en"
 >Complete the setup as appropriate.</li
 ><li
 contentType="fr"
->Complétez-la comme nécessaire.</li
+>Complétez le paramétrage comme nécessaire.</li
 ><li
 contentType="en"
 >Close the window when finished.</li
@@ -2200,7 +2213,7 @@ contentType="en"
 >If there is more than one inventory required for a check (e.g. capitalization) you will need to set them up manually from the Checking menu.</p
 ><p
 contentType="fr"
->S'il y a plus d'un inventaire pour un vérification (p.ex. mise en majuscule), vous devrez les configurer manuellement dans le menu Vérification.</p
+>S'il y a plus d'un inventaire pour un vérification (p.ex. mise en majuscule), vous devrez configurer ces inventaires manuellement dans le menu Vérification..</p
 ></framedUnit
 ></section2
 ><section2
@@ -2373,7 +2386,7 @@ contentType="en"
 >This is the first stage of entering your translation into the computer. Once the text has been typed, you can run various checks on the content and format of the text.</p
 ><p
 contentType="fr"
->C’est la première étape de l’introduction de votre traduction dans l’ordinateur. Une fois que le texte a été saisi, vous pourrez exécuter divers contrôles sur le contenu et le format du texte.</p
+>C’est la première étape de la saisir de votre traduction dans l’ordinateur. Une fois que le texte a été saisi, vous pourrez exécuter divers contrôles sur le contenu et le format du texte.</p
 ><section1
 id="sGoToABiblicalVerse"
 ><secTitle
@@ -2591,7 +2604,7 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Surligner les caractères non valides</object
-> pour mettre en surbrillance des caractères invalides qui sont dans le texte.</p
+> pour mettre en surbrillance des caractères invalides (= pas acceptés pour écrire cette langue) qui sont dans le texte.</p
 ></framedUnit
 ></section1
 ><section1
@@ -2603,7 +2616,7 @@ contentType="en"
 >Adding text in another marker - title or introduction</titleContent
 ><titleContent
 contentType="fr"
->Ajouter texte avec un autre marqueur - titre ou introduction</titleContent
+>Ajouter texte d'une autre catégorie - titre ou introduction</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -3156,7 +3169,7 @@ src="12imgeng/image15.png"
 ></br
 ><object
 type="tresult"
->Paratext fera l'Envoyer/Recevoir tout de suite.</object
+>Paratext fera l'Envoyer/Recevoir tout de suite, c.à.d. sans proposer les différentes options.</object
 ></li
 ></ul
 ></section1
@@ -3169,7 +3182,7 @@ contentType="en"
 >Moving your cursor efficiently</titleContent
 ><titleContent
 contentType="fr"
->Déplacer votre point d’insertion rapidement</titleContent
+>Déplacer votre curseur rapidement</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
@@ -3179,7 +3192,7 @@ contentType="en"
 >A lot of time is spent moving your cursor to the place where you need to add text or make corrections. Here are some useful keystrokes to move your cursor quickly.</p
 ><p
 contentType="fr"
->Ça prend beaucoup de temps pour déplacer le curseur à l’endroit correct où vous voulez taper du texte ou faire des corrections. Voilà quelques touches utiles.</p
+>De déplacer le curseur à l'endroit correct où vous voulez taper du texte ou faire des corrections peut prendre beaucoup de temps, si on le déplace une lettre à l'autre! Voilà quelques touches utiles pour vous aider à y arriver rapidement:</p
 ></framedUnit
 ><ul
 ><li
@@ -3409,10 +3422,10 @@ type="tmenu"
 > tool as it keeps the Glossary in alphabetical order. The tool also keeps track of the changes to the glossary.</p
 ><p
 contentType="fr"
->C’est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil <object
+>Il est bon d’avoir une liste des mots importants ainsi que leur explication pour que les gens puissent mieux comprendre le texte. Il est préférable d’utiliser l’outil <object
 type="tmenu"
 >Termes bibliques</object
->, parce qu’il va garder la liste en ordre alphabétique, si vous ajoutez les mots manuellement c’est trop difficile à garder la liste en ordre. Vous pouvez également voir l’historique des changements.</p
+>, parce qu’il va garder la liste en ordre alphabétique. Si vous ajoutez les mots manuellement, le glossaire est plus difficile à gérer. Un autre avantage, si on crée les entrées du glossaire à partir de l'outil Termes bibliques, c'est qu'on peut aussi voir l'historique.</p
 ><pc
 contentType="en"
 ><object
@@ -3430,7 +3443,7 @@ contentType="en"
 >You will use the Biblical terms tool to add a rendering for the term and then use the glossary tab to enter the citation form and the definition.</p
 ><p
 contentType="fr"
->Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.</p
+>Vous utiliserez l’outil Termes bibliques et modifierez l’équivalent d'un terme. L’onglet glossaire vous permet d’ajouter la forme de citation et la définition.</p
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3943,7 +3956,7 @@ contentType="en"
 >These checks allow you to be sure that you have all the chapters and verses and that the other markers are correct. It is important to run the chapter/verse check first because all the other checks depend on it. Doing these checks allows you to complete the Drafting stage.</p
 ><p
 contentType="fr"
->Ces vérifications vous permettent d’être sûr que votre texte contient tous les chapitres et tous les versets et que les marqueurs sont bons. Il est important d’exécuter la vérification « chapitre/verset » tout d’abord parce que tous les autres contrôles en dépendent. C’est également nécessaire pour assurer que l’étape de « ébauchage » est finie.</p
+>Ces vérifications vous permettent d’être sûr que votre texte contient tous les chapitres et tous les versets et que les marqueurs sont correctement utilisés. Il est important d’exécuter la vérification « chapitre/verset » tout d’abord parce que tous les autres contrôles en dépendent. C’est également nécessaire pour assurer que l’étape de « ébauchage » est finie.</p
 ><pc
 contentType="en"
 ><object
@@ -4353,7 +4366,7 @@ contentType="en"
 >In this module, you will learn how to update your progress and create a progress report.</p
 ><p
 contentType="fr"
->Dans ce module, vous apprendrez comment actualiser votre progrès et créer un rapport sur l'état d'avancement.</p
+>Dans ce module, vous apprendrez comment mettre à jour les informations sur le progrès fait et créer un rapport sur l'état d'avancement.</p
 ><pc
 contentType="en"
 ><object
@@ -4371,7 +4384,7 @@ contentType="en"
 >You have been working on your translation and have finished a task. You now want to update your progress.</p
 ><p
 contentType="fr"
->Vous avez travaillé sur votre traduction et avez fini une tâche. Vous voulez maintenant actualiser votre progrès.</p
+>Vous avez travaillé sur votre traduction et avez fini une tâche. Vous voulez maintenant mettre à jour votre progrès.</p
 ><pc
 contentType="en"
 ><object
@@ -4386,7 +4399,7 @@ type="tPT"
 > to make the next task available for the other team members. It also gives Paratext accurate information on your progress for the reports. Creating a progress reports helps you prepare a report for your supervisors and funders.</p
 ><p
 contentType="fr"
->Pour que le plan de projet fonctionne bien, vous avez besoin de marquer les tâches que vous avez finies. Cela permet à <object
+>Pour que le plan de projet fonctionne bien, vous devez marquer les tâches que vous avez finies. Cela permet à <object
 type="tPT"
 ></object
 > de rendre la tâche suivante disponible pour les autres membres de l'équipe. Cela donne également information juste de votre progrès pour les rapports. La création des rapports vous aide à préparer un rapport à vos surveillants et bailleurs de fonds.</p
@@ -4401,7 +4414,7 @@ contentType="en"
 >You will open the assignments and progress window and update the progress made. You will then produce a report.</p
 ><p
 contentType="fr"
->Vous ouvrirez la fenêtre des tâches et avancement, et actualiserez le progrès fait. Vous produirez alors un rapport.</p
+>Vous ouvrirez la fenêtre des tâches et avancement, et mettrez à jour les informations sur le progrès fait. Vous produirez alors un rapport.</p
 ><section1
 id="sHowToMakeSureTheProgress"
 ><secTitle
@@ -4426,7 +4439,7 @@ contentType="en"
 >Update the progress on all tasks (see PP1 for instructions on each type of task).</li
 ><li
 contentType="fr"
->Actualisez le progrès sur toute tâche (voir PP1 pour les instructions sur chaque type de tâche).</li
+>Mettez à jour les informations sur le progrès de chaque tâche (voir PP1 pour les instructions sur chaque type de tâche).</li
 ></ul
 ></section1
 ><section1
@@ -4500,7 +4513,7 @@ type="tmenu"
 contentType="fr"
 >Dans la colonne, "<object
 type="tmenu"
->Affecté à</object
+>Confié (Affecté) à</object
 >" , utilisez la liste déroulante pour choisir qui aura la responsabilité de la tâche ou de la vérification (énuméré dans la colonne <object
 type="tmenu"
 > Tâche/Vérification</object
@@ -4852,7 +4865,7 @@ contentType="en"
 >In this module, you will check that the proper names have been transliterated consistently.</p
 ><p
 contentType="fr"
->Dans ce module, vous vérifierez que que les noms propres sont bien translitérés.</p
+>Dans ce module, vous vérifierez que que les noms propres sont bien translittérés.</p
 ><pc
 contentType="en"
 ><object
@@ -4943,7 +4956,7 @@ contentType="en"
 >work through the Biblical Terms list to ensure that all the verses are consistent.</li
 ><li
 contentType="fr"
->travailler à travers la liste des termes bibliques pour s'assurer que tous les versets sont cohérents.</li
+>travailler à travers la liste des termes bibliques pour s'assurer que les noms dans tous les versets sont cohérents.</li
 ></ul
 ><section1
 id="sRunBTTool"
@@ -5037,7 +5050,7 @@ contentType="en"
 >Choose your reference text as a comparative text</titleContent
 ><titleContent
 contentType="fr"
->Choisir le texte de référence pour comparer</titleContent
+>Choisir le texte de référence comme texte comparative</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -5316,7 +5329,7 @@ contentType="en"
 >Then revise and approve the Adapted Name</titleContent
 ><titleContent
 contentType="fr"
->Puis réviser les noms propres (à droite) un par un</titleContent
+>Puis réviser les noms propres (à droite) l'un après l'autre</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -5352,7 +5365,7 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->précisez la modification juste et cliquez sur <object
+>Précisez la modification juste et cliquez sur <object
 type="tmenu"
 >OK</object
 ></li
@@ -6060,7 +6073,7 @@ contentType="en"
 >Check similarly spelled words</titleContent
 ><titleContent
 contentType="fr"
->Vérifier les mots ayant une orthographe similaire</titleContent
+>Vérifier les mots qui se ressemblent beaucoup dans l'écriture</titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -6224,13 +6237,13 @@ contentType="en"
 ><object
 type="tPT"
 ></object
-> will underline in red the words that have not been approved in the word list. This either means that the word is misspelled or unknown. You must decide.</p
+> will underline in red the words that have not been approved in the word list. This either means that the word is misspelled or unknown.</p
 ><p
 contentType="fr"
 ><object
 type="tPT"
 ></object
-> soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu soit mal-écrit. C'est á vous de décider.</p
+> soulignera en rouge les mots non-validé dans le liste de mots. Cela veut dire que le mot est soit inconnu soit mal-écrit.</p
 ></framedUnit
 ><ul
 ><li
@@ -6741,7 +6754,7 @@ type="ttyped"
 >".</p
 ><p
 contentType="fr"
->Une liste de mots s'affiche qui vous montre les même types de problème qui ont déjà été corrigé en d'autres termes. Par exemple : si vous aviez corrigé « <object
+>Une liste de mots s'affiche qui vous montre les même types de problème qui ont déjà été corrigé ailleurs. Par exemple : si vous aviez corrigé « <object
 type="ttyped"
 >vres</object
 > » en « <object
@@ -7013,28 +7026,52 @@ contentType="fr"
 ><ol
 ><li
 contentType="en"
->Find all the ways you have rendered this term, and enter them in the renderings dialog.</li
+><object
+type="tBold"
+>[A]</object
+> Find all the ways you have rendered this term, and enter them in the renderings dialog.</li
 ><li
 contentType="fr"
->Trouver tous les équivalents que vous avez utilisés pour ce terme, et entrez les équivalents dans la boîte de dialogue des équivalents.</li
+><object
+type="tBold"
+>[A]</object
+> Trouver tous les équivalents que vous avez utilisés pour ce terme, et entrez les équivalents dans la boîte de dialogue des équivalents.</li
 ><li
 contentType="en"
->Choose which rendering is/are best, and record why it is best.</li
+><object
+type="tBold"
+>[B]</object
+> Choose which rendering is/are best, and record why it is best.</li
 ><li
 contentType="fr"
->Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.</li
+><object
+type="tBold"
+>[B]</object
+> Choisissez l’équivalent(s) qui est le meilleur, et enregistrez pourquoi il est préférable.</li
 ><li
 contentType="en"
->Document why you rejected the other renderings.</li
+><object
+type="tBold"
+>[C]</object
+> Document why you rejected the other renderings.</li
 ><li
 contentType="fr"
->Expliquez pourquoi vous avez rejeté les autres équivalents.</li
+><object
+type="tBold"
+>[C]</object
+> Expliquez pourquoi vous avez rejeté les autres équivalents.</li
 ><li
 contentType="en"
->Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</li
+><object
+type="tBold"
+>[D]</object
+> Clean up your translation by making this rendering consistent throughout your translation. (Make Consistent, Standardise, Normalise, Harmonise).</li
 ><li
 contentType="fr"
->Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).</li
+><object
+type="tBold"
+>[D]</object
+> Nettoyez votre traduction en appliquant cet équivalent partout dans votre traduction. (Faire cohérente, Standardiser, Normaliser, Harmoniser).</li
 ></ol
 ><ul
 ><li
@@ -7379,7 +7416,7 @@ contentType="en"
 >Continue until all terms for those verses have been identified.</li
 ><li
 contentType="fr"
->Continuez jusqu’à ce que tous les équivalents ont été identifié.</li
+>Continuez jusqu’à ce que tous les équivalents soient identifié.</li
 ></ul
 ></section2
 ><section2
@@ -7521,7 +7558,7 @@ src="12imgeng\renderings2b.png"
 ></li
 ><li
 contentType="fr"
->Ajoutez les * comme nécessaire pour combiner les équivalents similaires. <br
+>Ajoutez les * pour combiner les équivalents similaires. <br
 ></br
 ><img
 src="12imgfr\renderings2b.png"
@@ -7640,7 +7677,7 @@ contentType="en"
 > guy * work fo (guy that works for)</p
 ><p
 contentType="fr"
->Vous pouvez ajouter plus qu’un équivalent si nécessaire. Dans ce cas il est bon d’ajouter une retraduction entre parenthèses après l’équivalent. Par exemple, <br
+>Vous pouvez ajouter plus d’un équivalent si nécessaire. Il est bon d’ajouter une retraduction entre parenthèses après l’équivalent. Par exemple, <br
 ></br
 > slave (esclave)<br
 ></br
@@ -7708,7 +7745,7 @@ contentType="en"
 >If you are still deciding on the rendering you should add a rendering discussion note.</p
 ><p
 contentType="fr"
->Si vous ne décidez pas définitivement sur un équivalent, vous devez ajouter une remarque des équivalents.</p
+>Si vous ne décidez pas définitivement d'un équivalent, vous devez ajouter une remarque des équivalents.</p
 ></framedUnit
 ><ul
 ><li
@@ -7738,7 +7775,7 @@ contentType="en"
 >Assign the note as necessary.</li
 ><li
 contentType="fr"
->Affectez la remarque comme désiré. </li
+>Confiez (affectez) la remarque comme désiré. </li
 ><li
 contentType="en"
 >Click <object
@@ -7899,7 +7936,7 @@ type="tmenu"
 >, puis choisissez votre projet <br
 ></br
 ><img
-src="12imgfr/image42.png"
+src="12imgfr/image42a.png"
 ></img
 ></li
 ><li
@@ -9117,7 +9154,7 @@ contentType="en"
 >This check finds the words which have been immediately repeated in the text.</p
 ><p
 contentType="fr"
->C’est pour identifier les mots qui ont été répétés dans le texte.</p
+>C’est pour identifier les mots qui ont été répétés dans le texte ce qui peut indiquer une erreur, mais pas nécessairement.</p
 ></framedUnit
 ><p
 contentType="en"
@@ -9490,7 +9527,7 @@ contentType="en"
 >It is possible to make minor corrections from within a displayed inventory.</p
 ><p
 contentType="fr"
->C'est possible de faire des corrigés mineurs à partir d'un inventaire:</p
+>C'est possible de faire des corrections mineurs à partir d'un inventaire:</p
 ></framedUnit
 ><ul
 ><li
@@ -10038,10 +10075,10 @@ contentType="fr"
 >comparer les marqueurs de paragraphe de votre texte avec ceux de votre texte de référence ;</li
 ><li
 contentType="en"
->add markers for special text formatting </li
+>add markers for special text formatting. </li
 ><li
 contentType="fr"
->ajouter des marqueurs pour la mise en forme des textes spéciaux ; </li
+>ajouter des marqueurs pour la mise en forme des textes spéciaux.</li
 ></ul
 ><section1
 id="susingchecklists"
@@ -10197,13 +10234,13 @@ contentType="en"
 >the headings are consistent with your reference text</li
 ><li
 contentType="fr"
->les en-têtes sont cohérents avec votre texte de référence </li
+>les en-têtes sont cohérents avec votre texte de référence (grammaire, placement) </li
 ><li
 contentType="en"
 >all headings start with a capital</li
 ><li
 contentType="fr"
->tous commence avec majuscule. </li
+>tous les en-têtes commencent avec majuscule. </li
 ><li
 contentType="en"
 >there is not punctuation at the end</li
@@ -11567,7 +11604,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Il y a une note de discussion d’orthographe pour ce mot.</td
+>Il y a une note de discussion d’orthographe pour ce mot.(Liste de mots)</td
 ></tr
 ><tr
 ><td
@@ -11584,7 +11621,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Il n’y a PAS de note de discussion d’orthographe pour ce mot.</td
+>Il n’y a PAS de note de discussion d’orthographe pour ce mot. (Liste de mots)</td
 ></tr
 ><tr
 ><td
@@ -11652,7 +11689,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Il y a une note de discussion des équivalents pour ce terme biblique. Cette icône apparaît uniquement dans l’outil Termes bibliques ou dans la fenêtre des équivalents des termes bibliques.</td
+>Il y a une note de discussion des équivalents pour ce terme biblique. Cette icône apparaît uniquement dans l’outil Termes bibliques ou dans la fenêtre des équivalents des termes bibliques.(Termes bibliques)</td
 ></tr
 ><tr
 ><td
@@ -11669,7 +11706,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->Il n’y a PAS de note de discussion d’équivalent pour ce terme biblique</td
+>Il n’y a PAS de note de discussion d’équivalent pour ce terme biblique (Termes bibliques)</td
 ></tr
 ></table
 ></tablenumbered
@@ -12057,7 +12094,7 @@ contentType="fr"
 >Saisissez un commentaire dans la case de texte en bas.<br
 ></br
 ><img
-src="12imgfr/image66.png"
+src="12imgfr/image66a.png"
 ></img
 ></li
 ><li
@@ -12065,7 +12102,7 @@ contentType="en"
 >Resolve or assign the note as needed.</li
 ><li
 contentType="fr"
->Resoolvez ou affectez le remarque comme désiré.</li
+>Résolvez ou confiez (affectez) le remarque comme désiré.</li
 ><li
 contentType="en"
 >Click the arrow to collapse the note.</li
@@ -12115,7 +12152,7 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
->Affecter à</object
+>Affecter à (Confier à)</object
 ></li
 ><li
 contentType="en"
@@ -12143,10 +12180,10 @@ id="sApplyNotesToMultipleTexts"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Apply notes to multiple texts</titleContent
+>Apply notes to multiple projects</titleContent
 ><titleContent
 contentType="fr"
->Relie une remarque à plusieurs textes</titleContent
+>Relie une remarque à plusieurs projets</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -12505,7 +12542,7 @@ contentType="en"
 >Sort by [verse, date, assigned to]</li
 ><li
 contentType="fr"
->Trier par [verset, date, affectée à]</li
+>Trier par [verset, date, confiée (affectée) à]</li
 ></ul
 ></li
 ></ul
@@ -12616,7 +12653,7 @@ contentType="en"
 >Define the filter as needed.</li
 ><li
 contentType="fr"
->Définissez le filtre comme nécessaire.</li
+>Définissez le filtre selon votre besoin.</li
 ><li
 contentType="en"
 >Click in the textbox at the top left.</li
@@ -12628,7 +12665,12 @@ contentType="en"
 >Type a name for the filter</li
 ><li
 contentType="fr"
->Saisissez un nom pour le filtre</li
+>Saisissez un nom pour le filtre<br
+></br
+><img
+src="12imgfr\image70.png"
+></img
+></li
 ><li
 contentType="en"
 >Click the save icon.</li
@@ -12649,7 +12691,7 @@ contentType="en"
 >Special text</titleContent
 ><titleContent
 contentType="fr"
->Textes spéciaux</titleContent
+>Textes à format spécial</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -14337,13 +14379,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;&lt;[1]<endnote
-id="nKeyman"
-><p
-contentType="en"
->For Keyman &lt;&lt; for « and &gt;&gt; for », ;&lt; for ‹ and ;&gt; for ›</p
-></endnote
-></td
+>;&lt; or &lt;&lt; (Keyman)</td
 ><td
 align="left"
 valign="top"
@@ -14365,7 +14401,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;&gt;</td
+>;&gt; or &gt;&gt; (Keyman)</td
 ><td
 align="left"
 valign="top"
@@ -14387,7 +14423,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;,</td
+>;, or ;&lt;</td
 ><td
 align="left"
 valign="top"
@@ -14409,7 +14445,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;.</td
+>;. or ;&gt;</td
 ><td
 align="left"
 valign="top"
@@ -14569,13 +14605,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;&lt;[1]<endnote
-id="nKeymanFr"
-><p
-contentType="en"
->For Keyman &lt;&lt; for « and &gt;&gt; for », ;&lt; for ‹ and ;&gt; for ›</p
-></endnote
-></td
+>;&lt; ou &lt;&lt; (Keyman)</td
 ><td
 align="left"
 valign="top"
@@ -14597,7 +14627,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;&gt;</td
+>;&gt; ou &gt;&gt; (Keyman)</td
 ><td
 align="left"
 valign="top"
@@ -14619,7 +14649,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;,</td
+>;, ou ;&lt;</td
 ><td
 align="left"
 valign="top"
@@ -14641,7 +14671,7 @@ valign="top"
 ><td
 align="left"
 valign="top"
->;.</td
+>;. ou ;&gt;</td
 ><td
 align="left"
 valign="top"
@@ -15018,11 +15048,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
