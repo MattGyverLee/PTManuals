@@ -963,7 +963,10 @@ type="tPT"
 >OU</li
 ><li
 contentType="en"
->(From the Start menu, choose <object
+>(From the <object
+type="tmenu"
+>Start</object
+> menu, choose <object
 type="tPT"
 ></object
 > )</li
