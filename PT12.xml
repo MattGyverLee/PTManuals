@@ -2327,11 +2327,54 @@ contentType="en"
 >Postpone check</titleContent
 ><titleContent
 contentType="fr"
-></titleContent
+>Reporter une vérification</titleContent
 ></titleContentChoices
 ></secTitle
-><p
-></p
+><ul
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Project</object
+> menu,  select <object
+type="tmenu"
+>Assignments and Progress </object
+></li
+><li
+contentType="fr"
+>Dans le menu <object
+type="tmenu"
+>Projet</object
+>, selectionnez <object
+type="tmenu"
+>Tâches et Avancement</object
+> </li
+><li
+contentType="en"
+>Hover over a check that has issues</li
+><li
+contentType="fr"
+>Passez au-dessus d'un contrôle qui a des problèmes</li
+><li
+contentType="en"
+>click <object
+type="tmenu"
+>Postpone</object
+> (which appears to the right of the Status column), <br
+></br
+><object
+type="tresult"
+>the check will move to the next stage. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur Report... (qui s'affiche à droit du statut <br
+></br
+> <object
+type="tresult"
+>La vérification s'affiche à la prochaine étape.</object
+> </li
+></ul
 ></section2
 ></section1
 ></chapter
