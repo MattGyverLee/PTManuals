@@ -2307,14 +2307,31 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->The check is considered complete with there are 0 issues.</p
+>The check is considered complete with there are 0 issues. If you are unable to complete a check, it is possible to postpone the check to the next stage. </p
 ><p
 contentType="fr"
 >Une vérification est achevée quand il indique <object
 type="tBold"
 >Aucun problèms</object
->. </p
+>.</p
 ></framedUnit
+><chart
+></chart
+></section2
+><section2
+id="sPostpone"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Postpone check</titleContent
+><titleContent
+contentType="fr"
+></titleContent
+></titleContentChoices
+></secTitle
+><p
+></p
 ></section2
 ></section1
 ></chapter
