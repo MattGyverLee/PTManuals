@@ -7638,6 +7638,9 @@ src="12imgeng\renderings2b.png"
 ></img
 ></li
 ><li
+contentType="dn"
+>either the picture needs to change (the first form is covered by the * and therefore redundant) or we need more explanation because the help in the guide is in English</li
+><li
 contentType="fr"
 >Ajoutez les * pour combiner les équivalents similaires. <br
 ></br
@@ -8454,7 +8457,7 @@ id="sBC2"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->BC2: Basic ay</titleContent
+>BC2: Basic Checks</titleContent
 ><titleContent
 contentType="fr"
 >VB2 : Les vérifications de base  </titleContent
