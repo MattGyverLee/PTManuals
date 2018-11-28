@@ -514,86 +514,6 @@ contentType="en"
 contentType="fr"
 >quelles sont la première et la dernière version de Paratext que vous avez utilisées. </li
 ></ul
-><table
-align="left"
-border="1"
-><tr
-><td
-align="left"
-valign="top"
->5.0</td
-><td
-align="left"
-valign="top"
->6.0</td
-><td
-align="left"
-valign="top"
->7.0</td
-><td
-align="left"
-valign="top"
->7.1</td
-><td
-align="left"
-valign="top"
->7.2</td
-><td
-align="left"
-valign="top"
->7.3</td
-><td
-align="left"
-valign="top"
->7.4</td
-><td
-align="left"
-valign="top"
->7.5</td
-><td
-align="left"
-valign="top"
->8</td
-></tr
-><tr
-><td
-align="left"
-valign="top"
->1998</td
-><td
-align="left"
-valign="top"
->2003</td
-><td
-align="left"
-valign="top"
->2008</td
-><td
-align="left"
-valign="top"
->2010</td
-><td
-align="left"
-valign="top"
->2011</td
-><td
-align="left"
-valign="top"
->2012</td
-><td
-align="left"
-valign="top"
->2013</td
-><td
-align="left"
-valign="top"
->2014</td
-><td
-align="left"
-valign="top"
->2017</td
-></tr
-></table
 ><p
 contentType="en"
 >While the facilitators install <object
@@ -1471,10 +1391,10 @@ type="tmenu"
 ></li
 ><li
 contentType="en"
->Choose « A Concise Greek-English Dictionary of the New Testament »</li
+>Choose « A Concise Greek-English Dictionary of the New Testament » OR "Trilingual Hebrew-English Lexicon of the Old Testament"</li
 ><li
 contentType="fr"
->Choisissez « A Concise Greek-English Dictionary of the New Testament » </li
+>Choisissez « A Concise Greek-English Dictionary of the New Testament » OU "Trilingual Hebrew-English Lexicon of the Old Testament" </li
 ><li
 contentType="en"
 ><object
@@ -1494,82 +1414,79 @@ type="tmenu"
 >français </object
 ></li
 ></ul
+><p
+contentType="en"
+>Other dictionaries (in English but with photos)</p
+><p
+contentType="fr"
+>D'autre dictionnaires (en anglais mais avec des photos)</p
+><ul
+><li
+contentType="en"
+>"Plants and Trees in the Bible"</li
+><li
+contentType="fr"
+>"Plants and Trees in the Bible"</li
+><li
+contentType="en"
+>"Animals in the Bible"</li
+><li
+contentType="fr"
+>"Animals in the Bible"</li
+></ul
 ></section1
 ><section1
-id="s12"
+id="sSourceTextResources"
 ><secTitle
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Make a list of verses of a specific term from the source language text</titleContent
+>Working with the Source language text</titleContent
 ><titleContent
 contentType="fr"
->Faire une liste de versets avec un terme dans le texte source</titleContent
+>Travailler avec le text en langue source</titleContent
 ></titleContentChoices
 ></secTitle
 ><framedUnit
-contentType="en"
 framedtype="tTeacher"
 ><p
 contentType="en"
->You can create a list of verses for a specific Greek/Hebrew word.</p
+>You can open the source language text with glosses in an alternative language than English, e.g. French.</p
 ><p
 contentType="fr"
->Pour avoir une liste de versets d’un terme grec/hébreu</p
+>Vous pouvez ouvrir le text en language source avec des gloses en français.</p
 ></framedUnit
 ><ul
 ><li
 contentType="en"
->Right click on a lemma (blue word) in the source language text window<br
-></br
-><img
-src="12imgeng/image6.png"
-></img
-></li
-><li
-contentType="fr"
->Cliquez à droit sur un lemme (bleu) en langue source.<br
-></br
-><img
-src="12imgfr/image7a.png"
-></img
-></li
-><li
-contentType="en"
->Choose <object
+><object
 type="tmenu"
->Add to project biblical terms for</object
-></li
-><li
-contentType="fr"
->Choisissez <object
+>File</object
+> &gt; <object
 type="tmenu"
->Ajouter aux termes bibliques du projet pour</object
+>Open Source Language text</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> <object
+type="tmenu"
+>Ouvrir le texte source </object
 ></li
 ><li
 contentType="en"
->Choose your project</li
+>View &gt; Additional glosses</li
 ><li
 contentType="fr"
->Choisissez votre projet </li
+>Affichage &gt; Gloses alternatives</li
 ><li
 contentType="en"
->Edit the gloss if necessary</li
+>Choose the project which has the glosses</li
 ><li
 contentType="fr"
->Modifier la glose si nécessaire </li
-><li
-contentType="en"
->Click on the Advanced tab</li
-><li
-contentType="fr"
->Cliquez sur l'onglet Avancé</li
-><li
-contentType="en"
->Edit the terms if necessary</li
-><li
-contentType="fr"
->Modifier la terme si nécessaire </li
+>Choisissez le project avec les gloses (GlossFR) </li
 ><li
 contentType="en"
 >Click <object
@@ -1581,22 +1498,7 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->  </li
-><li
-contentType="en"
->Change to the Biblical Terms Tool</li
-><li
-contentType="fr"
->Changez à l’outil de Termes bibliques </li
-><li
-contentType="en"
->Double-click on the term.</li
-><li
-contentType="fr"
->Double-cliquez sur la terme. </li
-><li
-contentType="dn"
->this section is out of place. It needs to be moved to the Biblical terms section.</li
+> </li
 ></ul
 ></section1
 ><section1
@@ -2307,7 +2209,7 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->The check is considered complete with there are 0 issues. If you are unable to complete a check, it is possible to postpone the check to the next stage. </p
+>The check is considered complete with there are 0 issues. If you are unable to complete a check, it is possible to postpone the check to the next stage.</p
 ><p
 contentType="fr"
 >Une vérification est achevée quand il indique <object
@@ -2336,7 +2238,7 @@ contentType="en"
 >From the <object
 type="tmenu"
 >Project</object
-> menu,  select <object
+> menu, select <object
 type="tmenu"
 >Assignments and Progress </object
 ></li
@@ -2348,7 +2250,7 @@ type="tmenu"
 >, selectionnez <object
 type="tmenu"
 >Tâches et Avancement</object
-> </li
+></li
 ><li
 contentType="en"
 >Hover over a check that has issues</li
@@ -2373,7 +2275,7 @@ contentType="fr"
 > <object
 type="tresult"
 >La vérification s'affiche à la prochaine étape.</object
-> </li
+></li
 ></ul
 ></section2
 ></section1
@@ -8121,6 +8023,110 @@ type="tmenu"
 > </li
 ></ul
 ></section1
+><section1
+id="sListVersesFromSource"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Add a term from a list of verses of a specific term from the source language text</titleContent
+><titleContent
+contentType="fr"
+>Ajouter un terme d'une liste de versets avec un terme dans le texte source</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+contentType="en"
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can create a list of verses for a specific Greek/Hebrew word and then use that list to add the word/phrase to your project Biblical terms list.</p
+><p
+contentType="fr"
+>Vous pouvez créer une liste de versets pour un mot grec/hébreu spécifique et ensuite utiliser cette liste pour ajouter le mot/la phrase à votre liste de termes bibliques du projet.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Right click on a lemma (blue word) in the source language text window<br
+></br
+><img
+src="12imgeng/image6.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez à droit sur un lemme (bleu) en langue source.<br
+></br
+><img
+src="12imgfr/image7a.png"
+></img
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Add to project biblical terms for</object
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Ajouter aux termes bibliques du projet pour</object
+></li
+><li
+contentType="en"
+>Choose your project</li
+><li
+contentType="fr"
+>Choisissez votre projet </li
+><li
+contentType="en"
+>Edit the gloss if necessary</li
+><li
+contentType="fr"
+>Modifier la glose si nécessaire </li
+><li
+contentType="en"
+>Click on the Advanced tab</li
+><li
+contentType="fr"
+>Cliquez sur l'onglet Avancé</li
+><li
+contentType="en"
+>Edit the terms if necessary</li
+><li
+contentType="fr"
+>Modifier la terme si nécessaire </li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>  </li
+><li
+contentType="en"
+>Change to the Biblical Terms Tool</li
+><li
+contentType="fr"
+>Changez à l’outil de Termes bibliques </li
+><li
+contentType="en"
+>Double-click on the term.</li
+><li
+contentType="fr"
+>Double-cliquez sur la terme. </li
+><li
+contentType="dn"
+>this section is out of place. It needs to be moved to the Biblical terms section.DONE: JB nov 18</li
+></ul
+></section1
 ></chapter
 ><chapter
 id="sMPComparer"
@@ -11058,7 +11064,7 @@ contentType="en"
 >Orientation : portrait (for newer printers or landscape for Win7)</li
 ><li
 contentType="fr"
->Orientation portrait (pour nouveau imprimants ou paysage pour Win7) </li
+>Orientation portrait (pour nouveau imprimantes ou paysage pour Win7) </li
 ></ul
 ></li
 ><li
@@ -11120,7 +11126,7 @@ contentType="fr"
 >Orientation: <object
 type="tmenu"
 >Portrait </object
->(nouveau) ou <object
+>(pour nouveau imprimantes) ou <object
 type="tmenu"
 >Paysage</object
 > (Win7)</li
@@ -15203,11 +15209,11 @@ id="dn"
 active="no"
 >Export Everything</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
