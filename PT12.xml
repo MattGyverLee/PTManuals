@@ -33,10 +33,10 @@ contentType="fr"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Course Manual: Stages 1 &amp; 2: (English)</titleContent
+>Course Manual: (English)</titleContent
 ><titleContent
 contentType="fr"
->Manuel de cours : Étapes 1 &amp; 2 : (Français)</titleContent
+>Manuel de cours : (Français)</titleContent
 ></titleContentChoices
 ></subtitle
 ><author
@@ -124,6 +124,12 @@ contentType="fr"
 type="tPT"
 ></object
 >, qui est un logiciel créé pour stocker et vérifier les textes de la traduction. Ainsi on suit les six étapes du plan de SIL du processus de traduction.</p
+><p
+contentType="en"
+>The course follows the six stages of translation as given in the SIL base organisational plan. [The four stages of the UBS plan are 1, 2, 5, and 6] </p
+><p
+contentType="fr"
+>On suit les six étapes du plan de SIL du processus de traduction. [Les quatres étapes de UBS sont 1, 2, 5 et 6.] </p
 ></section1
 ><section1
 id="s3"
@@ -454,6 +460,173 @@ contentType="en"
 ><li
 contentType="fr"
 >Produire des fichiers PDF pour imprimer des textes du projet pour les réviseurs.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Stage 3: Prepare for a consultant check</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Étape 3 : Préparation pour le conseiller</object
+></pc
+><ul
+><li
+contentType="en"
+>Prepare a back translation<ul
+><li
+contentType="en"
+>Back translation 1 (free)</li
+><li
+contentType="en"
+>Back translation 2 (word by word)</li
+></ul
+></li
+><li
+contentType="fr"
+>Faire des retraductions<ul
+><li
+contentType="fr"
+>Retraduction 1 (libre)</li
+><li
+contentType="fr"
+>Retraduction 2 (mot à mot)</li
+></ul
+></li
+><li
+contentType="en"
+>Complete other checks<ul
+><li
+contentType="en"
+>check references, quoted texts, numbering, unmatched pairs of punctuation, quotations</li
+><li
+contentType="en"
+>spell checking</li
+></ul
+></li
+><li
+contentType="fr"
+>Faire d’autres vérifications<ul
+contentType="en"
+><li
+contentType="fr"
+>vérifier des références, textes cités, numérations, erreurs de ponctuation en paires correspondances, citations</li
+><li
+contentType="fr"
+>vérifications d’orthographe</li
+></ul
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Stage 4: Consultant Check</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Étape 4 : Vérification par un conseiller</object
+></pc
+><ul
+><li
+contentType="en"
+>All the tasks for this step have been covered in previous modules.</li
+><li
+contentType="fr"
+>Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Stage 5: Community testing</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Étape 5 : Tester/réviser avec la communauté</object
+></pc
+><ul
+><li
+contentType="en"
+>Prepare a progress report.</li
+><li
+contentType="fr"
+>Rapport de progrès à faire</li
+><li
+contentType="en"
+>Prepare a Biblical terms report.</li
+><li
+contentType="fr"
+>Rapport de Termes bibliques à faire</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Stage 6: Finalising for publication</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Étape 6 : Finalisation pour la publication</object
+></pc
+><ul
+><li
+contentType="en"
+>Add illustrations et captions</li
+><li
+contentType="fr"
+>Ajouter des illustrations et légendes</li
+><li
+contentType="en"
+>Identify the names for any maps to be included.</li
+><li
+contentType="fr"
+>Trouver les noms des villes pour les cartes</li
+><li
+contentType="en"
+>Add an introduction to the NT / Bible</li
+><li
+contentType="fr"
+>Ajouter l’introduction au NT / Bible</li
+><li
+contentType="en"
+>Compare the parallel passages</li
+><li
+contentType="fr"
+>Vérifier les passages parallèles</li
+><li
+contentType="en"
+>Confirm that all the other checks have been completed.</li
+><li
+contentType="fr"
+>Vérifier que tous les contrôles sont complets</li
+><li
+contentType="en"
+>Finalize check of proper names.</li
+><li
+contentType="fr"
+>Vérification finale des noms propres</li
+><li
+contentType="en"
+>Check numbers, money, weights and measures</li
+><li
+contentType="fr"
+>Les chiffres, l’argent, les poids et les mesures</li
+><li
+contentType="en"
+>Final format checks.</li
+><li
+contentType="fr"
+>Vérification du formatage</li
 ></ul
 ></section1
 ><section1
@@ -985,16 +1158,6 @@ contentType="fr"
 >Créer une nouvelle disposition</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Create_a_new_text_combination</titleContent
-><titleContent
-contentType="fr"
->Créer_une_nouvelle_disposition</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >If you haven’t already saved a text combination, then we recommend you do the following:</p
@@ -1013,16 +1176,6 @@ contentType="fr"
 >Ouvrir et arranger les fenêtres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_and_arrange_the_windows</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_et_arranger_les_fenêtres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -1182,16 +1335,6 @@ contentType="fr"
 >Enregistrer une disposition des fenêtres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Save_the_text_combination</titleContent
-><titleContent
-contentType="fr"
->Enregistrer_une_disposition_des_fenêtres</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >Once the windows are arranged as desired:</p
@@ -1254,16 +1397,6 @@ contentType="fr"
 >Supprimer une disposition des fenêtres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Delete_a_text_combination</titleContent
-><titleContent
-contentType="fr"
->Supprimer_une_disposition_des_fenêtres</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >If you want to delete a saved combination,</p
@@ -1321,16 +1454,6 @@ contentType="fr"
 >Ouvrir Projet/Ressource en collection de textes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_resources_in_a_Text_collection</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_Projet/Ressource_en_collection_de_textes</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -1431,16 +1554,6 @@ contentType="fr"
 >Ouvrir un dictionnaire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_a_dictionary</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_un_dictionnaire</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -1527,16 +1640,6 @@ contentType="fr"
 >Travailler avec le text en langue source</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Working_with_the_Source_language_text</titleContent
-><titleContent
-contentType="fr"
->Travailler_avec_le_text_en_langue_source</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -1603,16 +1706,6 @@ contentType="fr"
 >Bilan</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Recall</titleContent
-><titleContent
-contentType="fr"
->Bilan</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -1683,7 +1776,7 @@ id="sPP1"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->PP1 : Project Plan and progress <img
+>PP1: Project plan and progress <img
 src="12imgeng/pt8.png"
 ></img
 ></titleContent
@@ -1699,7 +1792,7 @@ src="12imgeng/pt8.png"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->PP1_:_Project_Plan_and_progress<img
+>PP1:_Project_Plan_and_Progress<img
 src="12imgeng/pt8.png"
 ></img
 ></titleContent
@@ -1802,16 +1895,6 @@ contentType="fr"
 >Vérifier que votre projet est actif</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Make_sure_your_project_is_active</titleContent
-><titleContent
-contentType="fr"
->Vérifier_que_votre_projet_est_actif</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -1843,16 +1926,6 @@ contentType="fr"
 >Afficher les taches à faire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->View_tasks_that_need_to_be_done</titleContent
-><titleContent
-contentType="fr"
->Afficher_les_taches_à_faire</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -1954,16 +2027,6 @@ contentType="fr"
 >Identifier la prochaine tâche à faire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Identify_the_next_task</titleContent
-><titleContent
-contentType="fr"
->Identifier_la_prochaine_tâche_à_faire</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >The list of tasks shows the uncompleted tasks.</p
@@ -2015,16 +2078,6 @@ contentType="fr"
 >Marquer une tâche comme achevée</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_a_task_as_complete</titleContent
-><titleContent
-contentType="fr"
->Marquer_une_tâche_comme_achevée</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="sBookComplete"
 ><secTitle
@@ -2037,16 +2090,6 @@ contentType="fr"
 >Marquer une tâche de livre comme terminée</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_a_book_task_as_completed</titleContent
-><titleContent
-contentType="fr"
->Marquer_une_tâche_de_livre_comme_terminée</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2088,16 +2131,6 @@ contentType="fr"
 >Marquer une tâche de chapitre comme terminée</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_a_chapter_task_as_completed</titleContent
-><titleContent
-contentType="fr"
->Marquer_une_tâche_de_chapitre_comme_terminée</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2198,16 +2231,6 @@ contentType="fr"
 >Vérifications</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Checks</titleContent
-><titleContent
-contentType="fr"
->Vérifications</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2252,16 +2275,6 @@ contentType="fr"
 >Vérifications - paramétrage requis (Administrateur)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Checks_-_setup_required_(Administrator)</titleContent
-><titleContent
-contentType="fr"
->Vérifications_-_paramétrage_requis_(Administrateur)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2326,16 +2339,6 @@ contentType="fr"
 >Vérifications - erreurs</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Checks_–_issues</titleContent
-><titleContent
-contentType="fr"
->Vérifications_-_erreurs</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2435,16 +2438,6 @@ contentType="fr"
 >Reporter une vérification</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Postpone_check</titleContent
-><titleContent
-contentType="fr"
->Reporter_une_vérification</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2587,16 +2580,6 @@ contentType="fr"
 >Naviguer vers une référence biblique</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Go_to_a_Biblical_verse</titleContent
-><titleContent
-contentType="fr"
->Naviguer_vers_une_référence_biblique</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -2637,16 +2620,6 @@ contentType="fr"
 >Vérifier que le projet est modifiable</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_that_the_project_is_editable</titleContent
-><titleContent
-contentType="fr"
->Vérifier_que_le_projet_est_modifiable</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -2694,16 +2667,6 @@ contentType="fr"
 >Changer l’affichage</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Changing_the_view</titleContent
-><titleContent
-contentType="fr"
->Changer_l’affichage</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -2764,16 +2727,6 @@ contentType="fr"
 >Taper les caractères spéciaux</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Typing_special_characters</titleContent
-><titleContent
-contentType="fr"
->Taper_les_caractères_spéciaux</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -2847,16 +2800,6 @@ contentType="fr"
 >Ajouter texte d'une autre catégorie - titre ou introduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Adding_text_in_another_marker_-_title_or_introduction</titleContent
-><titleContent
-contentType="fr"
->Ajouter_texte_d'une_autre_catégorie_-_titre_ou_introduction</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -2963,16 +2906,6 @@ contentType="fr"
 >Ajouter des marqueurs de paragraphe</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_paragraph_breaks</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_marqueurs_de_paragraphe</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3033,16 +2966,6 @@ contentType="fr"
 >Enregistrer votre travail</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Saving_your_work</titleContent
-><titleContent
-contentType="fr"
->Enregistrer_votre_travail</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3097,16 +3020,6 @@ contentType="fr"
 >Insérer une Note de bas de page</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Insert_Footnotes</titleContent
-><titleContent
-contentType="fr"
->Insérer_une_Note_de_bas_de_page</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3203,16 +3116,6 @@ contentType="fr"
 >Envoyer/Recevoir vers Internet</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Send/receive_to_the_Internet</titleContent
-><titleContent
-contentType="fr"
->Envoyer/Recevoir_vers_Internet</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3311,16 +3214,6 @@ contentType="fr"
 >Envoyer/Recevoir à une clé pour sauvegarder</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Send/receive_to_a_USB_stick_to_backup_your_data</titleContent
-><titleContent
-contentType="fr"
->Envoyer/Recevoir_à_une_clé_pour_sauvegarder</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3421,16 +3314,6 @@ contentType="fr"
 >Envoyer/Recevoir encore</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Send/Receive_Again</titleContent
-><titleContent
-contentType="fr"
->Envoyer/Recevoir_encore</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3483,16 +3366,6 @@ contentType="fr"
 >Déplacer votre curseur rapidement</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Moving_your_cursor_efficiently</titleContent
-><titleContent
-contentType="fr"
->Déplacer_votre_curseur_rapidement</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -3603,16 +3476,6 @@ contentType="fr"
 >Bilan : Complétez les champs vides :</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Recall:</titleContent
-><titleContent
-contentType="fr"
->Bilan_:_Complétez_les_champs_vides_:</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >If the titlebar doesn’t say <object
@@ -3793,16 +3656,6 @@ contentType="fr"
 >Ouvrir l'outil termes bibliques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_the_Biblical_Terms_tool</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_l'outil_termes_bibliques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -3882,16 +3735,6 @@ contentType="fr"
 >Ajouter une entrée</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_an_entry</titleContent
-><titleContent
-contentType="fr"
->Ajouter_une_entrée</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -3972,16 +3815,6 @@ contentType="fr"
 >Lier une entrée existante</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Link_an_existing_entry</titleContent
-><titleContent
-contentType="fr"
->Lier_une_entrée_existante</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -4066,16 +3899,6 @@ contentType="fr"
 >Afficher le glossaire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->View_the_glossary</titleContent
-><titleContent
-contentType="fr"
->Afficher_le_glossaire</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In Paratext</p
@@ -4128,16 +3951,6 @@ contentType="fr"
 >Modifier une entrée  – dans le livre GLO</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Edit_an_entry_–_in_the_GLO_book</titleContent
-><titleContent
-contentType="fr"
->Modifier_une_entrée__–_dans_le_livre_GLO</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In Paratext</p
@@ -4171,16 +3984,6 @@ contentType="fr"
 >Modifier une entrée  – dans les termes bibliques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Edit_an_entry_–_in_the_Biblical_Terms</titleContent
-><titleContent
-contentType="fr"
->Modifier_une_entrée__–_dans_les_termes_bibliques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -4253,16 +4056,6 @@ contentType="fr"
 >Ajouter un terme biblique </titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_a_Biblical_Term</titleContent
-><titleContent
-contentType="fr"
->Ajouter_un_terme_biblique_</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -4300,16 +4093,6 @@ contentType="fr"
 >Bilan</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Recall</titleContent
-><titleContent
-contentType="fr"
->Bilan</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -4466,16 +4249,6 @@ contentType="fr"
 >Vérifications avec plan de projet</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Running_checks_from_the_project_plan</titleContent
-><titleContent
-contentType="fr"
->Vérifications_avec_plan_de_projet</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >It is easier to run the checks from the project plan.</p
@@ -4594,16 +4367,6 @@ contentType="fr"
 >Faire les vérifications manuellement</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Running_the_checks_from_the_menus</titleContent
-><titleContent
-contentType="fr"
->Faire_les_vérifications_manuellement</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -4631,16 +4394,6 @@ contentType="fr"
 >Vérification des « Chapitres/ Versets »</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->«_Chapter/_Verse_»</titleContent
-><titleContent
-contentType="fr"
->Vérification_des_«_Chapitres/_Versets »</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -4771,16 +4524,6 @@ contentType="fr"
 >Vérification des « Marqueurs »</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Markers_check</titleContent
-><titleContent
-contentType="fr"
->Vérification_des_«_Marqueurs »</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -4965,16 +4708,6 @@ contentType="fr"
 >S'assurer le progrès du plan est à jour</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Make_sure_the_progress_of_the_plan_is_up_to_date</titleContent
-><titleContent
-contentType="fr"
->S'assurer_le_progrès_du_plan_est_à_jour</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5002,16 +4735,6 @@ contentType="fr"
 >Modifier une affectation</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Change_an_assignment</titleContent
-><titleContent
-contentType="fr"
->Modifier_une_affectation</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -5090,16 +4813,6 @@ contentType="fr"
 >Produisez un rapport sur l'état d'avancement</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Produce_a_progress_report</titleContent
-><titleContent
-contentType="fr"
->Produisez_un_rapport_sur_l'état_d'avancement</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5161,16 +4874,6 @@ contentType="fr"
 >Voir les courbes de progression</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->View_team_progress_charts</titleContent
-><titleContent
-contentType="fr"
->Voir_les_courbes_de_progression</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5556,16 +5259,6 @@ contentType="fr"
 >Lancer l’outil Termes bibliques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Run_the_Biblical_Terms_tool</titleContent
-><titleContent
-contentType="fr"
->Lancer_l’outil_Termes_bibliques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5604,16 +5297,6 @@ contentType="fr"
 >Ouvrir la liste de termes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_list_of_terms</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_la_liste_de_termes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5659,16 +5342,6 @@ contentType="fr"
 >Choisir le texte de référence comme texte comparative</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Choose_your_reference_text_as_a_comparative_text</titleContent
-><titleContent
-contentType="fr"
->Choisir_le_texte_de_référence_comme_texte_comparative</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5733,16 +5406,6 @@ contentType="fr"
 >Modifier divers paramètres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Change_various_settings</titleContent
-><titleContent
-contentType="fr"
->Modifier_divers_paramètres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5814,16 +5477,6 @@ contentType="fr"
 >Définir un filtre pour les noms propres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Filter_for_names</titleContent
-><titleContent
-contentType="fr"
->Définir_un_filtre_pour_les_noms_propres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5891,16 +5544,6 @@ contentType="fr"
 >Modifier noms propres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Adapt_names</titleContent
-><titleContent
-contentType="fr"
->Modifier_noms_propres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5965,16 +5608,6 @@ contentType="fr"
 >Entrer les modifications des lettres individuelles (ou des groupes de lettres)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Enter_the_changes_for_the_individual_letters_(or_letter_clusters)</titleContent
-><titleContent
-contentType="fr"
->Entrer_les_modifications_des_lettres_individuelles_(ou_des_groupes_de_lettres)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -5996,16 +5629,6 @@ contentType="fr"
 >Puis réviser les noms propres (à droite) l'un après l'autre</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Then_revise_and_approve_the_Adapted_Name</titleContent
-><titleContent
-contentType="fr"
->Puis_réviser_les_noms_propres_(à_droite)_l'un_après_l'autre</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -6092,16 +5715,6 @@ contentType="fr"
 >Vérifier que votre texte est cohérent</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Ensure_your_text_is_consistent</titleContent
-><titleContent
-contentType="fr"
->Vérifier_que_votre_texte_est_cohérent</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >You need to work through the list and confirm that all the verses use the name consistently.</p
@@ -6165,16 +5778,6 @@ contentType="fr"
 >Ajouter l’équivalent (c.-à-d. le nom utilisé dans votre texte)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_an_alternative_rendering</titleContent
-><titleContent
-contentType="fr"
->Ajouter_l’équivalent_(c.-à-d._le_nom_utilisé_dans_votre_texte)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -6223,16 +5826,6 @@ contentType="fr"
 >Traiter des versets qui n’ont pas le nom dans la traduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Dealing_with_verses_that_don’t_have_the_name_translated</titleContent
-><titleContent
-contentType="fr"
->Traiter_des_versets_qui_n’ont_pas_le_nom_dans_la_traduction</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -6321,16 +5914,6 @@ contentType="fr"
 >Bilan</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Recall</titleContent
-><titleContent
-contentType="fr"
->Bilan</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -6561,16 +6144,6 @@ contentType="fr"
 >Configurer la liste de mots</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Configure_the_word_list</titleContent
-><titleContent
-contentType="fr"
->Configurer_la_liste_de_mots</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -6592,16 +6165,6 @@ contentType="fr"
 >Approuver l’orthographe des mots fréquents</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Approve_the_spelling_of_common_words</titleContent
-><titleContent
-contentType="fr"
->Approuver_l’orthographe_des_mots_fréquents</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In Paratext</p
@@ -6714,16 +6277,6 @@ src="12imgeng/pt8.png"
 ></titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_the_words_that_Paratext_thinks_are_incorrect</titleContent
-><titleContent
-contentType="fr"
->Vérifier_les_mots_que_Paratext_pense_être_erronés</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In the Wordlist (<object
@@ -6830,16 +6383,6 @@ contentType="fr"
 >Vérifier les mots qui se ressemblent beaucoup dans l'écriture</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_similarly_spelled_words</titleContent
-><titleContent
-contentType="fr"
->Vérifier_les_mots_qui_se_ressemblent_beaucoup_dans_l'écriture</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In the Wordlist</p
@@ -6946,16 +6489,6 @@ contentType="fr"
 >Vérifier l’orthographe — dans le texte</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Spell_checking_–_from_the_text</titleContent
-><titleContent
-contentType="fr"
->Vérifier_l’orthographe_—_dans_le_texte</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In Paratext</p
@@ -7004,16 +6537,6 @@ contentType="fr"
 >Corrections des erreurs</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Making_corrections</titleContent
-><titleContent
-contentType="fr"
->Corrections_des_erreurs</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -7158,16 +6681,6 @@ contentType="fr"
 >Vérifier l’orthographe du livre actuel</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Spell_checking_–_current_book</titleContent
-><titleContent
-contentType="fr"
->Vérifier_l’orthographe_du_livre_actuel</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -7236,16 +6749,6 @@ contentType="fr"
 >Vérification d’orthographe dans la liste de mots</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Spell_checking_–_from_the_wordlist</titleContent
-><titleContent
-contentType="fr"
->Vérification_d’orthographe_dans_la_liste_de_mots</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="sUsingTheNewChecks"
 ><secTitle
@@ -7258,16 +6761,6 @@ contentType="fr"
 >Utiliser les nouvelles vérifications</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Using_the_new_checks</titleContent
-><titleContent
-contentType="fr"
->Utiliser_les_nouvelles_vérifications</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In the Wordlist</p
@@ -7383,16 +6876,6 @@ contentType="fr"
 >Toutes les vérifications</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->All_checks</titleContent
-><titleContent
-contentType="fr"
->Toutes_les_vérifications</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >This runs all of the checks. This is very useful as it will find all types of errors especially words with multiple types of errors.</p
@@ -7412,16 +6895,6 @@ contentType="fr"
 >Majuscules manquantes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Missing_Capitals</titleContent
-><titleContent
-contentType="fr"
->Majuscules_manquantes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -7514,16 +6987,6 @@ contentType="fr"
 >Faute de frappe d’un caractère unique</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Single_Character_Typos</titleContent
-><titleContent
-contentType="fr"
->Faute_de_frappe_d’un_caractère_unique</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >A list of words is displayed with links to other words which are similar but only have one letter different.</p
@@ -7543,16 +7006,6 @@ contentType="fr"
 >Combinaisons caractères non habituelles</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Unusual_Letter_Combinations</titleContent
-><titleContent
-contentType="fr"
->Combinaisons_caractères_non_habituelles</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >A list of words is displayed which have unsual combination of letters (such as consonant or vowel clusters …).</p
@@ -7572,16 +7025,6 @@ contentType="fr"
 >Erreurs de signes diacritiques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Diacritic_Errors</titleContent
-><titleContent
-contentType="fr"
->Erreurs_de_signes_diacritiques</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >A list of words is displayed with links to other words which are the same except for the diacritics.</p
@@ -7601,16 +7044,6 @@ contentType="fr"
 >Fautes de frappe habituelles</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Common_Typos</titleContent
-><titleContent
-contentType="fr"
->Fautes_de_frappe_habituelles</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >A list of words is displayed which have the same type of problem which have already been corrected in other words. E.g. if you have already corrected "<object
@@ -7657,16 +7090,6 @@ contentType="fr"
 >Morphologie inconnue</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Unknown_Morphology</titleContent
-><titleContent
-contentType="fr"
->Morphologie_inconnue</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >A list of words is displayed which the computer has not been able to guess the morphology based on other words.</p
@@ -7686,16 +7109,6 @@ contentType="fr"
 >Rechercher des mots mal liés ou mal divisés</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Find_incorrectly_joined_or_split_words</titleContent
-><titleContent
-contentType="fr"
->Rechercher_des_mots_mal_liés_ou_mal_divisés</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In the Wordlist (<object
@@ -7792,16 +7205,6 @@ contentType="fr"
 >Corriger un mot mal marqué</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Correct_a_word_which_was_incorrectly_marked</titleContent
-><titleContent
-contentType="fr"
->Corriger_un_mot_mal_marqué</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8082,16 +7485,6 @@ contentType="fr"
 >[A] Trouver tous les équivalents pour ce terme</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->[A]_Find_all_the_ways_you_have_rendered_this_term</titleContent
-><titleContent
-contentType="fr"
->[A]_Trouver_tous_les_équivalents_pour_ce_terme</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="sFindTermsForCurrent"
 ><secTitle
@@ -8104,16 +7497,6 @@ contentType="fr"
 >Trouver le terme pour le verset actuel</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Find_the_terms_for_the_current_verse</titleContent
-><titleContent
-contentType="fr"
->Trouver_le_terme_pour_le_verset_actuel</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8147,16 +7530,6 @@ contentType="fr"
 >Ajouter un autre équivalent</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_another_rendering</titleContent
-><titleContent
-contentType="fr"
->Ajouter_un_autre_équivalent</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >If the term you have used needs to be added to the list:</p
@@ -8268,16 +7641,6 @@ contentType="fr"
 >Trouver d’autres versets dans le livre actuel avec le même terme biblique</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Find_other_verses_in_the_current_book_with_the_same_Biblical_term</titleContent
-><titleContent
-contentType="fr"
->Trouver_d’autres_versets_dans_le_livre_actuel_avec_le_même_terme_biblique</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8340,16 +7703,6 @@ contentType="fr"
 >Ajouter les équivalents d’autres versets</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_renderings_from_the_other_verses</titleContent
-><titleContent
-contentType="fr"
->Ajouter_les_équivalents_d’autres_versets</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8395,16 +7748,6 @@ contentType="fr"
 >Traiter des versets qui n’ont pas le terme dans la traduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Dealing_with_verses_that_don’t_use_the_term</titleContent
-><titleContent
-contentType="fr"
->Traiter_des_versets_qui_n’ont_pas_le_terme_dans_la_traduction</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -8469,16 +7812,6 @@ contentType="fr"
 >[B] Identifier le meilleur équivalent</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->[B]_Identify_the_best_term</titleContent
-><titleContent
-contentType="fr"
->[B]_Identifier_le_meilleur_équivalent</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8565,16 +7898,6 @@ contentType="fr"
 >[C] Rejeter tous les autres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->[C]_Reject_all_the_others</titleContent
-><titleContent
-contentType="fr"
->[C]_Rejeter_tous_les_autres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8602,16 +7925,6 @@ src="12imgeng/pt8.png"
 ></titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->[D]_Document_the_reason_for_the_change</titleContent
-><titleContent
-contentType="fr"
->[D]_Documenter_la_raison_pour_la_modification</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8673,16 +7986,6 @@ contentType="fr"
 >Si vous avez besoin de plus d’un équivalent</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->If_you_need_more_than_one_rendering</titleContent
-><titleContent
-contentType="fr"
->Si_vous_avez_besoin_de_plus_d’un_équivalent</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -8727,16 +8030,6 @@ contentType="fr"
 >Nettoyer d’autres livres (si le temps le permet)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Clean_up_other_books_(as_time_permits)</titleContent
-><titleContent
-contentType="fr"
->Nettoyer_d’autres_livres_(si_le_temps_le_permet)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8764,16 +8057,6 @@ contentType="fr"
 >Ajouter les remarques des discussions des équivalents - discussion en cours</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_the_Biblical_terms_notes_-_ongoing_discussion</titleContent
-><titleContent
-contentType="fr"
->Ajouter_les_remarques_des_discussions_des_équivalents_-_discussion_en_cours</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -8839,16 +8122,6 @@ contentType="fr"
 >Ajouter la décision dans la remarque</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_the_decision_to_the_renderings_description</titleContent
-><titleContent
-contentType="fr"
->Ajouter_la_décision_dans_la_remarque</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -8899,16 +8172,6 @@ contentType="fr"
 >Ajouter un terme</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_a_term</titleContent
-><titleContent
-contentType="fr"
->Ajouter_un_terme</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >There will be terms which are important for your language and culture that are not in the list. You can add these terms to your project list.</p
@@ -9046,16 +8309,6 @@ contentType="fr"
 >Ajouter un terme d'une liste de versets avec un terme dans le texte source</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_a_term_from_a_list_of_verses_of_a_specific_term_from_the_source_language_text</titleContent
-><titleContent
-contentType="fr"
->Ajouter_un_terme_d'une_liste_de_versets_avec_un_terme_dans_le_texte_source</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="en"
 framedtype="tTeacher"
@@ -9263,16 +8516,6 @@ contentType="fr"
 >Comparer un Mot ou expression — du texte</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Compare_a_word_of_phrase_-_from_the_text</titleContent
-><titleContent
-contentType="fr"
->Comparer_un_Mot_ou_expression_—_du_texte</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -9469,16 +8712,6 @@ contentType="fr"
 >Comparer l'utilisation d’un mot ou expression – de l’outil termes bibliques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Compare_using_a_Word_of_Phrase_-_from_the_Biblical_Terms_tool</titleContent
-><titleContent
-contentType="fr"
->Comparer_l'utilisation_d’un_mot_ou_expression_–_de_l’outil_termes_bibliques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -9736,16 +8969,6 @@ contentType="fr"
 >Confirmer la configuration</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Confirm_the_setup</titleContent
-><titleContent
-contentType="fr"
->Confirmer_la_configuration</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -9777,16 +9000,6 @@ contentType="fr"
 >Utiliser les inventaires pour préparer l’exécution des vérifications</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Using_inventories_to_setup_checks</titleContent
-><titleContent
-contentType="fr"
->Utiliser_les_inventaires_pour_préparer_l’exécution_des_vérifications</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -9935,16 +9148,6 @@ contentType="fr"
 >Caractères</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Characters</titleContent
-><titleContent
-contentType="fr"
->Caractères</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -10074,16 +9277,6 @@ contentType="fr"
 >Ponctuation</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Punctuation</titleContent
-><titleContent
-contentType="fr"
->Ponctuation</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -10264,16 +9457,6 @@ contentType="fr"
 >Paires correspondantes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Matched_Pairs</titleContent
-><titleContent
-contentType="fr"
->Paires_correspondantes</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -10407,16 +9590,6 @@ contentType="fr"
 >Mots répétés</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Repeated_words</titleContent
-><titleContent
-contentType="fr"
->Mots_répétés</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -10550,16 +9723,6 @@ contentType="fr"
 >Mise en majuscules</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Capitalization</titleContent
-><titleContent
-contentType="fr"
->Mise_en_majuscules</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -10801,16 +9964,6 @@ contentType="fr"
 >Faire de petites corrections</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Making_minor_corrections</titleContent
-><titleContent
-contentType="fr"
->Faire_de_petites_corrections</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -10879,16 +10032,6 @@ contentType="fr"
 >Révision :</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Review</titleContent
-><titleContent
-contentType="fr"
->Révision_:</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >There are many basic checks in <object
@@ -11406,16 +10549,6 @@ contentType="fr"
 >Utilisation des listes récapitulatives - générique</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Using_the_checklists_–_generic</titleContent
-><titleContent
-contentType="fr"
->Utilisation_des_listes_récapitulatives_-_générique</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -11546,16 +10679,6 @@ contentType="fr"
 >Utilisation des listes récapitulatives - En-têtes de section</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Using_checklist_–_Section_headings</titleContent
-><titleContent
-contentType="fr"
->Utilisation_des_listes_récapitulatives_-_En-têtes_de_section</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >Check that</p
@@ -11601,16 +10724,6 @@ contentType="fr"
 >Vérification des paragraphes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Paragraph_breaks</titleContent
-><titleContent
-contentType="fr"
->Vérification_des_paragraphes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -11742,16 +10855,6 @@ contentType="fr"
 >Mise en page et retraits</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Layout_and_indents</titleContent
-><titleContent
-contentType="fr"
->Mise_en_page_et_retraits</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -11849,16 +10952,6 @@ contentType="fr"
 >Ajouter USFMs pour la mise en forme spéciale</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_USFMs_to_format_special_text</titleContent
-><titleContent
-contentType="fr"
->Ajouter_USFMs_pour_la_mise_en_forme_spéciale</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -11987,16 +11080,6 @@ contentType="fr"
 >Créer une ébauche en PDF</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Create_a_PDF_file</titleContent
-><titleContent
-contentType="fr"
->Créer_une_ébauche_en_PDF</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -12244,16 +11327,6 @@ contentType="fr"
 >Imprimer un PDF</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Print_a_PDF</titleContent
-><titleContent
-contentType="fr"
->Imprimer_un_PDF</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >In Adobe Reader</p
@@ -12411,16 +11484,6 @@ contentType="fr"
 >Copiez le fichier PDF à une clé USB</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Copy_PDF_file_to_a_USB_stick</titleContent
-><titleContent
-contentType="fr"
->Copiez_le_fichier_PDF_à_une_clé_USB</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -12660,16 +11723,6 @@ contentType="fr"
 >Les différentes icônes de remarques </titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Different_types_of_project_notes</titleContent
-><titleContent
-contentType="fr"
->Les_différentes_icônes_de_remarques_</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >You can choose from many different icons for your project notes in <object
@@ -13150,16 +12203,6 @@ contentType="fr"
 >Définir des types de remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Setup_additional_note_types</titleContent
-><titleContent
-contentType="fr"
->Définir_des_types_de_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >(One must be an Administrator)</p
@@ -13269,16 +12312,6 @@ contentType="fr"
 >Insertion d’une remarque</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Inserting_a_project_note</titleContent
-><titleContent
-contentType="fr"
->Insertion_d’une_remarque</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13362,16 +12395,6 @@ contentType="fr"
 >Ouvrir des remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_notes</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_des_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13448,16 +12471,6 @@ contentType="fr"
 >Ajouter des commentaires dans une remarque ouverte dans le texte</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_comments_to_an_existing_note</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_commentaires_dans_une_remarque_ouverte_dans_le_texte</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13525,16 +12538,6 @@ contentType="fr"
 >Ajouter des commentaires dans une remarque d'une fenêtre de remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_comments_from_a_notes_window</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_commentaires_dans_une_remarque_d'une_fenêtre_de_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13600,16 +12603,6 @@ contentType="fr"
 >Confier une remarque à quelqu’un</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Assign_a_note_to_someone</titleContent
-><titleContent
-contentType="fr"
->Confier_une_remarque_à_quelqu’un</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13673,16 +12666,6 @@ contentType="fr"
 >Relie une remarque à plusieurs projets</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Apply_notes_to_multiple_projects</titleContent
-><titleContent
-contentType="fr"
->Relie_une_remarque_à_plusieurs_projets</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13746,16 +12729,6 @@ contentType="fr"
 >Rattacher une remarque</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Reattach_note</titleContent
-><titleContent
-contentType="fr"
->Rattacher_une_remarque</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -13842,16 +12815,6 @@ contentType="fr"
 >Marquer une remarque comme étant résolue</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Resolve_a_note</titleContent
-><titleContent
-contentType="fr"
->Marquer_une_remarque_comme_étant_résolue</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13915,16 +12878,6 @@ contentType="fr"
 >Imprimer un rapport des remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Print_a_notes_report</titleContent
-><titleContent
-contentType="fr"
->Imprimer_un_rapport_des_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -13994,16 +12947,6 @@ contentType="fr"
 >Supprimer des remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Delete_notes</titleContent
-><titleContent
-contentType="fr"
->Supprimer_des_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14049,16 +12992,6 @@ contentType="fr"
 >Fenêtres des remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Notes_window</titleContent
-><titleContent
-contentType="fr"
->Fenêtres_des_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >There are four dropdown boxes on the toolbar</p
@@ -14104,16 +13037,6 @@ contentType="fr"
 >Filtre de remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Notes_filter</titleContent
-><titleContent
-contentType="fr"
->Filtre_de_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14141,16 +13064,6 @@ contentType="fr"
 >Définir un nouveau filtre de remarques</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Define_a_new_filter</titleContent
-><titleContent
-contentType="fr"
->Définir_un_nouveau_filtre_de_remarques</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14212,16 +13125,6 @@ contentType="fr"
 >Enregistrer un filtre</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Save_a_filter</titleContent
-><titleContent
-contentType="fr"
->Enregistrer_un_filtre</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14516,16 +13419,6 @@ contentType="fr"
 >Créer un nouveau projet pour la retraduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Create_a_new_project_for_the_back_translation</titleContent
-><titleContent
-contentType="fr"
->Créer_un_nouveau_projet_pour_la_retraduction</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -14682,16 +13575,6 @@ contentType="fr"
 >Saisir votre retraduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Draft_your_back_translation</titleContent
-><titleContent
-contentType="fr"
->Saisir_votre_retraduction</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14744,16 +13627,6 @@ contentType="fr"
 >Marquer le chapitre comme Achevé</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_the_chapter_as_Finished</titleContent
-><titleContent
-contentType="fr"
->Marquer_le_chapitre_comme_Achevé</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -14816,16 +13689,6 @@ contentType="fr"
 >Quand une modification est faite dans votre projet</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->When_a_change_is_made_to_your_project</titleContent
-><titleContent
-contentType="fr"
->Quand_une_modification_est_faite_dans_votre_projet</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -14887,16 +13750,6 @@ contentType="fr"
 >Afficher les différences pour les versets périmés</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->View_the_differences_for_outdated_verses</titleContent
-><titleContent
-contentType="fr"
->Afficher_les_différences_pour_les_versets_périmés</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14945,16 +13798,6 @@ contentType="fr"
 >Passer aux différences suivantes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Move_to_the_next_differences</titleContent
-><titleContent
-contentType="fr"
->Passer_aux_différences_suivantes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -14987,16 +13830,6 @@ contentType="fr"
 >Vérifiez votre plan de projet</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_your_project_plan</titleContent
-><titleContent
-contentType="fr"
->Vérifiez_votre_plan_de_projet</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -15054,16 +13887,6 @@ contentType="fr"
 >Vérification de versets de la retraduction (dans le plan du projet)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Back_translation_verse_check_in_project_plan</titleContent
-><titleContent
-contentType="fr"
->Vérification_de_versets_de_la_retraduction_(dans_le_plan_du_projet)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -15105,16 +13928,6 @@ contentType="fr"
 >Statut de la retraduction dans « le plan du projet »</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Back_translation_status_complete_in_project_plan</titleContent
-><titleContent
-contentType="fr"
->Statut_de_la_retraduction_dans_«_le_plan_du_projet_»</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -15149,16 +13962,6 @@ contentType="fr"
 >Tâche d’apprentissage</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Learning_task</titleContent
-><titleContent
-contentType="fr"
->Tâche_d’apprentissage</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -15585,16 +14388,6 @@ contentType="fr"
 >Créer un nouveau projet pour la retraduction mot à mot</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Create_a_new_project_for_the_back_translation</titleContent
-><titleContent
-contentType="fr"
->Créer_un_nouveau_projet_pour_la_retraduction_mot_à_mot</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -15753,16 +14546,6 @@ contentType="fr"
 >Créer une glose interlinéaire mot à mot</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Configure_the_project_interlineariser</titleContent
-><titleContent
-contentType="fr"
->Créer_une_glose_interlinéaire_mot_à_mot</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -15884,16 +14667,6 @@ contentType="fr"
 >Corriger l’interlinéaire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Correct_the_interlinearised_text</titleContent
-><titleContent
-contentType="fr"
->Corriger_l’interlinéaire</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 contentType="fr"
 framedtype="tTeacher"
@@ -15961,16 +14734,6 @@ contentType="fr"
 >Traduire/gloser une expression</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Translate/gloss_a_phrase</titleContent
-><titleContent
-contentType="fr"
->Traduire/gloser_une_expression</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16033,16 +14796,6 @@ contentType="fr"
 >Ajouter des mots supplémentaires</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_extra_words</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_mots_supplémentaires</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16071,16 +14824,6 @@ contentType="fr"
 >Spécifier la morphologie</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Specify_the_morphology_-_break_a_word_into_morphemes</titleContent
-><titleContent
-contentType="fr"
->Spécifier_la_morphologie</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16121,16 +14864,6 @@ contentType="fr"
 >Exporter/approuver le texte</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Approve_and_Export_the_text</titleContent
-><titleContent
-contentType="fr"
->Exporter/approuver_le_texte</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >When you approve and export the text any remaining red glosses will be approved.</p
@@ -16177,16 +14910,6 @@ contentType="fr"
 >Aide</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Help</titleContent
-><titleContent
-contentType="fr"
->Aide</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -16350,16 +15073,6 @@ contentType="fr"
 >Sauvegarder à chaque étape majeure de votre projet</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_Point_in_History</titleContent
-><titleContent
-contentType="fr"
->Sauvegarder_à_chaque_étape_majeure_de_votre_projet</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16430,16 +15143,6 @@ contentType="fr"
 >Voir les différences entre deux points (ou versions)</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Compare_Two_Versions</titleContent
-><titleContent
-contentType="fr"
->Voir_les_différences_entre_deux_points_(ou_versions)</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16643,16 +15346,6 @@ contentType="fr"
 >Erreurs de ponctuation en paires correspondantes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Unmatched_pairs_of_Punctuation</titleContent
-><titleContent
-contentType="fr"
->Erreurs_de_ponctuation_en_paires_correspondantes</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -16677,16 +15370,6 @@ contentType="fr"
 >Inventaire</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Setup_-_inventory</titleContent
-><titleContent
-contentType="fr"
->Inventaire</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16754,16 +15437,6 @@ contentType="fr"
 >Faire la vérification</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Run_the_check</titleContent
-><titleContent
-contentType="fr"
->Faire_la_vérification</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -16836,16 +15509,6 @@ contentType="fr"
 >Références</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->References</titleContent
-><titleContent
-contentType="fr"
->Références</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -17020,16 +15683,6 @@ contentType="fr"
 >Numéros</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Numbers_check</titleContent
-><titleContent
-contentType="fr"
->Numéros</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -17135,16 +15788,6 @@ contentType="fr"
 >Règles de guillemets</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Quotation_rules</titleContent
-><titleContent
-contentType="fr"
->Règles_de_guillemets</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -17226,16 +15869,6 @@ contentType="fr"
 >Vérification des citations</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Quotation_check</titleContent
-><titleContent
-contentType="fr"
->Vérification_des_citations</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -17325,16 +15958,6 @@ contentType="fr"
 >Texte cité</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Quoted_text</titleContent
-><titleContent
-contentType="fr"
->Texte_cité</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -17745,16 +16368,6 @@ contentType="fr"
 >Vérifier votre plan</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_your_plan</titleContent
-><titleContent
-contentType="fr"
->Vérifier_votre_plan</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -17789,16 +16402,6 @@ contentType="fr"
 >Produire les courbes de progression</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Produce_team_progress_chart</titleContent
-><titleContent
-contentType="fr"
->Produire_les_courbes_de_progression</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18002,16 +16605,6 @@ contentType="fr"
 >Outil de termes biblique</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Biblical_terms_tool</titleContent
-><titleContent
-contentType="fr"
->Outil_de_termes_biblique</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18070,16 +16663,6 @@ contentType="fr"
 >Enregistrer la liste comme fichier HTML</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Save_the_list_to_a_file</titleContent
-><titleContent
-contentType="fr"
->Enregistrer_la_liste_comme_fichier_HTML</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18144,16 +16727,6 @@ contentType="fr"
 >D'autres façons d'identifier des équivalents</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Other_ways_to_identify_renderings</titleContent
-><titleContent
-contentType="fr"
->D'autres_façons_d'identifier_des_équivalents</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="ssortOnTermsNotes"
 showinlandscapemode="no"
@@ -18167,16 +16740,6 @@ contentType="fr"
 >Trier par les remarques des équivalents</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Sort_on_terms_notes</titleContent
-><titleContent
-contentType="fr"
->Trier_par_les_remarques_des_équivalents</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18209,16 +16772,6 @@ contentType="fr"
 >Trouver des termes avec du texte dans la description d'équivalents</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Find_terms_with_text_in_the_rendering_description</titleContent
-><titleContent
-contentType="fr"
->Trouver_des_termes_avec_du_texte_dans_la_description_d'équivalents</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18427,16 +16980,6 @@ contentType="fr"
 >Ajouter des illustrations et légendes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_illustrations_and_captions</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_illustrations_et_légendes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18555,16 +17098,6 @@ contentType="fr"
 >Vérifier que tous les contrôles soient complets</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Verify_all_checks_are_complete</titleContent
-><titleContent
-contentType="fr"
->Vérifier_que_tous_les_contrôles_soient_complets</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="sCurrentBook"
 ><secTitle
@@ -18577,16 +17110,6 @@ contentType="fr"
 >Livre actuel</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Current_book</titleContent
-><titleContent
-contentType="fr"
->Livre_actuel</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18614,16 +17137,6 @@ contentType="fr"
 >Plusieurs livres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Several_books</titleContent
-><titleContent
-contentType="fr"
->Plusieurs_livres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18693,16 +17206,6 @@ contentType="fr"
 >Vérifications du liste de mots</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Word_list_checks</titleContent
-><titleContent
-contentType="fr"
->Vérifications_du_liste_de_mots</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -18788,16 +17291,6 @@ contentType="fr"
 >Vérification finale des noms propres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Proper_Names_final_check</titleContent
-><titleContent
-contentType="fr"
->Vérification_finale_des_noms_propres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18868,16 +17361,6 @@ contentType="fr"
 >Les chiffres, l’argent, les poids et les mesures</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Numbers,_money,_weights_and_measures</titleContent
-><titleContent
-contentType="fr"
->Les_chiffres,_l’argent,_les_poids_et_les_mesures</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -18948,16 +17431,6 @@ contentType="fr"
 >Vérification du mise en page</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Formatting_checks</titleContent
-><titleContent
-contentType="fr"
->Vérification_du_mise_en_page</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19129,16 +17602,6 @@ contentType="fr"
 >Ajouter des illustrations et légendes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Add_illustrations_and_captions</titleContent
-><titleContent
-contentType="fr"
->Ajouter_des_illustrations_et_légendes</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19257,16 +17720,6 @@ contentType="fr"
 >Trouver les noms des villes pour les cartes</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Map_names</titleContent
-><titleContent
-contentType="fr"
->Trouver_les_noms_des_villes_pour_les_cartes</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -19400,16 +17853,6 @@ contentType="fr"
 >Ajouter l’introduction au NT/Bible</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Draft_Introduction_to_the_NT/Bible</titleContent
-><titleContent
-contentType="fr"
->Ajouter_l’introduction_au_NT/Bible</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19468,16 +17911,6 @@ contentType="fr"
 >Vérifier les passages parallèles</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Check_parallel_passages</titleContent
-><titleContent
-contentType="fr"
->Vérifier_les_passages_parallèles</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19500,16 +17933,6 @@ contentType="fr"
 >Vérifier que tous les contrôles soient complets</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Verify_all_checks_are_complete</titleContent
-><titleContent
-contentType="fr"
->Vérifier_que_tous_les_contrôles_soient_complets</titleContent
-></titleContentChoices
-></shortTitle
 ><section2
 id="sCurrentBookNT"
 ><secTitle
@@ -19522,16 +17945,6 @@ contentType="fr"
 >Livre actuel</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Current_book</titleContent
-><titleContent
-contentType="fr"
->Livre_actuel</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19559,16 +17972,6 @@ contentType="fr"
 >Plusieurs livres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Several_books</titleContent
-><titleContent
-contentType="fr"
->Plusieurs_livres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19638,16 +18041,6 @@ contentType="fr"
 >Vérifications du liste de mots</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Word_list_checks</titleContent
-><titleContent
-contentType="fr"
->Vérifications_du_liste_de_mots</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
@@ -19733,16 +18126,6 @@ contentType="fr"
 >Vérification finale des noms propres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Proper_Names_final_check</titleContent
-><titleContent
-contentType="fr"
->Vérification_finale_des_noms_propres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19813,16 +18196,6 @@ contentType="fr"
 >Les chiffres, l’argent, les poids et les mesures</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Numbers,_money,_weights_and_measures</titleContent
-><titleContent
-contentType="fr"
->Les_chiffres,_l’argent,_les_poids_et_les_mesures</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -19893,16 +18266,6 @@ contentType="fr"
 >Vérification du mise en forme</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Formatting_checks</titleContent
-><titleContent
-contentType="fr"
->Vérification_du_mise_en_forme</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20102,16 +18465,6 @@ contentType="fr"
 >Ouvrir la fenêtre de Textes parallèles</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Open_the_Parallel_passages_window</titleContent
-><titleContent
-contentType="fr"
->Ouvrir_la_fenêtre_de_Textes_parallèles</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20162,16 +18515,6 @@ contentType="fr"
 >Afficher les textes sources</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Display_source_texts</titleContent
-><titleContent
-contentType="fr"
->Afficher_les_textes_sources</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20220,16 +18563,6 @@ contentType="fr"
 >Sélectionner des Textes comparatifs</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Select_comparative_texts</titleContent
-><titleContent
-contentType="fr"
->Sélectionner_des_Textes_comparatifs</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20288,16 +18621,6 @@ contentType="fr"
 >Filtres</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Filters</titleContent
-><titleContent
-contentType="fr"
->Filtres</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20325,16 +18648,6 @@ contentType="fr"
 >Comparer des passages</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Compare_the_passages</titleContent
-><titleContent
-contentType="fr"
->Comparer_des_passages</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20411,16 +18724,6 @@ contentType="fr"
 >Pour faire des corrections</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->To_correct_the_text</titleContent
-><titleContent
-contentType="fr"
->Pour_faire_des_corrections</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20461,16 +18764,6 @@ contentType="fr"
 >Copier un texte</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Copying_a_text</titleContent
-><titleContent
-contentType="fr"
->Copier_un_texte</titleContent
-></titleContentChoices
-></shortTitle
 ><framedUnit
 framedtype="tTeacher"
 ><p
@@ -20572,16 +18865,6 @@ contentType="fr"
 >Marquer un texte comme fini</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Mark_the_passage_as_finished</titleContent
-><titleContent
-contentType="fr"
->Marquer_un_texte_comme_fini</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20604,16 +18887,6 @@ contentType="fr"
 >Les passages qui ont été modifié</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Passages_which_have_changed</titleContent
-><titleContent
-contentType="fr"
->Les_passages_qui_ont_été_modifié</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 >Identify the passages which have been changed since they were marked as finished</p
@@ -20694,16 +18967,6 @@ contentType="fr"
 >Comparer les textes pendant la traduction</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Compare_the_text_as_you_translate</titleContent
-><titleContent
-contentType="fr"
->Comparer_les_textes_pendant_la_traduction</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20760,16 +19023,6 @@ contentType="fr"
 >Voir un troisième passage</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->To_see_a_third_passage</titleContent
-><titleContent
-contentType="fr"
->Voir_un_troisième_passage</titleContent
-></titleContentChoices
-></shortTitle
 ><ul
 ><li
 contentType="en"
@@ -20815,16 +19068,6 @@ contentType="fr"
 >Tâche de l'apprentissage</titleContent
 ></titleContentChoices
 ></secTitle
-><shortTitle
-><titleContentChoices
-><titleContent
-contentType="en"
->Learning_task</titleContent
-><titleContent
-contentType="fr"
->Tâche_de_l'apprentissage</titleContent
-></titleContentChoices
-></shortTitle
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
