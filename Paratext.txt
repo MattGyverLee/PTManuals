@@ -1,0 +1,782 @@
+Introduction
+
+----
+!!1.1: But
+
+Les participants traiteront leur traduction à l’aide de Paratext 8, qui est un logiciel créé pour stocker et vérifier les textes de la traduction. Ainsi on suit les six étapes du plan de SIL du processus de traduction.
+On suit les six étapes du plan de SIL du processus de traduction. [[Les quatres étapes de UBS sont 1, 2, 5 et 6.]
+----
+!!1.2: Objectifs, Étape 3-6
+
+À la fin de ce cours, le participant sera capable de :''Étape 3 : Préparation pour le conseiller''
+* Faire des retraductions
+* Retraduction 1 (libre)
+* Retraduction 2 (mot à mot)
+* Faire d’autres vérifications''Étape 4 : Vérification par un conseiller''
+* Toutes les tâches de cette étape ont été couvertes dans les modules précédents.''Étape 5 : Tester/réviser avec la communauté''
+* Rapport de progrès à faire
+* Rapport de Termes bibliques à faire''Étape 6 : Finalisation pour la publication''
+* Ajouter des illustrations et légendes
+* Trouver les noms des villes pour les cartes
+* Ajouter l’introduction au NT / Bible
+* Vérifier les passages parallèles
+* Vérifier que tous les contrôles sont complets
+* Vérification finale des noms propres
+* Les chiffres, l’argent, les poids et les mesures
+* Vérification de la mise en forme!Introduction du cours de Paratext
+RT1 : Retraductions 1
+''Introduction ''
+En préparant une vérification, le conseiller aura besoin d’une ou plusieurs versions de votre texte dans une langue qu’il comprend. C’est souvent appelé une retraduction. Il y a deux types de retraduction. Ce module explique comment faire une retraduction libre. Le prochain module explique comment faire une retraduction mot à mot.''Où en sommes-nous ? ''
+Vous avez saisi, vérifié et révisé votre traduction dans Paratext. Votre administrateur doit créer un projet pour la retraduction.''Pourquoi est-il important ? ''
+Il est essentiel que votre texte soit vérifié par votre conseiller. Mais puisque votre conseiller ne connaît pas votre langue, il vous faut retraduire votre texte dans une langue que votre conseiller peut comprendre. D’où le terme « retraduction. » Il est préférable que la retraduction soit faite par quelqu’un qui n’était pas impliqué dans votre traduction. Dans ce cas, il rendra ce que le texte dit et pas ce que vous avez voulu que le texte dise. Avoir les deux versions différentes aide le conseiller à trouver dans le texte tout problème possible.''Que ferez-vous ? ''
+Vous allez ouvrir votre projet et votre projet de retraduction libre. Après avoir arrangé les fenêtres côté à côté, vous allez saisir le texte de la retraduction et marquer le chapitre comme achevé. Vous allez vérifier la retraduction.
+----
+!!2.1: Créer un nouveau projet pour la retraduction
+
+(Première fois, seulement par l’administrateur)
+* Fichier > Nouveau Projet
+* Cliquez le bouton__ ____Édition__
+* Saisissez le nom complet et un nom raccourci
+* Cliquez sur OK
+* Choisissez la langue pour votre retraduction (p.ex. française)
+* Choisissez la versification
+* Comme type de projet, choisissez « retraduction »
+* Choisissez votre projet du liste __Basé sur__.
+* Cliquez sur l’onglet __Livres__
+* Choisissez les livres désirés
+* Cliquez sur __OK__ encore
+* Cliquer sur le lien __Create book(s) (Créer des livres)__.
+* Créez des livres comme voulu.
+{BOX(bg="#FFE6FF" width="60%")}
+Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite l'inscription de votre projet.{BOX}
+----
+!!2.2: Saisir votre retraduction
+
+* Ouvrez votre projet
+* Ouvrez votre retraduction
+* Arrange les fenêtres côté à côté pour facilement voir les deux fenêtres.
+* Cliquez dans la fenêtre de retraduction (le verset dans votre projet est surligné)
+* Saisissez la retraduction dans chaque verset (après la case à cocher).
+* Continuez à saisir chaque verset.
+----
+!!2.3: Marquer le chapitre comme Achevé
+
+Quand vous avez fini le chapitre
+* De la barre d’outils en haut de la fenêtre de retraduction, cliquez sur la coche. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image3.png" class=img-responsive}
+* Choisissez __Marquer tous les versets du chapitre comme achevés__. Toutes les cases du chapitre seront cochées en vert.
+----
+!!2.4: Quand une modification est faite dans votre projet
+
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext détectera tout changement dans votre texte (au moment où le texte est enregistré) et va changer la case de traduction vers un point d’interrogation rouge {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image3.png" class=img-responsive} et ajouter des questions à l’état de la retraduction dans le plan de projet.{BOX}
+* Cliquez dans un verset avec un point d’interrogation rouge.
+* Revoyez et corrigez la retraduction.
+* Cliquez sur le point d’interrogation rouge.Il devient une coche verte. 
+----
+!!2.5: Afficher les différences pour les versets périmés
+
+* Cliquez sur l’icône {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/ab.png" class=img-responsive} dans la barre d’outils pour voir les différences.Une fenêtre de comparaison s’affiche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image5.png" class=img-responsive}
+----
+!!2.6: Passer aux différences suivantes
+
+* Cliquez sur les flèches de haut et de bas pour passer aux différences précédentes ou suivantes. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image6.png" class=img-responsive}
+----
+!!2.7: Vérifiez votre plan de projet
+
+* Cliquez sur l’icône du plan de projet {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/projplan.png" class=img-responsive}
+* Développez l'étape 3, les vérifications de la retraduction sont à la fin){img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image7a.png" class=img-responsive}Le nombre de problèmes est affiché. 
+----
+!!2.8: Vérification de versets de la retraduction (dans le plan du projet)
+
+* Cliquez sur le lien de « Statut de retraduction (xxx) achevée » Une liste de toutes les erreurs trouvées s’affiche.
+* Corrigez toutes les erreurs.
+----
+!!2.9: Statut de la retraduction dans « le plan du projet »
+
+* Cliquez sur le lien « Back translation status complete »
+* La fenêtre de retraduction s’affiche avec le curseur dans le premier verset qui a des problèmes.
+* Corrigez le problème et passez au verset suivant qui a du « texte de verset dépassé » en cliquant sur les flèches de la barre d’outils.
+----
+!!2.10: Tâche d’apprentissage
+
+Les cases à cocher dans une retraduction peuvent avoir un certain nombre de symboles différents.
+Consultez la rubrique Aide sur les symboles et les symboles suivants: « Quels symboles peuvent se produire dans les cases à cocher de statut dans une retraduction ? »
+||A |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image11.png" class=img-responsive} | |1 |numéro de verset incohérent 
+B |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image12.png" class=img-responsive} | |2 |pas de texte/verse no. 
+C |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image13.png" class=img-responsive} | |3 |inachevé (unfinished) 
+D |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image14.png" class=img-responsive} | |4 |Achevé (Finished) 
+E |{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image15.png" class=img-responsive} | |5 |Dépassé (Out of date) ||
+Reponses: A3, B4, C5, D1, E2RT2 : Retraductions 2 (mot à mot)
+''Introduction ''
+Le module précédent a expliqué comment créer une retraduction qui exprime ce que le lecteur comprend quand il lit ou entend le texte. Il existe un autre type de retraduction qui est parfois utilisé et qui est une retraduction mot à mot. Certains consultants peuvent demander ce style de retraduction. Vous pouvez utiliser la fonctionalité générateur d’interlinéaire de projet.
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. En Paratext 8 vous ne pouvez qu’utiliser le générateur d’interlinéaire avec des projets inscrits.{BOX}''Où en sommes-nous ? ''
+Vous avez saisi, vérifié et révisé votre traduction dans Paratext afin qu’elle soit prête pour une vérification du conseiller. Avant de commencer, votre administrateur doit créer un projet pour la retraduction mot à mot. [[Ceci est distinct de la retraduction libre dans le module précédent.]''Pourquoi est-il important ? ''
+Votre consultant doit avoir une copie de votre traduction dans une langue qu’il peut comprendre. La retraduction effectuée dans le module précédent est très utile, mais il y a des moments où une traduction littérale est plus utile.''Que ferez-vous ? ''
+Premièrement, on utilisera la fonction du générateur d’Interlinéaire de projet pour créer automatiquement une glose interlinéaire mot à mot du texte. L’ordinateur est bon, mais il fait encore beaucoup d’erreurs. Ensuite, vous corrigez les gloses proposées si nécessaire. Vous voulez que les mots soient traduits correctement bien que l’ordre des mots ne soit pas correct pour cette langue. Quand vous êtes contents du texte, vous pouvez l’exporter dans un autre projet.
+----
+!!3.1: Créer un nouveau projet pour la retraduction mot à mot
+
+(La première fois, et seulement par l’administrateur)
+* Fichier > Nouveau Projet
+* Cliquez le bouton__ ____Édition__
+* Saisissez le nom complet et un nom raccourci
+* Cliquez sur __OK__
+* Pour le type de projet, choisissez « retraduction »
+* Choisissez la langue pour votre retraduction (p.ex. français)
+* Choisissez la versification
+* Choisissez votre projet primaire (la traduction) comme projet de base (__Based on:__)
+* Cliquez sur l’onglet __Livres__
+* Choisissez les livres désirés
+* Cliquez sur __OK__
+* Cliquez sur le lien __Create Books__ (créer les livres)
+* Créez des livres nécessaires.
+{BOX(bg="#FFE6FF" width="60%")}
+Ce projet n’a pas besoin d’être enregistré parce ce qu’il hérite l'inscription de votre projet. [[Vous pouvez avoir deux projets de retraduction – un pour la retraduction libre et un pour la retraduction mot à mot.]{BOX}
+----
+!!3.2: Créer une glose interlinéaire mot à mot
+
+* Cliquez dans votre projet
+* __Fichier__ > __Ouvrir__ le __générateur d’Interlinéaire de projet__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/Generer_interlineaire.png" class=img-responsive}
+* Choisissez votre projet principal comme le texte source pour l’interlinéaire (__Texte pour lequel il faut créer un interlinéaire [[1]__)
+* Pour __Texte modèle à utiliser pour l'interlinéaire [[2]__, choisissez un texte ressource dans la langue du conseiller pour le texte modèle (ou votre projet de retraduction libre)
+* Cliquez l’onglet __Avancé__
+* Cochez « Exporter automatiquement les versets approuvés »
+* Choisissez le projet pour la retraduction mot à mot
+* Cliquez sur __OK__
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. : Vous n'avez pas besoin d'utiliser la case "__La langue du projet est apparentée à celle du modèle__". C'est utile quand vous faites une adaptation (ou un changement d'orthographe).{BOX}
+----
+!!3.3: Corriger l’interlinéaire
+
+{BOX(bg="#FFE6FF" width="60%")}
+Vous n’avez pas besoin de confirmer les gloses correctes. Toutes gloses qui ne sont pas corrigées seront confirmées automatiquement quand vous approuvez et exportez.{BOX}
+Pour corriger les gloses incorrectes
+* Cliquez sur la gloseUne liste s'affiche.
+* Soit cliquez une glose sur la liste soit tapez une glose dans la case de texte
+* Cliquez sur Entrée
+----
+!!3.4: Traduire/gloser une expression
+
+* Cliquez entre les deux mots{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image13.png" class=img-responsive}
+* Cliquez sur l’icône {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/link.png" class=img-responsive} __Lier mots__
+* Cliquez sur la ligne rouge en bas
+* Saisissez la glose
+----
+!!3.5: Ajouter des mots supplémentaires
+
+* Cliquez entre deux gloses
+* Saisissez le(s) mot(s) supplémentaires
+----
+!!3.6: Spécifier la morphologie
+
+* Cliquez sur un mot dans la ligne de la langue de la traduction
+* Cliquez sur « Ajouter analyse de mot »
+* Ajouter des espaces entre les morphèmes et « + » aux limites du morphème
+* Cliquez OK
+----
+!!3.7: Exporter/approuver le texte
+
+Quand vous approuvez et exportez le texte, toutes gloses rouges restantes seront approuvées.
+* Cliquer sur __Approuver le verset vers ***__
+* Pour continuer, cliquez __Verset suivant non approuvé__
+----
+!!3.8: Aide
+
+Pour plus d'aide lors de l'utilisation de la fonction Interlineariser voir les rubriques suivantes dans l'Aide de Paratext :
+* Introduction pour générateur d'interlinéaire
+* Comment ouvrir l'outil de générateur d'interlinéaire?
+* Comment générer une retraduction mot-à-mot?
+* Comment créer une retraduction avec l'outi de générateur d'interlinéaire ?
+* Comment créer une project d'adaptation avec l'outi de générateur d'interlinéaire ?
+* Qu'est-ce que les couleurs des gloses dans d'interlinéaire veulent dire ?CT : Comparer des textes
+''Introduction ''
+Dans ce module, vous apprendrez comment enregistrer les versions anciennes de votre texte pour les revoir plus tard.''Où en sommes-nous ? ''
+Vous avez travaillé sur votre texte dans Paratext et vous êtes arrivé au un point important (point de repère) du projet.''Pourquoi cette aptitude est-elle importante ? ''
+Lorsque vous travaillez sur votre traduction, vous faites continuellement des changements. Il est bon d’avoir une copie des anciennes versions de votre texte, par exemple, le texte avant la vérification du conseiller. Vous faites un version quand vous faites « marqué un point de repère dans l’historique du projet ». Vous pouvez comparer les anciennes versions du texte avec le texte actuel.''Qu’est-ce qu’on va faire ? ''
+Vous allez marquer un point de repère dans l’historique du projet auquel vous pourrez revenir plus tard afin de comparer votre travail.
+----
+!!4.1: Sauvegarder à chaque étape majeure de votre projet
+
+* Cliquez dans votre fenêtre de projet (dans Paratext )
+* Du menu __Projet, __sélectionnez __Marquer un point de repère dans l’historique du projet.__
+* Saisissez un commentaire pour décrire l'étape du project.
+* Cliquez sur __OK__
+----
+!!4.2: Voir les différences entre deux points (ou versions)
+
+* Du menu __Outils__, choisissez __Comparer__ __textes...__
+* Cliquez sur le list déroulante __Version actuel (current version)__.
+* Choisissez votre point désiré dans l’historique{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/comparerLestexts.png" class=img-responsive}L’écran changera et montrera les différences entre les deux versions.
+{BOX(bg="#FFE6FF" width="60%")}
+Chaque partie du texte qui a été supprimée est barrée. Chaque partie de texte qui a été ajoutée est soulignée.{BOX}BC3: Vérifications de base 3
+''Introduction ''
+Dans ce module vous apprendrez comment diriger les vérifications de base restantes (les références, le texte cité, les numéros, la ponctuation en paires et les citations). Comme dans les deux premiers modules de vérifications de base, il est plus facile de diriger les vérifications du plan de projet. Toutefois, si vous voulez vérifier plus qu'un livre, vous devez effectuer les vérifications du menu vérification.''Où en sommes-nous ? ''
+Vous avez saisi votre traduction en Paratext. Assurez-vous que vous avez fait les vérifications décrites dans les modules BC1 et BC2 avant la continuation. Et que votre administrateur a soit fait l'installation pour les vérifications soit est disponible pour faire l'installation avec vous.''Pourquoi est-il important ? ''
+Paratext a onze vérifications de base. Vous avez déjà vu les six premières vérifications. Cette dernière série de contrôles vous aide à trouver les erreurs liées au matériel mentionné d'autres livres.. Vous voulez être sûr que les références sont exactes pour que le lecteur puisse trouver ces passages.''Que ferez-vous ? ''
+Comme auparavant, la plupart des vérifications exigent qu'un peu d'installation soit faite par votre administrateur. Dans ce module, vous allez
+* Confirmez que l'installation a été faite
+* Lancez la vérification de base
+* Corrigez toutes erreurs.
+----
+!!5.1: Erreurs de ponctuation en paires correspondantes
+
+{BOX(bg="#FFE6FF" width="60%")}
+Cette vérification regarde la ponctuation qui se produit dans les paires (une ouverture et une fermeture) et énumère des erreurs où un élément du paire n'a pas sa correspondance. Cela peut être délibéré, mais sera plus probablement une erreur, par ex. (), [[], etc.{BOX}
+!!!5.1.1: Inventaire
+
+* __Vérification__ > __Inventaire d'erreurs de ponctuation en paires correspondantes: __Si la liste est vide, donc il n'y a aucune erreur.
+* Si nécessaire, cliquez sur __Options...__ pour ajouter d'autres paires.
+* Cliquez sur __OK__
+!!!5.1.2: Faire la vérification
+
+* __Vérification__ > __Effectuer les vérifications de base__
+* Cochez “__Erreurs de ponctuation en paires correspondantes__”
+* Cliquez sur __OK__ Une liste d'erreurs s'affiche.
+* Faites toutes corrections comme nécessaires.
+----
+!!5.2: Références
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres différents.{BOX}
+* __Projet > Paramètres des références bibliques__{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/ParametresdesReferencebibliaques.png" class=img-responsive}
+* Pour chaque paramètre, tapez la ponctuation dans la boîteL'échantillon sera actualisé à droite.
+* Cliquez sur l'onglet __Noms de livre__ {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/NomsDeLivre.png" class=img-responsive}
+* Remplisissez les trois colonnes [[1] avec l'abréviation, le nom court et le long nom..
+* Choisissez __Abbréviations__[[2] et [[3] tant pour les renvois que pour les références
+* Cliquez sur __OK__
+* __Vérification__ > __Effectuer les vérifications de base __
+* Click « __Références »__
+* Cliquez sur __OK__
+* Corrigez toutes erreurs.
+{BOX(bg="#FFE6FF" width="60%")}
+Paratext vous informera s'il y a des incohérences entre ces paramètres de titre du livre et les lignes \toc et vous permettra de résoudre des conflits.{BOX}
+----
+!!5.3: Numéros
+
+{BOX(bg="#FFE6FF" width="60%")}
+Avant que vous puissiez lancer la vérification de références, votre Administrateur doit définir des paramètres de chiffres.{BOX}
+* Vérifications > Paramètres des chiffres
+* Remplissez la boîte de dialogue. {img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/Parametres%20de%20chiffres.png" class=img-responsive}
+* Cliquez sur __OK__
+* __Vérification__ > __Effectuer les vérifications de base __
+* Cochez « __Numéros»__
+* Cliquez sur __OK__
+----
+!!5.4: Règles de guillemets
+
+La vérification de citations est utilisée pour garantir que vous avez été cohérent avec les guillemets du discours direct.
+{BOX(bg="#FFE6FF" width="60%")}
+Avant que vous puissiez lancer la vérification de citation, votre Administrateur doit définir les règles pour vos citations.{BOX}
+* __Vérification__ > __Règles de guillemets__
+* Remplisissez les guillemets utilisé pour chaque niveau [[1] [[2] [[3]
+* Cochez "__Surligner les guillemets [[8]__"
+* Cliquez sur __ OK__. >
+----
+!!5.5: Vérification des citations
+
+* __Vérification__ > __Effectuer les vérifications de base __
+* Cochez __Citations__
+* Cliquez sur __OK__.Une liste d'erreurs est affichée. Il montre des erreurs possibles, mais inclut quatre citations correctes auparavant et après l'erreur possible.
+* Double-clicquez sur le premier élément qui ne commence pas par « … »
+* Corigez si nécessaire.
+* Cliquez sur le bouton __Relancer__ pour confirmer que vous avez corrigé l'erreur.
+----
+!!5.6: Texte cité
+
+{BOX(bg="#FFE6FF" width="60%")}
+La vérification de texte cité regarde le texte dans les notes en bas de page ou les renvois qui a été marqué avec les marqueurs \qt … \qt *. Il vérifie que le texte cité correspond au texte dans le verset.{BOX}
+* __Vérification__ > __Effectuer les vérifications de base __
+* Cochez __Quoted text (texte cité)__
+* Cliquez sur __OK__.Une liste d'erreurs est affichée.
+* Corigez si nécessaire.
+{BOX(bg="#FFE6FF" width="60%")}
+N.B. : le texte doit être exactement le même comme dans le texte. C'est-à-dire, on ne peut pas avoir même la ponctuation supplémentaire entre les marqueurs \qt … \\qt *.{BOX}!Étape 3 : Préparation pour le conseiller
+
+Note : Cette étape ne fait pas partie du plan d'UBS.
+Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image2.png" class=img-responsive}
+Les modules suivants vous aideront avec ces étapes :
+* ((Paratext_8_Étape_3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1))
+* ((Paratext_8_Étape_3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 ~040~mot à mot~041~))
+* ((Paratext_8_Étape_3|#BC3\:_V_rifications_de_base_3|5: BC3: Vérifications de base 3))
+* ((Paratext_8_Étape_5|#Rapport_du_progr_s|6: Rapport du progrès))!Étape 4 : Vérification par un conseiller
+''​Introduction ''
+''Note : Cette étape ne fait pas partie du plan d'UBS.''
+La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluez votre texte, prenez des notes, révisez vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image15.png" class=img-responsive}
+* 
+Toutes les tâches de cette étape ont été couvertes dans les modules précédents.
+* Voir le manuel précédent
+* ((Paratext_8_Étape_3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1)) Retraduction 1
+* ((Paratext_8_Étape_3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 ~040~mot à mot~041~)) Retraduction 2Rapport du progrès
+''Introduction''
+Dans ce module vous créerez un rapport sur l'état d'avancement.''Où en sommes-nous ? ''
+Comme vous avez travaillé sur votre traduction, vous avez actualisé votre plan de projet avec votre progrès sur les chapitres accomplis et les livres. Maintenant vous préparerez un rapport.''Pourquoi est-il important ? ''
+Vos administrateurs et bailleurs ont besoin des rapports exacts de votre progrès.''Que ferez-vous ? ''
+* Vous allez vérifier que votre plan de projet est à jour.
+* Vous allez produire plusieurs rapports.
+----
+!!6.1: Vérifier votre plan
+
+* Ouvrez votre projet
+* Cliquez sur l'icône de plan de Projet
+* Actualisez votre progrès comme nécessaire.
+----
+!!6.2: Produire les courbes de progression
+
+* Du menu __Projet__, choisissez __Courbe de progression__
+* Cliquez sur la flèche bas dans la liste à gauche.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/CourbedeProgression.png" class=img-responsive}
+* Choisissez comme appropriés.
+* Cliquez sur l'icône d'imprimanteUne fenêtre s'affiche.
+* Cliquez sur l'icône __Print__
+* Choisissez votre imprimante (ou PDF creator)
+* Cliquez sur __OK__Rapport des termes bibliques
+''Introduction ''
+Une tâche dans ce étape est de produire un rapport des changements faits dans les termes bibliques.''Où en sommes-nous ? ''
+Dans le fait de travailler sur votre traduction vous avez identifié et avez changé un certain nombre de termes bibliques clés.''Pourquoi est-il important ? ''
+Bien que vous ne puissiez pas utiliser Paratext pour écrire le rapport, il peut produire une liste des termes dont vous vous auriez besoin d'inclure dans votre rapport.''Que ferez-vous ? ''
+Dans l'outil de termes biblique, vous filtrez les livres que vous voulez inclure dans votre rapport. Vous sauverez alors la liste des termes comme un Fichier HTML séparé. Vous pouvez aussi filtrer la liste sur toutes notes de discussion que vous avez faites.
+----
+!!7.1: Outil de termes biblique
+
+* Cliquez dans votre projet
+* __Outils__ – __Termes bibliques__
+* Activez le fitre des termes comme désiré.
+* Activez le filtre des versets (des livres que vous voulez inclure).
+* Triez la liste comme désiré.
+----
+!!7.2: Enregistrer la liste comme fichier HTML
+
+* __Fichier__ > __Enregistrer en format HTML__
+* Tapez un nom pour le fichier
+* Cliquez sur __Save/Enregistrer__
+* Ouvrez le fichier dans __Word/LibreOffice__
+----
+!!7.3: D'autres façons d'identifier des équivalents
+
+!!!7.3.1: Trier par les remarques des équivalents
+
+* Cliquez sur ? (l'en-tête du deuxiem colonne) pour tirer par les remarques des équivalents.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image24.png" class=img-responsive}
+!!!7.3.2: Trouver des termes avec du texte dans la description d'équivalents
+
+* Cliquez sur la flèche à côté du __Rechercher__ sur la barre d'outils.
+* Choisissez __Rendering Description (descriptions des équivalents)__
+* Tapez le texte à rechercherLa liste est filtré.
+* Enregistrez la liste à HTML (comme au-dessus).!Étape 5 [[3 UBS] : Tester/réviser avec la communauté
+''​Introduction ''
+''N.B.: Cette étape est équivalent à la troisième étape du plan du UBS.''
+La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le style naturel, vous produirez un rapport d’avancement d’équipe et vous réviserez les termes clés.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image16.png" class=img-responsive}
+Les modules suivants vous aideront avec cette étape :
+* Rapport — progrès de projet
+* Rapport — termes clésFinalisation pour la publication - un livre
+''​Introduction ''
+Ce module traite la variété de tâches qu'on doit faire pour finaliser le texte d'un seul livre pour la publication.''Qu’est-ce que vous allez faire ?''
+* Ajouter des illustrations et légendes
+* Vérifier que tous les contrôles sont complets
+* Vérification finale des noms propres
+* Vérification du de la mise en forme.
+----
+!!8.1: Ajouter des illustrations et légendes
+
+* Dans votre projet, allez au verset désiré.
+* Du menu __Insérer__, choisissez __Image __
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image26.png" class=img-responsive}
+* Saisissez une __légende__ pour être imprimé avec l’image.[[1]
+* Entrez une __description__ en français de l’image (ne pas être imprimé) [[2].
+* Indiquez si l’image doit remplir la largeur d’une colonne ou d’une page. [[3]
+* Le cas échéant, saisissez une plage de verset comme emplacement acceptable de l’image. [[*] [[Facultatif]
+* Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [[4]
+* Paratext va remplir la référence de chapitre et verset qui concerne l’image. [[5]
+* Cliquez sur __Parcourir__... pour rechercher le fichier de l’image. [[6]
+* Cliquez sur __OK__.
+----
+!!8.2: Vérifier que tous les contrôles soient complets
+
+!!!8.2.1: Livre actuel
+
+* Ouvre le plan du projet.
+* Vérifiez qu’il n’y a plus d’issues pour les vérifications.
+!!!8.2.2: Plusieurs livres
+
+* Refaites les inventaires.
+* __Vérification__ > __Effectuer les vérifications de base__
+* Cochez toutes les vérifications
+* Séléctionnez tous les livres à publier
+* Cliquez sur __OK__.
+* Corrigez toutes les erreurs.
+!!!8.2.3: Vérifications du liste de mots
+
+Dans la liste de mots:
+* __Outils__ > __Vérifier l’orthographe__ > __All checks__
+* __Outils__ > __Rechercher mots pareils__
+* __Outils__ > __Rechercher des mots mal liés ou mal divisés__
+----
+!!8.3: Vérification finale des noms propres
+
+* __Outils__ > __Termes bibliques__
+* Dans le menu __Fichier__, __Sélectionner la liste termes bibliques__ et choisissez __Termes bibliques principaux__
+* Faites un filtre de noms propres avec les équivalents manquants (missing renderings)
+* Vérifier que tous les noms ont un équivalent (ajoutez si nécessaire).
+----
+!!8.4: Les chiffres, l’argent, les poids et les mesures
+
+* Cliquez dans votre projet.
+* Du menu __Outils__, choisissez __Termes bibliques__
+* Du menu __Fichier__, choisissez __Sélectionner liste de termes bibliques__
+* Choisissez la liste approprié.
+* Ajouter les équivalents comme normal.
+----
+!!8.5: Vérification du mise en page
+
+* Refaites le module VM : Vérification de mise en page d’étape 2.
+* __Outils__ > __Listes récapitulatives__ > __Versets longs/Versets courts__
+* __Outils__ > __Listes récapitulatives__ > __Mots ou expression__Finalisation pour la publication - Nouveau Testament
+''​Introduction ''
+Ce module traite la variété de tâches qu'on doit faire pour finaliser le texte pour la publication.''Qu’est-ce que vous allez faire ?''
+* Ajouter des illustrations et légendes
+* Trouver les noms des villes pour les cartes
+* Ajouter l’introduction au NT / Bible
+* Vérifier les passages parallèles
+* Vérifier que tous les contrôles sont complets
+* Vérification finale des noms propres
+* Vérifier les chiffres, l’argent, les poids et les mesures
+* Vérification du de la mise en forme.
+----
+!!9.1: Ajouter des illustrations et légendes
+
+* Dans votre projet, allez au verset désiré.
+* Du menu __Insérer__, choisissez __Image __
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgeng/image26.png" class=img-responsive}
+* Saisissez une __légende__ pour être imprimé avec l’image.[[1]
+* Entrez une __description__ en français de l’image (ne pas être imprimé) [[2].
+* Indiquez si l’image doit remplir la largeur d’une colonne ou d’une page. [[3]
+* Permets d’entrer des informations sur l’emplacement de l’image. [[*] [[Facultatif]
+* Entrez les informations de droits d’auteur (copyright) nécessaires sur l’image [[4]
+* Paratext va remplir la référence de chapitre et verset qui concerne l’image. [[5]
+* Cliquez sur __Parcourir__... pour rechercher le fichier de l’image. [[6]
+* Cliquez sur __OK__.
+----
+!!9.2: Trouver les noms des villes pour les cartes
+
+{BOX(bg="#FFE6FF" width="60%")}
+Note à l'enseignant: La liste des noms propres n'est pas encore disponible dans Paratext 8. Le fichier est disponible ici: (( https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml|https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml )) et, une fois telechargé, le fichier doit être copier vers (( C:\My Paratext 8 Projects|C:\My Paratext 8 Projects )).{BOX}
+* Cliquez dans votre projet.
+* Du menu __Outils__, choisissez __Termes bibliques__
+* Du menu __Fichier__, choisissez __Sélectionner liste de termes__
+* Double-cliquez sur NTMaps Biblical Terms
+* Filtre sur un nombre de carte spécifique (par ex. [[01])
+* Ajouter les équivalents comme normaux.
+* __Fichier__ > __Enregistrer au format HTML__
+* Tapez un nom pour le fichier.
+* Cliquez sur __Save__/Enregistre.
+----
+!!9.3: Ajouter l’introduction au NT/Bible
+
+* Accèdez au livre INT
+* Vérifiez qu'il y a un ligne \h
+* Entrez votre introduction en utilisant au moins les marqueurs suivant :\mt1 \is \ip
+* Tapez l’introduction du Bible dans le livre __INT__
+----
+!!9.4: Vérifier les passages parallèles
+
+* Voir module PP
+----
+!!9.5: Vérifier que tous les contrôles soient complets
+
+!!!9.5.1: Livre actuel
+
+* Ouvre le plan du projet.
+* Vérifiez qu’il n’y a plus d’issues pour les vérifications.
+!!!9.5.2: Plusieurs livres
+
+* Refaites les inventaires.
+* __Vérification__ > __Effectuer les vérifications de base__
+* Cochez toutes les vérifications
+* Séléctionnez tous les livres à publier
+* Cliquez sur __OK__.
+* Corrigez toutes les erreurs.
+!!!9.5.3: Vérifications du liste de mots
+
+Dans la liste de mots:
+* __Outils__ > __Vérifier l’orthographe__ > __All checks__
+* __Outils__ > __Rechercher mots pareils__
+* __Outils__ > __Rechercher des mots mal liés ou mal divisés__
+----
+!!9.6: Vérification finale des noms propres
+
+* __Outils__ > __Termes bibliques__
+* Dans le menu __Fichier__, __Sélectionner la liste termes bibliques__ et choisissez __Termes bibliques principaux__
+* Faites un filtre de noms propres avec les équivalents manquants (missing renderings)
+* Vérifier que tous les noms ont un équivalent (ajoutez si nécessaire).
+----
+!!9.7: Les chiffres, l’argent, les poids et les mesures
+
+* Cliquez dans votre projet.
+* Du menu __Outils__, choisissez __Termes bibliques__
+* Du menu __Fichier__, choisissez __Sélectionner liste de termes bibliques__
+* Choisissez la liste approprié.
+* Ajouter les équivalents comme normaux.
+----
+!!9.8: Vérification du mise en forme
+
+* Refaites le module VM : Vérification de mise en page d’étape 2.
+* __Outils__ > __Listes récapitulatives__ > __Versets longs/Versets courts__
+* __Outils__ > __Listes récapitulatives__ > __Mots ou expression__PP : Comparer passages parallèles
+''Introduction ''
+Il y a des milles des passages dans un NT où le même événement est décrié ou qui citent un autre verset. On doit comparer ces textes pour vérifier qu’il est cohérent.''Où en sommes-nous ?''
+Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller avant de comparer les textes.Bien qu'il y ait des temps que vous voudrez comparer les autres versets avant que vous traduisez le deuxième passage.''​Pourquoi cette aptitude est-elle importante ? ''
+Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujours être exactement le même. Paratext peut vous surligner quand la forme du texte est la même, mais c’est le sens (et pas nécessairement la forme) qui est important. Souvent ces comparaisons sont faites après avoir traduit les passages parce qu’on ne veut pas être influencé par ce que peut être une mauvaise traduction. Mais il y a des fois qu’on veut voir un autre passage d’un différent livre en même temps.''​Qu’est-ce qu’on va faire ? ''
+* vous utilisez l’outil Textes parallèle pour comparer les textes.
+* grâce aux nouvelles cases on peut savoir quels passages sont déjà finis et aussi s’il un passage était changé après vous l’avez vérifié.
+* filtrer pour voir les versets qui étaient changé
+* ouvrez une fenêtre de référence rapide dans Paratext pour voir un autre passage pendant que vous traduisez.
+* vous apprendrez comment ouvrir un troisième passage en même temps que votre passage principal et en plus de la fenêtre de référence rapide.
+----
+!!10.1: Ouvrir la fenêtre de Textes parallèles
+
+* Naviguez au livre/chapitre/verset voulu.
+* __Outils__ > __Textes parallèles__Une fenêtre s'affiche avec une liste de références et des passages.
+----
+!!10.2: Afficher les textes sources
+
+* Cliquez sur la liste déroulante (options de hébreu/grec){img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/Paralleles_derroulante.png" class=img-responsive}
+* Choisissez comme désiréLes changements d'affichage.
+----
+!!10.3: Sélectionner des Textes comparatifs
+
+* Cliquez sur le bouton __Textes comparatifs__
+* Cliquez sur une ressource (à gauche)
+* Cliquez sur la flèche droite
+* Répétez si nécessaire
+* Cliquez sur __OK__
+----
+!!10.4: Filtres
+
+* Choisissez les filtres comme désiré: [[Tous les parallèles, NT/NT, NT/AT, AT/AT, Evangiles synoptiques]{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/textes%20parallees.png" class=img-responsive}
+----
+!!10.5: Comparer des passages
+
+* Cliquez dans une ligne dans la partie en haut.Les textes s’affichent en bas.
+{BOX(bg="#FFE6FF" width="60%")}
+Le texte en vert montre les mots qui sont identiques dans les passages parallèles dans la langue originale (p.ex. grec pour le NT).{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
+Le texte en jaune montre les mots qui ne sont pas exactement les mêmes dans les passages parallèles, mais qui se ressemblent beaucoup (peut-être qu'il s'agit d'une autre forme du même verbe, ou d'un synonyme).{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
+Si le texte est en vert en grec votre texte doit être la même.{BOX}
+{BOX(bg="#FFE6FF" width="60%")}
+Normalement, si le texte est diffèrent en grec, votre texte doit être diffèrent, mais pas toujours.{BOX}
+----
+!!10.6: Pour faire des corrections
+
+* Cliquez sur le lien bleu « Édition »
+* Faites les corrections.
+* Cliquez sur __OK__.
+----
+!!10.7: Copier un texte
+
+{BOX(bg="#FFE6FF" width="60%")}
+Si les deux passages doivent d'être le même, vous devriez choisir un (normalement votre traduction dernière) et le copier sur l'autre.{BOX}
+* Cliquez sur le lien bleu « __Édition__ »
+* Sélectionnez le texte
+* Copiez (ctrl+c)
+* Cliquez sur __OK__. >
+* Cliquez sur le lien bleu d’autre texte
+* Sélectionnez le texte
+* Collez (ctrl+v)
+* Cliquez sur __OK__. >
+{BOX(bg="#FFE6FF" width="60%")}
+Faites attention s’il y a plus un verset. On ne veut pas coller le \v.{BOX}
+----
+!!10.8: Marquer un texte comme fini
+
+* Cliquez sur la case pour le cocher.
+----
+!!10.9: Les passages qui ont été modifié
+
+Identifier les passages qui ont été modifiés après avoir marqué comme finis.
+* Dans l’outil de Textes parallèles
+* Changez le filtre de passage au « Changed Text »
+* Cliquez sur l'icône « ab ».{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image18.png" class=img-responsive}Une fenêtre de comparaison s’affiche en Paratext.
+* Modifiez le texte si nécessaire.
+* Retourner à l’outil textes parallèles (avec la barre des tâches)
+* Cliquez sur la case pour le cocher est marqué comme fini.
+----
+!!10.10: Comparer les textes pendant la traduction
+
+* Cliquez dans votre projet.
+* __Outils__ > __Aperçu Rapide__ Une fenêtre s'affiche avec le groupe défilement à "Aucun/None"
+* Changez la référence à un autre passage.
+----
+!!10.11: Voir un troisième passage
+
+* Ouvrez votre projet un deuxième fois [[File-Ouvrir projet/ressource]
+* Puis changer la groupe de défilement de [[A] au « Aucun »/None.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image19.png" class=img-responsive}
+* Changez le référence au autre passage.!Étape 6 [[4 UBS] : Finalisation pour la publication
+
+La sixième étape d’un projet de traduction (ou quartrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
+Les modules suivants vous aideront avec ces étapes :
+* FC: Finalisation pour la publication
+* PP: Comparer passages parallèles!Introduction du cours de Paratext
+!Étape 3 : Préparation pour le conseiller
+
+Note : Cette étape ne fait pas partie du plan d'UBS.
+Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image2.png" class=img-responsive}
+Les modules suivants vous aideront avec ces étapes :
+* ((Paratext_8_Étape_3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1))
+* ((Paratext_8_Étape_3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 ~040~mot à mot~041~))
+* ((Paratext_8_Étape_3|#BC3\:_V_rifications_de_base_3|5: BC3: Vérifications de base 3))
+* ((Paratext_8_Étape_5|#Rapport_du_progr_s|6: Rapport du progrès))!Étape 4 : Vérification par un conseiller
+''​Introduction ''
+''Note : Cette étape ne fait pas partie du plan d'UBS.''
+La quatrième étape d’un projet de traduction est la vérification par un conseiller. Vous rencontrerez le conseiller et évaluez votre texte, prenez des notes, révisez vos textes et les retraductions si nécessaire. Vous voudrez vous assurer que vous avez mis à jour l’état de votre traduction dans le plan de projet.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image15.png" class=img-responsive}
+* 
+Toutes les tâches de cette étape ont été couvertes dans les modules précédents.
+* Voir le manuel précédent
+* ((Paratext_8_Étape_3|#RT1_\:_Retraductions_1|2: RT1 : Retraductions 1)) Retraduction 1
+* ((Paratext_8_Étape_3|#RT2_\:_Retraductions_2_mot_mot_|3: RT2 : Retraductions 2 ~040~mot à mot~041~)) Retraduction 2!Étape 5 [[3 UBS] : Tester/réviser avec la communauté
+''​Introduction ''
+''N.B.: Cette étape est équivalent à la troisième étape du plan du UBS.''
+La cinquième étape d’un projet de traduction est la révision par la communauté. Dans la révision, vous vérifierez le style naturel, vous produirez un rapport d’avancement d’équipe et vous réviserez les termes clés.
+{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image16.png" class=img-responsive}
+Les modules suivants vous aideront avec cette étape :
+* Rapport — progrès de projet
+* Rapport — termes clés!Étape 6 [[4 UBS] : Finalisation pour la publication
+
+La sixième étape d’un projet de traduction (ou quartrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.{img src="https://raw.githubusercontent.com/erros84/PTManuals/master/36imgfr/image17.png" class=img-responsive}
+Les modules suivants vous aideront avec ces étapes :
+* FC: Finalisation pour la publication
+* PP: Comparer passages parallèles
+!Textes à format spécial
+
+Les passages suivants ont souvent une mise en forme spécial (en ajoutant d'autres codes d'USFM)
+* Mat 1.2-16 : La généalogie, qui n'est pas la prose normale. Souvent mis dans un format poétique spécial dont les pères se mettent en rang et le formulaire indique que c'est une liste spéciale (avec les commentaires).
+* Mat 5.3-10 : Les béatitudes. Souvent mis en forme poétique.
+* Mat 6.9-13 : La prière du Seigneur. Souvent mis en forme poétique.
+* Mat 21.9 : La salutation à Jésus. Souvent mis en forme poétique.
+* Mat 27.37 : Le signe sur la croix. Souvent mis en petites majuscules.
+* Mat 27.46 : Le cri de Jésus. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 5.41 : La commande à la fille morte. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 11.9 : La salutation à Jésus. Souvent mis en forme poétique.
+* Mrk 14.36 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 15,26 : Le signe sur la croix. Souvent mis en petites majuscules.
+* Mrk 15,34 : Le cri de Jésus. Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Mrk 16,9 : Une note indiquant une autre fin de Mark. Quelquefois séparé par une règle horizontale.
+* Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Souvent mis en forme poétique.
+* Luk 1.68-79 : La chanson de Zechariah. Souvent mis en forme poétique.
+* Luk 2.14 : Le chant du chœur angélique. Souvent mis en forme poétique.
+* Luk 2.29-32 : La louange de Simeon. Souvent mis en forme poétique.
+* Luk 3.23-38 : La généalogie. Souvent mis en forme poétique spécial semblable à la généalogie dans Matthew.
+* Luke 6.20-22 : Les béatitudes (bénédictions). Souvent mis en forme poétique.
+* Luke 6.24-26 : Les béatitudes (malheurs). Souvent mis en forme poétique.
+* Luke 11.2-4 : la prière du Seigneur. Souvent mis en forme poétique.
+* Luke 19.38 : La salutation à Jésus. Souvent mis en forme poétique.
+* Luke 23.38 : Le signe sur la croix. Souvent mis dans de petites majuscules.
+* Jhn 7.53-8.11 : L'histoire de la femme prise sur le fait. La tête de section se produit d'habitude avant le vers 53. Rarement, séparé par une règle horizontale auparavant et après le texte.
+* Jhn 12.13 : La salutation à Jésus. Souvent mis en forme poétique.
+* Jhn 17.1-27 : La prière de Jésus. Quelquefois, bien que rarement, mit en paragraphes en retraite ajoutée de la marge gauche.
+* Jhn 19.19 : Le signe sur la croix. Souvent mis dans de petites casquettes.
+* Act 15.23-29 : La lettre. Souvent mis dans les paragraphes avec un retrait ajoutée de la marge gauche.
+* Act 23.26-30 : La lettre à Claudius Lysias. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.
+* Rom 8.15 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Rom 11.33-36 : La doxologie. Souvent mis en forme poétique.
+* Rom 16.3-16 : Les salutations spéciales. Quelquefois mis dans un format poétique spécial semblable aux généalogies.
+* Gal 4.6 : « Abba ». Parfois placé entre \tl et \tl*, le balise pour une transliteration (parce que c'est dans une autre langue).
+* Php 2.6-11 : Les attitudes. Quelquefois mis en forme poétique.
+* 1Ti 2.5-6 : Un credo. Quelquefois mis en forme poétique.
+* 1Ti 3.16 : Un credo. Souvent mis en forme poétique.
+* 2Ti 2.11-13 : Un credo. Souvent mis en forme poétique.
+* 1Jn 2.12-14 : je vous écris. Quelquefois mis en forme poétique.
+* Apo 1.4-7 : La salutation et doxologie. Quelquefois mis comme la poésie et la prose.
+* Apo 2-3 : Les sept lettres. Souvent mis dans les paragraphes en retrait ajoutée de la marge gauche.
+* Apo 4.8 : Un chant. Parfois mis en forme poétique centré.
+* Apo 4.11 : Un chant. Souvent mis en forme poétique.
+* Apo 5.9-10, 12, 13 : Chansons. Souvent mis en forme poétique.
+* Apo 7.5-8 : Une liste. Souvent mise en form poétique spécial.
+* Apo 7.10, 12 : Chants. Souvent mis en forme poétique.
+* Apo 7.15-17 : Une déclaration. Quelquefois mis en forme poétique.
+* Apo 11.15, 17-18 : Chants. Souvent mis en forme poétique.
+* Apo 12.10-12 : Une déclaration. Souvent mis en forme poétique.
+* Apo 15.3-4 : Une chanson. Souvent mis en forme poétique.
+* Apo 16.5-7 : Une déclaration. Souvent mis en forme poétique.
+* Apo 17.5 : Un signe. Souvent centré, en petites majuscules.
+* Apo 18.2-8 : Une déclaration. Souvent mis en forme poétique.
+* Apo 18.10-24 : Une série de malheurs. Souvent mis en forme poétique.
+* Apo 19.1-8 : Une série de déclarations. Souvent mis en forme poétique.
+* Apo 19.16 : Un signe. Souvent le jeu a centré, en petites majuscules.
+* Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique.
+!Les codes de livres bibliques (trois lettres)
+
+||Ancien TestamentGenèse [[GEN] |Exode [[EXO] |Lévitique [[LEV] 
+Nombres (NUM) |Deutéronome (DEU) |Josué [[JOS] 
+Juges (JDG) |Ruth [[RUT] |1 Samuel [[1SA] 
+2 Samuel [[2SA] |1 Rois [[1KI] |2 Rois [[2KI] 
+1 Chroniques [[1CH] |2 Chroniques [[2CH] |Esdras [[EZR] 
+Néhémie [[NEH] |Esther [[EST] |Job [[JOB] 
+Psaumes [[PSA] |Proverbes [[PRO] |Ecclésiaste (ECC) 
+Cantique des cantiques [[SNG] |Ésaïe [[ISA] |Jérémie [[JER] 
+Lamentations [[LAM] |Ézékiel [[EZK] |Daniel [[DAN] 
+Osée [[Hosea] [[HOS] |Joël [[JOL] |Amos [[AMO] 
+Abdias (OBA) |Jonas (JON) |Michée (MIC) 
+Nahoum (NAM) |Habacuc [[HAB] |Sophonie [[ZEP] 
+Aggée [[HAG] |Zacharie [[ZEC] |Malachie [[MAL] ||
+||Nouveau TestamentMatthieu [[MAT] |Marc [[MRK] |Luc [[LUK] 
+Jean [[JHN] |Actes [[ACT] |Romains [[ROM] 
+1 Corinthiens [[1CO] |1 Corinthiens [[2CO] |Galates [[GAL] 
+Éphésiens [[EPH] |Philippiens (PHP |Colossiens (COL) 
+1 Thessaloniciens (1TH) |1 Thessaloniciens (2TH) |1 Timothée (1TI) 
+2 Timothée (2TI) |Tite (TIT) |Philémon (PHM) 
+Hébreux (HEB) |Jacques (JAS) |1 Pierre (1PE) 
+2 Pierre (2PE) |1 Jean (1JN) |2 Jean (2JN) 
+3 Jean (3JN) |Jude (JUD) |Apocalypse (REV) ||
+!Les caractères de Tchad Unicode
+
+Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche.
+Les tableaux ci-dessous montrent tous les caractères du Tchad. Les séquences de touches sont indiquées pour chaque caractère.
+|||Les caractères du Tchad|Les tons
+|Tapez ... pour avoir|Tapez ... pour avoir
+;’ ’ |;n ŋ |] |à ton bas 
+;b ɓ |;o ɔ |[[ |á ton haut 
+;c ç |;p œ |= |ā ton moyen 
+;d ɗ |;y ƴ |^ |â ton descendant 
+;e ɛ | || |ǎ ton montant 
+;f ə | |# |ä umlaut 
+;h ɦ | |~ |ã tilde 
+;k ɨ | |_ |a̰ sous-tilda 
+;m ɲ | |` |a̧ cédille ||
+Taper les autres caractères spéciaux de la façon suivante :
+|||Tapez|pour avoir||Tapez|Pour avoir
+;] |] | |;; |; 
+;[[ |[[ | |;{ |“ 
+;= |= | |;} |” 
+;^ |^ | |;( |’ 
+;| || | |;) |’ 
+;# |# | |;< ou << (Keyman) |« 
+;~ |~ | |;> ou >> (Keyman) |» 
+;_ |_ | |;, ou ;< |‹ 
+;` |` | |;. ou ;> |› ||
+!USFM Marqueurs fréquents
+
+\c chapitre
+\v verset
+\p paragraphe (petit retrait)
+\m même paragraphe (retour à la ligne, mais sans retrait)
+\s1 sous-titre
+\r références parallèles
+\q1 poésie niveau 1
+\q2 poésie niveau 2
+\h entête (header)
+\mt1 titre principal
+\mt2 titre secondaire
+''Glossaire''
+\k .... \k* mot-clé dans glossaire (dans le glossaire)
+\w ... \w* mot qui est dans le glossaire (dans le texte)
+''Introductions''
+\ip paragraphe
+\is section heading
+\io1 outline 1
+\ili1 list level 1
+\ili2 list level 2Paratext 8SIL InternationalUnited Bible SocietiesBible Translation
