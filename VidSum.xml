@@ -1,0 +1,3162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+version="2.28.0"
+><frontMatter
+><title
+>Paratext 9 Video Course</title
+><author
+>Jenni Beadle</author
+><contents
+></contents
+></frontMatter
+><section1
+id="sIntroP9"
+><secTitle
+>Introduction to Using Paratext 9</secTitle
+><p
+contentType="en"
+>When working in Paratext 9, in addition to your translation project, you will want many other windows open with resources and tools to help you translate.</p
+><p
+contentType="en"
+>Let's take some time to become familiar with the different types of windows and how to arrange them navigate between them.</p
+><p
+contentType="en"
+>But first, what is Paratext?</p
+><section2
+id="sWhatPara"
+><secTitle
+>What is Paratext?</secTitle
+><p
+contentType="en"
+>Paratext is the premier Bible translation software used by over 10,000 people worldwide for planning, managing, drafting, reviewing and checking Bible translations in more than 2,300 languages. Here are some of the tools Paratext has to offer.</p
+><ul
+><li
+contentType="en"
+>A Project Plan, which lays out all the stages needed to be completed in order for a high quality translation to be achieved, with the order in which books should be translated.</li
+><li
+contentType="en"
+>Team members can communicate through a system of notes.</li
+><li
+contentType="en"
+>Paratext supports translation itself in numerous ways, with hundreds of resources and several Enhanced Resources with enable translators less confident in Greek and Hebrew.</li
+><li
+contentType="en"
+>Team collaboration is facilitated by either working off-line or online with Paratext Live.</li
+><li
+contentType="en"
+>Paratext has specialized for translation of the Bible, such as the Parallel Passages tool, and the Biblical Terms tool.</li
+><li
+contentType="en"
+>Paratext provides spellchecking features by looking for abnormal patterns to detect potential spelling errors.</li
+><li
+contentType="en"
+>When the text is ready for a translation consultant to check, users can prepare a written back translation for the consultant, and/or prepare a more literal back translation using the interlinearisation tool</li
+><li
+contentType="en"
+>There is a rich provision of training materials available including online videos in multiple languages.</li
+><li
+contentType="en"
+>To download Paratext and apply for a free licence, go to Paratext.org.</li
+></ul
+></section2
+><section2
+id="sLanguage"
+><secTitle
+>Change the interface language</secTitle
+><p
+contentType="en"
+>Paratext interface is available in many languages.</p
+><ul
+><li
+contentType="en"
+>Click Paratext Menu <object
+type="tmenu"
+>≡</object
+> &gt; under Paratext menu &gt; <object
+type="tmenu"
+>Paratext Settings</object
+> &gt;</li
+><li
+contentType="en"
+>Dropdown the list of <object
+type="tmenu"
+>Interface languages</object
+> &gt; Choose language &gt; <object
+type="tmenu"
+>OK</object
+><br
+></br
+><img
+src="vidsumeng/image001.jpg"
+></img
+></li
+></ul
+></section2
+><section2
+id="sProjRes"
+><secTitle
+>The basics of projects and resources</secTitle
+><p
+contentType="en"
+>Paratext allows you to view several projects or resources at the same time.</p
+><p
+contentType="en"
+>Each project or resource is shown in a window, with its own title bar and menu. Projects can be editable but resources are never editable.</p
+><pc
+>To open a project or resource</pc
+><ul
+><li
+contentType="en"
+>Click the main Paratext menu <object
+type="tmenu"
+>≡</object
+>, and then click <object
+type="tmenu"
+>Open</object
+>. <br
+></br
+> <object
+type="tresult"
+>The Open Project/Resource dialog box appears.</object
+><br
+></br
+><img
+src="vidsumeng/image002.jpg"
+></img
+></li
+><li
+contentType="en"
+>Filter or search for the files you want</li
+><li
+contentType="en"
+>The row of buttons along the top allows you to filter which types of files you see displayed in the list below.</li
+><li
+contentType="en"
+>Alternatively, you can use the search box to find the file you need to open.</li
+><li
+contentType="en"
+>To open a file,<ul
+><li
+contentType="en"
+>Click the filename in the list</li
+><li
+contentType="en"
+>Choose the type of window (panel, tab, floating window, etc)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>A new window opens.</object
+></li
+></ul
+></li
+></ul
+><p
+contentType="en"
+>When you start Paratext it will re-open the projects and resources you had open when you last closed Paratext. It also places your cursor in the verse where you last had your cursor.</p
+></section2
+><section2
+id="sFindMenu"
+><secTitle
+>Finding Menu Items</secTitle
+><p
+contentType="en"
+>Remember there are two menus - one for all of Paratext and the second for any project window or pane.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image003.jpg"
+></img
+></p
+><p
+contentType="en"
+>There are three other things to know about the menus:</p
+><ol
+><li
+contentType="en"
+>Not just projects and resources, but other windows have their own menus</li
+><li
+contentType="en"
+>There are two sets of menus, standard and full. <ul
+><li
+contentType="en"
+>A standard menu can be expanded by clicking on wedge at the bottom.</li
+></ul
+></li
+><li
+contentType="en"
+>You can search for menu commands<ul
+><li
+contentType="en"
+>Click on search box, type the command<br
+></br
+><img
+src="vidsumeng/image004.jpg"
+></img
+></li
+></ul
+></li
+><li
+contentType="en"
+>Click on the desired command in results list<br
+></br
+><img
+src="vidsumeng/image005.jpg"
+></img
+></li
+></ol
+><p
+contentType="en"
+>The menu search works even if you are in standard menus and the command you are searching is normally hidden.</p
+><p
+contentType="en"
+>The same search also shows help topics.</p
+></section2
+><section2
+id="sArrange"
+><secTitle
+>Arranging Windows</secTitle
+><p
+contentType="en"
+>A window within Paratext can be configured to be shown as a panel, a tab, an autohide window or a floating window.</p
+><p
+contentType="en"
+> </p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Open a window</object
+> as a specific type: In the Open Project/resource dialog box, use the Open as dropdown.</p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Re-arrange</object
+>: Click on titlebar and drag panels to re-arrange them, release mouse when blue box in the desired position. The blue box shows the space a panel being dragged will move to.</p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Resize</object
+>: Windows can be resized by dragging the borders.</p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Convert</object
+>: To convert a window into an autohide or floating window, right click on the title bar and select the appropriate option.</p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Autohide</object
+>: Click the button (in autohide column) to see it, click outside window to hide it. Right-click a titlebar to send to autohide.</p
+><p
+contentType="en"
+><object
+type="tmenu"
+>Floating window</object
+>: Good to maximize a window or send it to a second screen<br
+></br
+> Right-click on titlebar &gt; Open as floating window.<br
+></br
+> [To return: Right-click &gt; Dock window]</p
+><p
+><comment
+>Should the above be a definition list?</comment
+></p
+><p
+contentType="en"
+>Save current layout</p
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Paratext menu</object
+> and select "<object
+type="tmenu"
+>Save Current Layout</object
+>...".</li
+><li
+contentType="en"
+>Give the layout a name that will help you remember what it includes.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+> <object
+type="tresult"
+>The layout name is now shown on the main Paratext menu. </object
+></li
+></ul
+><p
+contentType="en"
+>Display different layout</p
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Paratext menu</object
+> and click the layout name.<br
+></br
+><object
+type="tresult"
+>Paratext opens the windows.</object
+></li
+></ul
+></section2
+><section2
+id="sTextColl"
+><secTitle
+>Text Collections</secTitle
+><p
+contentType="en"
+>A Text Collection allows us to display several resources in one window. Unlike a tabbed window, a text collection shows us one verse at a time from each resource.</p
+><pc
+>Create a text collection</pc
+><ul
+><li
+contentType="en"
+>Close any resources that are already open</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Open</object
+> button on the toolbar.</li
+><li
+contentType="en"
+>Hold the CTRL key down while clicking to select several files.</li
+><li
+contentType="en"
+>In the <object
+type="tmenu"
+>Open As</object
+> dropdown, select <object
+type="tmenu"
+>Text Collection</object
+>.<br
+></br
+><img
+src="vidsumeng/image006.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+> <object
+type="tresult"
+>Paratext opens the selected resources in a new window, and displays the current verse. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Text collection - see more context</object
+></pc
+><ul
+><li
+contentType="en"
+>Click blue hyperlink of a resource name OR</li
+><li
+contentType="en"
+>Click Tab menu, under <object
+type="tmenu"
+>View</object
+> &gt; <object
+type="tmenu"
+>Two panes</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Text collection - close right hand pane</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the little <object
+type="tmenu"
+>X</object
+> within the right hand pane.</li
+><li
+contentType="en"
+>OR Click the menu button on the title bar, under <object
+type="tmenu"
+>View</object
+>, click <object
+type="tmenu"
+>Two Panes</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+></object
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Modify text collection</object
+></pc
+><p
+contentType="en"
+>You can modify the text collection by change the order of resources, removing a resource or adding a resource.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Change order of resources</object
+></pc
+><ul
+><li
+contentType="en"
+>Right click on one and select Move up or Move down.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Remove a resource from the text collection.</object
+></pc
+><ul
+><li
+contentType="en"
+>If we want to remove this resource, right click and select <object
+type="tmenu"
+>Close</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add resources -</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the menu for this window panel.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Modify Text collection</object
+>. <br
+></br
+> <object
+type="tresult"
+>The <object
+type="tmenu"
+>Select Texts</object
+> dialog box opens. </object
+><br
+></br
+> <object
+type="tresult"
+>List of the left is all available projects and resources. </object
+><br
+></br
+> <object
+type="tresult"
+>List on the right is what is currently shown in the text collection window. </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>left</object
+> or <object
+type="tmenu"
+>right</object
+> arrows to add or remove resources</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>up</object
+> or <object
+type="tmenu"
+>down</object
+> arrow to reorder resources</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to make changes occur in the text collection window.</li
+></ul
+></section2
+><section2
+id="sScroll"
+><secTitle
+>Scroll Groups</secTitle
+><p
+contentType="en"
+>Scroll groups allow you to look up a different reference without having all the windows scroll to the new reference,</p
+><p
+contentType="en"
+>Paratext allows up to five different scroll groups, A through E. In addition, we can choose <object
+type="ttyped"
+>none</object
+>.</p
+><p
+contentType="en"
+>The small dropdown control which contains the letter A is how we control the scroll groups.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Change scroll group</object
+></pc
+><ul
+><li
+contentType="en"
+>Click to activate the window</li
+><li
+contentType="en"
+>Click the scroll group on the toolbar</li
+><li
+contentType="en"
+>Choose the desired scroll group <br
+></br
+><img
+src="vidsumeng/image007.png"
+></img
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Small letters are shown next to the project abbreviations on the window title bars when the windows are not all in group A.</p
+><p
+contentType="en"
+>When you open a new window, it will be in the same scroll group as the last active one.</p
+></framedUnit
+></section2
+><section2
+id="sKb"
+><secTitle
+>Keyboards</secTitle
+><p
+contentType="en"
+>Paratext can be set to turn on a keyboard automatically when the cursor is in a project that needs it.</p
+><ul
+><li
+contentType="en"
+>Click the Project menu</li
+><li
+contentType="en"
+>Move the mouse over <object
+type="tmenu"
+>Project Settings</object
+>.</li
+><li
+contentType="en"
+>In the submenu, select <object
+type="tmenu"
+>Keyboard</object
+>.<br
+></br
+> <object
+type="tresult"
+>The Keyboard dialog for this project opens. </object
+> <br
+></br
+> <img
+src="vidsumeng/image008.png"
+></img
+></li
+><li
+contentType="en"
+>Choose the Keyman keyboard for typing text.</li
+><li
+contentType="en"
+>Choose the Keyboard for typing notes.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section2
+><section2
+id="sSwapText"
+><secTitle
+>Swap Text in a Window</secTitle
+><p
+contentType="en"
+>You can change which text a window displays. This is a way of opening a different text instead of one of your open ones, leaving your window layout the same.</p
+><ul
+><li
+contentType="en"
+>On the toolbar, click the project list. <br
+></br
+> <img
+src="vidsumeng/image009.jpg"
+></img
+></li
+><li
+contentType="en"
+>Select the text you wish to display.<br
+></br
+> <object
+type="tresult"
+>The window now shows the new version instead and the window layout remains the same. </object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Remember that if you saved this window layout when the other version was here, it was saved in this position and will be re-opened if you use the saved layout again. If the current text selection is what you want to use in future, re-save the layout as it currently is.</p
+><p
+contentType="en"
+>At this time, you can only open another similar resource in the window using the project list (i.e Project, Enhance Resource, Biblical terms).</p
+></framedUnit
+></section2
+><section2
+id="sArrange2"
+><secTitle
+>Further Tips on Arranging Windows</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip1: How to swap windows</object
+></pc
+><p
+contentType="en"
+>Swapping two windows may involve two or more steps. [For example, drag one to the left edge and end up with an extra column, then drag the other to the lower right corner (back to original number of columns).]</p
+><p
+contentType="en"
+>An alternative way to swap these two texts is by using the project list.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 2: How to undo moving a window</object
+></pc
+><p
+contentType="en"
+>If you make a mistake with a drag,</p
+><ul
+><li
+contentType="en"
+>Click on the main <object
+type="tmenu"
+>Paratext menu</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Undo Tab move</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 3: How to unpin floating windows</object
+></pc
+><p
+contentType="en"
+>When the thumbtack is slanted, this window no longer stays on top all the time. <br
+></br
+><img
+src="vidsumeng/image010.png"
+></img
+></p
+><p
+contentType="en"
+> </p
+><p
+contentType="en"
+>If you want it to always stay on top again, click the thumbtack icon to pin it.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image011.png"
+></img
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 4: How to widen the autohide column</object
+></pc
+><p
+contentType="en"
+>The autohide column can be made a little wider if desired.</p
+><ul
+><li
+contentType="en"
+>Click the arrow at the top of the column. <br
+></br
+><img
+src="vidsumeng/image012.png"
+></img
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 5: How to undo closing a window</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the main <object
+type="tmenu"
+>Paratext menu</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Undo Tab Close</object
+></li
+></ul
+></section2
+><section2
+id="sNonBib"
+><secTitle
+>Going to Non-Biblical Books</secTitle
+><p
+contentType="en"
+>There are many non-biblical books listed after REV (also Deuterocanonical books)</p
+><p
+contentType="en"
+>e.g. GLO, XXA ... XXG</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image013.png"
+></img
+></p
+></section2
+><section2
+id="sQuickRefWin"
+><secTitle
+>Quick Reference Window</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open a quick reference window:</object
+></pc
+><ul
+><li
+contentType="en"
+>Click on a link in \r line or \xt <br
+></br
+><img
+src="vidsumeng/image014.jpg"
+></img
+> <br
+></br
+> <object
+type="tresult"
+>The Quick Reference window comes up showing me that other reference. </object
+><br
+></br
+> <object
+type="tresult"
+>OR </object
+></li
+><li
+contentType="en"
+>Click Project ≡, expand the menu, under Tools &gt; Quick Reference</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Hint: If you add the window to Autohide, or Dock the window, Paratext will use it to open parallel heading links or cross reference links.</p
+><p
+contentType="en"
+>In Paratext 9.1 any floating window now has controls for changing the reference.</p
+></framedUnit
+></section2
+><section2
+id="sQuickRef"
+><secTitle
+>Quick Bible Reference Navigation</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to a specific Bible Reference</object
+></pc
+><ul
+><li
+contentType="en"
+>Ctrl+ B,</li
+><li
+contentType="en"
+>Type the 3 letter abbreviation of book name</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the chapter number</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the verse number <object
+type="tmenu"
+>ENTER</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to the beginning of a book</object
+></pc
+><ul
+><li
+contentType="en"
+>Ctrl+ B, type 3 letter abbreviation of book name press <object
+type="tmenu"
+>ENTER</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to the beginning of a chapter</object
+></pc
+><ul
+><li
+contentType="en"
+>Ctrl+ B, type 3 letter abbreviation of book name</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the chapter number press <object
+type="tmenu"
+>ENTER</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to a book by title</object
+></pc
+><ul
+><li
+contentType="en"
+>Ctrl+B</li
+><li
+contentType="en"
+>Start typing the title of the book</li
+><li
+contentType="en"
+>Choose from the list.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+></ul
+></section2
+><section2
+id="sHelp"
+><secTitle
+>Help in Paratext</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Search menus/help</object
+></pc
+><ul
+><li
+contentType="en"
+>Click in the search menus/help box on the titlebar.</li
+><li
+contentType="en"
+>Type, and then simply wait while Paratext searches.<br
+></br
+> <object
+type="tresult"
+>The top items in the list are actual commands within Paratext. </object
+><br
+></br
+> <object
+type="tresult"
+>If necessary, Paratext uses the abbreviation to show us which window the action will apply to. </object
+></li
+><li
+contentType="en"
+>If we click any of these commands, Paratext will do the action.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Help</object
+></pc
+><p
+contentType="en"
+>In the second part of the search results Paratext lists all the help topics which match your search.</p
+><ul
+><li
+contentType="en"
+>Click on the description to open it.<br
+></br
+> <object
+type="tresult"
+>The help topic opens in the help window. </object
+></li
+><li
+contentType="en"
+>Any text marked in blue is a link to a different topic.</li
+><li
+contentType="en"
+>There are also some topics listed under <object
+type="tmenu"
+>See Also</object
+>.</li
+><li
+contentType="en"
+>Each title is a link you can click.</li
+><li
+contentType="en"
+>You can go back by clicking the green back button.</li
+><li
+contentType="en"
+>By scrolling down you can browse other potentially relevant help topics.</li
+><li
+contentType="en"
+>Close the Help file by clicking the <object
+type="tmenu"
+>X</object
+> in the top right corner.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Guide</object
+></pc
+><p
+contentType="en"
+>Open a dialog box (e.g. Main Paratext menu &gt; Download/install resources)<br
+></br
+> <object
+type="tresult"
+>A guide appears to the right of the dialog box. </object
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Close guide/show guide</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the red <object
+type="tmenu"
+>X</object
+> to close the guide.</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Show guide</object
+> link to open the guide.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Closing a guide only affects the current dialog box.</p
+></framedUnit
+><pc
+contentType="en"
+><object
+type="tsub"
+>Help menu</object
+></pc
+><ul
+><li
+contentType="en"
+>Click on the Main <object
+type="tmenu"
+>Paratext menu</object
+></li
+><li
+contentType="en"
+>Click on Help<br
+></br
+> <object
+type="tresult"
+>The help file opens. </object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can open the Help file from here, and there are some other useful functions which are only available here.</p
+></framedUnit
+><pc
+contentType="en"
+><object
+type="tsub"
+>Online help</object
+></pc
+><ul
+><li
+contentType="en"
+>Paratext website.</li
+><li
+contentType="en"
+>A user forum is also available at LingTran.net</li
+></ul
+></section2
+><section2
+id="sSRIntro"
+><secTitle
+>Send and Receive Explanation</secTitle
+><p
+contentType="en"
+>To facilitate this teamwork, Paratext allows you to collaborate using a feature called Send/Receive.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive - various methods</object
+></pc
+><ul
+><li
+contentType="en"
+>Send/receive by Internet</li
+><li
+contentType="en"
+>Send/receive by USB</li
+><li
+contentType="en"
+>Network folder or Chorus Hub.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>User, roles and permissions</object
+></pc
+><p
+contentType="en"
+>An administrator needs to add you to a project, and assign books to you.</p
+></section2
+><section2
+id="sSRFirst"
+><secTitle
+>Send and Receive for the First time</secTitle
+><p
+contentType="en"
+>When you hear that the administrator has added you to the project, use the Send/Receive command to get a copy of the project on your computer.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image015.jpg"
+></img
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by Internet</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the main Paratext menu ≡.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="en"
+>Choose the appropriate method (<object
+type="tmenu"
+>Internet</object
+> or <object
+type="tmenu"
+>USB</object
+> see below)</li
+><li
+contentType="en"
+>Choose the project (New means new to my computer)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by USB</object
+></pc
+><ul
+><li
+contentType="en"
+>Insert USB into computer</li
+><li
+contentType="en"
+>Open the main Paratext menu.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>USB drive</object
+><br
+></br
+> <object
+type="tresult"
+>If it is greyed out, cancel and insert USB </object
+></li
+><li
+contentType="en"
+>Choose project (<object
+type="tmenu"
+>New</object
+> means new to my computer)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by Network folder</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Network Shared folder</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Browse</object
+> and choose the network folder</li
+><li
+contentType="en"
+>Choose project (<object
+type="tmenu"
+>New</object
+> means new to my computer)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+></ul
+></section2
+><section2
+id="sSharedWork"
+><secTitle
+>Working in a Shared Project</secTitle
+><p
+contentType="en"
+>In this video, you learnt about using send/receive regularly to keep sharing your work with your colleagues, and to receive their changes.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive - icon on taskbar</object
+></pc
+><p
+contentType="en"
+>Use the shortcut icon on taskbar to do the same type of send/receive.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive - project menu ≡</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the project menu ≡</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Send/Receive</object
+> this project</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Schedule Send/Receive</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the main <object
+type="tmenu"
+>Paratext menu</object
+> ≡</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Send/Receive projects</object
+></li
+></ul
+><pc
+contentType="en"
+><img
+src="vidsumeng/image016.png"
+></img
+></pc
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Schedule</object
+></li
+><li
+contentType="en"
+>Select the project.</li
+><li
+contentType="en"
+>Choose schedule setting (hourly, every four hours, daily, or on startup and shutdown)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to set the schedule</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Cancel</object
+> to close Send/receive dialog.</li
+></ul
+></section2
+><section2
+id="sNoConflict"
+><secTitle
+>Avoiding Conflicts in a Shared Project</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Avoiding conflicts</object
+></pc
+><ul
+><li
+contentType="en"
+>Only one member at a time should have editing permission.</li
+><li
+contentType="en"
+>Other users should add notes.</li
+><li
+contentType="en"
+>Do Send/receive regularly.</li
+></ul
+></section2
+><section2
+id="sEnhancedRes"
+><secTitle
+>Enhanced Resources/ Introduction</secTitle
+><p
+contentType="en"
+>Enhanced Resources are now available in addition to ordinary resources. An enhanced resource is a translation in a major language which has been 'enhanced' by having keywords in the text linked to the Greek or Hebrew terms they translate. </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Download/Install</object
+></pc
+><p
+contentType="en"
+>Enhanced Resources can be downloaded in a similar way to resources. See the video "How to download Resources and Enhanced Resources".</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open an Enhanced Resource</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Open</object
+> icon on the toolbar.</li
+><li
+contentType="en"
+>If necessary, click the <object
+type="tmenu"
+>Enhanced Resources</object
+> button to include enhanced resources in the list. (Note the plus sign after the short name).</li
+><li
+contentType="en"
+>Select an enhanced resource and click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+> <object
+type="tresult"
+>The Enhanced Resource opens, as well as a guide. This warning explains that the enhanced resource is a work in progress. </object
+></li
+><li
+contentType="en"
+>Close the warning.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Viewing research terms</object
+></pc
+><p
+contentType="en"
+><object
+type="tBold"
+>View all research terms:</object
+> Click the <object
+type="tmenu"
+>All Research Terms</object
+> button. Or click again, to only see highlighting when you hover over each term.</p
+><ul
+><li
+contentType="en"
+>Click the number of occurrences to open a list of all the places this sense occurs. </li
+><li
+contentType="en"
+>To turn off the Word filter, click the <object
+type="tmenu"
+>X</object
+>.</li
+></ul
+><p
+contentType="en"
+>The tab icon is black if information is available in that tab for the current filter. </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Found/Problem</object
+></pc
+><p
+contentType="en"
+>Make sure the enhanced resource is linked to the relevant project,</p
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Found</object
+> to turn on and off highlighting of approved renderings of Biblical terms in both windows.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Problem</object
+> to turn on and off highlighting of missing or guessed renderings of Biblical terms. </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Expanding entries</object
+></pc
+><p
+contentType="en"
+>When viewing multiple terms, the entries are not expanded by default. This number shows which sense is relevant in this verse.</p
+><ul
+><li
+contentType="en"
+>Click the down arrow to expand the entry. OR</li
+><li
+contentType="en"
+>Alternatively, the double chevron expands all the entries.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entry with multiple senses</object
+></pc
+><p
+contentType="en"
+>The sense which is relevant for this verse is shown in black, and the others are in grey. At the end of each sense, the number of occurrences of that sense is shown.</p
+><ul
+><li
+contentType="en"
+>Click the link with a number<br
+></br
+> <object
+type="tresult"
+>A search result list shows all the verses which contain this sense. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>The research pane has four tabs</object
+></pc
+><p
+contentType="en"
+>When a tab is gray it indicates that there is no information available about that selection of text.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image017.jpg"
+></img
+></p
+><p
+contentType="en"
+><object
+type="tBold"
+>Dictionary tab</object
+> is where you can see the definition and other information about the terms.</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Encyclopedia tab</object
+> (in English)</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Media tab</object
+>: Shows pictures and other media related to the verse or section. (In English only)</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Maps tab</object
+>: Maps are very helpful to understand the context of some passages.</p
+><p
+><comment
+>Should this be a definition list?</comment
+></p
+><p
+contentType="en"
+>Biblical terms tool icon opens the Biblical terms tool for the linked project. </p
+></section2
+></section1
+><section1
+id="sDrafting1"
+><secTitle
+>Stage One: Draft</secTitle
+><p
+></p
+><section2
+id="sMyTasks"
+><secTitle
+>My Tasks: Project Plan and Progress</secTitle
+><p
+contentType="en"
+>The administrator of your project can assign tasks to you in Paratext. The task assignments control what you can edit.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>View tasks assigned to you</object
+></pc
+><ul
+><li
+contentType="en"
+>Open Assignments and progress by clicking on the blue button <img
+src="vidsumeng/image018.png"
+></img
+><br
+></br
+> <object
+type="tresult"
+>The Assignments and Progress window opens, showing <object
+type="tmenu"
+>My Tasks</object
+> in the <object
+type="tmenu"
+>Current Priority</object
+> or the last view. </object
+> <br
+></br
+> <img
+src="vidsumeng/image019.png"
+></img
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Next/Previous Links</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Prev priority</object
+>- previous book with tasks</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Next priority</object
+>- next book with tasks</li
+><li
+contentType="en"
+>Change to <object
+type="tmenu"
+>All Tasks</object
+>- to see tasks waiting</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>View tasks by book</object
+></pc
+><ul
+><li
+contentType="en"
+>Where it says <object
+type="tmenu"
+>Current Priority</object
+>, click to view the menu.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Current Book</object
+>.<br
+></br
+> <object
+type="tresult"
+>This is the default filter if your administrator has not set up Priorities. </object
+></li
+><li
+contentType="en"
+>View tasks in another book by clicking <object
+type="tmenu"
+>Next book</object
+> or <object
+type="tmenu"
+>Previous book</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>State of tasks</object
+></pc
+><p
+contentType="en"
+><object
+type="tBold"
+>Green</object
+>: Tasks that can be started right away are marked with green.</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Striped Green</object
+>: Waiting on you to finish another task.</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Red</object
+>: Tasks are dependent on earlier tasks being finished by others.</p
+><p
+contentType="en"
+><object
+type="tBold"
+>Grey</object
+>: Task is complete</p
+><p
+><comment
+>Should this be a definition list?</comment
+></p
+><p
+contentType="en"
+>Hover the mouse over the information icon to find out what is blocking it.</p
+><p
+contentType="en"
+>Click <object
+type="tmenu"
+>Show more tasks</object
+> to see hidden tasks.</p
+></section2
+><section2
+id="sUSFMIntro"
+><secTitle
+>Understanding USFMs - Intro</secTitle
+><p
+contentType="en"
+>In this video you learn all about how Paratext uses special tags called USFMs. The tags</p
+><ul
+><li
+contentType="en"
+>provide the structure of the document by identifying the start of each book, as well as the sections within them.</li
+><li
+contentType="en"
+>help you navigate around the translation using Bible references.</li
+><li
+contentType="en"
+>facilitate the appropriate formatting of the translation by the typesetter according to what each bit of text really is, such as a heading, chapter number, or something special in the Bible text itself such as poetry or a quotation.</li
+></ul
+><p
+contentType="en"
+>USFM stands for <object
+type="tBold"
+>U</object
+>nified <object
+type="tBold"
+>S</object
+>tandard <object
+type="tBold"
+>F</object
+>ormat <object
+type="tBold"
+>M</object
+>arker.</p
+><p
+contentType="en"
+>USFMs always start with a <object
+type="tBold"
+>backslash</object
+>, then a <object
+type="tBold"
+>code</object
+>, then a <object
+type="tBold"
+>space</object
+>. (e.g. \ft )</p
+><p
+contentType="en"
+>With the exception of a closing marker which ends with an asterisk and doesn't need a space.</p
+><ul
+><li
+contentType="en"
+>The most common USFMs are:<br
+></br
+> \p (paragraph) \c (chapter)<br
+></br
+> \v (verse)</li
+><li
+contentType="en"
+>The latest USFM standard is online - paratext.org/about/usfm click on documentation.</li
+></ul
+></section2
+><section2
+id="sMarkersStd"
+><secTitle
+>Adding Markers in Standard View</secTitle
+><p
+contentType="en"
+>This video looked at how to insert Unified Standard Format markers or USFMs in standard view.</p
+><p
+contentType="en"
+>Standard view shows the USFM markers, but they are small and grey. This view is recommended for ordinary work when drafting and editing a translation.</p
+><p
+contentType="en"
+>In this view there are some helps for entering the right marker.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To add a new paragraph</object
+></pc
+><ul
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+> to add a new paragraph<br
+></br
+> <object
+type="tresult"
+>Paratext automatically opens a menu showing us the possible markers for starting a paragraph, the most frequent are at the top. </object
+></li
+><li
+contentType="en"
+>Either use the mouse or type the appropriate letter</li
+><li
+contentType="en"
+>E.g. type P and press <object
+type="tmenu"
+>ENTER</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To add other (character) markers</object
+></pc
+><ul
+><li
+contentType="en"
+>Select the words you wish to mark</li
+><li
+contentType="en"
+>Press \</li
+><li
+contentType="en"
+>Select the marker from the list</li
+></ul
+></section2
+><section2
+id="sMarkersForm"
+><secTitle
+>How to work with USFMs in Formatted View</secTitle
+><p
+contentType="en"
+>In this video we changed to Formatted view and learnt about adding and removing USFM styles here.</p
+><p
+contentType="en"
+>The view options are available on the menu for the project.</p
+><ul
+><li
+contentType="en"
+>Click show menu ≡ on the project's title bar.</li
+><li
+contentType="en"
+>Expand the menu if necessary <object
+type="tmenu"
+>˅</object
+>.<br
+></br
+> <object
+type="tresult"
+>The option with the checkmark or tick is the currently selected view. </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Formatted</object
+>.<br
+></br
+> <object
+type="tresult"
+>The view changes and the USFM tags are hidden. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entering character markers</object
+></pc
+><ul
+><li
+contentType="en"
+>Press \ backslash<br
+></br
+> <object
+type="tresult"
+>The character marker menu just as in Standard view. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entering paragraph breaks</object
+></pc
+><ul
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+><br
+></br
+> <object
+type="tresult"
+>A new normal paragraph is inserted. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Using style chooser on the toolbar</object
+></pc
+><p
+contentType="en"
+>In both Standard and Formatted views the marker which applies to the text is shown in the Style chooser on the toolbar.</p
+><ul
+><li
+contentType="en"
+>Select the text</li
+><li
+contentType="en"
+>Click the chooser.<br
+></br
+> <object
+type="tresult"
+>The most commonly occurring markers are shown at the top. </object
+></li
+><li
+contentType="en"
+>Select a marker</li
+><li
+contentType="en"
+>If we select a paragraph style, it will be applied to the entire paragraph.</li
+><li
+contentType="en"
+>If we select a character style will be applied to the selected text.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Removing an unwanted character style.</object
+></pc
+><ul
+><li
+contentType="en"
+>Select the text</li
+><li
+contentType="en"
+>On the <object
+type="tmenu"
+>Style</object
+> chooser select <object
+type="tmenu"
+>Clear formatting</object
+>.<br
+></br
+> <object
+type="tresult"
+>The text goes back to normal and behind the scenes the USFM tags have been removed. </object
+></li
+></ul
+></section2
+><section2
+id="sBasic"
+><secTitle
+>How to use Basic View</secTitle
+><p
+contentType="en"
+>In this video we learnt how to work in Basic view.</p
+><p
+contentType="en"
+>Basic view shows the USFM markers, but you cannot change the markers or add markers in this view. You can only type and have the cursor in the white areas. To use this view, someone needs to have set up all the markers needed in your translation for you beforehand.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Basic view,</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>menu</object
+> for the project ≡.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="en"
+>Under view, click <object
+type="tmenu"
+>Basic</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To move to the next place to type</object
+></pc
+><ul
+><li
+contentType="en"
+>Use the arrow key to move to the next place to type.</li
+><li
+contentType="en"
+>Or click on the text box to move the cursor there.</li
+></ul
+></section2
+><section2
+id="sUnForm"
+><secTitle
+>Unformatted View</secTitle
+><p
+contentType="en"
+>In this video we look at Unformatted View.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Unformatted view,</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>project ≡ menu</object
+>..</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="en"
+>Under view, click <object
+type="tmenu"
+>Unformatted</object
+>.<br
+></br
+> <object
+type="tresult"
+>Unformatted view shows the entire document as plain text. </object
+></li
+></ul
+><p
+contentType="en"
+>Note:</p
+><ul
+><li
+contentType="en"
+>In unformatted view the USFM tags and the Bible text are not visually distinguished by any kind of formatting.</li
+><li
+contentType="en"
+>There are no tools to help you apply or enter USFM tags, but you can edit them directly by simply typing.</li
+><li
+contentType="en"
+>This view facilitates manual editing of the tags if needed.</li
+><li
+contentType="en"
+>This view is not recommended for drafting the translation.</li
+></ul
+></section2
+><section2
+id="sPreview"
+><secTitle
+>Preview</secTitle
+><p
+contentType="en"
+>In this video we learn about the view called Preview.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Preview.</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>project ≡ menu</object
+>.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="en"
+>Under View, click <object
+type="tmenu"
+>Preview</object
+>.<br
+></br
+> <object
+type="tresult"
+>This view looks very like Formatted view, with USFM tags hidden, and only their effect on the style of the text shown. </object
+></li
+></ul
+><p
+contentType="en"
+>Preview goes even further to make the text look like it will be seen by eventual readers of the translation.</p
+><p
+contentType="en"
+>Note:</p
+><ul
+><li
+contentType="en"
+>There is no grey highlighting of the verse numbers.</li
+><li
+contentType="en"
+>A figure is sized more appropriately.</li
+><li
+contentType="en"
+>In Preview, you cannot edit at all.</li
+><li
+contentType="en"
+>You cannot edit the text in any way.</li
+><li
+contentType="en"
+>Clicking the figure does not bring up the Figure Properties dialog box.</li
+><li
+contentType="en"
+>You can still click a footnote or cross reference caller to open and view the footnote pane.</li
+></ul
+><p
+contentType="en"
+>Preview view looks similar to Formatted view but does not allow any editing of the text or styles at all.</p
+><p
+contentType="en"
+>It is useful for viewing the text without any risk of editing.</p
+></section2
+><section2
+id="sSumMarkers"
+><secTitle
+>Summary: Adding Markers in Different Views</secTitle
+><p
+contentType="en"
+>There are five views in Paratext:</p
+><example
+contentType="en"
+num="xStandardView"
+><table
+border="1"
+><tr
+><td
+>Standard view</td
+><td
+valign="top"
+>has visible but distinguished markers,<br
+></br
+> formatted text,<br
+></br
+> and is fully editable.</td
+></tr
+><tr
+><td
+valign="top"
+>Formatted view</td
+><td
+valign="top"
+>is the same, except the markers are hidden.</td
+></tr
+><tr
+><td
+valign="top"
+>Unformatted view</td
+><td
+valign="top"
+>has visible markers, no formatting of text or markers, and is fully editable.</td
+></tr
+><tr
+><td
+valign="top"
+>Basic view</td
+><td
+valign="top"
+>is the same as 'Standard view', except that only the text is editable, not the markers.</td
+></tr
+><tr
+><td
+valign="top"
+>Preview</td
+><td
+valign="top"
+>is the same as 'Formatted view', except that it is not editable at all.</td
+></tr
+></table
+></example
+></section2
+><section2
+id="sBackslash"
+><secTitle
+>Backslash Key</secTitle
+><p
+contentType="en"
+>In this video you will learn that F5 is an alternative way to type backslash.</p
+><p
+contentType="en"
+>Backslash is an important key in Paratext because it starts every USFM tag, and opens the menu of markers in Standard view and Formatted view.</p
+><p
+contentType="en"
+>Since it is not available on all language keyboards, Paratext provides alternatives.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To insert a backslash character</object
+></pc
+><ul
+><li
+contentType="en"
+>Press F5 to insert \<br
+></br
+>OR</li
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>project ≡ menu</object
+>.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="en"
+>Under <object
+type="tmenu"
+>Insert</object
+>, hover over <object
+type="tmenu"
+>Backslash (\)</object
+><br
+></br
+> <object
+type="tresult"
+>A reminder of the keyboard shortcut is displayed in the lower left corner </object
+><br
+></br
+> <object
+type="tresult"
+>In standard and formatted view, it brings up the menu of markers </object
+><br
+></br
+> <object
+type="tresult"
+>In unformatted view, it simply enters a \ </object
+></li
+></ul
+></section2
+><section2
+id="sAddVerses"
+><secTitle
+>Adding Verse Numbers</secTitle
+><p
+contentType="en"
+>In this video we will learn the best way to insert verse numbers.</p
+><p
+contentType="en"
+>Many Paratext users type their translation into a book outline, that includes all the chapter and verse numbers they need up front. However, there are still times when you might need to insert a verse number.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add a missing verse number (menu)</object
+></pc
+><ul
+><li
+contentType="en"
+>Place the cursor where you want the verse number to be inserted.</li
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>project ≡ menu</object
+>.</li
+><li
+contentType="en"
+>Under <object
+type="tmenu"
+>Insert</object
+>, choose <object
+type="tmenu"
+>verse number</object
+>.<br
+></br
+> <object
+type="tresult"
+>The verse marker is inserted along with the appropriate verse number. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To use the keyboard shortcut,</object
+></pc
+><ul
+><li
+contentType="en"
+>Place the cursor where you want the verse number to be inserted.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>Ctrl+K</object
+>.<br
+></br
+> <object
+type="tresult"
+>The verse marker is inserted along with the appropriate verse number. </object
+></li
+></ul
+><p
+contentType="en"
+>If we try to add a verse number between two consecutive verses nothing happens. If we try to add another verse number at the end of the chapter nothing happens. This feature does not allow you to add more verse numbers than there should be in the given chapter.</p
+></section2
+><section2
+id="sNonBibUSFM"
+><secTitle
+>Non-Biblical USFMs</secTitle
+><p
+contentType="en"
+>In this video, we will learn about how to mark non-Biblical text. Translators often include extra text in their Bible translations to introduce a book, indicate the start of a different topic in an epistle, indicate the start of a different topic in an epistle, or a different event in narrative, etc.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Section headers</object
+></pc
+><p
+contentType="en"
+>\s1, \s2, \s3 \s4</p
+><ul
+><li
+contentType="en"
+>Place the cursor where you want to add a section heading here.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>s</object
+><br
+></br
+> <object
+type="tresult"
+>The section header markers are now listed. </object
+></li
+><li
+contentType="en"
+>To match the heading above, I type 1 and then press <object
+type="tmenu"
+>ENTER</object
+> to confirm.<br
+></br
+> <object
+type="tresult"
+>The marker is displayed in the middle of the window ready for me to enter the heading. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Book introductions</object
+></pc
+><p
+contentType="en"
+>The ordinary paragraph marker should not be used in the introduction to a book.</p
+><ul
+><li
+contentType="en"
+>Place the cursor where you want to add the introduction.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>i</object
+><br
+></br
+> <object
+type="tresult"
+>The introduction markers are now listed. </object
+></li
+><li
+contentType="en"
+>Choose the appropriate marker.</li
+></ul
+></section2
+><section2
+id="sTyping"
+><secTitle
+>Typing and Editing Text</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>1.3a Show by chapter</object
+></pc
+><p
+contentType="en"
+>In this video we will learn how to view more than one chapter at a time in a Paratext window. When we open a project or resource in Paratext, by default it only shows us the current chapter.</p
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>project ≡ menu</object
+>.</li
+><li
+contentType="en"
+>Click the expand arrow to view full menus.</li
+><li
+contentType="en"
+>Under View, click <object
+type="tmenu"
+>Show all chapters</object
+>.<br
+></br
+> <object
+type="tresult"
+>Paratext loads the entire book into the Window. </object
+></li
+><li
+contentType="en"
+>(checked = by chapter, unchecked = by book)</li
+></ul
+><p
+contentType="en"
+>We recommend that you leave 'View By Chapter' checked most of the time as it can slow Paratext down when it updates the book.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>1.3b Zoom</object
+></pc
+><p
+contentType="en"
+>In this video we will learn how to change the size of text in a Paratext window panel.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Using the menu</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>project ≡ menu</object
+>.<br
+></br
+> <object
+type="tresult"
+>Under View, there is a command <object
+type="tmenu"
+>Zoom</object
+> with the current zoom level displayed and <object
+type="tmenu"
+>-</object
+> and <object
+type="tmenu"
+>+</object
+> either side. </object
+></li
+><li
+contentType="en"
+>To make the text look bigger, click <object
+type="tmenu"
+>+</object
+>.</li
+><li
+contentType="en"
+>To make the text look smaller click <object
+type="tmenu"
+>-</object
+>.</li
+><li
+contentType="en"
+>Click in the window to close the menu.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Return to original text size</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the menu for the project.</li
+><li
+contentType="en"
+>In the zoom control, select the zoom level number</li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>100</object
+>.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+>.</li
+><li
+contentType="en"
+>Click on the window to close the menu.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Keyboard shortcut</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl+</object
+> increase <object
+type="tmenu"
+>Ctrl- </object
+>decreases it.</li
+></ul
+><p
+contentType="en"
+>Zoom level is remembered when you reopen that project.</p
+><p
+contentType="en"
+>Only affects your computer, not other members.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>1.3c Adding Paragraphs</object
+></pc
+><p
+contentType="en"
+>This video was created in Paratext 8 but applies equally to Paratext 9. In this video we learn there are a few places where you must insert a paragraph marker.</p
+><p
+contentType="en"
+>At a minimum, Paratext needs a paragraph at the beginning of each chapter.</p
+><p
+contentType="en"
+>In 'standard view',</p
+><ul
+><li
+contentType="en"
+>Click where you want to put the paragraph,</li
+><li
+contentType="en"
+>press <object
+type="tmenu"
+>ENTER</object
+>, and then select the paragraph marker from the list.</li
+><li
+contentType="en"
+>Click where you want to put the paragraph,</li
+><li
+contentType="en"
+>press '<object
+type="tmenu"
+>ENTER</object
+>',</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add section headings markers</object
+></pc
+><p
+contentType="en"
+>\s1, \s2, \s3 \s4</p
+><p
+contentType="en"
+>Be sure to add another paragraph marker after the heading.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Parallel reference headings</object
+></pc
+><p
+contentType="en"
+>\r</p
+><p
+contentType="en"
+>Remember,</p
+><ul
+><li
+contentType="en"
+>you <object
+type="tBold"
+>always</object
+> need a paragraph marker before verse 1 of any chapter.</li
+><li
+contentType="en"
+>you <object
+type="tBold"
+>always</object
+> need a paragraph after any 'section head' or 'parallel passage heading'.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Other common markers</object
+></pc
+><ul
+><li
+contentType="en"
+>\p standard paragraph</li
+><li
+contentType="en"
+>\m for a paragraph with no first line indent,</li
+><li
+contentType="en"
+>\nb paragraph with no break with the previous paragraph</li
+><li
+contentType="en"
+>\pi where all the paragraph is indented,</li
+><li
+contentType="en"
+>\q1 or \q2 for indented quotes or poetry.</li
+></ul
+></section2
+><section2
+id="sChapVerseCheck"
+><secTitle
+>Basic Checks: Chapter/Verse</secTitle
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>project ≡ menu</object
+>, under <object
+type="tmenu"
+>Tools</object
+> menu, &gt; <object
+type="tmenu"
+>Run Basic Checks</object
+>.</li
+><li
+contentType="en"
+>Choose the desired checks e.g. <object
+type="tmenu"
+>chapter/verse numbers</object
+> and <object
+type="tmenu"
+>markers</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="en"
+>Correct errors in the list as needed</li
+><li
+contentType="en"
+>Verse missing - check \v and space before the number</li
+><li
+contentType="en"
+>Duplicated verse - often space between digits</li
+><li
+contentType="en"
+>Unknown marker - check name of marker</li
+><li
+contentType="en"
+>Rerun check to be sure error is corrected</li
+></ul
+></section2
+><section2
+id="sIncompCheck"
+><secTitle
+>Basic Checks: Incomplete Books</secTitle
+><p
+contentType="en"
+>You can start using the basic checks in Paratext very early. Run basic checks (see above).</p
+><p
+contentType="en"
+>Ignore any errors about missing verses if they have not been translated.</p
+><p
+contentType="en"
+>Marker cannot occur here - check for an earlier invalid marker</p
+><p
+contentType="en"
+>Verse number in the heading - check for missing paragraph marker after heading</p
+></section2
+><section2
+id="sMarkComplete"
+><secTitle
+>Marking Texts as Complete</secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+> Open Assignments and progress</object
+></pc
+><p
+contentType="en"
+>Click on the blue button <img
+src="vidsumeng/image018.png"
+></img
+>.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Mark tasks as complete</object
+></pc
+><p
+contentType="en"
+>Mark <object
+type="tBold"
+>project task</object
+> or <object
+type="tBold"
+>book task</object
+> as complete - click the check box</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image020.png"
+></img
+></p
+><p
+contentType="en"
+>Mark <object
+type="tBold"
+>chapter task</object
+> as complete - click blue + or unmark - click blue -</p
+><p
+contentType="en"
+><img
+description="Marking-Tasks-complete-Translators-Scene4"
+src="vidsumeng/image021.png"
+></img
+></p
+><p
+contentType="en"
+>For more control click none (or chapter numbers), click the chapter numbers &gt; <object
+type="tmenu"
+>OK</object
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Change options</object
+></pc
+><p
+contentType="en"
+>Change options click <img
+src="vidsumeng/image022.png"
+></img
+> <br
+></br
+> (at top right)</p
+><p
+contentType="en"
+><img
+description="Marking-Tasks-complete-Translators-Scene6"
+src="vidsumeng/image023.png"
+></img
+></p
+><p
+contentType="en"
+>Untick Hide completed &gt; <object
+type="tmenu"
+>OK</object
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Useful links:</object
+></pc
+><p
+contentType="en"
+>Prev Next, All tasks</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/Receive</object
+></pc
+><p
+contentType="en"
+>Remember to Send/Receive so that other team members receive the progress status information.</p
+></section2
+><section2
+id="sWhatConflict"
+><secTitle
+>What is a Conflict</secTitle
+><p
+contentType="en"
+>A conflict occurs when two or more people edit the text at the same time. Paratext gets confused and does not know which one to keep. It chooses one and adds a conflict note.</p
+><p
+contentType="en"
+>It is best to have only one translator edit a text at time. Other team members should add notes of their suggestions (see later videos on notes).</p
+></section2
+><section2
+id="sResolveConflict"
+><secTitle
+>Resolving Conflicts</secTitle
+><ul
+><li
+contentType="en"
+>Do a Send/Receive</li
+><li
+contentType="en"
+>Click link Open unresolved conflict notes list window.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open note and resolve conflict</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Open</object
+> note</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Assign</object
+> the note to yourself</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="en"
+>Reopen the note.</li
+><li
+contentType="en"
+>Dropdown the list at the top</li
+><li
+contentType="en"
+>Choose an option as appropriate<ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Accept</object
+> the changes Paratext accepted (leave it as is)</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Accept</object
+> the changes Paratext rejected (and reject the other change)</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Merge</object
+> the changes (accept both changes)</li
+></ul
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+></ul
+><p
+contentType="en"
+>Special warning flag for conflict notes are either at the very beginning of the book or at the verse number.</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Resolve</object
+> the note to make the flag go away.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/Receive</object
+></pc
+><ul
+><li
+contentType="en"
+>Do a Send/Receive</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Complex conflicts</object
+></pc
+><p
+contentType="en"
+>If there are many conflicts, your administrator may need to <object
+type="tItalic"
+>revert</object
+> the book(s).</p
+></section2
+></section1
+><backMatter
+><endnotes
+></endnotes
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-weight="bold"
+id="tmenu"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-weight="bold"
+id="tkey"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tsub"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+font-style="italic"
+id="tresult"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tsubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+before="Paratext 8"
+id="tPT"
+></type
+><type
+before="Paratext 7"
+id="tPTPrev"
+></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
+><type
+XeLaTeXSpecial="underline"
+color="#0033cc"
+cssSpecial="text-decoration:underline"
+font-style="normal"
+font-weight="normal"
+id="tlink"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+align="left"
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after="2cm"
+indent-before="2cm"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter="3pt"
+spacebefore="3pt"
+></framedType
+><framedType
+align="left"
+backgroundcolor="#add8e6"
+description="Interface Translation Note"
+id="translation"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
+><publishingInfo
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
+><contentControl
+showOnlyChosenItemsInEditor="no"
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+><contentType
+id="b1"
+>Book 1 (Intended for PDF)</contentType
+><contentType
+id="b2"
+>Book 2 (Intended for PDF)</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn b2"
+>Publish Book 1 (English)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn b2"
+>Publish Book 1 (French)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn b1"
+>Publish Book 2 (English)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn b1"
+>Publish Book 2 (French)</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="fr dn"
+>Publish (English) Whole Book</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn"
+>Publish (French) Whole Book</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French (Show Notes)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English (Show Notes)</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalPaperStylesheet.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>

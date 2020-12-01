@@ -42,7 +42,7 @@ body {
     font-size:8pt;
 }
 .paragraph_indent {
-text-indent:0em;
+text-indent:1em;
 }
 .dt {
         font-weight:bold;
@@ -191,7 +191,7 @@ li.lower-roman {
         font-weight:normal;
 }
 .paragraph {
-        text-indent:0em;
+        text-indent:1em;
 }
 .blockquote {
         margin-left:10mm;
@@ -278,15 +278,16 @@ li.lower-roman {
         font-size:10pt;
         text-align:center;
 }
-.publishingBlurb {
-        padding-top:2in;
-        text-align:left;
-}
 .contents {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:10.8pt;
         padding-top:12.2pt;
+        text-align:center;
+}
+.partContents {
+        margin-top:10pt;
+        margin-bottom:10pt;
         text-align:center;
 }
 .abstract {
@@ -313,7 +314,6 @@ li.lower-roman {
 .numberpart {
         font-size:18pt;
         font-weight:bold;
-        border-top:1.5pt solid gray;
         padding-bottom:10.8pt;
         text-align:center;
 }
@@ -321,11 +321,6 @@ li.lower-roman {
         font-size:18pt;
         font-weight:bold;
         padding-bottom:21.6pt;
-        text-align:center;
-}
-.partContents {
-        margin-top:10pt;
-        margin-bottom:10pt;
         text-align:center;
 }
 .numberchapter {
@@ -346,9 +341,8 @@ li.lower-roman {
 .sectionTitlesection1 {
         font-size:12pt;
         font-weight:bold;
-        border-top:1pt solid black;
-8        padding-bottom:10pt;
-        padding-top:3pt;
+        padding-bottom:10pt;
+        padding-top:12pt;
         text-align:left;
 }
 .section2 {
@@ -356,9 +350,8 @@ li.lower-roman {
 .sectionTitlesection2 {
         font-size:10pt;
         font-weight:bold;
-        border-top:.4pt solid black;
-6        padding-bottom:10pt;
-        padding-top:3pt;
+        padding-bottom:10pt;
+        padding-top:10pt;
         text-align:left;
 }
 .section3 {
@@ -367,9 +360,8 @@ li.lower-roman {
         font-size:10pt;
         font-style:italic;
         font-weight:bold;
-        border-top:1.5pt solid gray;
         padding-bottom:10pt;
-        padding-top:3pt;
+        padding-top:10pt;
         text-align:left;
 }
 .section4 {

@@ -100,7 +100,7 @@ contentType="en"
 contentType="fr"
 >But</titleContent
 ><titleContent
-contentType="???"
+contentType="en"
 ></titleContent
 ></titleContentChoices
 ></secTitle
@@ -396,7 +396,15 @@ type="tsub"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
+><br
+></br
 ></p
+><ul
+><li
+></li
+><li
+></li
+></ul
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -443,6 +451,16 @@ contentType="fr"
 type="tsub"
 >Que ferez-vous ? </object
 ></pc
+><dl
+><dt
+></dt
+><dd
+>l'icône de menu Projet puis dans le menu</dd
+><dt
+></dt
+><dd
+></dd
+></dl
 ><section1
 id="screateANewProject"
 showinlandscapemode="no"
@@ -465,6 +483,32 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >(première fois, seulement par l’administrateur)</p
 ><ul
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Paratext</object
+>, sous <object
+type="tmenu"
+>Menu</object
+> &gt; <object
+type="tmenu"
+>Commande</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+>, sous <object
+type="tmenu"
+>Menu</object
+> &gt; <object
+type="tmenu"
+>Command</object
+></li
+><li
+></li
 ><li
 contentType="en"
 ><object
@@ -528,6 +572,24 @@ type="tmenu"
 ><li
 ></li
 ><li
+contentType="fr"
+>Cliquez sur xxx <br
+></br
+><img
+></img
+><br
+></br
+></li
+><li
+contentType="fr"
+>xxxr.</li
+><li
+></li
+><li
+></li
+><li
+></li
+><li
 ></li
 ><li
 contentType="en"
@@ -578,6 +640,117 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >Ce projet n’est pas besoin d’être inscrit, parce ce qu’il hérite la registration de votre projet.</p
 ></framedUnit
+></section1
+><section1
+id="s"
+><secTitle
+></secTitle
+><p
+></p
+><section2
+id="s"
+><secTitle
+></secTitle
+><p
+></p
+></section2
+><section2
+id="sCopy"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Edit the book - xxx</titleContent
+><titleContent
+contentType="fr"
+>Éditer le livre — xxxxxx</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>xxx</object
+>.<br
+></br
+><img
+src="imgfr/image15.png"
+></img
+></li
+><li
+contentType="fr"
+>xxx.</li
+><li
+contentType="fr"
+>Cliquez sur l’icône <object
+type="tmenu"
+>xxx</object
+> dans xxx <br
+></br
+><img
+src="imgfr/image7.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Galeries d'images. </object
+><br
+></br
+><img
+XeLaTeXSpecial="scaling='500'"
+src="imgfr/image10.png"
+width="500"
+xsl-foSpecial=" "
+></img
+><br
+></br
+></li
+><li
+contentType="fr"
+>Pour rechercher une image, tapez un mot et appuyez <object
+type="tmenu"
+>Enter</object
+> <br
+></br
+><img
+XeLaTeXSpecial="scaling='500'"
+src="imgfr/ImagesFound.png"
+width="500"
+></img
+><br
+></br
+><object
+type="tresult"
+>result</object
+> <br
+></br
+></li
+><li
+contentType="fr"
+>xx.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+></p
+><p
+contentType="fr"
+>Pour plus de détails, voir page xx.</p
+></framedUnit
+><p
+contentType="fr"
+></p
+></section2
 ></section1
 ><section1
 id="sdraftBT"
@@ -4912,6 +5085,13 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 >Réponses: Upper pane: 1e, 2a, 3d, 4c, 5b, Lower pane: 1B, 2D, 3A, 4E, 5F, 6C</p
 ></section1
+></chapter
+><chapter
+id="c"
+><secTitle
+></secTitle
+><p
+></p
 ></chapter
 ></part
 ><backMatter

@@ -16,7 +16,7 @@
 ><pageBottomMargin
 >10mm</pageBottomMargin
 ><pageInsideMargin
->10mm</pageInsideMargin
+>15mm</pageInsideMargin
 ><pageOutsideMargin
 >10mm</pageOutsideMargin
 ><useThesisSubmissionStyle
@@ -35,7 +35,7 @@ linespacing="single"
 ><defaultFontFamily
 >Times New Roman</defaultFontFamily
 ><basicPointSize
->10</basicPointSize
+>11</basicPointSize
 ><footnotePointSize
 >8</footnotePointSize
 ><footnoteLine
@@ -141,6 +141,7 @@ decoration="underline"
 font-size="18pt"
 font-weight="bold"
 pagebreakbefore="yes"
+useblankextrapage="yes"
 spacebefore="1cm"
 startonoddpage="no"
 textalign="center"
@@ -434,7 +435,7 @@ font-size="18pt"
 font-weight="bold"
 pagebreakbefore="yes"
 spaceafter="10.8pt"
-startonoddpage="no"
+startonoddpage="yes"
 textalign="center"
 ></numberLayout
 ><partTitleLayout
@@ -478,9 +479,9 @@ usetitleinheader="yes"
 ></section1Layout
 ><section2Layout
 ignore="no"
-showNumber="yes"
+showNumber="no"
 ><sectionTitleLayout
-font-size="10pt"
+font-size="12pt"
 font-weight="bold"
 linebefore="yes"
 linebefore-weight=".4pt"
@@ -493,7 +494,7 @@ textalign="start"
 ><section3Layout
 showNumber="yes"
 ><sectionTitleLayout
-font-size="10pt"
+font-size="12pt"
 font-style="italic"
 font-weight="bold"
 linebefore="yes"
