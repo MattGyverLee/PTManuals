@@ -29,8 +29,20 @@ contentType="fr"
 >Cours vidéo sur Paratext 9</titleContent
 ></titleContentChoices
 ></title
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9 Videos</titleContent
+><titleContent
+contentType="fr"
+>Vidéos PT9</titleContent
+></titleContentChoices
+></shortTitle
 ><author
 >Jenni Beadle</author
+><author
+>Matthew Lee</author
 ><contents
 backmattershowLevel="3"
 showLevel="3"
@@ -52,12 +64,22 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
-></titleContent
+>PT9 Videos - Introduction</titleContent
 ><titleContent
 contentType="fr"
-></titleContent
+>PT9 Vidéos - Introduction</titleContent
 ></titleContentChoices
 ></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Intro</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Intro</titleContent
+></titleContentChoices
+></shortTitle
 ><chapter
 id="sIntroP9"
 showinlandscapemode="no"
@@ -96,12 +118,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->What is Paratext? [Video 0.1]</titleContent
+>Video 0.1 What is Paratext?</titleContent
 ><titleContent
 contentType="fr"
->Qu'est-ce que Paratext ? [Vidéo 0.1]</titleContent
+>Vidéo 0.1 Qu'est-ce que Paratext ?</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/472226946"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/483999382"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Paratext is the premier Bible translation software used by over 10,000 people worldwide for planning, managing, drafting, reviewing and checking Bible translations in more than 2,300 languages. Here are some of the tools Paratext has to offer.</p
@@ -172,12 +206,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Quick Reference Window [Video 0.0.3]</titleContent
+>Video 0.0.3 A quick guide to the Quick Reference window</titleContent
 ><titleContent
 contentType="fr"
->Presentation de la fenêtre d'aperçu rapide [Video 0.0.3]</titleContent
+>Vidéo 0.0.3 Presentation de la fenêtre d'aperçu rapide</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/403437931"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -288,12 +334,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Change the interface language [Video 0.2.1a]</titleContent
+>Video 0.2.1a How to change the user interface language</titleContent
 ><titleContent
 contentType="fr"
->Comment changer la langue de l'interface utilisateur [Vidéo 0.2.1a]</titleContent
+>Vidéo 0.2.1a Comment changer la langue de l'interface utilisateur</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328819"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/410254311"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Paratext interface is available in many languages.</p
@@ -358,12 +416,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->The basics of projects and resources [Video0.2.1b]</titleContent
+>Video0.2.1b The basics of projects and resources</titleContent
 ><titleContent
 contentType="fr"
->Les bases des projets et des ressources [Video0.2.1b]</titleContent
+>Video0.2.1b Les bases des projets et des ressources</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328862"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/411837591"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Paratext allows you to view several projects or resources at the same time. Each project or resource is shown in a window, with its own title bar and menu. Projects can be editable but resources are never editable.</p
@@ -512,12 +582,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Finding Menu Items [Video 0.2.1.1]</titleContent
+>Video 0.2.1.1 Finding Menu Items</titleContent
 ><titleContent
 contentType="fr"
->Trouver des éléments de menu [Vidéo 0.2.1.1]</titleContent
+>Vidéo 0.2.1.1Trouver des éléments de menu</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/425476264"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446470153"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Remember there are two menus - one for all of Paratext (1) and the second for any project window or pane (2).</p
@@ -627,12 +709,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Arranging Windows [Video 0.2.1c]</titleContent
+>Video 0.2.1c How to Arrange windows</titleContent
 ><titleContent
 contentType="fr"
->Arranger les fenêtres [Vidéo 0.2.1c]</titleContent
+>Vidéo 0.2.1c Arranger les fenêtres</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328956"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/412695128"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >A window within Paratext can be configured to be shown as a panel, a tab, an autohide window or a floating window.</p
@@ -891,12 +985,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Text Collections [Video 0.2.2a]</titleContent
+>Video 0.2.2a Text Collections</titleContent
 ><titleContent
 contentType="fr"
->Comment ouvrir et modifier une collection de textes [Vidéo 0.2.2a]</titleContent
+>Vidéo 0.2.2a Comment ouvrir et modifier une collection de textes</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377612892"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/419872321"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >A Text Collection allows us to display several resources in one window. Unlike a tabbed window, a text collection shows us one verse at a time from each resource. The Text Collection window has the same display options as any other paratext window.</p
@@ -1293,12 +1399,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Scroll Groups [Video 0.2.3a]</titleContent
+>Video 0.2.3a Scroll Groups</titleContent
 ><titleContent
 contentType="fr"
->Comment contrôler quelles fenêtres défilen ensemble [Vidéo 0.2.3a]</titleContent
+>Vidéo 0.2.3a Comment contrôler quelles fenêtres défiler ensemble</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/382483908"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/424066973"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Scroll groups allow you to look up a different reference without having all the windows scroll to the new reference, Paratext allows up to five different scroll groups, A through E. In addition, we can choose <object
@@ -1382,12 +1500,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Keyboards [Video 0.2.3b]</titleContent
+>Video 0.2.3b Keyboards</titleContent
 ><titleContent
 contentType="fr"
->Comment définir le clavier par défaut pour un projet [Vidéo 0.2.3b]</titleContent
+>Vidéo 0.2.3b Comment définir le clavier par défaut pour un projet</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/427651172"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/425987455"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Paratext can be set to turn on a keyboard automatically when the cursor is in a project that needs it [provided the both Keyman and the keybord is installed].</p
@@ -1494,12 +1624,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Swap Text in a Window [Video 0.2.3c]</titleContent
+>Video 0.2.3c Swap Text in a Window</titleContent
 ><titleContent
 contentType="fr"
->Comment échanger un texte dans une fenêtre [Vidéo 0.2.3c]</titleContent
+>Vidéo 0.2.3c Comment échanger un texte dans une fenêtre</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377612971"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/433948282"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >You can change which text a window displays. This is a way of opening a different text instead of one of your open ones, leaving your window layout the same.</p
@@ -1573,12 +1715,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Further Tips on Arranging Windows [Video 0.2.3d]</titleContent
+>Video 0.2.3d Further Tips on Arranging Windows</titleContent
 ><titleContent
 contentType="fr"
->Autre astuces sur les dispositions des fenêtres [Vidéo 0.2.3d]</titleContent
+>Vidéo 0.2.3d Autre astuces sur les dispositions des fenêtres</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377613013"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/419314037"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -1781,12 +1935,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to view other Bible-related texts in Paratext [Video 0.2.3e]</titleContent
+>Video 0.2.3e How to view other Bible-related texts in Paratext</titleContent
 ><titleContent
 contentType="fr"
->Comment consulter d'autres textes liés à la Bible dans Paratext [Video 0.2.3e]</titleContent
+>Video 0.2.3e Comment consulter d'autres textes liés à la Bible dans Paratext</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/382483859"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/443500451"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >There are many non-biblical books listed after REV (also Deuterocanonical books)</p
@@ -1828,12 +1994,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Quick Bible Reference Navigation [Video 0.2.4]</titleContent
+>Video 0.2.4 Quick Bible Reference Navigation</titleContent
 ><titleContent
 contentType="fr"
->Navigeur rapide aux versets bibliques [vidéo 0.2.4]</titleContent
+>Vidéo 0.2.4 Navigeur rapide aux versets bibliques</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/349939285"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/449749686"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -2030,12 +2208,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Help in Paratext [Video 0.3]</titleContent
+>Video 0.3 Help in Paratext</titleContent
 ><titleContent
 contentType="fr"
->Trouver de l’Aide [Video 0.3]</titleContent
+>Video 0.3 Trouver de l’Aide</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377618617"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/420642737"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -2367,7 +2557,27 @@ contentType="fr"
 ><section2
 id="sInstall"
 ><secTitle
->Installation des ressources standards et enrichies</secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.3a Download and Install Enhanced Resources</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.3b Installation des ressources standards et enrichies</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/359173473"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/445217944"
+>Regarder le vidéo</link
+></pc
 ><p
 ></p
 ></section2
@@ -2394,7 +2604,27 @@ type="tEmphasis"
 ><section2
 id="sSRIntro"
 ><secTitle
->0.4 Qu'est-ce qu'envoyer/recevoir? Introduction</secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.4 Explain Send-Receive</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.4 Qu'est-ce qu'envoyer/recevoir? Introduction</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/427677661"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/436436613"
+>Regarder le vidéo</link
+></pc
 ><p
 ></p
 ></section2
@@ -2405,12 +2635,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Send and Receive for the First time</titleContent
+>Video 0.4.1 Send and Receive for the First time</titleContent
 ><titleContent
 contentType="fr"
->Comment recevoir un projet partagé pour la première fois</titleContent
+>Vidéo 0.4.1 Comment recevoir un projet partagé pour la première fois</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/428151156"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/436775593"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >When the administrator has added you to the project, use the <br
@@ -2717,12 +2959,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Send/Receive Regularly to Keep a Shared Project in Sync [Video 0.4.2a]</titleContent
+>Video 0.4.2a Send/Receive Regularly to Keep a Shared Project in Sync</titleContent
 ><titleContent
 contentType="fr"
->Envoyer/Recevoir régulièrement pour garder un projet partagé synchronisé [Vidéo 0.4.2a]</titleContent
+>Vidéo 0.4.2a Envoyer/Recevoir régulièrement pour garder un projet partagé synchronisé</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/428161965"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/437843703"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video, you learnt about using send/receive regularly to keep sharing your work with your colleagues, and to receive their changes.</p
@@ -2894,12 +3148,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Avoiding Conflicts in a Shared Project [Video 0.4.2b]</titleContent
+>Video 0.4.2b Avoiding Conflicts in a Shared Project</titleContent
 ><titleContent
 contentType="fr"
->Comment éviter de causer des conflicts en utilisant envoyer/recevoir [Vidéo 0.4.2b]</titleContent
+>Vidéo 0.4.2b Comment éviter de causer des conflicts en utilisant envoyer/recevoir</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/405554692"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/438192060"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -2943,16 +3209,28 @@ showinlandscapemode="no"
 contentType="en"
 ><object
 type="tEmphasis"
->Enhanced Resources</object
-> / Introduction [Video 0.5]</titleContent
+>Video 0.5 Enhanced Resources</object
+> / Introduction</titleContent
 ><titleContent
 contentType="fr"
 ><object
 type="tEmphasis"
->Resources Enrichies</object
-> / Introduction [Vidéo 0.5]</titleContent
+>Vidéo 0.5 Resources Enrichies</object
+> / Introduction</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/356219918"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/423629195"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Enhanced Resources are now available in addition to ordinary resources. An enhanced resource is a translation in a major language which has been 'enhanced' by having keywords in the text linked to the Greek or Hebrew terms they translate. <br
@@ -3367,12 +3645,22 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
-></titleContent
+>PT9Vid - Drafting</titleContent
 ><titleContent
 contentType="fr"
-></titleContent
+>PT9Vid - Ébauche</titleContent
 ></titleContentChoices
 ></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Drafting</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Ebauche</titleContent
+></titleContentChoices
+></shortTitle
 ><chapter
 id="sDrafting1"
 showinlandscapemode="no"
@@ -3399,12 +3687,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to View Tasks Assigned to you [Video 1.1]</titleContent
+>Vidéo 1.1 How to View Tasks Assigned to you</titleContent
 ><titleContent
 contentType="fr"
->Mes tâches : plan de projet et progrès [Vidéo 1.1]</titleContent
+>Vidéo 1.1 Mes tâches : plan de projet et progrès</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/intro9/video/459384462"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >The administrator of your project can assign tasks to you in Paratext. The task assignments control what you can edit.</p
@@ -3696,12 +3996,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Understanding USFMs - Introduction [Video 1.2.1]</titleContent
+>Video 1.2.1 Understanding USFMs - Introduction</titleContent
 ><titleContent
 contentType="fr"
->Comprendre les USFM - Introduction [Vidéo 1.2.1]</titleContent
+>Vidéo 1.2.1 Comprendre les USFM - Introduction</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368329210"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464574060"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video you learn all about how Paratext uses special tags called USFMs. The tags</p
@@ -3830,12 +4142,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Adding Markers in Standard View [Video 1.2.2a]</titleContent
+>Video 1.2.2a Adding Markers in Standard View</titleContent
 ><titleContent
 contentType="fr"
->Comment l'affichage standard vous aide à ajouter des marqueurs [Vidéo 1.2.2a]</titleContent
+>Vidéo 1.2.2a Comment l'affichage standard vous aide à ajouter des marqueurs</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387019039"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/464574060"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >This video looked at how to insert Unified Standard Format markers or USFMs in standard view.<br
@@ -3978,12 +4302,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to work with USFMs in Formatted View [Video 1.2.2b]</titleContent
+>Video 1.2.2b How to work with USFMs in Formatted View</titleContent
 ><titleContent
 contentType="fr"
->Comment travailler avec les USM dans l’affichage formaté [Vidéo 1.2.2b]</titleContent
+>Vidéo 1.2.2b Comment travailler avec les USM dans l’affichage formaté</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387018983"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446776619"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we changed to Formatted view and learnt about adding and removing USFM styles here. <br
@@ -4276,12 +4612,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to use Basic View [Video 1.2.2c]</titleContent
+>Video 1.2.2c How to use Basic View</titleContent
 ><titleContent
 contentType="fr"
->Comment utiliser l'affichage Basique [Vidéo 1.2.2c]</titleContent
+>Vidéo 1.2.2c Comment utiliser l'affichage Basique</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387018929"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446740535"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we learnt how to work in Basic view. Basic view shows the USFM markers, but you cannot change the markers or add markers in this view. You can only type and have the cursor in the white areas. To use this view, someone needs to have set up all the markers needed in your translation for you beforehand. <br
@@ -4382,12 +4730,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->What is Unformatted View for? [Video 1.2.2d]</titleContent
+>Video 1.2.2d What is Unformatted View for?</titleContent
 ><titleContent
 contentType="fr"
->À quoi sert l'affichage non formaté? [Vidéo 1.2.2d]</titleContent
+>Vidéo 1.2.2d À quoi sert l'affichage non formaté?</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387959305"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464585929"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we look at Unformatted View. <br
@@ -4504,12 +4864,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->What is Preview? [Video 1.2.2e]</titleContent
+>Video 1.2.2e What is Preview?</titleContent
 ><titleContent
 contentType="fr"
->Qu-est que l'affichage aperçu? [Vidéo 1.2.2e]</titleContent
+>Vidéo 1.2.2e Qu-est que l'affichage aperçu?</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397214496"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464581165"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we learn about the view called Preview. <br
@@ -4809,12 +5181,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Backslash Key [Video 1.2.3]</titleContent
+>Video 1.2.3 Backslash Key</titleContent
 ><titleContent
 contentType="fr"
->Comment taped une barre oblique inversée (\) lorsqu'il n'y en a pas sur votre clavier [Vidéo 1.2.3]</titleContent
+>Vidéo 1.2.3 Comment taper une barre oblique inversée (\) lorsqu'il n'y en a pas sur votre clavier</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397234075"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/478825919/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video you will learn that F5 is an alternative way to type backslash. Backslash is an important key in Paratext because it starts every USFM tag, and opens the menu of markers in Standard view and Formatted view.</p
@@ -4937,12 +5321,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->The Best Way to Add Verse Numbers [Video 1.2.4]</titleContent
+>Video 1.2.4 The Best Way to Add Verse Numbers</titleContent
 ><titleContent
 contentType="fr"
->Ajout de numéros de versets [Vidéo 1.2.4]</titleContent
+>Vidéo 1.2.4 Ajout de numéros de versets</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397234111"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/480757641"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we will learn the best way to insert verse numbers.</p
@@ -5071,12 +5467,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to Mark non-Biblical Text [Video 1.2.5]</titleContent
+>Video 1.2.5 How to Mark non-Biblical Text</titleContent
 ><titleContent
 contentType="fr"
->Les USFM non bibliques [Vidéo 1.2.5]</titleContent
+>Vidéo 1.2.5 Les USFM non bibliques</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/432596472"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video, we will learn about how to mark non-Biblical text. Translators often include extra text in their Bible translations to introduce a book, indicate the start of a different topic in an epistle, indicate the start of a different topic in an epistle, or a different event in narrative, etc.</p
@@ -5264,12 +5672,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to scroll between chapters in a window [Video 1.3a]</titleContent
+>Video 1.3a How to scroll between chapters in a window</titleContent
 ><titleContent
 contentType="fr"
->Comment défiler d'un chapitre à l'autre dans une fenêtre [Vidéo 1.3a]</titleContent
+>Vidéo 1.3a Comment défiler d'un chapitre à l'autre dans une fenêtre</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436380192"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we will learn how to view more than one chapter at a time in a Paratext window. When we open a project or resource in Paratext, by default it only shows us the current chapter.</p
@@ -5335,12 +5755,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to Change the Size of the Text in a Window [Video 1.3b]</titleContent
+>Video 1.3b How to Change the Size of the Text in a Window</titleContent
 ><titleContent
 contentType="fr"
->Comment changer la taille du texte dans une fenêtre [Vidéo 1.3b]</titleContent
+>Vidéo 1.3b Comment changer la taille du texte dans une fenêtre</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436379857"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we will learn how to change the size of text in a Paratext window panel.</p
@@ -5530,12 +5962,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Adding Paragraphs [Video 1.3c]</titleContent
+>Video 1.3c Adding Paragraphs</titleContent
 ><titleContent
 contentType="fr"
->Ajout de paragraphes [Vidéo 1.3c]</titleContent
+>Vidéo 1.3c Ajout de paragraphes</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436379521"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/435671103"
+>Regarder le vidéo</link
+></pc
 ><pc
 contentType="en"
 ><object
@@ -5719,12 +6163,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to use Checking Toolsl (Basic Checks: Chapter/Verse) [Video 1.4.1]</titleContent
+>Video 1.4.1 How to use Checking Tools (Basic Checks: Chapter/Verse)</titleContent
 ><titleContent
 contentType="fr"
->Vérifications de base : Chapitre/Verset [Vidéo 1.4.1]</titleContent
+>Vidéo 1.4.1 Vérifications de base : Chapitre/Verset</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/intro9/video/461361122"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >Paratext has several tools for checking the consistency and accuracy of a translation. These are called Checks. Some checks require setup. It is important to correct any problems with chapter and verse markers, because, with these errors present, it can be hard for Paratext to show us exactly where things are found (e.g. Wordlist). We recommend you start looking at these issues early, even before you finish a book.</p
@@ -5977,12 +6433,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->How to Mark Texts as Complete [Video 1.5]</titleContent
+>Video 1.5 How to Mark Texts as Complete</titleContent
 ><titleContent
 contentType="fr"
->Marquer les textes comme étant complets [Vidéo 1.5]</titleContent
+>Vidéo 1.5 Marquer les textes comme étant complets</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/p9/video/461793250"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >As you work on the tasks assigned to you in Paratext, you need to record what you have finished.This allows the team to see your progress, and--most importantly--allows other team members, who are waiting for your task to be finished, to get started on their tasks.</p
@@ -6171,12 +6639,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->What is a Conflict [Video 1.6]</titleContent
+>Video 1.6 What is a Conflict</titleContent
 ><titleContent
 contentType="fr"
->Qu’est-ce qu’un conflit [Vidéo 1.6]</titleContent
+>Vidéo 1.6 Qu’est-ce qu’un conflit</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt8/video/229615018"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >A conflict occurs when two or more people edit the text at the same time. Paratext gets confused and does not know which one to keep. It chooses one and adds a conflict note.</p
@@ -6197,12 +6677,24 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Paratext Conflict Notes: What they look like and how to deal with them [Video 1.6.1]</titleContent
+>Video 1.6.1 Paratext Conflict Notes: What they look like and how to deal with them</titleContent
 ><titleContent
 contentType="fr"
->Résoudre les conflits [Vidéo 1.6.1]</titleContent
+>Vidéo 1.6.1 Résoudre les conflits</titleContent
 ></titleContentChoices
 ></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/438192934"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
 ><p
 contentType="en"
 >In this video we will see what conflict notes look like and how to deal with them. This is the same in Paratext 8 and 9.</p
@@ -6623,10 +7115,10 @@ showOnlyChosenItemsInEditor="no"
 ><contentTypes
 ><contentType
 id="en"
->english</contentType
+>English</contentType
 ><contentType
 id="fr"
->french</contentType
+>French</contentType
 ><contentType
 id="dn"
 >Developer's Note</contentType

@@ -74,7 +74,7 @@ contentType="en"
 >Paratext 9- Introduction</titleContent
 ><titleContent
 contentType="fr"
->Paratext 9- Intro</titleContent
+>Paratext 9 - Introduction</titleContent
 ></titleContentChoices
 ></shortTitle
 ><chapter
@@ -1095,7 +1095,7 @@ contentType="en"
 >In the manual, when it says <object
 type="tmenu"
 >≡ Paratext</object
->, <object
+>, under <object
 type="tmenu"
 >Menu</object
 > &gt; <object
@@ -1104,7 +1104,7 @@ type="tmenu"
 >. It means click on the Paratext menu icon ≡, then under the menu (e.g. File) choose the command (e.g. Open). And when it says <object
 type="tmenu"
 >≡ Tab</object
->, <object
+>, under <object
 type="tmenu"
 >Menu</object
 > &gt; <object
@@ -1117,7 +1117,7 @@ pagecontrol="letFormatterDecide"
 >Dans ce manuel, on écrit "<object
 type="tmenu"
 >≡ Paratext</object
->, <object
+>, sous <object
 type="tmenu"
 >Menu</object
 > &gt; <object
@@ -1165,7 +1165,7 @@ type="tmenu"
 ></br
 > <img
 XeLaTeXSpecial="scaling='150'"
-src="12imgeng/logo9.png"
+src="12imgeng/Logo9.png"
 width="150"
 ></img
 ><br
@@ -1180,7 +1180,7 @@ type="tPT"
 ></br
 > <img
 XeLaTeXSpecial="scaling='150'"
-src="12imgeng/logo9.png"
+src="12imgeng/Logo9.png"
 width="150"
 ></img
 ><br
@@ -1314,7 +1314,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, (<object
+> menu, under (<object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1328,7 +1328,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
-> menu, (<object
+> menu, under (<object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1342,7 +1342,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, (<object
+> menu, under (<object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1356,7 +1356,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, (<object
+> menu, under (<object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1370,7 +1370,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, (<object
+> menu, under (<object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1572,7 +1572,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, <object
+> menu, under <object
 type="tmenu"
 >Layout</object
 > &gt; <object
@@ -1584,7 +1584,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, puis <object
+> menu, sous <object
 type="tmenu"
 >Mise en page</object
 > &gt; <object
@@ -1638,7 +1638,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, then under <object
+> menu, under <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1656,7 +1656,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> menu, puis <object
+> menu, sous <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -1730,8 +1730,6 @@ contentType="en"
 ><p
 contentType="fr"
 >N.B. Il est suggéré que les ressources soient présentées dans l’ordre de plus littéral à moins littéral (pour mettre l’accent sur les textes les plus fidèles aux textes sources). Pour les ressources en français, l’ordre suivant est suggéré : TOB, NVSR78Col, NBS, BDS, FC97, PDV11. Parmi les ressources en anglais : ESV, RSV, NIV, NLT.</p
-><p
-></p
 ><ul
 ><li
 contentType="en"
@@ -1769,6 +1767,7 @@ type="tmenu"
 ></br
 ></li
 ><li
+contentType="fr"
 ><img
 height=" "
 src="12imgfr//ModifyColDeTextes9.png"
@@ -1812,11 +1811,6 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
-></li
-><li
-contentType="en"
-><br
-></br
 ></li
 ></ul
 ><framedUnit
@@ -2205,7 +2199,7 @@ contentType="en"
 type="tEmphasis"
 >PP1 – Project plan and progress</object
 > <img
-src="12imgeng/pt9.png"
+src="12imgeng/PT9.png"
 ></img
 ></titleContent
 ><titleContent
@@ -2214,7 +2208,7 @@ contentType="fr"
 type="tEmphasis"
 >PP1 – Plan et progrès du projet</object
 > <img
-src="12imgeng/pt9.png"
+src="12imgeng/PT9.png"
 ></img
 ></titleContent
 ></titleContentChoices
@@ -2224,13 +2218,13 @@ src="12imgeng/pt9.png"
 ><titleContent
 contentType="en"
 >PP1 – Project_Plan_and_Progress<img
-src="12imgeng/pt9.png"
+src="12imgeng/PT9.png"
 ></img
 ></titleContent
 ><titleContent
 contentType="fr"
 >PP1 – Plan et progrès du projet <img
-src="12imgeng/pt9.png"
+src="12imgeng/PT9.png"
 ></img
 ></titleContent
 ></titleContentChoices
@@ -2376,7 +2370,7 @@ src="12imgeng/image7.png"
 >[<object
 type="tmenu"
 >≡ Tab</object
-> ,under <object
+> under <object
 type="tmenu"
 >Project</object
 > menu, select <object
@@ -2398,7 +2392,7 @@ src="12imgeng/image7.png"
 ><object
 type="tmenu"
 >≡ Onglet</object
-> , sous <object
+> sous <object
 type="tmenu"
 >Projet</object
 > &gt; <object
@@ -2819,7 +2813,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> <object
+> under <object
 type="tmenu"
 > Paratext</object
 > &gt; <object
@@ -2837,7 +2831,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> , sous <object
+> sous <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -2888,7 +2882,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
-> , under the <object
+> , under <object
 type="tmenu"
 >Project</object
 > menu, select <object
@@ -3172,7 +3166,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, under <object
+> under <object
 type="tmenu"
 >View</object
 > menu, choose the view (usually Standard).</li
@@ -3181,7 +3175,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Onglet</object
->, sous <object
+> sous <object
 type="tmenu"
 >Affichage</object
 >, choisissez l’affichage que vous préférez (p.ex. Standard).</li
@@ -3245,7 +3239,7 @@ contentType="en"
 >Note : You can use <object
 type="tmenu"
 >≡ Tab</object
->, under <object
+> under <object
 type="tmenu"
 >View</object
 > &gt; <object
@@ -3257,7 +3251,7 @@ contentType="fr"
 >Note : Vous pouvez cliquez sur <object
 type="tmenu"
 >≡ Onglet</object
-> , et sous <object
+> et sous <object
 type="tmenu"
 >Affichage</object
 > &gt; <object
@@ -3468,7 +3462,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext </object
-> <object
+> under <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -3489,7 +3483,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Paratext</object
->, sous <object
+> sous <object
 type="tmenu"
 >Paratext</object
 >&gt; <object
@@ -3660,7 +3654,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
-> <object
+> under <object
 type="tmenu"
 > Project</object
 >,&gt; <object
@@ -3720,7 +3714,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> <object
+> under <object
 type="tmenu"
 > Paratext</object
 >,&gt; <object
@@ -3822,7 +3816,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
->, <object
+>, under <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -6166,14 +6160,17 @@ framedtype="tTeacher"
 contentType="en"
 >Note : The terms column is in Greek (or Hebrew) by default. You can see the terms in a roman script by using the <object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >View</object
-> menu and choose <object
+> menu &gt; <object
 type="tmenu"
 >Transliterate terms</object
 >.</p
 ><p
 contentType="fr"
->N.B. : Si vous voulez voir les termes grecs ou hébreux avec l’alphabet romanisé, vous pouvez changer l’affichage en utilisant Affichage <object
+>N.B. : Si vous voulez voir les termes grecs ou hébreux avec l’alphabet romanisé, vous pouvez changer l’affichage en utilisant <object
 type="tmenu"
 >≡ Onglet</object
 >, sous <object
@@ -6872,7 +6869,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -6902,6 +6899,9 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -6979,6 +6979,9 @@ contentType="fr"
 contentType="en"
 >In the Wordlist (<object
 type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -7001,6 +7004,9 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -7009,7 +7015,7 @@ type="tmenu"
 ></br
 ><object
 type="tresult"
->A list of words is displayed.</object
+>A list of word s is displayed.</object
 ></li
 ><li
 contentType="fr"
@@ -7097,6 +7103,9 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -7207,7 +7216,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>View</object
 > &gt; <object
 type="tmenu"
 >Display spelling</object
@@ -7394,7 +7406,13 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; <object
+><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
 type="tmenu"
 >Spell Check Current Book </object
 ><br
@@ -7487,8 +7505,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
-> &gt; <object
+>&gt; <object
 type="tmenu"
 >Spell check &gt;</object
 ></li
@@ -7837,6 +7858,9 @@ contentType="fr"
 contentType="en"
 >In the Wordlist (<object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > – Wordlist)</p
 ><p
@@ -7847,8 +7871,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
-> &gt; <object
+>&gt; <object
 type="tmenu"
 >Find Incorrectly Joined or Split Words</object
 ><br
@@ -8151,7 +8178,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Open Biblical terms rendering</object
@@ -8172,7 +8202,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+> (of the new window), under <object
+type="tmenu"
+>Biblical Terms</object
 > &gt; <object
 type="tmenu"
 >Select Biblical terms list</object
@@ -8182,7 +8215,7 @@ contentType="fr"
 ><object
 type="tmenu"
 >≡ Onglet</object
-> (dans le nouvelle fenêtre) <object
+> (dans le nouvelle fenêtre) sous <object
 type="tmenu"
 >Termes bibliques</object
 > &gt; <object
@@ -8933,6 +8966,9 @@ pagecontrol="keepWithNext"
 contentType="en"
 >From your reference text, do a find (using <object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Edit</object
 > &gt; <object
 type="tmenu"
@@ -8980,8 +9016,11 @@ pagecontrol="keepWithNext"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Edit</object
-> &gt; <object
+>&gt; <object
 type="tmenu"
 >Add to Project Biblical Terms</object
 >, then choose your project<br
@@ -9291,8 +9330,11 @@ contentType="fr"
 contentType="en"
 >From the <object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
-> menu, point to <object
+>, point to <object
 type="tmenu"
 >Checklists</object
 >, and select <object
@@ -9807,7 +9849,13 @@ contentType="fr"
 contentType="en"
 >From the <object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checking inventories</object
 > menu, choose the appropriate inventory (for example Character inventory).</li
 ><li
 contentType="fr"
@@ -9950,7 +9998,16 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Checking &gt; <object
+><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checking inventories</object
+> &gt; <object
 type="tmenu"
 >Character inventory</object
 ></li
@@ -9999,8 +10056,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
-> &gt; <object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+>&gt; <object
 type="tmenu"
 >Run Basic Checks</object
 > </li
@@ -10018,10 +10078,10 @@ type="tmenu"
 > </li
 ><li
 contentType="en"
->Check « <object
+>Check "<object
 type="tmenu"
 >Characters</object
-> » </li
+>" </li
 ><li
 contentType="fr"
 >Cochez « <object
@@ -10052,7 +10112,7 @@ type="tresult"
 ></li
 ><li
 contentType="en"
->Make any corrections as needed..</li
+>Make any corrections as needed.</li
 ><li
 contentType="fr"
 >Faites les corrections nécessaires.</li
@@ -10090,7 +10150,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checking inventories</object
 > &gt; <object
 type="tmenu"
 >Punctuation Inventory</object
@@ -10188,7 +10254,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run Basic Checks</object
@@ -10280,8 +10349,8 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
-> &gt; <object
+>≡ Tab</object
+>, under &gt; <object
 type="tmenu"
 >Unmatched pairs of punctuation</object
 > :  </li
@@ -10330,7 +10399,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run Basic Checks</object
@@ -10423,6 +10495,15 @@ contentType="en"
 ><object
 type="tmenu"
 >Checking</object
+> <object
+type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &lt; <object
+type="tmenu"
+>Checking inventories</object
 > &gt; <object
 type="tmenu"
 >Repeated words inventory:</object
@@ -10472,7 +10553,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run Basic Checks</object
@@ -10564,8 +10648,14 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
->&gt; <object
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Tools</object
+> &lt; <object
+type="tmenu"
+>Checking inventories</object
+> &gt; <object
 type="tmenu"
 >Markers Missing Final Sentence Punctuation</object
 ></li
@@ -10609,8 +10699,14 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
->&gt; <object
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Tools</object
+> &lt; <object
+type="tmenu"
+>Checking inventories</object
+> &gt;&gt; <object
 type="tmenu"
 >Markers followed by a lower case letter</object
 ></li
@@ -10651,8 +10747,14 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
-> &gt; <object
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Tools</object
+> &lt; <object
+type="tmenu"
+>Checking inventories</object
+> &gt;&gt; <object
 type="tmenu"
 >Punctuation Followed by a Lower Case letter</object
 ></li
@@ -10693,8 +10795,14 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
-> &gt; <object
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Tools</object
+> &lt; <object
+type="tmenu"
+>Checking inventories</object
+> &gt;&gt; <object
 type="tmenu"
 >Mixed Capitalization</object
 ></li
@@ -10743,7 +10851,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run Basic Checks</object
@@ -11447,6 +11558,9 @@ type="tsub"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -11559,6 +11673,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -11633,8 +11750,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
 >Tools</object
-> &gt; <object
+> &lt; <object
 type="tmenu"
 >Checklists</object
 > &gt; <object
@@ -11774,6 +11894,9 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -12012,10 +12135,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->≡ project</object
+>≡ Tab</object
 >, under <object
 type="tmenu"
->File</object
+>Project</object
 > &gt; <object
 type="tmenu"
 >Export Draft PDF</object
@@ -13156,10 +13279,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
 >Project</object
 > &gt; <object
 type="tmenu"
->Propject proprities and settings</object
+>Project properties and settings</object
 ></li
 ><li
 contentType="fr"
@@ -13267,8 +13393,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Insert </object
->&gt; <object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Insert</object
+> &gt; <object
 type="tmenu"
 >Note</object
 ></li
@@ -13347,7 +13476,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Open Notes...</object
@@ -13845,8 +13977,11 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
-> &gt; <object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Project</object
+> &gt;&gt; <object
 type="tmenu"
 >Print</object
 ></li
@@ -14189,7 +14324,7 @@ pagecontrol="letFormatterDecide"
 ><li
 contentType="en"
 ><sectionRef
-sec="sBTStat"
+sec="sBT1"
 showTitle="full"
 ></sectionRef
 ></li
@@ -14409,7 +14544,10 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
-> sous Paratext &gt; <object
+> under <object
+type="tmenu"
+>Paratext</object
+> &gt; <object
 type="tmenu"
 >New Project</object
 ></li
@@ -14433,10 +14571,7 @@ type="tmenu"
 ></li
 ><li
 contentType="fr"
->Cliquez sur le bouton<object
-type="tmenu"
-> </object
-><object
+>Cliquez sur le bouton <object
 type="tmenu"
 >Édition</object
 ></li
@@ -15394,7 +15529,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Paratext</object
->, sous <object
+>, under <object
 type="tmenu"
 >Paratext</object
 > &gt; <object
@@ -15587,7 +15722,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Open Project interlineariser</object
@@ -16435,7 +16573,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Checking Inventories</object
 > &gt; <object
 type="tmenu"
 >Unmatched pairs of punctuation</object
@@ -16508,7 +16652,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking &gt; Run Basic Checks</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Run Basic Checks</object
 ></li
 ><li
 contentType="fr"
@@ -16593,8 +16743,14 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Project &gt; Scripture reference settings</object
-><br
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Scripture reference settings</object
+> <br
 ></br
 ><img
 src="36imgeng\image18.png"
@@ -16608,7 +16764,10 @@ type="tmenu"
 >≡ Onglet</object
 >, sous <object
 type="tmenu"
->Paramètres du projet &gt; Paramètres des références bibliques</object
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Paramètres des références bibliques</object
 ><br
 ></br
 ><img
@@ -16692,7 +16851,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run Basic Checks</object
@@ -16779,7 +16941,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking &gt; Number settings</object
+>≡ Tab,</object
+> under <object
+type="tmenu"
+>Project settings</object
+> &gt; <object
+type="tmenu"
+>Number settings</object
 ></li
 ><li
 contentType="fr"
@@ -16825,7 +16993,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run basic checks</object
@@ -16906,7 +17077,10 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Project settings </object
 > &gt; <object
 type="tmenu"
 >Quotation rules</object
@@ -16973,7 +17147,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking &gt; Basic checks</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Run basic checks</object
 ></li
 ><li
 contentType="fr"
@@ -17080,7 +17260,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->Checking &gt; Basic checks</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Tools</object
+> &gt; <object
+type="tmenu"
+>Run basic checks</object
 ></li
 ><li
 contentType="fr"
@@ -17230,22 +17416,20 @@ pagecontrol="letFormatterDecide"
 ><ul
 ><li
 contentType="en"
->See Stage one and two of the previous manual.</li
+>See Stage one and two.</li
 ><li
 contentType="en"
 ><sectionRef
 sec="sBT1"
+showTitle="full"
 ></sectionRef
-> Back translation 1</li
-></ul
-><ul
+></li
 ><li
-><p
 contentType="en"
 ><sectionRef
 sec="sBT2"
+showTitle="full"
 ></sectionRef
-> Back translation 2</p
 ></li
 ></ul
 ><p
@@ -17255,19 +17439,21 @@ pagecontrol="letFormatterDecide"
 ><ul
 ><li
 contentType="fr"
->Voir le manuel précédent</li
+>Voir étape un et deux</li
 ><li
 contentType="fr"
 ><sectionRef
 sec="sBT1"
+showTitle="full"
 ></sectionRef
-> Retraduction 1</li
+></li
 ><li
 contentType="fr"
 ><sectionRef
 sec="sBT2"
+showTitle="full"
 ></sectionRef
-> Retraduction 2</li
+></li
 ></ul
 ></part
 ><part
@@ -17277,10 +17463,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 5 [Stage 3 UBS]: Review by the community</titleContent
+>Stage 5 (Stage 3 UBS): Review by the community</titleContent
 ><titleContent
 contentType="fr"
->Étape 5 [Étape 3 UBS] : Tester/réviser avec la communauté</titleContent
+>Étape 5 (Étape 3 UBS) : Tester/réviser avec la communauté</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -17352,16 +17538,32 @@ pagecontrol="letFormatterDecide"
 ><ul
 ><li
 contentType="en"
->PPR: Progress report</li
+><sectionRef
+sec="sPPR"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->Rapport — progrès de projet</li
+><sectionRef
+sec="sPPR"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->BBTR: Biblical key terms report</li
+><sectionRef
+sec="sBTR"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->Rapport — termes clés</li
+><sectionRef
+sec="sBTR"
+showTitle="full"
+></sectionRef
+></li
 ></ul
 ><chapter
 id="sPPR"
@@ -17730,6 +17932,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -17791,10 +17996,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Biblical terms</object
 > &gt; <object
 type="tmenu"
->Save as HTML</object
+>Export as HTML</object
 ></li
 ><li
 contentType="fr"
@@ -17803,10 +18011,10 @@ type="tmenu"
 >≡ Onglet</object
 >, sous <object
 type="tmenu"
->Paramètres du projet</object
+>Termes biblique</object
 > &gt; <object
 type="tmenu"
->Enregistrer en format HTML</object
+>Exporter au format HTML</object
 ></li
 ><li
 contentType="en"
@@ -17958,10 +18166,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 6 [4 UBS]: Finalizing for Publication</titleContent
+>Stage 6 (4 UBS): Finalizing for Publication</titleContent
 ><titleContent
 contentType="fr"
->Étape 6 [4 UBS] : Finalisation pour la publication</titleContent
+>Étape 6 (4 UBS) : Finalisation pour la publication</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -18004,16 +18212,32 @@ pagecontrol="letFormatterDecide"
 ><ul
 ><li
 contentType="en"
->FC: Finalizing for Publication</li
+><sectionRef
+sec="s6intro1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->FC: Finalisation pour la publication</li
+><sectionRef
+sec="s6intro1"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="en"
->PP: Compare Parallel Passages</li
+><sectionRef
+sec="sPP"
+showTitle="full"
+></sectionRef
+></li
 ><li
 contentType="fr"
->PP: Comparer passages parallèles</li
+><sectionRef
+sec="sCheckParallelPassages"
+showTitle="full"
+></sectionRef
+></li
 ></ul
 ><chapter
 id="s6intro1"
@@ -18388,7 +18612,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -18418,7 +18642,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -18442,7 +18666,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -18481,6 +18705,9 @@ contentType="fr"
 ><li
 contentType="en"
 ><object
+type="tmenu"
+>≡ Tab</object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -18564,6 +18791,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -18585,7 +18815,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Biblical terms</object
 > &gt; <object
 type="tmenu"
 >Select Biblical Terms List</object
@@ -18640,6 +18873,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -18667,11 +18903,17 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+> &gt; <object
+type="tmenu"
+>Word or phrase</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19013,6 +19255,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -19034,7 +19279,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Bibllical Terms</object
 > &gt; <object
 type="tmenu"
 >Select Biblical Terms List</object
@@ -19078,10 +19326,13 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Biblical terms</object
 > &gt; <object
 type="tmenu"
->Save as HTML</object
+>Export as HTML</object
 ></li
 ><li
 contentType="fr"
@@ -19111,8 +19362,8 @@ type="tmenu"
 contentType="fr"
 >Cliquez sur <object
 type="tmenu"
->Save</object
->/Enregistre.</li
+>Save/Enregistrer</object
+>.</li
 ></ul
 ></section1
 ><section1
@@ -19270,7 +19521,10 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->Checking</object
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Tools</object
 > &gt; <object
 type="tmenu"
 >Run basic checks.</object
@@ -19333,7 +19587,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -19363,7 +19617,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -19387,7 +19641,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -19427,6 +19681,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -19446,10 +19703,13 @@ type="tmenu"
 ></li
 ><li
 contentType="en"
->From the <object
+><object
 type="tmenu"
->File</object
-> menu, <object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Biblical terms</object
+> &gt; <object
 type="tmenu"
 >Select Biblical Terms list</object
 > and choose the <object
@@ -19509,6 +19769,9 @@ contentType="fr"
 contentType="en"
 ><object
 type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
@@ -19530,10 +19793,13 @@ type="tmenu"
 contentType="en"
 ><object
 type="tmenu"
->File</object
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Biblical terms</object
 > &gt; <object
 type="tmenu"
->Select Biblical Terms List</object
+>Select Biblical Terms list</object
 ></li
 ><li
 contentType="fr"
@@ -19586,7 +19852,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -19616,13 +19882,16 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+> &gt; <object
+type="tmenu"
+>Word or phrase</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19643,13 +19912,16 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+> &gt; <object
+type="tmenu"
+>Section headings</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19670,13 +19942,16 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+> &gt;<object
+type="tmenu"
+> Book titles</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19697,13 +19972,16 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+> &gt; <object
+type="tmenu"
+>References</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19724,13 +20002,16 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
 type="tmenu"
 >Checklists</object
-> &gt; Word or phrase</li
+><object
+type="tmenu"
+> &gt; Footnotes</object
+></li
 ><li
 contentType="fr"
 ><object
@@ -19905,7 +20186,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -20317,7 +20598,16 @@ contentType="fr"
 framedtype="tTeacher"
 ><p
 contentType="en"
->In Paratext 9 the check box marks the passages together. If you want to approve the passages individually (as in Paratext 8), you can use the View menu to approves passages individually.</p
+>In Paratext 9 the check box marks the passages together. If you want to approve the passages individually (as in Paratext 8), you can use the <object
+type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>View</object
+> menu &gt; <object
+type="tmenu"
+>Approve passages individually</object
+>.</p
 ><p
 contentType="fr"
 >Dans Paratext 9, la case à cocher approvera les passages ensemble. Si vous voulez approuver les passages individuellement (comme dans Paratext 8), vous pouvez utiliser <object
@@ -20437,7 +20727,7 @@ contentType="en"
 ><object
 type="tmenu"
 >≡ Tab</object
->, sous <object
+>, under <object
 type="tmenu"
 >Tools</object
 > &gt; <object
@@ -20490,7 +20780,16 @@ contentType="fr"
 ><ul
 ><li
 contentType="en"
->Open you project a second time [≡ Paratext &gt; Paratext &gt; Open project/resource]</li
+>Open you project a second time [<object
+type="tmenu"
+>≡ Paratext</object
+> &gt; <object
+type="tmenu"
+>Paratext</object
+> &gt; <object
+type="tmenu"
+>Open</object
+> et double-click your project]</li
 ><li
 contentType="fr"
 >Ouvrez votre projet un deuxième fois [<object
@@ -20505,7 +20804,13 @@ type="tmenu"
 > et double-cliquez sur votre projet/ressource]</li
 ><li
 contentType="en"
->Change the scroll group from [A] to None.<br
+>Change the scroll group from <object
+type="tmenu"
+>[A]</object
+> to <object
+type="tmenu"
+>None</object
+>.<br
 ></br
 ><img
 src="36imgeng\image29.png"
@@ -20513,7 +20818,13 @@ src="36imgeng\image29.png"
 ></li
 ><li
 contentType="fr"
->Puis changer la groupe de défilement de [A] au « Aucun »/None.<br
+>Puis changer la groupe de défilement de <object
+type="tmenu"
+>[A]</object
+> au « <object
+type="tmenu"
+>Aucun</object
+> »/None.<br
 ></br
 ><img
 src="36imgfr/image19.png"
@@ -20533,7 +20844,7 @@ contentType="en"
 >If the scroll group icon is not shown on the toolbar, then you need to choose full menus. [<object
 type="tmenu"
 >≡ Paratext</object
->, sous <object
+>, under <object
 type="tmenu"
 >Help</object
 > &gt; <object
@@ -21466,10 +21777,10 @@ contentType="fr"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Paratext 9 Bible Abbreviations</titleContent
+>Paratext 9 - Bible Abbreviations</titleContent
 ><titleContent
 contentType="fr"
->Paratext 9 Codes des livres Bibliques</titleContent
+>Paratext 9 - Codes des livres Bibliques</titleContent
 ></titleContentChoices
 ></shortTitle
 ><tablenumbered
@@ -21484,183 +21795,183 @@ border="1"
 ><td
 align="left"
 valign="top"
->[Genesis] [GEN]</td
+>Genesis - GEN</td
 ><td
 align="left"
 valign="top"
->[Exodus] [EXO]</td
+>Exodus - EXO</td
 ><td
 align="left"
 valign="top"
->[Leviticus] [LEV]</td
+>Leviticus - LEV</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Numbers] (NUM)</td
+>Numbers - NUM</td
 ><td
 align="left"
 valign="top"
->[Deuteronomy] (DEU)</td
+>Deuteronomy - DEU</td
 ><td
 align="left"
 valign="top"
->[Joshua] [JOS]</td
+>Joshua - JOS</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Judges] (JDG)</td
+>Judges - JDG</td
 ><td
 align="left"
 valign="top"
->Ruth [RUT]</td
+>Ruth - RUT</td
 ><td
 align="left"
 valign="top"
->1 Samuel [1SA]</td
+>1 Samuel - 1SA</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Samuel [2SA]</td
+>2 Samuel - 2SA</td
 ><td
 align="left"
 valign="top"
->[1 Kings] [1KI]</td
+>1 Kings - 1KI</td
 ><td
 align="left"
 valign="top"
->[2 Kings] [2KI]</td
+>2 Kings - 2KI</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[1 Chronicles] [1CH]</td
+>1 Chronicles - 1CH</td
 ><td
 align="left"
 valign="top"
->[2 Chronicles] [2CH]</td
+>2 Chronicles - 2CH</td
 ><td
 align="left"
 valign="top"
->[Ezra] [EZR]</td
+>Ezra - EZR</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Nehemiah] [NEH]</td
+>Nehemiah - NEH</td
 ><td
 align="left"
 valign="top"
->Esther [EST]</td
+>Esther - EST</td
 ><td
 align="left"
 valign="top"
->Job [JOB]</td
+>Job - JOB</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Psalms] [PSA]</td
+>Psalms - PSA</td
 ><td
 align="left"
 valign="top"
->[Proverbs] [PRO]</td
+>Proverbs - PRO</td
 ><td
 align="left"
 valign="top"
->[Ecclesiastes] (ECC)</td
+>Ecclesiastes - ECC</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Song of Songs] [SNG]</td
+>Song of Songs - SNG</td
 ><td
 align="left"
 valign="top"
->[Isaiah] [ISA]</td
+>Isaiah - ISA</td
 ><td
 align="left"
 valign="top"
->[Jeremiah] [JER]</td
+>Jeremiah - JER</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Lamentations [LAM]</td
+>Lamentations - LAM</td
 ><td
 align="left"
 valign="top"
->[Ezekiel] [EZK]</td
+>Ezekiel - EZK</td
 ><td
 align="left"
 valign="top"
->Daniel [DAN]</td
+>Daniel - DAN</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Hosea] [HOS]</td
+>Hosea - HOS</td
 ><td
 align="left"
 valign="top"
->Joël [JOL]</td
+>Joël - JOL</td
 ><td
 align="left"
 valign="top"
->Amos [AMO]</td
+>Amos - AMO</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Obadiah] (OBA)</td
+>Obadiah - OBA</td
 ><td
 align="left"
 valign="top"
->[Jonah] (JON)</td
+>Jonah - JON</td
 ><td
 align="left"
 valign="top"
->[Micah] (MIC)</td
+>Micah - MIC</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Nahum] (NAM)</td
+>Nahum - NAM</td
 ><td
 align="left"
 valign="top"
->[Habakkuk] [HAB]</td
+>Habakkuk - HAB</td
 ><td
 align="left"
 valign="top"
->[Zephaniah] [ZEP]</td
+>Zephaniah - ZEP</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Haggai] [HAG]</td
+>Haggai - HAG</td
 ><td
 align="left"
 valign="top"
->[Zechariah] [ZEC]</td
+>Zechariah - ZEC</td
 ><td
 align="left"
 valign="top"
->[Malachi] [MAL]</td
+>Malachi - MAL</td
 ></tr
 ></table
 ></tablenumbered
@@ -21677,183 +21988,183 @@ pagecontrol="letFormatterDecide"
 ><td
 align="left"
 valign="top"
->Genèse [GEN]</td
+>Genèse - GEN</td
 ><td
 align="left"
 valign="top"
->Exode [EXO]</td
+>Exode - EXO</td
 ><td
 align="left"
 valign="top"
->Lévitique [LEV]</td
+>Lévitique - LEV</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Nombres (NUM)</td
+>Nombres - NUM</td
 ><td
 align="left"
 valign="top"
->Deutéronome (DEU)</td
+>Deutéronome - DEU</td
 ><td
 align="left"
 valign="top"
->Josué [JOS]</td
+>Josué - JOS</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Juges (JDG)</td
+>Juges - JDG</td
 ><td
 align="left"
 valign="top"
->Ruth [RUT]</td
+>Ruth - RUT</td
 ><td
 align="left"
 valign="top"
->1 Samuel [1SA]</td
+>1 Samuel - 1SA</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Samuel [2SA]</td
+>2 Samuel - 2SA</td
 ><td
 align="left"
 valign="top"
->1 Rois [1KI]</td
+>1 Rois - 1KI</td
 ><td
 align="left"
 valign="top"
->2 Rois [2KI]</td
+>2 Rois - 2KI</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Chroniques [1CH]</td
+>1 Chroniques - 1CH</td
 ><td
 align="left"
 valign="top"
->2 Chroniques [2CH]</td
+>2 Chroniques - 2CH</td
 ><td
 align="left"
 valign="top"
->Esdras [EZR]</td
+>Esdras - EZR</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Néhémie [NEH]</td
+>Néhémie - NEH</td
 ><td
 align="left"
 valign="top"
->Esther [EST]</td
+>Esther - EST</td
 ><td
 align="left"
 valign="top"
->Job [JOB]</td
+>Job - JOB</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Psaumes [PSA]</td
+>Psaumes - PSA</td
 ><td
 align="left"
 valign="top"
->Proverbes [PRO]</td
+>Proverbes - PRO</td
 ><td
 align="left"
 valign="top"
->Ecclésiaste (ECC)</td
+>Ecclésiaste - ECC</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Cantique des cantiques [SNG]</td
+>Cantique des cantiques - SNG</td
 ><td
 align="left"
 valign="top"
->Ésaïe [ISA]</td
+>Ésaïe - ISA</td
 ><td
 align="left"
 valign="top"
->Jérémie [JER]</td
+>Jérémie - JER</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Lamentations [LAM]</td
+>Lamentations - LAM</td
 ><td
 align="left"
 valign="top"
->Ézékiel [EZK]</td
+>Ézékiel - EZK</td
 ><td
 align="left"
 valign="top"
->Daniel [DAN]</td
+>Daniel - DAN</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Osée [Hosea] [HOS]</td
+>Osée (Hosea] - HOS</td
 ><td
 align="left"
 valign="top"
->Joël [JOL]</td
+>Joël - JOL</td
 ><td
 align="left"
 valign="top"
->Amos [AMO]</td
+>Amos - AMO</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Abdias (OBA)</td
+>Abdias - OBA</td
 ><td
 align="left"
 valign="top"
->Jonas (JON)</td
+>Jonas - JON</td
 ><td
 align="left"
 valign="top"
->Michée (MIC)</td
+>Michée - MIC</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Nahoum (NAM)</td
+>Nahoum - NAM</td
 ><td
 align="left"
 valign="top"
->Habacuc [HAB]</td
+>Habacuc - HAB</td
 ><td
 align="left"
 valign="top"
->Sophonie [ZEP]</td
+>Sophonie - ZEP</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Aggée [HAG]</td
+>Aggée - HAG</td
 ><td
 align="left"
 valign="top"
->Zacharie [ZEC]</td
+>Zacharie - ZEC</td
 ><td
 align="left"
 valign="top"
->Malachie [MAL]</td
+>Malachie - MAL</td
 ></tr
 ></table
 ></tablenumbered
@@ -21869,127 +22180,127 @@ border="1"
 ><td
 align="left"
 valign="top"
->[Matthew] [MAT]</td
+>Matthew - MAT</td
 ><td
 align="left"
 valign="top"
->[Mark] [MRK]</td
+>Mark - MRK</td
 ><td
 align="left"
 valign="top"
->[Luke] [LUK]</td
+>Luke - LUK</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[John] [JHN]</td
+>John - JHN</td
 ><td
 align="left"
 valign="top"
->[Acts] [ACT]</td
+>Acts - ACT</td
 ><td
 align="left"
 valign="top"
->[Romans] [ROM]</td
+>Romans - ROM</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[1 Corinthians] [1CO]</td
+>1 Corinthians - 1CO</td
 ><td
 align="left"
 valign="top"
->[2 Corinthians] [2CO]</td
+>2 Corinthians - 2CO</td
 ><td
 align="left"
 valign="top"
->[Galatians] [GAL]</td
+>Galatians - GAL</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Ephesians] [EPH]</td
+>Ephesians - EPH</td
 ><td
 align="left"
 valign="top"
->[Philippians] (PHP</td
+>Philippians - PHP</td
 ><td
 align="left"
 valign="top"
->Colossians (COL)</td
+>Colossians - COL</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[1 Thessalonians] (1TH)</td
+>1 Thessalonians - 1TH</td
 ><td
 align="left"
 valign="top"
->[2 Thessalonians] (2TH)</td
+>2 Thessalonians - 2TH</td
 ><td
 align="left"
 valign="top"
->[1 Timothy] (1TI)</td
+>1 Timothy - 1TI</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[2 Timothy] (2TI)</td
+>2 Timothy - 2TI</td
 ><td
 align="left"
 valign="top"
->[Titus] (TIT)</td
+>Titus - TIT</td
 ><td
 align="left"
 valign="top"
->[Philemon] (PHM)</td
+>Philemon - PHM</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[Hebrews] (HEB)</td
+>Hebrews - HEB</td
 ><td
 align="left"
 valign="top"
->[James] (JAS)</td
+>James - JAS</td
 ><td
 align="left"
 valign="top"
->[1 Peter] (1PE)</td
+>1 Peter - 1PE</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[2 Peter] (2PE)</td
+>2 Peter - 2PE</td
 ><td
 align="left"
 valign="top"
->[1 John] (1JN)</td
+>1 John - 1JN</td
 ><td
 align="left"
 valign="top"
->[2 John] (2JN)</td
+>2 John - 2JN</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->[3 John] (3JN)</td
+>3 John - 3JN</td
 ><td
 align="left"
 valign="top"
->Jude (JUD)</td
+>Jude - JUD</td
 ><td
 align="left"
 valign="top"
->[Revelation] (REV)</td
+>Revelation - REV</td
 ></tr
 ></table
 ></tablenumbered
@@ -22006,127 +22317,127 @@ pagecontrol="letFormatterDecide"
 ><td
 align="left"
 valign="top"
->Matthieu [MAT]</td
+>Matthieu - MAT</td
 ><td
 align="left"
 valign="top"
->Marc [MRK]</td
+>Marc - MRK</td
 ><td
 align="left"
 valign="top"
->Luc [LUK]</td
+>Luc - LUK</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Jean [JHN]</td
+>Jean - JHN</td
 ><td
 align="left"
 valign="top"
->Actes [ACT]</td
+>Actes - ACT</td
 ><td
 align="left"
 valign="top"
->Romains [ROM]</td
+>Romains - ROM</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Corinthiens [1CO]</td
+>1 Corinthiens - 1CO</td
 ><td
 align="left"
 valign="top"
->1 Corinthiens [2CO]</td
+>1 Corinthiens - 2CO</td
 ><td
 align="left"
 valign="top"
->Galates [GAL]</td
+>Galates - GAL</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Éphésiens [EPH]</td
+>Éphésiens - EPH</td
 ><td
 align="left"
 valign="top"
->Philippiens (PHP</td
+>Philippiens - PHP</td
 ><td
 align="left"
 valign="top"
->Colossiens (COL)</td
+>Colossiens - COL</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->1 Thessaloniciens (1TH)</td
+>1 Thessaloniciens - 1TH</td
 ><td
 align="left"
 valign="top"
->1 Thessaloniciens (2TH)</td
+>1 Thessaloniciens - 2TH</td
 ><td
 align="left"
 valign="top"
->1 Timothée (1TI)</td
+>1 Timothée - 1TI</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Timothée (2TI)</td
+>2 Timothée - 2TI</td
 ><td
 align="left"
 valign="top"
->Tite (TIT)</td
+>Tite - TIT</td
 ><td
 align="left"
 valign="top"
->Philémon (PHM)</td
+>Philémon - PHM</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->Hébreux (HEB)</td
+>Hébreux - HEB</td
 ><td
 align="left"
 valign="top"
->Jacques (JAS)</td
+>Jacques - JAS</td
 ><td
 align="left"
 valign="top"
->1 Pierre (1PE)</td
+>1 Pierre - 1PE</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->2 Pierre (2PE)</td
+>2 Pierre - 2PE</td
 ><td
 align="left"
 valign="top"
->1 Jean (1JN)</td
+>1 Jean - 1JN</td
 ><td
 align="left"
 valign="top"
->2 Jean (2JN)</td
+>2 Jean - 2JN</td
 ></tr
 ><tr
 ><td
 align="left"
 valign="top"
->3 Jean (3JN)</td
+>3 Jean - 3JN</td
 ><td
 align="left"
 valign="top"
->Jude (JUD)</td
+>Jude - JUD</td
 ><td
 align="left"
 valign="top"
->Apocalypse (REV)</td
+>Apocalypse - REV</td
 ></tr
 ></table
 ></tablenumbered
@@ -23035,6 +23346,315 @@ contentType="fr"
 >Paratext 9 USFM</titleContent
 ></titleContentChoices
 ></shortTitle
+><p
+contentType="dn"
+>Note: All Style Type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view</p
+><p
+contentType="dn"
+>Note: All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view</p
+><table
+border="1"
+contentType="dn"
+><tr
+><td
+>\id</td
+><td
+>File - Identification</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\h</td
+><td
+>File - Header</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\c</td
+><td
+>Chapter Number</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\v</td
+><td
+>Verse Number</td
+><td
+>Character</td
+></tr
+><tr
+><td
+>\p</td
+><td
+>Paragraph - Normal - First Line Indent</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\m</td
+><td
+>Paragraph - Margin - No First Line Indent</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\q1</td
+><td
+>Poetry - Indent Level 1</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\q2</td
+><td
+>Poetry - Indent Level 2</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\r</td
+><td
+>Heading - Parallel References</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\s1</td
+><td
+>Heading - Section Level 1</td
+><td
+>Paragraph</td
+></tr
+></table
+><pc
+contentType="dn"
+>Less-common Markers</pc
+><table
+border="1"
+contentType="dn"
+><tr
+><td
+>\pc</td
+><td
+>Paragraph - Centered (for Inscription)</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\s</td
+><td
+>Heading - Section Level 1 - Single Level Only</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\mt</td
+><td
+>Title - Major Title Level 1 - Single level only</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\q</td
+><td
+>Poetry - Indent Level 1 - Single Level Only</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\q3</td
+><td
+>Poetry - Indent Level 3</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\nb</td
+><td
+>Paragraph - No Break with Previous Paragraph</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\li</td
+><td
+>List Entry - Level 1 - Single Level Only</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\k</td
+><td
+>Special Text - Keyword</td
+><td
+>Character</td
+></tr
+></table
+><pc
+contentType="dn"
+>Introductory Markers</pc
+><table
+border="1"
+contentType="dn"
+><tr
+><td
+>\imt1</td
+><td
+>Introduction - Major Title Level 1</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\iot</td
+><td
+>Introduction - Outline Title</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\io1</td
+><td
+>Introduction - Outline Level 1</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\io2</td
+><td
+>Introduction - Outline Level 2</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\ip</td
+><td
+>Introduction - Paragraph</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\im</td
+><td
+>Introduction - Paragraph - no first line indent</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\ipq</td
+><td
+>Introduction - Paragraph - quote from text</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\ib</td
+><td
+>Introduction - Blank Line</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\imt1</td
+><td
+>Introduction - Major Title Level 1</td
+><td
+>Paragraph</td
+></tr
+></table
+><pc
+contentType="dn"
+>Footnote Markers</pc
+><table
+border="1"
+contentType="dn"
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+><td
+></td
+></tr
+><tr
+><td
+></td
+><td
+></td
+></tr
+></table
 ><p
 contentType="en"
 >\c chapter</p

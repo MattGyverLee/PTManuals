@@ -465,6 +465,7 @@ textalign="center"
 ><section1Layout
 ignore="no"
 showNumber="no"
+startSection1NumberingAtZero="yes"
 ><sectionTitleLayout
 font-size="12pt"
 font-weight="bold"
