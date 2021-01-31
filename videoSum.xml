@@ -1,0 +1,7461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+figureLabelAndCaptionLocation="after"
+figureRefDefault="none"
+includemediaobjects="no"
+sectionRefDefault="none"
+showExampleIdOnHoverInWebpage="no"
+showcommentinoutput="no"
+showindexeditemsineditor="yes"
+showiso639-3codeininterlinear="no"
+sortRefsAbbrsByDocumentLanguage="no"
+tablenumberedLabelAndCaptionLocation="before"
+tablenumberedRefDefault="none"
+version="2.28.0"
+><frontMatter
+><title
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext 9 Video Course</titleContent
+><titleContent
+contentType="fr"
+>Cours vidéo sur Paratext 9</titleContent
+></titleContentChoices
+></title
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9 Videos</titleContent
+><titleContent
+contentType="fr"
+>Vidéos PT9</titleContent
+></titleContentChoices
+></shortTitle
+><author
+>Jenni Beadle</author
+><author
+>Matthew Lee</author
+><contents
+backmattershowLevel="3"
+showLevel="3"
+showinlandscapemode="no"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Table of Contents</labelContent
+><labelContent
+contentType="fr"
+>Table des matières</labelContent
+></labelContentChoices
+></contents
+></frontMatter
+><part
+id="p1"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9 Videos - Introduction</titleContent
+><titleContent
+contentType="fr"
+>PT9 Vidéos - Introduction</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Intro</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Intro</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
+id="sIntroP9"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>When working in Paratext 9, you will want many windows open. Along with your translation project, you will also want resources and tools to help you translate.</p
+><p
+contentType="fr"
+>Lorsque vous travaillez dans Paratext 9, vous voudrez que de nombreuses fenêtres soient ouvertes. Non seulement votre projet de traduction, mais aussi des ressources et des outils pour vous aider à traduire.</p
+><p
+contentType="en"
+>Let's take some time to become familiar with the different types of windows and how to arrange them and navigate between them.</p
+><p
+contentType="fr"
+>Prenons un peu de temps pour nous familiariser avec les différents types de fenêtres et avec la manière de les disposer et de naviguer entre elles.</p
+><p
+contentType="en"
+>But first, what is Paratext?</p
+><p
+contentType="fr"
+>Mais d'abord, qu'est-ce que Paratext ?</p
+><section1
+id="sWhatPara"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.1 What is Paratext?</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.1 Qu'est-ce que Paratext ?</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/472226946"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/483999382"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext is the premier Bible translation software used by over 10,000 people worldwide for planning, managing, drafting, reviewing and checking Bible translations in more than 2,300 languages. Here are some of the tools Paratext has to offer.</p
+><p
+contentType="fr"
+>Paratext est le premier logiciel de traduction de la Bible utilisé par plus de 10 000 personnes dans le monde entier pour planifier, gérer, rédiger, réviser et vérifier les traductions de la Bible dans plus de 2 300 langues. Voici quelques-uns des outils que Paratext propose.</p
+><ul
+><li
+contentType="en"
+>A Project Plan, which lays out all the stages needed to be completed in order for a high quality translation to be achieved, with the order in which books should be translated.</li
+><li
+contentType="fr"
+>Un plan de projet, qui définit toutes les étapes à franchir pour obtenir une traduction de qualité, avec l'ordre dans lequel les livres doivent être traduits.</li
+><li
+contentType="en"
+>Team members can communicate through a system of notes.</li
+><li
+contentType="fr"
+>Les membres de l'équipe peuvent communiquer par le biais d'un système de notes.</li
+><li
+contentType="en"
+>Paratext supports translation itself in numerous ways, with hundreds of resources and several Enhanced Resources with enable translators less confident in Greek and Hebrew.</li
+><li
+contentType="fr"
+>Paratext soutient la traduction elle-même de nombreuses façons, avec des centaines de ressources et plusieurs ressources enrichies pour aider les traducteurs moins confiants en grec et en hébreu.</li
+><li
+contentType="en"
+>Team collaboration is facilitated by either working off-line or online with Paratext Live.</li
+><li
+contentType="fr"
+>La collaboration entre les équipes est facilitée par le fait de travailler hors ligne ou en ligne avec Paratext Live.</li
+><li
+contentType="en"
+>Paratext has specialized tools for translation of the Bible, such as the Parallel Passages tool, and the Biblical Terms tool.</li
+><li
+contentType="fr"
+>Paratext dispose d’outils spécialisés pour la traduction de la Bible, tels que l’outil Passages parallèles, et l’outil Termes bibliques.</li
+><li
+contentType="en"
+>Paratext provides spellchecking features by looking for abnormal patterns to detect potential spelling errors.</li
+><li
+contentType="fr"
+>Paratext offre des fonctions de vérification orthographique en recherchant des combinasions inhabituelles des lettres pour détecter d'éventuelles fautes d'orthographe.</li
+><li
+contentType="en"
+>When the text is ready for a translation consultant to check, users can prepare a written back translation for the consultant, and/or prepare a more literal back translation using the interlinearisation tool</li
+><li
+contentType="fr"
+>Lorsque le texte est prêt à être vérifié par un consultant en traduction, les utilisateurs peuvent préparer une retraduction écrite pour le consultant, et/ou préparer une retraduction plus littérale en utilisant l'outil d'interlinéarisation</li
+><li
+contentType="en"
+>There is a rich provision of training materials available including online videos in multiple languages.</li
+><li
+contentType="fr"
+>Il existe une riche offre de matériel de formation, notamment des vidéos en ligne en plusieurs langues.</li
+><li
+contentType="en"
+>To download Paratext and apply for a free licence, go to Paratext.org.</li
+><li
+contentType="fr"
+>Pour télécharger Paratext et demander une licence gratuite, rendez-vous sur Paratext.org.</li
+></ul
+></section1
+><section1
+id="sQuickRefWin"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.0.3 A quick guide to the Quick Reference window</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.0.3 Presentation de la fenêtre d'aperçu rapide</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/403437931"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open a quick reference window:</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ouvrez la fenêtre d'Aperçu rapide :</object
+></pc
+><ul
+><li
+contentType="en"
+>Click on a link in \r line or \xt <br
+></br
+> <img
+src="vidsumeng/image14.png"
+></img
+> <br
+></br
+> <object
+type="tresult"
+>The Quick Reference window comes up showing me that other reference. </object
+> <br
+></br
+> <object
+type="tresult"
+>OR </object
+></li
+><li
+contentType="fr"
+>Cliquez sur un lien dans la ligne \r ou \xt <br
+></br
+> <img
+src="vidsumfr/image14.png"
+></img
+> <br
+></br
+> <object
+type="tresult"
+>La fenêtre Aperçu rapide vous montre le texte de cette autre référence. </object
+> <br
+></br
+> <object
+type="tresult"
+>OU </object
+></li
+><li
+contentType="en"
+>Click Project <object
+type="tmenu"
+>≡</object
+>, expand the menu, under Tools &gt; <object
+type="tmenu"
+>Quick Reference</object
+></li
+><li
+contentType="fr"
+>Cliquez sur Projet <object
+type="tmenu"
+>≡</object
+>, développez le menu, sous Outils &gt;<object
+type="tmenu"
+> Aperçu rapide</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Hint: If you add the window to Autohide, or Dock the window, Paratext will use it to open parallel heading links or cross reference links.</p
+><p
+contentType="fr"
+>Conseil : Si vous ajoutez la fenêtre au groupe Masquer automatiquement ou comme une fenêtre ancrée (ajusté), Paratext l’utilisera pour ouvrir des liens de référence parallèles ou des liens de référence croisés.</p
+><p
+contentType="en"
+>In Paratext 9.1 any floating window now has controls for changing the reference.</p
+><p
+contentType="fr"
+>Dans Paratext 9.1, toute fenêtre flottante dispose désormais de contrôles pour accéder une référence.</p
+></framedUnit
+></section1
+><section1
+id="sWinNav1"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Windows and Navigation 1</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Fenêtres et navigation 1</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sLanguage"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.1a How to change the user interface language</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.1a Comment changer la langue de l'interface utilisateur</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328819"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/410254311"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext interface is available in many languages.</p
+><p
+contentType="fr"
+>L'interface Paratext est disponible dans de nombreuses langues.</p
+><ul
+><li
+contentType="en"
+>Click Paratext Menu <object
+type="tmenu"
+>≡</object
+> &gt; under Paratext menu &gt; <object
+type="tmenu"
+>Paratext Settings</object
+></li
+><li
+contentType="fr"
+>Cliquez sur Menu Paratext <object
+type="tmenu"
+>≡</object
+> &gt; sous Menu Paratext &gt; <object
+type="tmenu"
+>Paramètres paratext</object
+></li
+><li
+contentType="en"
+>From the dropdown list of <object
+type="tmenu"
+>Interface languages</object
+> &gt; Choose language &gt; <object
+type="tmenu"
+>OK</object
+> <br
+></br
+> <img
+height="300"
+src="vidsumeng/image1.png"
+></img
+></li
+><li
+contentType="fr"
+>Dans le menu déroulant, de la liste des<object
+type="tmenu"
+> interface langues</object
+> &gt; Choisir une langue &gt; <object
+type="tmenu"
+>OK </object
+><br
+></br
+> <img
+height="300"
+src="vidsumfr/image1.png"
+></img
+></li
+></ul
+></section2
+><section2
+id="sProjRes"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video0.2.1b The basics of projects and resources</titleContent
+><titleContent
+contentType="fr"
+>Video0.2.1b Les bases des projets et des ressources</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328862"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/411837591"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext allows you to view several projects or resources at the same time. Each project or resource is shown in a window, with its own title bar and menu. Projects can be editable but resources are never editable.</p
+><p
+contentType="fr"
+>Paratext vous permet d'afficher plusieurs projets ou ressources en même temps. Chaque projet ou ressource est affiché dans une fenêtre, avec sa propre barre de titre et son propre menu. Les projets peuvent être modifiables, mais les ressources ne le sont jamais.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To open a project or resource</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour ouvrir un projet ou une ressource</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the main Paratext menu <object
+type="tmenu"
+>≡</object
+>, and then click <object
+type="tmenu"
+>Open</object
+>. <br
+></br
+> <object
+type="tresult"
+>The Open Project/Resource dialog box appears.</object
+> <br
+></br
+> <img
+src="vidsumeng/image2.png"
+width="500"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu principal de Paratext <object
+type="tmenu"
+>≡</object
+>, puis cliquez sur <object
+type="tmenu"
+>Ouvrir</object
+>. <br
+></br
+> <object
+type="tresult"
+>La boîte de dialogue Ouvrir le projet/ressource s’affiche.</object
+> <br
+></br
+> <img
+src="vidsumfr/image2.png"
+width="500"
+></img
+></li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Filter or search for the files you want</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Filtrer ou rechercher les fichiers souhaités</object
+></p
+><ul
+><li
+contentType="en"
+>The row of buttons along the top allows you to filter which types of files you see displayed in the list below.</li
+><li
+contentType="fr"
+>La rangée de boutons en haut de la boîte de dialogue vous permet de filtrer les types de fichiers que vous voyez affichés dans la liste ci-dessous.</li
+><li
+contentType="en"
+>Alternatively, you can show all filetypes and then use the search box to find the file you need to open.</li
+><li
+contentType="fr"
+>Vous pouvez également afficher tous les types de fichiers et utiliser ensuite la boîte de recherche pour trouver le fichier que vous devez ouvrir.</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>To open a file</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pour ouvrir un fichier :</object
+></p
+><ul
+><li
+contentType="en"
+>Click the filename in the list</li
+><li
+contentType="fr"
+>Cliquez sur le nom de fichier dans la liste</li
+><li
+contentType="en"
+>Choose the type of window (panel, tab, floating window, etc)</li
+><li
+contentType="fr"
+>Choisissez le type de fenêtre (panneau, onglet, fenêtre flottante, etc.)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+> <object
+type="tresult"
+>A new window opens.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+> <object
+type="tresult"
+>Une nouvelle fenêtre s'ouvre, qui affiche le fichier sélectionné.</object
+></li
+></ul
+><pc
+contentType="en"
+>When you start Paratext it will re-open the projects and resources you had open when you last closed Paratext. It also places your cursor in the verse where you last had your cursor.</pc
+><pc
+contentType="fr"
+>Lorsque vous démarrez Paratext, il rechargera exactement les mêmes fenêtres qui étaient ouvertes la dernière fois. Il place également votre curseur dans le verset où le curseur était en dernier.</pc
+></section2
+><section2
+id="sFindMenu"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.1.1 Finding Menu Items</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.1.1Trouver des éléments de menu</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/425476264"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446470153"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Remember there are two menus - one for all of Paratext (1) and the second for any project window or pane (2).</p
+><p
+contentType="fr"
+>N'oubliez pas qu'il existe deux menus - un pour l'ensemble de Paratext (1) et le second pour toute fenêtre ou volet de projet (2)..</p
+><ul
+><li
+contentType="en"
+><img
+src="vidsumeng/image3.png"
+></img
+></li
+><li
+contentType="fr"
+><img
+src="vidsumfr/image3.png"
+></img
+></li
+></ul
+><p
+contentType="en"
+>There are three other things to know about the menus:</p
+><p
+contentType="fr"
+>Il y a trois autres choses à savoir sur les menus :</p
+><ol
+><li
+contentType="en"
+>Not just projects and resources, but other windows have their own menus</li
+><li
+contentType="fr"
+>Pas seulement des projets et des ressources, mais d'autres fenêtres ont leurs propres menus</li
+><li
+contentType="en"
+>There are two sets of menus, standard and full.</li
+><li
+contentType="fr"
+>Il y a deux ensembles de menus, standards et complets.<ul
+><li
+contentType="en"
+>A standard menu can be expanded by clicking on wedge at the bottom.</li
+><li
+contentType="fr"
+>Un menu standard peut être développé en cliquant sur la flèche en bas.</li
+></ul
+></li
+><li
+contentType="en"
+>You can search for menu commands<ul
+><li
+contentType="en"
+>Click on search box, type the command <br
+></br
+> <img
+src="vidsumeng/image4.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Click on the desired command in results list<br
+></br
+> <img
+src="vidsumeng/image5.png"
+></img
+></li
+></ul
+></li
+><li
+contentType="fr"
+>Vous pouvez rechercher les commandes du menu<ul
+><li
+contentType="fr"
+>Cliquez sur la zone de recherche, tapez la commande <br
+></br
+> <img
+src="vidsumfr/image4.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez sur la commande souhaitée dans la liste des résultats<br
+></br
+> <img
+src="vidsumfr/image5.png"
+width="500"
+></img
+></li
+></ul
+></li
+></ol
+><pc
+contentType="en"
+>The menu search works even if you are in standard menus and the command you are searching is normally hidden. The same search also shows help topics.</pc
+><pc
+contentType="fr"
+>La recherche de menu fonctionne même si vous êtes dans des menus standard et que la commande que vous recherchez est normalement cachée. La même recherche affiche également des rubriques d'aide.</pc
+></section2
+><section2
+id="sArrange"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.1c How to Arrange windows</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.1c Arranger les fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368328956"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/412695128"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>A window within Paratext can be configured to be shown as a panel, a tab, an autohide window or a floating window.</p
+><p
+contentType="fr"
+>Une fenêtre dans Paratext peut être configurée pour être affichée sous la forme d’un panneau, d’un onglet, d’une fenêtre déplacée vers masquer automatique ou d’une fenêtre flottante.</p
+><dl
+showddOnNewLineInPDF="no"
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Open a window</object
+> as a specific type:</dt
+><dd
+contentType="en"
+>In the <object
+type="tEmphasis"
+>Open Project/resource</object
+> dialog box, use the Open as dropdown.</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Ouvrir une fenêtre</object
+> comme un type spécifique:</dt
+><dd
+contentType="fr"
+>Dans la boîte de dialogue <object
+type="tEmphasis"
+>Ouvrir un projet/une ressource</object
+>, utilisez la liste déroulante Ouvrir en tant que.</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Réorganiser </object
+></dt
+><dd
+contentType="fr"
+>Cliquez sur la barre de titre et faites glisser les panneaux pour les réarranger, relâchez la souris lorsque la zone bleue se trouve à la position souhaitée. La zone bleue indique l'endroit vers lequel un panneau en cours de glissement se déplacera.</dd
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Re-arrange</object
+></dt
+><dd
+contentType="en"
+>Click on the titlebar and drag panels to re-arrange them, release the mouse when the blue box is in the desired position. The blue box shows the place a panel being dragged will move to.</dd
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Resize</object
+>:</dt
+><dd
+contentType="en"
+>Windows can be resized by dragging the borders.</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Redimensionner</object
+>:</dt
+><dd
+contentType="fr"
+>Les fenêtres peuvent être redimensionnées en faisant glisser les bordures.</dd
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Convert</object
+>:</dt
+><dd
+contentType="en"
+>To convert a window into an autohide or floating window, right click on the title bar and select the appropriate option.</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Convertir</object
+>:</dt
+><dd
+contentType="fr"
+>Pour convertir une fenêtre en une fenêtre masquer automatiquement ou flottante, cliquez avec le bouton droit de la souris sur la barre de titre et sélectionnez l'option appropriée.</dd
+></dl
+><dl
+showddOnNewLineInPDF="no"
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Autohide:</object
+></dt
+><dd
+contentType="en"
+>Click the button (in autohide column) to see it, click outside window to hide it. Right-click a titlebar to send to autohide.</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Masquer automatique:</object
+></dt
+><dd
+contentType="fr"
+>Cliquez sur le bouton (dans la colonne latéral) pour le voir, Cliquez en dehors de cette fenêtre ou à nouveau sur le bouton pour la cacher. Faites un clic droit sur une barre de titre pour la déplacer vers masquer automatique.</dd
+><dt
+contentType="en"
+><object
+type="tmenu"
+>Floating window:</object
+></dt
+><dd
+contentType="en"
+>This is a good way to maximize a window or send it to a second screen<br
+></br
+> Right-click on titlebar &gt; Open as floating window.<br
+></br
+> [To return: Right-click &gt; Dock window]</dd
+><dt
+contentType="fr"
+><object
+type="tmenu"
+>Fenêtre flottante: </object
+></dt
+><dd
+contentType="fr"
+>C'est un bon moyen de maximiser une fenêtre ou de l'envoyer sur un deuxième écran<br
+></br
+>Clic droit sur la barre de titre &gt; Ouvrir comme fenêtre flottante.<br
+></br
+> [Pour revenir : Clic droit &gt; <object
+type="tItalic"
+>Ajuster la fenêtre</object
+>]</dd
+></dl
+><p
+contentType="en"
+><object
+type="tsub"
+>Save current layout</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Enregistrer la mise en page actuelle</object
+></p
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Paratext menu</object
+> and select "<object
+type="tmenu"
+>Save Current Layout</object
+>...".</li
+><li
+contentType="fr"
+>Cliquez sur le menu Paratext et sélectionnez « <object
+type="tItalic"
+>Enregistrer la disposition de fenêtres actuelle</object
+>. ».</li
+><li
+contentType="en"
+>Give the layout a name that will help you remember what it includes.</li
+><li
+contentType="fr"
+>Donnez à la disposition un nom qui vous aidera à vous souvenir de ce qu’elle contient.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+> <object
+type="tresult"
+>The layout name is now shown on the main Paratext menu. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+> <object
+type="tresult"
+>Le nom de la mise en page est maintenant affiché dans le menu principal de Paratext. </object
+></li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Display different layout</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Afficher une disposition différente</object
+></p
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Paratext menu</object
+> and click the layout name.<br
+></br
+> <object
+type="tresult"
+>Paratext opens the windows.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le <object
+type="tmenu"
+>menu Paratext</object
+>, puis sur le nom de la disposition.<br
+></br
+> <object
+type="tresult"
+>Paratext ouvre les fenêtres.</object
+></li
+></ul
+></section2
+></section1
+><section1
+id="sWinNav2"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Windows and Navigation 2</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Fenêtres et navigation 2</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sTextColl"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.2a Text Collections</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.2a Comment ouvrir et modifier une collection de textes</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377612892"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/419872321"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>A Text Collection allows us to display several resources in one window. Unlike a tabbed window, a text collection shows us one verse at a time from each resource. The Text Collection window has the same display options as any other paratext window.</p
+><p
+contentType="fr"
+>Une collection de textes nous permet d'afficher plusieurs ressources dans une seule fenêtre. Contrairement à une fenêtre à onglets, une collection de texte nous montre un verset à la fois de chaque ressource. Une fenêtre de collection de textes a les mêmes options d'affichage que toute autre fenêtre de paratexte.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Create a text collection</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Créer une collection de texte</object
+></pc
+><ul
+><li
+contentType="en"
+>Close any resources that are already open</li
+><li
+contentType="fr"
+>Fermer toutes les ressources déjà ouvertes</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Open</object
+> button on the toolbar.</li
+><li
+contentType="fr"
+>Cliquez sur le bouton "Ouvrir" de la barre d'outils.</li
+><li
+contentType="en"
+>Hold the CTRL key down while clicking to select several files.</li
+><li
+contentType="fr"
+>Maintenez la touche CTRL enfoncée tout en cliquant pour sélectionner plusieurs fichiers.</li
+><li
+contentType="en"
+>In the <object
+type="tmenu"
+>Open As</object
+> dropdown, select <object
+type="tmenu"
+>Text Collection</object
+>.<br
+></br
+> <img
+src="vidsumeng/image6.png"
+></img
+></li
+><li
+contentType="fr"
+>Dans la liste déroulante Ouvrir en tant que, sélectionnez Collection de texte.<br
+></br
+> <img
+src="vidsumfr/image6.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+> <object
+type="tresult"
+>Paratext opens the selected resources in a new window, and displays the current verse. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur OK. <br
+></br
+> <object
+type="tresult"
+>Paratext ouvre les ressources sélectionnées dans une nouvelle fenêtre et affiche le verset actuel. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Text collection - see more context [01:58]</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Collection de texte - voir plus de contexte [01:58]</object
+></pc
+><ul
+><li
+contentType="en"
+>Click blue hyperlink of a resource name OR</li
+><li
+contentType="fr"
+>Cliquez sur l'hyperlien bleu du nom d'une ressource OU</li
+><li
+contentType="en"
+>Click Tab menu <object
+type="tmenu"
+>≡</object
+>, under <object
+type="tmenu"
+>View</object
+> &gt; <object
+type="tmenu"
+>Two panes</object
+></li
+><li
+contentType="fr"
+>Cliquez sur Menu Onglet <object
+type="tmenu"
+>≡</object
+>, sous <object
+type="tmenu"
+>Afficher</object
+> &gt; <object
+type="tmenu"
+>Deux volets</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Text collection - close right hand pane</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Collecte de textes - fermer le volet de droit</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the little <object
+type="tmenu"
+>X</object
+> within the right hand pane.</li
+><li
+contentType="fr"
+>Cliquez sur le petit X dans le volet de droite.</li
+><li
+contentType="en"
+>OR Click the menu button on the title bar, under <object
+type="tmenu"
+>View</object
+>, click <object
+type="tmenu"
+>Two Panes</object
+></li
+><li
+contentType="fr"
+>OU Cliquez sur le bouton de menu de la barre de titre, sous <object
+type="tmenu"
+>Affichage</object
+>, cliquez sur <object
+type="tmenu"
+>Deux volets</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Modify text collection</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Modifier la collection de textes</object
+></pc
+><p
+contentType="en"
+>You can modify the text collection by change the order of resources, removing a resource or adding a resource.</p
+><p
+contentType="fr"
+>Vous pouvez modifier la collection de textes en changeant l'ordre des ressources, en supprimant une ressource ou en ajoutant une ressource.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Change order of resources [02:42]</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Modifier l'ordre des ressources [02:42]</object
+></pc
+><ul
+><li
+contentType="en"
+>Right click on one and select Move up or Move down.</li
+><li
+contentType="fr"
+>Cliquez avec le bouton droit sur un seul, puis sélectionnez Déplacer vers le haut ou déplacer vers le bas.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Remove a resource from the text collection.</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Supprimez une ressource de la collection de texte.</object
+></pc
+><ul
+><li
+contentType="en"
+>If we want to remove this resource,<object
+type="tEmphasis"
+> right click </object
+>and select <object
+type="tmenu"
+>Close</object
+>.</li
+><li
+contentType="fr"
+>Si nous voulons supprimer cette ressource, <object
+type="tEmphasis"
+>cliquez avec le bouton droit </object
+>de la souris et sélectionnez <object
+type="tmenu"
+>Fermer</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add resources [03:03]</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ajouter des ressources [03:03]</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the menu <object
+type="tmenu"
+>≡</object
+>,for this window panel.</li
+><li
+contentType="fr"
+>Ouvrez le menu <object
+type="tmenu"
+>≡</object
+>,de ce volet.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Modify Text collection</object
+>. <br
+></br
+> <object
+type="tresult"
+>The <object
+type="tmenu"
+>Select Texts</object
+> dialog box opens. </object
+> <br
+></br
+> <img
+src="vidsumeng/TextColSelectTexts.png"
+width="500"
+></img
+> <br
+></br
+> <object
+type="tresult"
+>List on the left is all available projects and resources. </object
+> <br
+></br
+> <object
+type="tresult"
+>List on the right is what is currently shown in the text collection window. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur Modifier la collection de texte. <br
+></br
+> <object
+type="tresult"
+>La boîte de dialogue <object
+type="tmenu"
+>Sélectionner pes textes</object
+> s'ouvre. </object
+> <br
+></br
+> <img
+src="vidsumfr/TextColSelTexts.png"
+width="500"
+></img
+> <br
+></br
+> <object
+type="tresult"
+>La liste de gauche présente tous les projets et ressources disponibles. </object
+> <br
+></br
+> <object
+type="tresult"
+>La liste de droite correspond à ce qui est actuellement affiché dans la fenêtre de collecte de texte. </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>left</object
+> or <object
+type="tmenu"
+>right</object
+> arrows to add or remove resources</li
+><li
+contentType="fr"
+>Cliquez sur les flèches <object
+type="tmenu"
+>gauche</object
+> ou <object
+type="tmenu"
+>droite</object
+> pour ajouter ou supprimer des ressources</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>up</object
+> or <object
+type="tmenu"
+>down</object
+> arrow to reorder resources</li
+><li
+contentType="fr"
+>Cliquez sur la flèche <object
+type="tmenu"
+>vers le haut</object
+> ou <object
+type="tmenu"
+>vers le bas</object
+>t pour réorganiser les ressources</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to make changes occur in the text collection window.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour effectuer des modifications dans la fenêtre de collection de texte.</li
+></ul
+></section2
+></section1
+><section1
+id="sWinNav3"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Windows and Navigation 3</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Fenêtres et navigation 3</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sScroll"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.3a Scroll Groups</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.3a Comment contrôler quelles fenêtres défiler ensemble</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/382483908"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/424066973"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Scroll groups allow you to look up a different reference without having all the windows scroll to the new reference, Paratext allows up to five different scroll groups, A through E. In addition, we can choose <object
+type="ttyped"
+>none</object
+> (which won't scroll).</p
+><p
+contentType="fr"
+>L'utilisation des groupes de défilement vous permettent de rechercher une référence différente sans que toutes les fenêtres ne défilent vers la nouvelle référence. Paratext permet jusqu'à cinq groupes de défilement différents, de A à E. En outre, nous pouvons choisir <object
+type="ttyped"
+>Aucun</object
+> (qui ne défilera pas).</p
+><p
+contentType="en"
+>The small dropdown control which contains the letter A is how we control the scroll groups.</p
+><p
+contentType="fr"
+>Le petit contrôle déroulant qui contient la lettre A est la façon dont nous contrôlons les groupes de défilement.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Change scroll group</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Modifier le groupe de défilement</object
+></pc
+><ul
+><li
+contentType="en"
+>Click to activate the window</li
+><li
+contentType="fr"
+>Cliquez pour activer la fenêtre</li
+><li
+contentType="en"
+>Click the scroll group on the toolbar</li
+><li
+contentType="fr"
+>Cliquez sur le groupe de défilement de la barre d’outils</li
+><li
+contentType="en"
+>Choose the desired scroll group <br
+></br
+> <img
+src="vidsumeng/image7.png"
+></img
+></li
+><li
+contentType="fr"
+>Choisissez le groupe de défilement souhaité <br
+></br
+> <img
+src="vidsumfr/image7.png"
+></img
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Small letters are shown next to the project abbreviations on the window title bars when the windows are not all in group A.</p
+><p
+contentType="fr"
+>Les petites lettres sont indiquées à côté des abréviations du projet sur les barres de titre des fenêtres lorsque celles-ci ne font pas toutes partie du groupe A.</p
+><p
+contentType="en"
+>When you open a new window, it will be in the same scroll group as the last active one.</p
+><p
+contentType="fr"
+>Lorsque vous ouvrez une nouvelle fenêtre, elle se trouve dans le même groupe de défilement que la dernière active.</p
+></framedUnit
+></section2
+><section2
+id="sKb"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.3b Keyboards</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.3b Comment définir le clavier par défaut pour un projet</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/427651172"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/425987455"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext can be set to turn on a keyboard automatically when the cursor is in a project that needs it [provided the both Keyman and the keybord is installed].</p
+><p
+contentType="fr"
+>Paratext peut être configuré pour activer un clavier automatiquement lorsque le curseur est dans un projet qui en a besoin [à condition que Keyman et le clavier soient installés.]</p
+><ul
+><li
+contentType="en"
+>Click the Project menu<object
+type="tmenu"
+> ≡</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu Projet <object
+type="tmenu"
+>≡</object
+></li
+><li
+contentType="en"
+>Move the mouse over <object
+type="tmenu"
+>Project Settings</object
+>.</li
+><li
+contentType="fr"
+>Déplacez la souris sur paramètres du projet.</li
+><li
+contentType="en"
+>In the submenu, select <object
+type="tmenu"
+>Keyboard</object
+>.<br
+></br
+> <object
+type="tresult"
+>The Keyboard dialog for this project opens. </object
+> <br
+></br
+> <img
+src="vidsumeng/image8.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Dans le sous-menu, sélectionnez <object
+type="tmenu"
+>Clavier</object
+>.<br
+></br
+> <object
+type="tresult"
+>La boîte de dialogue du clavier pour ce projet s'ouvre. </object
+> <br
+></br
+> <img
+src="vidsumfr/image8.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Choose the Keyman keyboard for typing text.</li
+><li
+contentType="fr"
+>Choisissez le clavier Keyman pour saisir du texte.</li
+><li
+contentType="en"
+>Choose the Keyboard for typing notes.</li
+><li
+contentType="fr"
+>Choisissez le clavier pour la saisie des notes.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+><framedUnit
+contentType="en"
+framedtype="tTeacher"
+><p
+>In some cases it may be useful to set the keyboard to a standard keyboard to ensure you don't type special characters by mistake.</p
+><p
+contentType="fr"
+>Dans certains cas, il peut être utile de régler le clavier sur un clavier standard pour s'assurer que vous ne tapez pas de caractères spéciaux par erreur.</p
+></framedUnit
+></section2
+><section2
+id="sSwapText"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.3c Swap Text in a Window</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.3c Comment échanger un texte dans une fenêtre</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377612971"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/433948282"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>You can change which text a window displays. This is a way of opening a different text instead of one of your open ones, leaving your window layout the same.</p
+><p
+contentType="fr"
+>Vous pouvez modifier le texte affiché dans une fenêtre. C'est une façon d'ouvrir un texte différent au lieu d'un de vos textes ouverts, en laissant la disposition de vos fenêtres inchangée.</p
+><ul
+><li
+contentType="en"
+>Click in the window you want to change.</li
+><li
+contentType="fr"
+>Cliquez dans la fenêtre que vous souhaitez modifier.</li
+><li
+contentType="en"
+>On the toolbar, click the project list. <br
+></br
+> <img
+src="vidsumeng/image9.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Dans la barre d'outils, cliquez sur la liste des projets. <br
+></br
+> <img
+src="vidsumfr/image9.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Select the text you wish to display.<br
+></br
+> <object
+type="tresult"
+>The window now shows the new version instead and the window layout remains the same. </object
+></li
+><li
+contentType="fr"
+>Sélectionnez le texte que vous souhaitez afficher.<br
+></br
+> <object
+type="tresult"
+>La fenêtre affiche désormais la nouvelle version à la place et la disposition des fenêtres reste la même. </object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Remember that if you saved this window layout when the other version was here, it was saved in this position and will be re-opened if you use the saved layout again. If the current text selection is what you want to use in future, re-save the layout as it currently is.</p
+><p
+contentType="fr"
+>N'oubliez pas que si vous avez enregistré cette disposition des fenêtres lorsque l'autre version était là, elle a été enregistrée dans cette position et sera rouverte si vous utilisez à nouveau la disposition enregistrée. Si la sélection de texte actuelle est celle que vous souhaitez utiliser à l'avenir, sauvegardez à nouveau la mise en page telle qu'elle est actuellement.</p
+><p
+contentType="en"
+>Note: At this time, you can only open another similar resource in the window using the project list (i.e Project, Enhanced Resource, Biblical terms).</p
+><p
+contentType="fr"
+>Notez: Pour l’instant, vous ne pouvez ouvrir qu’une autre ressource similaire dans la fenêtre à l’aide de la liste de projets (c.-à-d. Projet, Ressources enrichies, Termes bibliques).</p
+></framedUnit
+></section2
+><section2
+id="sArrange2"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.3d Further Tips on Arranging Windows</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.3d Autre astuces sur les dispositions des fenêtres</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377613013"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/419314037"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 1: How to swap windows</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Conseil 1 : Comment changer de fenêtre</object
+></pc
+><ul
+><li
+contentType="en"
+><p
+contentType="en"
+>Swapping two windows may involve two or more steps. [For example, drag one to the left edge and end up with an extra column, then drag the other to the lower right corner (back to original number of columns).</p
+></li
+><li
+contentType="fr"
+><p
+contentType="fr"
+>L'échange de deux fenêtres peut impliquer deux ou plusieurs étapes. [Par exemple, faites glisser l'une d'entre elles vers le bord gauche et obtenez une colonne supplémentaire, puis faites glisser l'autre vers le coin inférieur droit (pour revenir au nombre initial de colonnes).</p
+></li
+><li
+contentType="en"
+>An alternative way to swap these two texts is by using the project list.</li
+><li
+contentType="fr"
+>Une autre façon d'échanger ces deux textes est d'utiliser la liste des projets.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 2: How to undo moving a window</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Conseil 2 : Comment annuler le déplacement d’une fenêtre</object
+></pc
+><p
+contentType="en"
+>If you make a mistake with a drag,</p
+><p
+contentType="fr"
+>Si vous faites une erreur avec un deplacement,</p
+><ul
+><li
+contentType="en"
+>Click on the main <object
+type="tmenu"
+>≡ Paratext menu</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur le menu principal de <object
+type="tmenu"
+>≡ Paratext</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Undo Tab move</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Annuler le déplacement d’onglet</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 3: How to unpin floating windows</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Conseil 3 : Comment désancrer les fenêtres flottantes</object
+></pc
+><ul
+><li
+contentType="en"
+>When the thumbtack is slanted, this window no longer stays on top all the time.</li
+><li
+contentType="fr"
+>Lorsque la punaise est inclinée, cette fenêtre ne reste plus tout le temps au dessus.</li
+><li
+contentType="en"
+><img
+src="vidsumeng/image10.png"
+></img
+></li
+><li
+contentType="fr"
+><img
+src="vidsumfr/image10.png"
+></img
+></li
+><li
+contentType="en"
+>If you want it to always stay on top again, click the thumbtack icon to pin it.</li
+><li
+contentType="fr"
+>Si vous voulez qu'il reste toujours au sommet, cliquez sur l'icône de la punaise pour l'épingler.</li
+><li
+contentType="en"
+><img
+src="vidsumeng/image11.png"
+></img
+></li
+><li
+contentType="fr"
+><img
+src="vidsumfr/image11.png"
+></img
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 4: How to widen the autohide column</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Conseil n°4 : Comment élargir la colonne Masquer automatiquement</object
+></pc
+><p
+contentType="en"
+>The autohide column can be made a little wider if desired.</p
+><p
+contentType="fr"
+>La colonne Masquer automatiquement peut être rendue un peu plus large si vous le souhaitez.</p
+><ul
+><li
+contentType="en"
+>Click the arrow at the top of the column. <br
+></br
+> <img
+src="vidsumeng/image12.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur la flèche en haut de la colonne. <br
+></br
+> <img
+src="vidsumfr/image12.png"
+></img
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Tip 5: How to undo closing a window</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Conseil 5 : Comment annuler la fermeture d’une fenêtre</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the main <object
+type="tmenu"
+>≡ Paratext menu</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu principal de <object
+type="tmenu"
+>≡ Paratext</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Undo Tab Close</object
+></li
+><li
+contentType="fr"
+>Choisir <object
+type="tmenu"
+>Annuler la fermeture de l’onglet</object
+></li
+></ul
+></section2
+><section2
+id="sNonBib"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.3e How to view other Bible-related texts in Paratext</titleContent
+><titleContent
+contentType="fr"
+>Video 0.2.3e Comment consulter d'autres textes liés à la Bible dans Paratext</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/382483859"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/443500451"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>There are many non-biblical books listed after REV (also Deuterocanonical books)</p
+><p
+contentType="fr"
+>De nombreux livres non bibliques sont répertoriés après Apocalypse (REV) (également les livres deutérocanoniques)</p
+><p
+contentType="en"
+>If they were created in the project, you can access these books by clicking on "Select book" in the toolbar.</p
+><p
+contentType="fr"
+>S'ils ont été créés dans le projet, vous pouvez accéder à ces livres en cliquant sur "Sélectionner un livre" dans la barre d'outils.</p
+><ul
+><li
+contentType="en"
+>e.g. GLO, XXA ... XXG</li
+><li
+contentType="fr"
+>par exemple GLO, XXA ... XXG</li
+><li
+contentType="en"
+><img
+src="vidsumeng/image13.png"
+></img
+></li
+><li
+contentType="fr"
+><img
+src="vidsumfr/image13.png"
+></img
+></li
+></ul
+></section2
+></section1
+><section1
+id="sQuickRef"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.2.4 Quick Bible Reference Navigation</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.2.4 Navigeur rapide aux versets bibliques</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/349939285"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/449749686"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to a specific Bible Reference</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aller à une référence biblique spécifique</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl+ B</object
+>,</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ctrl+ B</object
+>,</li
+><li
+contentType="en"
+>Type the 3 letter abbreviation of book name</li
+><li
+contentType="fr"
+>Tapez l’abréviation de 3 lettres du nom du livres :</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the chapter number</li
+><li
+contentType="fr"
+>Tapez <object
+type="tmenu"
+>ÉSPACE</object
+>, puis tapez le numéro de chapitre</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the verse number <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ÉSPACE</object
+> typez le numéro de verset, appuyez sur <object
+type="tmenu"
+> ENTRÉE</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to the beginning of a book</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aller au début d'un livre</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl+ B</object
+>, type the 3 letter abbreviation of book name press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ctrl+ B</object
+>, tapez l'abréviation de 3 lettres du nom du livre appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to the beginning of a chapter</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aller au début d'un chapitre</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl+ B</object
+>, type the 3 letter abbreviation of book name</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ctrl+ B,</object
+> tapez l'abréviation de 3 lettres du nom du livre</li
+><li
+contentType="en"
+>Type <object
+type="tmenu"
+>SPACE</object
+> type the chapter number press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Tapez <object
+type="tmenu"
+>ÉSPACE</object
+> tapez le numéro de chapitre appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Go to a book by title</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aller à un livre par titre</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl+B</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ctrl+B</object
+></li
+><li
+contentType="en"
+>Start typing the title of the book</li
+><li
+contentType="fr"
+>Commencez à taper le titre du livre</li
+><li
+contentType="en"
+>Choose from the list.</li
+><li
+contentType="fr"
+>Choisissez dans la liste.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+></li
+></ul
+></section1
+><section1
+id="sHelp"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.3 Help in Paratext</titleContent
+><titleContent
+contentType="fr"
+>Video 0.3 Trouver de l’Aide</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/377618617"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/420642737"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Search menus/help</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Recherche dans les menus/aide</object
+></pc
+><ul
+><li
+contentType="en"
+>Click in the search menus/help box on the titlebar. <br
+></br
+> <img
+src="vidsumeng/image4.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez dans la zone de recherche/aide de la barre de titre.<br
+></br
+> <img
+src="vidsumfr/image4.png"
+></img
+><br
+></br
+></li
+><li
+contentType="en"
+>Type, and then simply wait while Paratext searches.<br
+></br
+> <object
+type="tresult"
+>The top items in the list are actual commands within Paratext. </object
+> <br
+></br
+> <object
+type="tresult"
+>If necessary, Paratext uses the abbreviation to show us which window the action will apply to. </object
+></li
+><li
+contentType="fr"
+>Saissisez, puis attendez simplement pendant que Paratext effectue des recherches.<br
+></br
+> <object
+type="tresult"
+>Les éléments en tête de la liste sont des commandes réelles dans Paratext. </object
+> <br
+></br
+> <object
+type="tresult"
+>Si nécessaire, Paratext utilise l’abréviation pour nous montrer à quelle fenêtre/volet l’action s’appliquera. </object
+></li
+><li
+contentType="en"
+>If we click any of these commands, Paratext will do the action.</li
+><li
+contentType="fr"
+>Si nous cliquons sur l'une de ces commandes, Paratext fera l'action.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Help</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aide</object
+></pc
+><p
+contentType="en"
+>In the second part of the search results Paratext lists all the help topics which match your search.</p
+><p
+contentType="fr"
+>Dans la deuxième partie des résultats de recherche, Paratext répertorie tous les sujets d'aide qui correspondent à votre recherche.</p
+><ul
+><li
+contentType="en"
+>Click on the description to open it.<br
+></br
+> <object
+type="tresult"
+>The help topic opens in the help window. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur la description pour l'ouvrir.<br
+></br
+> <object
+type="tresult"
+>La rubrique d'aide s'ouvre dans la fenêtre d'aide. </object
+></li
+><li
+contentType="en"
+>Any text marked in blue is a link to a different topic.</li
+><li
+contentType="fr"
+>Tout texte marqué en bleu est un lien vers un autre sujet.</li
+><li
+contentType="en"
+>There are also some topics listed under <object
+type="tmenu"
+>See Also</object
+>.</li
+><li
+contentType="fr"
+>Il y a également quelques sujets énumérés sous <object
+type="tmenu"
+>Voir aussi.</object
+></li
+><li
+contentType="en"
+>Each title is a link you can click.</li
+><li
+contentType="fr"
+>Chaque titre est un lien sur lequel vous pouvez cliquer.</li
+><li
+contentType="en"
+>You can go back by clicking the green back button.</li
+><li
+contentType="fr"
+>Vous pouvez revenir en arrière en cliquant sur le bouton arrière vert.</li
+><li
+contentType="en"
+>By scrolling down you can browse other potentially relevant help topics.</li
+><li
+contentType="fr"
+>En faisant défiler vers le bas, vous pouvez parcourir d’autres rubriques d’aide potentiellement pertinentes.</li
+><li
+contentType="en"
+>Close the Help file by clicking the <object
+type="tmenu"
+>X</object
+> in the top right corner.</li
+><li
+contentType="fr"
+>Fermez le fichier d’aide en cliquant sur le <object
+type="tmenu"
+>X</object
+> dans le coin supérieur droit.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Guide</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Guide</object
+></pc
+><ul
+><li
+contentType="en"
+>Open a dialog box (for example, main menu <object
+type="tmenu"
+>≡ Paratext</object
+> &gt; <object
+type="tmenu"
+>Paratext Settings</object
+>)<br
+></br
+> <object
+type="tresult"
+>A guide is diplayed to the right of the dialog.</object
+></li
+><li
+contentType="fr"
+>Ouvrez une boîte de dialogue (par exemple, le menu principal <object
+type="tmenu"
+>≡ Paratext</object
+> &gt; <object
+type="tmenu"
+>Paramètres Paratext</object
+>)<br
+></br
+> <object
+type="tresult"
+>Un guide apparaît à droite de la boîte de dialogue.</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Close guide/show guide</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Fermer le guide/Afficher le guide</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the red <object
+type="tmenu"
+>X</object
+> to<object
+type="tEmphasis"
+> close the guide</object
+>t.</li
+><li
+contentType="fr"
+>Cliquez sur le <object
+type="tmenu"
+>X</object
+> rouge <object
+type="tEmphasis"
+>pour fermer le guide</object
+>.</li
+><li
+contentType="en"
+>Click the <object
+type="tlink"
+>Show guide</object
+> link to <object
+type="tEmphasis"
+>open the guide</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur le lien <object
+type="tlink"
+>Afficher le guide</object
+> <object
+type="tEmphasis"
+>pour ouvrir le guide</object
+>.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Closing a guide only affects the current dialog box.</p
+><p
+contentType="fr"
+>Note : La fermeture d'un guide n'affecte que la boîte de dialogue en cours.</p
+></framedUnit
+><pc
+contentType="en"
+><object
+type="tsub"
+>Help menu</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Menu Aide</object
+></pc
+><ul
+><li
+contentType="en"
+>Click on the main menu <object
+type="tmenu"
+>≡ Paratext</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu principal <object
+type="tmenu"
+>≡ Paratext</object
+></li
+><li
+contentType="en"
+>Click on <object
+type="tmenu"
+>Help</object
+><br
+></br
+> <object
+type="tresult"
+>The help file opens. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Aide</object
+><br
+></br
+> <object
+type="tresult"
+>Le fichier d’aide s’ouvre. </object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can open the Help file from here, and there are some other useful functions which are only available here.</p
+><p
+contentType="fr"
+>Vous pouvez ouvrir le fichier d'aide à partir d'ici, et il existe d'autres fonctions utiles qui ne sont disponibles qu'ici.</p
+></framedUnit
+><pc
+contentType="en"
+><object
+type="tsub"
+>Online help</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Aide en ligne</object
+></pc
+><ul
+><li
+contentType="en"
+>Paratext website. paratext.org/support</li
+><li
+contentType="fr"
+>Site web de Paratext paratext.org/support.</li
+><li
+contentType="en"
+>A user forum is also available at LingTran.net</li
+><li
+contentType="fr"
+>Un forum utilisateur est également disponible à LingTran.net</li
+></ul
+><section2
+id="sInstall"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.3a Download and Install Enhanced Resources</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.3b Installation des ressources standards et enrichies</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/359173473"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/445217944"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext allows you to view numerous Bible resources to help you in your translation work. Starting in Paratext 9, there are enhanced resources as well as resources. Both types can be downloaded within Paratext from the Digital Bible Library, or DBS.</p
+><p
+contentType="fr"
+>Paratext vous permet de consulter de nombreuses ressources bibliques pour vous aider dans votre travail de traduction. À partir de Paratex 9, il y a des ressources enrichies ainsi que des ressources Les deux types de ressources peuvent être téléchargés dans Paratext à partir de la Bibliothèque biblique numérique, ou DBS.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Download any resource</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Télécharger n'importe quelle ressource</object
+></pc
+><ul
+contentType="en"
+><li
+><object
+type="tmenu"
+>≡ Paratext</object
+> menu, under <object
+type="tmenu"
+>Paratext</object
+> &gt; "<object
+type="tmenu"
+>Download/Install Resources</object
+>". <br
+></br
+><object
+type="tresult"
+>The check box “Show Resources only in languages that match”... is selected automatically.</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Menu Paratext</object
+>, sous <object
+type="tmenu"
+>Paratext</object
+> &gt; "<object
+type="tmenu"
+>Télécharger/Installer des ressources</object
+>".<br
+></br
+><object
+type="tresult"
+>La case à cocher "Afficher les ressources seulement dans les langues qui correspondent"... est sélectionnée automatiquement. </object
+></li
+><li
+>Uncheck it if needed to view more resources.</li
+><li
+contentType="fr"
+>Décochez-la si nécessaire pour afficher d'autres ressources.</li
+><li
+>Filter the list by typing in the<object
+type="tmenu"
+> filter box </object
+>(type name or language or + for enhanced)</li
+><li
+contentType="fr"
+>Filtrez la liste en tapant dans la boîte de <object
+type="tmenu"
+>filtre</object
+> (tapez le nom ou la langue ou + pour enrichie)</li
+><li
+>Click on a resource or enhanced resource to select it for download.</li
+><li
+contentType="fr"
+>Cliquez sur une ressource ou une ressource enrichie pour la sélectionner en vue de son téléchargement.</li
+><li
+>Click <object
+type="tmenu"
+>Download/Install</object
+> <br
+></br
+><object
+type="tresult"
+>It has finished downloading and installing. Paratext opens one of the resources for me automatically</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Télécharger/Installer</object
+> <br
+></br
+><object
+type="tresult"
+>Le téléchargement et l'installation sont terminés. Paratext m'ouvre automatiquement une des ressources.</object
+></li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Download an enhanced resource (first time)</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Télécharger une ressource enrichie (première fois)</object
+></p
+><ul
+contentType="en"
+><li
+>Download the enhanced resource as above.</li
+><li
+contentType="fr"
+>Téléchargez la ressource enrichie comme ci-dessus.</li
+><li
+>Download one of the image files in order to see maps and other images. <br
+></br
+>(The largest one your Internet connection will allow.)</li
+><li
+contentType="fr"
+>Téléchargez l'un des fichiers images afin de voir les cartes et autres images. <br
+></br
+>(Le plus volumineux que votre connexion Internet permettra).</li
+><li
+>Click <object
+type="tmenu"
+>Download/Install</object
+> button <br
+></br
+>This can take a long time.</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Télécharger/Installer</object
+> <br
+></br
+>Cela peut prendre un certain temps.</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Open an enhanced resource</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Ouvrir la ressource enrichie</object
+></p
+><ul
+contentType="en"
+><li
+><object
+type="tmenu"
+>≡ Paratext</object
+> menu, under <object
+type="tmenu"
+>Paratext</object
+> &gt; <object
+type="tmenu"
+>Open</object
+>.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Paratext</object
+> menu, sous <object
+type="tkey"
+>Paratext</object
+> &gt; <object
+type="tmenu"
+>Ouvrir</object
+></li
+><li
+>Click <object
+type="tmenu"
+>Enhanced Resources</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Ressources Enrichie</object
+></li
+><li
+>Click on the resource</li
+><li
+contentType="fr"
+>Cliquez sur la ressource</li
+><li
+>Click <object
+type="tmenu"
+>Open</object
+> <br
+></br
+><object
+type="tresult"
+>The resource opens.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Ouvrir</object
+> <br
+></br
+><object
+type="tresult"
+>La ressource s'affiche.</object
+></li
+><li
+>When you next go to download and install resources, all the resources you have installed already are shown without the checkboxx</li
+><li
+contentType="fr"
+>Lorsque vous allez ensuite télécharger et installer les ressources, toutes les ressources que vous avez déjà installées sont affichées sans la case à cocher.</li
+></ul
+></section2
+></section1
+><section1
+id="sSR"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Send and Receive</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Envoyer et Recevoir</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sSRIntro"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.4 Explain Send-Receive</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.4 Qu'est-ce qu'envoyer/recevoir? Introduction</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/427677661"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/436436613"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Teamwork is essential for good Bible translation. To facilitate this teamwork, Paratext allows you to collaborate using a feature called Send/Receive. Send/Receive also creates a back-up of your project on another device and is incredibly valuable even for translators working on their own.</p
+><p
+contentType="fr"
+>Le travail d'équipe est essentiel pour une bonne traduction de la Bible. Pour faciliter ce travail d'équipe, Paratext vous permet de collaborer en utilisant une fonction appelée Envoyer/Recevoir. Envoyer/Recevoir crée également une sauvegarde de votre projet sur un autre appareil et est extrêmement précieux même pour les traducteurs travaillant seuls.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Send/receive – various methods</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir - différentes méthodes</object
+></p
+><ul
+contentType="en"
+><li
+>Send/receive by Internet (ideal)</li
+><li
+contentType="fr"
+>Envoyer/recevoir par Internet (idéal)</li
+><li
+>Send/receive by USB</li
+><li
+contentType="fr"
+>Envoyer/recevoir par clé USB</li
+><li
+>Network folder or Chorus Hub</li
+><li
+contentType="fr"
+>Dossier réseau ou Chorus Hub.</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Avoiding two people editing at the same</object
+></p
+><p
+contentType="fr"
+><object
+type="tmenu"
+>Éviter que deux personnes éditent le même texte</object
+></p
+><p
+contentType="en"
+>With several people actively working on the same project at the same time, some organization is necessary to avoid situations like two translators drafting the same chapter at the same time! To help with this, each Paratext project has one or more administrators.</p
+><p
+contentType="en"
+>An administrator needs to add you to a project, and assign books to you.</p
+><p
+contentType="fr"
+>Avec plusieurs personnes travaillant activement sur le même projet en même temps, une certaine organisation est nécessaire pour éviter des situations comme celle où deux traducteurs rédigent le même chapitre en même temps ! Pour ce faire, chaque projet Paratext dispose d'un ou plusieurs administrateurs.</p
+><p
+contentType="fr"
+>Un administrateur doit vous ajouter à un projet et vous attribuer des livres.</p
+></section2
+><section2
+id="sSRFirst"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.4.1 Send and Receive for the First time</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.4.1 Comment recevoir un projet partagé pour la première fois</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/428151156"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/436775593"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>When the administrator has added you to the project, use the <br
+></br
+>Send/Receive command to get a copy of the project on your computer.</p
+><p
+contentType="fr"
+>Lorsque l'administrateur vous a ajouté au projet, utilisez la <br
+></br
+>commande Envoyer/Recevoir pour obtenir une copie du projet sur votre ordinateur.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image15.png"
+width="500"
+></img
+></p
+><p
+contentType="fr"
+><img
+src="vidsumfr/image15.png"
+width="500"
+></img
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by Internet</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir par Internet</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the main Paratext menu <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu principal Paratext <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Envoyer/recevoir des projets</object
+></li
+><li
+contentType="en"
+>Choose the appropriate method (<object
+type="tmenu"
+>Internet</object
+> or <object
+type="tmenu"
+>USB</object
+> see below)</li
+><li
+contentType="fr"
+>Choisissez la méthode appropriée (<object
+type="tmenu"
+>Internet</object
+> ou <object
+type="tmenu"
+>USB</object
+>, voir ci-dessous)</li
+><li
+contentType="en"
+>Choose the project (<object
+type="tmenu"
+>New</object
+> means new to my computer)</li
+><li
+contentType="fr"
+>Choisir le projet (<object
+type="tmenu"
+>Nouveaux</object
+> veut dire nouveaux pour mon ordinateur)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Envoyer/recevoir</object
+><br
+></br
+> <object
+type="tresult"
+>Le projet s’ouvrira. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by USB</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir par USB</object
+></pc
+><ul
+><li
+contentType="en"
+>Insert USB into computer</li
+><li
+contentType="fr"
+>Insérer l'USB dans l'ordinateur</li
+><li
+contentType="en"
+>Open the main Paratext menu <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu principal de Paratext <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Envoyer/recevoir des projets</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>USB drive</object
+> <br
+></br
+> <object
+type="tresult"
+>If it is greyed out, cancel and insert USB </object
+></li
+><li
+contentType="fr"
+>Choisir une clé USB <br
+></br
+> <object
+type="tresult"
+>S’il est grisé, annulez et (re)insérez la clé USB </object
+></li
+><li
+contentType="en"
+>Choose project (<object
+type="tmenu"
+>New</object
+> means new to my computer)</li
+><li
+contentType="fr"
+>Choisir le projet (Nouveaux veut dire nouveaux pour mon ordinateur)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Envoyer/recevoir</object
+><br
+></br
+> <object
+type="tresult"
+>Le projet s’ouvrira. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive by Network folder</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir par dossier de Réseau</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the main Paratext menu <object
+type="tmenu"
+>≡</object
+>&gt; <object
+type="tmenu"
+>Send/receive projects</object
+></li
+><li
+contentType="fr"
+>Ouvrez le menu principal Paratext <object
+type="tmenu"
+>≡</object
+> &gt;<object
+type="tmenu"
+>Envoyer/recevoir des projets</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Network Shared folder</object
+></li
+><li
+contentType="fr"
+>Choisir le<object
+type="tmenu"
+> dossier Partagé réseau</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Browse</object
+> and choose the network folder</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Parcourir</object
+> et choisissez le dossier réseau</li
+><li
+contentType="en"
+>Choose project (<object
+type="tmenu"
+>New</object
+> means new to my computer)</li
+><li
+contentType="fr"
+>Choisir le projet (<object
+type="tmenu"
+>Nouveaux</object
+> veut dire nouveaux pour mon ordinateur)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Send/receive</object
+> button<br
+></br
+> <object
+type="tresult"
+>Project will open. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Envoyer/recevoir</object
+><br
+></br
+> <object
+type="tresult"
+>Le projet s’ouvrira. </object
+></li
+></ul
+></section2
+><section2
+id="sSharedWork"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.4.2a Send/Receive Regularly to Keep a Shared Project in Sync</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.4.2a Envoyer/Recevoir régulièrement pour garder un projet partagé synchronisé</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/428161965"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/437843703"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video, you learnt about using send/receive regularly to keep sharing your work with your colleagues, and to receive their changes.</p
+><p
+contentType="fr"
+>Dans cette vidéo, vous avez appris à utiliser envoyer/recevoir régulièrement pour continuer à partager votre travail avec vos collègues et pour recevoir leurs modifications.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive - icon on taskbar</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir - icône sur la barre des tâches</object
+></pc
+><ul
+><li
+contentType="en"
+>Use the shortcut icon on taskbar to do the same type of send/receive.</li
+><li
+contentType="fr"
+>Utilisez l'icône de raccourci sur la barre des tâches pour effectuer le même type d'envoi/réception.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/receive - project menu ≡</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/recevoir - menu projet ≡</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the project menu <object
+type="tmenu"
+>≡</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu du projet <object
+type="tmenu"
+>≡</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Send/Receive this project</object
+></li
+><li
+contentType="fr"
+>Choisir <object
+type="tmenu"
+>Envoyer/Recevoir ce projet</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Schedule Send/Receive</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Programmer l’envoi/réception</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the main Paratext menu <object
+type="tmenu"
+>≡</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu principal de Paratext <object
+type="tmenu"
+>≡</object
+></li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Send/Receive projects </object
+> <br
+></br
+> <img
+src="vidsumeng/image16.png"
+></img
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Envoyer/Recevoir des projets</object
+> <br
+></br
+> <img
+src="vidsumfr/image16.png"
+width="500"
+></img
+></li
+></ul
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Schedule</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Programmer</object
+>.</li
+><li
+contentType="en"
+>Select the project.</li
+><li
+contentType="fr"
+>Sélectionnez le projet.</li
+><li
+contentType="en"
+>Choose schedule setting (hourly, every four hours, daily, or on startup and shutdown)</li
+><li
+contentType="fr"
+>Choisissez le mode de programmation (chaque heure, toutes les quatre heures, quotidien, ou au démarrage et à l'arrêt de Paratext)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to set the schedule</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour fixer la programmation</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Cancel</object
+> to close Send/receive dialog.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Annuler</object
+> pour fermer le dialogue Envoyer/recevoir.</li
+></ul
+></section2
+><section2
+id="sNoConflict"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 0.4.2b Avoiding Conflicts in a Shared Project</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 0.4.2b Comment éviter de causer des conflicts en utilisant envoyer/recevoir</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/405554692"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/438192060"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Avoiding conflicts</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Éviter les conflits</object
+></pc
+><ul
+><li
+contentType="en"
+>Only one member at a time should have editing permission.</li
+><li
+contentType="fr"
+>Un seul membre à la fois doit avoir l'autorisation d'édition.</li
+><li
+contentType="en"
+>Other users should add notes.</li
+><li
+contentType="fr"
+>Les autres utilisateurs doivent ajouter des notes.</li
+><li
+contentType="en"
+>Do Send/receive more often when making extensive changes.</li
+><li
+contentType="fr"
+>Envoyer/recevoir plus souvent en cas de modifications considérables</li
+></ul
+></section2
+></section1
+><section1
+id="sEnhancedRes"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Video 0.5 Enhanced Resources</object
+> / Introduction</titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Vidéo 0.5 Resources Enrichies</object
+> / Introduction</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/356219918"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/423629195"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Enhanced Resources are now available in addition to ordinary resources. An enhanced resource is a translation in a major language which has been 'enhanced' by having keywords in the text linked to the Greek or Hebrew terms they translate. <br
+></br
+> <img
+src="vidsumeng/EnhRes.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="fr"
+>Des ressources enrichies sont maintenant disponibles en plus des ressources ordinaires. Une ressource enrichie est une traduction dans une langue majeure qui a été « enrichie » en ayant des mots clés dans le texte lié aux termes grecs ou hébreux qu’ils traduisent. </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Download/Install</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Télécharger/Installer</object
+></pc
+><ul
+><li
+contentType="en"
+>Enriched resources can be downloaded in the same way as resources.</li
+><li
+contentType="fr"
+>Les ressources enrichies peuvent être téléchargées de la même manière que les ressources.</li
+></ul
+><framedUnit
+contentType="en"
+framedtype="tTeacher"
+><p
+contentType="en"
+>See the video 0.3b "How to download Resources and Enhanced Resources".</p
+><p
+contentType="fr"
+>Voir la vidéo 0.3b "Comment télécharger les ressources et les ressources enrichies".</p
+></framedUnit
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open an Enhanced Resource</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ouvrir une ressource enrichie</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Open</object
+> icon on the toolbar.</li
+><li
+contentType="fr"
+>Cliquez sur l’icône <object
+type="tmenu"
+>Ouvrir</object
+> dans la barre d’outils.</li
+><li
+contentType="en"
+>If necessary, click the <object
+type="tmenu"
+>Enhanced Resources</object
+> button to include enhanced resources in the list. (Note the plus sign after the short name).</li
+><li
+contentType="fr"
+>Si nécessaire, cliquez sur le bouton <object
+type="tmenu"
+>Ressources enrichies</object
+> pour inclure des ressources enrichies dans la liste. (Notez le signe plus + après le nom court).</li
+><li
+contentType="en"
+>Select an enhanced resource and click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+> <object
+type="tresult"
+>The Enhanced Resource opens, as well as a guide. This warning explains that the enhanced resource is a work in progress. </object
+></li
+><li
+contentType="fr"
+>Sélectionnez une ressource enrichie et cliquez sur <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+> <object
+type="tresult"
+>La ressource enrichie s'ouvre, ainsi qu'un guide. Cet avertissement explique que la ressource enrichies est un travail en cours. </object
+></li
+><li
+contentType="en"
+>Close the warning.</li
+><li
+contentType="fr"
+>Fermez l'avertissement.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Viewing research terms</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Affichage des termes de recherche</object
+></pc
+><pc
+contentType="en"
+>You can choose which terms to view, and also expand entries, and view all research terms, only terms in a linked project,</pc
+><pc
+contentType="fr"
+>Vous pouvez choisir les termes à afficher, et également développer les entrées, et afficher tous les termes de recherche, uniquement les termes d’un projet lié,</pc
+><p
+contentType="en"
+><object
+type="tBold"
+>View all research terms:</object
+> Click the <object
+type="tmenu"
+>All Research Terms</object
+> button. Or click again, to only see highlighting when you hover over each term.</p
+><p
+contentType="fr"
+><object
+type="tBold"
+>Voir tous les termes de la recherche:</object
+> Cliquez sur le bouton <object
+type="tmenu"
+>Tous les termes </object
+>de recherche. Ou cliquez à nouveau, pour voir uniquement la mise en surbrillance lorsque vous survolez chaque terme avec le souris.</p
+><ul
+><li
+contentType="en"
+>Click the number of occurrences to open a list of all the places this sense occurs. </li
+><li
+contentType="fr"
+>Cliquez sur le nombre d’occurrences pour ouvrir une liste de tous les endroits que ce sens se produit. </li
+><li
+contentType="en"
+>To turn off the Word filter, click the <object
+type="tmenu"
+>X</object
+>.</li
+><li
+contentType="fr"
+>Pour désactiver le Filtre des mots, cliquez sur le <object
+type="tmenu"
+>X</object
+>.</li
+></ul
+><p
+contentType="en"
+>The tab icon is black if information is available in that tab for the current filter. </p
+><p
+contentType="fr"
+>L'icône de l'onglet est noire si des informations sont disponibles dans cet onglet pour le filtre en cours. </p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Found/Problem</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Trouvé/Problème</object
+></pc
+><p
+contentType="en"
+>Make sure the enhanced resource is linked to the relevant project,</p
+><p
+contentType="fr"
+>Assurez-vous que la ressource enrichie est liée au projet concerné,</p
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Found</object
+> to turn on and off highlighting of approved renderings of Biblical terms in both windows.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Trouvé</object
+> pour activer et désactiver la mise en surbrillance des rendus approuvés des termes bibliques dans les deux fenêtres.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Problem</object
+> to turn on and off highlighting of missing or guessed renderings of Biblical terms. </li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Problème</object
+> pour activer et désactiver la mise en évidence des rendus manquants ou devinés de termes bibliques. </li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Expanding entries</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Développer les entrées</object
+></pc
+><p
+contentType="en"
+>When viewing multiple terms, the entries are not expanded by default. This number shows which sense is relevant in this verse.</p
+><p
+contentType="fr"
+>Lors de l’affichage de plusieurs termes, les entrées ne sont pas développées par défaut. Ce nombre montre quel sens est pertinent dans ce verset.</p
+><ul
+><li
+contentType="en"
+>Click the down arrow to expand the entry. OR</li
+><li
+contentType="fr"
+>Cliquez sur la flèche bas pour développer l'entrée. OU</li
+><li
+contentType="en"
+>Alternatively, the double chevron expands all the entries.</li
+><li
+contentType="fr"
+>Alternativement, le double chevron élargit toutes les entrées.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entry with multiple senses</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Entrée avec plusieurs sens</object
+></pc
+><p
+contentType="en"
+>The sense which is relevant for this verse is shown in black, and the others are in grey. At the end of each sense, the number of occurrences of that sense is shown.</p
+><p
+contentType="fr"
+>Le sens qui est pertinent pour ce verset est indiqué en noir, et les autres sont en gris. À la fin de chaque sens, le nombre d'occurrences de ce sens est indiqué.</p
+><ul
+><li
+contentType="en"
+>Click the link with a number<br
+></br
+> <object
+type="tresult"
+>A search result list shows all the verses which contain this sense. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le lien avec un numéro<br
+></br
+> <object
+type="tresult"
+>Une liste de résultats de recherche affiche tous les versets qui contiennent ce sens. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>The research pane has four tabs</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Le volet recherche comporte quatre onglets</object
+></pc
+><p
+contentType="en"
+>When a tab is gray it indicates that there is no information available about that selection of text.</p
+><p
+contentType="fr"
+>Lorsqu'un onglet est gris, cela indique qu'il n'y a pas d'information disponible sur cette sélection de texte.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/image17.png"
+></img
+></p
+><p
+contentType="fr"
+><img
+src="vidsumfr/image17.png"
+></img
+></p
+><dl
+contentType="en"
+showddOnNewLineInPDF="no"
+><dt
+><object
+type="tBold"
+>Dictionary tab</object
+></dt
+><dd
+>is where you can see the definition and other information about the terms.</dd
+><dt
+contentType="fr"
+><object
+type="tBold"
+>Onglet Dictionnaire </object
+></dt
+><dd
+contentType="fr"
+>est l'endroit où vous pouvez voir la définition et d'autres informations sur les termes.</dd
+><dt
+><object
+type="tBold"
+>Encyclopedia tab</object
+></dt
+><dd
+>(in English)</dd
+><dt
+contentType="fr"
+><object
+type="tBold"
+>Onglet Encyclopédie </object
+></dt
+><dd
+contentType="fr"
+>(en anglais)</dd
+><dt
+><object
+type="tBold"
+>Media tab</object
+></dt
+><dd
+>Shows pictures and other media related to the verse or section. (In English only)</dd
+><dt
+contentType="fr"
+><object
+type="tBold"
+>Onglet Médias</object
+></dt
+><dd
+contentType="fr"
+>Affiche les images et autres médias liés au verset ou à la section. (En anglais uniquement)</dd
+><dt
+><object
+type="tBold"
+>Maps tab</object
+></dt
+><dd
+>Maps are very helpful to understand the context of some passages</dd
+><dt
+contentType="fr"
+><object
+type="tBold"
+>Onglet Cartes</object
+></dt
+><dd
+contentType="fr"
+>Les cartes sont très utiles pour comprendre le contexte de certains passages</dd
+><dt
+><object
+type="tBold"
+>Biblical terms tool Icon</object
+></dt
+><dd
+>Biblical terms tool icon opens the Biblical term s tool for the linked project.</dd
+><dt
+contentType="fr"
+><object
+type="tBold"
+>Icône de l'outil de termes bibliques</object
+></dt
+><dd
+contentType="fr"
+>L'icône de l'outil de termes bibliques ouvre l'outil de termes bibliques pour le projet lié.</dd
+></dl
+><p
+contentType="en"
+> </p
+><p
+contentType="fr"
+> </p
+></section1
+></chapter
+></part
+><part
+id="p2"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Drafting</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Ébauche</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Drafting</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Ebauche</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
+id="sDrafting1"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Stage 1: Drafting</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Étage 1: Premier ébauche</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sMyTasks"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Vidéo 1.1 How to View Tasks Assigned to you</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.1 Mes tâches : plan de projet et progrès</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/intro9/video/459384462"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>The administrator of your project can assign tasks to you in Paratext. The task assignments control what you can edit.</p
+><p
+contentType="fr"
+>L’administrateur de votre projet peut vous confie des tâches dans Paratext. Les attributions de tâches contrôlent ce que vous pouvez éditer.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>View tasks assigned to you</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Afficher les tâches qui vous sont assignées</object
+></pc
+><ul
+><li
+contentType="en"
+>Open Assignments and progress by clicking on the blue button <img
+src="vidsumeng/image18.png"
+></img
+> <br
+></br
+><object
+type="tresult"
+>The <object
+type="tEmphasis"
+>Assignments and Progress</object
+> window opens, showing <object
+type="tmenu"
+>My Tasks</object
+> in the <object
+type="tmenu"
+>Current Priority</object
+> or the last view. </object
+> <br
+></br
+> <img
+src="vidsumeng/image19.png"
+width="500"
+></img
+></li
+><li
+contentType="fr"
+>Ouvrez les affectations en cliquant sur le bouton bleu <img
+src="vidsumeng/image18.png"
+></img
+> <br
+></br
+><object
+type="tresult"
+>La fenêtre <object
+type="tmenu"
+>Tâches et avancement</object
+> s'ouvre, affichant Mes tâches dans la priorité actuelle (current priority) ou dans la dernière vue. </object
+> <br
+></br
+> <img
+src="vidsumfr/image19.png"
+width="500"
+></img
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Next/Previous Links</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Liens suivants/précédents (next/previous)</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Prev priority</object
+>- previous book with tasks</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Priorité précédente</object
+> (Prev Priority) - livre précédent avec tâches</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Next priority</object
+> - next book with tasks</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Prochaine priorité</object
+> (Next Priority) - suivant livre avec tâches</li
+><li
+contentType="en"
+>Change to <object
+type="tmenu"
+>All Tasks</object
+>- to see tasks waiting</li
+><li
+contentType="fr"
+>Changer à <object
+type="tmenu"
+>Toutes les tâches</object
+> - pour voir les tâches en attente.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>View tasks by book</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Afficher les tâches par livre</object
+></pc
+><ul
+><li
+contentType="en"
+>Where it says <object
+type="tmenu"
+>Current Priority</object
+>, click to view the menu.</li
+><li
+contentType="fr"
+>Là où il est dit <object
+type="tmenu"
+>Priorité actuelle</object
+> (current priority), cliquez pour afficher le menu.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Current Book</object
+>.<br
+></br
+> <object
+type="tresult"
+>This is the default filter if your administrator has not set up Priorities. </object
+></li
+><li
+contentType="fr"
+>Cliquez <object
+type="tmenu"
+>Livre actuel</object
+> (current book).<br
+></br
+> <object
+type="tresult"
+>Il s’agit du filtre par défaut si votre administrateur n’a pas configuré Les priorités. </object
+></li
+><li
+contentType="en"
+>View tasks in another book by clicking <object
+type="tmenu"
+>Next book</object
+> or <object
+type="tmenu"
+>Previous book</object
+>.</li
+><li
+contentType="fr"
+>Voir les tâches dans un autre livre en cliquant sur <object
+type="tmenu"
+>Livre suivant</object
+> (next book) ou <object
+type="tmenu"
+>Livre précédent</object
+> (preview book).</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>State of tasks</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>État des tâches</object
+></pc
+><dl
+contentType="en"
+showddOnNewLineInPDF="no"
+><dt
+><object
+type="tBold"
+>Green</object
+>:</dt
+><dd
+>Tasks that can be started right away are marked with green.</dd
+><dt
+><object
+type="tBold"
+>Striped Green</object
+>:</dt
+><dd
+>Waiting on you to finish another task.</dd
+><dt
+><object
+type="tBold"
+>Red</object
+>:</dt
+><dd
+>Tasks are dependent on earlier tasks being finished by others.</dd
+><dt
+><object
+type="tBold"
+>Grey</object
+>:</dt
+><dd
+>Task is complete</dd
+></dl
+><dl
+contentType="fr"
+showddOnNewLineInPDF="no"
+><dt
+><object
+type="tBold"
+>Vert</object
+>:</dt
+><dd
+>Les tâches qui peuvent être lancées immédiatement sont marquées en vert.</dd
+><dt
+><object
+type="tBold"
+>Vert rayé</object
+>:</dt
+><dd
+>En attendant que vous finissiez une autre tâche.</dd
+><dt
+><object
+type="tBold"
+>Rouge</object
+>:</dt
+><dd
+>Les tâches dépendent des tâches antérieures terminées par d’autres.</dd
+><dt
+><object
+type="tBold"
+>Gris</object
+>:</dt
+><dd
+>La tâche est achevée</dd
+></dl
+><ul
+><li
+contentType="en"
+>Hover the mouse over the information icon to find out what is blocking it.</li
+><li
+contentType="fr"
+>Placez la souris au-dessus de l’icône d’information pour savoir ce qui la bloque.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Show more tasks</object
+> to see hidden tasks.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Afficher les tâches</object
+> (show blocked tasks) pour voir les tâches cachées.</li
+></ul
+></section1
+><section1
+id="sUSFMIntro"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.1 Understanding USFMs - Introduction</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.1 Comprendre les USFM - Introduction</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/368329210"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464574060"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video you learn all about how Paratext uses special tags called USFMs. The tags</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous allons découvre pourquoi Paratext utilise des balises spéciales appelées USFMs. Les balises</p
+><ul
+><li
+contentType="en"
+>provide the structure of the document by identifying the start of each book, as well as the sections within them.</li
+><li
+contentType="fr"
+>fournir la structure du document en identifiant le début de chaque livre, ainsi que les sections qu'il contient.</li
+><li
+contentType="en"
+>help you navigate around the translation using Bible references.</li
+><li
+contentType="fr"
+>vous aider à naviguer dans la traduction en utilisant des références bibliques.</li
+><li
+contentType="en"
+>facilitate the appropriate formatting of the translation by the typesetter according to what each bit of text really is, such as a heading, chapter number, or something special in the Bible text itself such as poetry or a quotation.</li
+><li
+contentType="fr"
+>faciliter galement le formatage approprié de la traduction par le compositeur en fonction de ce que chaque partie du texte est réellement, comme un titre, numéro de chapitre, ou quelque chose de spécial dans le texte de la Bible lui-même comme la poésie ou une citation.</li
+></ul
+><p
+contentType="en"
+>USFM stands for <object
+type="tBold"
+>U</object
+>nified <object
+type="tBold"
+>S</object
+>tandard <object
+type="tBold"
+>F</object
+>ormat <object
+type="tBold"
+>M</object
+>arker.</p
+><p
+contentType="fr"
+>USFM signifie <object
+type="tBold"
+>U</object
+>nified <object
+type="tBold"
+>S</object
+>tandard <object
+type="tBold"
+>F</object
+>ormat <object
+type="tBold"
+>M</object
+>arker (marqueur de format standard unifié).</p
+><p
+contentType="en"
+>USFMs always start with a <object
+type="tBold"
+>backslash</object
+>, then a <object
+type="tBold"
+>code</object
+>, then a <object
+type="tBold"
+>space</object
+>. (e.g. \ft )</p
+><p
+contentType="fr"
+>Les USFMs commencent toujours par une barre oblique inverse, puis un code, puis un espace. (par ex. \ft )</p
+><p
+contentType="en"
+>With the exception of a closing marker which ends with an asterisk and doesn't need a space.</p
+><p
+contentType="fr"
+>À l’exception d’un marqueur de fermeture qui se termine par un astérisque et n’a pas besoin d’espace.</p
+><ul
+><li
+contentType="en"
+>The most common USFMs are:<br
+></br
+> \p (paragraph) \c (chapter) \v (verse)</li
+><li
+contentType="fr"
+>Les USFM les plus courantes sont :<br
+></br
+> \p (paragraphe) \c (chapitre) \v (verset)</li
+><li
+contentType="en"
+>The latest USFM standard is online - paratext.org/about/usfm, then click on <object
+type="tlink"
+>documentation</object
+>.</li
+><li
+contentType="fr"
+>La dernière norme USFM se trouve en ligne - paratext.org/about/usfm, puis cliquez sur le lien <object
+type="tlink"
+>documentation</object
+>.</li
+></ul
+></section1
+><section1
+id="sAddM"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Adding markers in different views</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Ajout de marqueurs dans différentes affichages</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sMarkersStd"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.2a Adding Markers in Standard View</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.2a Comment l'affichage standard vous aide à ajouter des marqueurs</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387019039"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/464574060"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>This video looked at how to insert Unified Standard Format markers or USFMs in standard view.<br
+></br
+> <img
+src="vidsumeng/StandardView.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="fr"
+>Dans cette vidéo, nous verrons comment insérer des marqueurs de format standard unifié ou USFMs en affichage standard. <br
+></br
+><img
+src="vidsumfr/StandardView.png"
+width="500"
+></img
+> <br
+></br
+></p
+><ul
+><li
+contentType="en"
+>Standard view shows the USFM markers, but they are small and grey. This view is recommended for ordinary work when drafting and editing a translation.</li
+><li
+contentType="fr"
+>L'affichage standard montre les marqueurs USFM, mais ils sont petits et gris. Cette affichage est recommandé pour le travail ordinaire lors de la rédaction et de la révision d'une traduction.</li
+><li
+contentType="en"
+>In this view there are some helps for entering the right marker.</li
+><li
+contentType="fr"
+>Dans cette affichage, il existe des aides pour saisir le bon marqueur.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To add a new paragraph</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour ajouter un nouveau paragraphe</object
+></pc
+><ul
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+> to add a new paragraph<br
+></br
+> <object
+type="tresult"
+>Paratext automatically opens a menu showing us the possible markers for starting a paragraph, the most frequent are at the top. </object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+> pour ajouter un nouveau paragraphe<br
+></br
+> <object
+type="tresult"
+>Paratext ouvre automatiquement un menu nous indiquant les marqueurs possibles pour commencer un paragraphe, les plus fréquents sont en haut. </object
+></li
+><li
+contentType="en"
+>Either use the mouse or type the appropriate letter</li
+><li
+contentType="fr"
+>Utilisez la souris ou tapez la lettre appropriée</li
+><li
+contentType="en"
+>E.g. type <object
+type="ttyped"
+>P</object
+> and press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Par exemple, tapez <object
+type="ttyped"
+>P</object
+> et appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To add other (character) markers</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour ajouter d'autres marqueurs (de caractères)</object
+></pc
+><ul
+><li
+contentType="en"
+>Select the words you wish to mark</li
+><li
+contentType="fr"
+>Sélectionnez les mots que vous souhaitez marquer</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>\</object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>\</object
+></li
+><li
+contentType="en"
+>Select the marker from the list</li
+><li
+contentType="fr"
+>Sélectionnez le marqueur dans la liste</li
+></ul
+></section2
+><section2
+id="sMarkersForm"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.2b How to work with USFMs in Formatted View</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.2b Comment travailler avec les USM dans l’affichage formaté</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387018983"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446776619"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we changed to Formatted view and learnt about adding and removing USFM styles here. <br
+></br
+><img
+src="vidsumeng/FormattedView.png"
+width="500"
+></img
+> <br
+></br
+></p
+><p
+contentType="fr"
+>Dans cette vidéo, nous avons changé en affichage formatée et appris l’ajout et la suppression des styles USFM ici.<br
+></br
+> <img
+src="vidsumfr/FormattedView.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="en"
+>The view options are available on the menu for the project.</p
+><p
+contentType="fr"
+>Les options d'affichage sont disponibles dans le menu du projet.</p
+><ul
+><li
+contentType="en"
+>Click show menu <object
+type="tmenu"
+>≡</object
+> on the project's title bar.</li
+><li
+contentType="fr"
+>Cliquez le menu <object
+type="tmenu"
+>≡</object
+> sur la barre de titre du projet.</li
+><li
+contentType="en"
+>Expand the menu if necessary .<br
+></br
+> <object
+type="tresult"
+>The option with the checkmark or tick is the currently selected view. </object
+></li
+><li
+contentType="fr"
+>Développez le menu si nécessaire ˅.<br
+></br
+> <object
+type="tresult"
+>L’option avec la coche est l’affichage actuellement sélectionné. </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Formatted</object
+>.<br
+></br
+> <object
+type="tresult"
+>The view changes and the USFM tags are hidden. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Formaté</object
+>.<br
+></br
+> <object
+type="tresult"
+>L'affichage change et les balises USFM sont cachées. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entering character markers</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Saisie des marqueurs de caractères</object
+></pc
+><ul
+><li
+contentType="en"
+>Press<object
+type="ttyped"
+> \</object
+> backslash<br
+></br
+> <object
+type="tresult"
+>The character marker menu just as in Standard view. </object
+></li
+><li
+contentType="fr"
+>Appuyez sur<object
+type="ttyped"
+> \</object
+> (barre oblique inverse)<br
+></br
+> <object
+type="tresult"
+>Le menu des marqueurs de caractères comme en affichage standard. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Entering paragraph breaks</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Saisie des sauts de paragraphe</object
+></pc
+><ul
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+> <br
+></br
+> <object
+type="tresult"
+>A new normal paragraph is inserted. </object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+> <br
+></br
+> <object
+type="tresult"
+>Un nouveau paragraphe normal est inséré. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Using style chooser on the toolbar</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Utilisation du choix de style dans la barre d’outils</object
+></pc
+><p
+contentType="en"
+>In both Standard and Formatted views the marker which applies to the text is shown in the Style chooser on the toolbar.</p
+><p
+contentType="fr"
+>Dans les affichages Standard et Formatée, le marqueur qui s'applique au texte est affiché dans le sélecteur de style de la barre d'outils.</p
+><ul
+><li
+contentType="en"
+>Select the text</li
+><li
+contentType="fr"
+>Sélectionner le texte</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>style chooser</object
+>.<br
+></br
+> <object
+type="tresult"
+>The most commonly occurring markers are shown at the top. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le <object
+type="tmenu"
+>sélecteur de style</object
+>.<br
+></br
+> <object
+type="tresult"
+>Les marqueurs les plus courants sont indiqués en haut. </object
+></li
+><li
+contentType="en"
+>Select a marker</li
+><li
+contentType="fr"
+>Sélectionnez un marqueur</li
+><li
+contentType="en"
+>If we select a paragraph style, it will be applied to the entire paragraph.</li
+><li
+contentType="fr"
+>Si nous sélectionnons un style de <object
+type="tEmphasis"
+>paragraphe</object
+>, il sera appliqué à l'ensemble du <object
+type="tEmphasis"
+>paragraphe</object
+>.</li
+><li
+contentType="en"
+>If we select a <object
+type="tEmphasis"
+>character</object
+> style will be applied to the<object
+type="tEmphasis"
+> selected text</object
+>.</li
+><li
+contentType="fr"
+>Si nous sélectionnons un style de <object
+type="tEmphasis"
+>caractère</object
+>, celui-ci sera appliqué <object
+type="tEmphasis"
+>au texte sélectionné</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Removing an unwanted character style.</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Suppression d’un style de caractère indésirable.</object
+></pc
+><ul
+><li
+contentType="en"
+>Select the text</li
+><li
+contentType="fr"
+>Sélectionner le texte</li
+><li
+contentType="en"
+>On the <object
+type="tmenu"
+>Style chooser</object
+> select <object
+type="tmenu"
+>Clear formatting</object
+>.<br
+></br
+> <object
+type="tresult"
+>The text goes back to normal and behind the scenes the USFM tags have been removed. </object
+></li
+><li
+contentType="fr"
+>Sur le <object
+type="tmenu"
+>sélecteur de style,</object
+> sélectionnez <object
+type="tmenu"
+>Effacer la mise en forme</object
+>.<br
+></br
+> <object
+type="tresult"
+>Le texte revient à la normale et (dans les coulisses) les balises USFM ont été supprimées. </object
+></li
+></ul
+></section2
+><section2
+id="sBasic"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.2c How to use Basic View</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.2c Comment utiliser l'affichage Basique</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387018929"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/446740535"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we learnt how to work in Basic view. Basic view shows the USFM markers, but you cannot change the markers or add markers in this view. You can only type and have the cursor in the white areas. To use this view, someone needs to have set up all the markers needed in your translation for you beforehand. <br
+></br
+><img
+src="vidsumeng/BasicView.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="fr"
+>Dans cette vidéo, nous avons appris à travailler en affichage Basique. L'affichage Basique affiche les marqueurs USFM, mais vous ne pouvez pas les modifier ni en ajouter dans cette affichage. Vous pouvez seulement saissiser et avoir le curseur dans les zones blanches. Pour utiliser cette affichage, quelqu’un doit avoir configuré tous les marqueurs nécessaires à votre traduction pour vous à l’avance. <br
+></br
+> <img
+src="vidsumfr/BasicView.png"
+width="500"
+></img
+><br
+></br
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Basic view,</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour passer à l'affichage basique,</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the menu for the project <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="fr"
+>Développez le menu si nécessaire.</li
+><li
+contentType="en"
+>Under view, click <object
+type="tmenu"
+>Basic</object
+>.</li
+><li
+contentType="fr"
+>Sous Affichage, cliquez sur <object
+type="tmenu"
+>Basique</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To move to the next place to type</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour passer à l’endroit suivant pour taper</object
+></pc
+><ul
+><li
+contentType="en"
+>Use the arrow key to move to the next place to type.</li
+><li
+contentType="fr"
+>Utilisez la touche fléchée pour passer à l’endroit suivant pour taper.</li
+><li
+contentType="en"
+>Or click on the text box to move the cursor there.</li
+><li
+contentType="fr"
+>Ou cliquez sur la zone de texte pour y déplacer le curseur.</li
+></ul
+></section2
+><section2
+id="sUnForm"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.2d What is Unformatted View for?</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.2d À quoi sert l'affichage non formaté?</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/387959305"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464585929"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we look at Unformatted View. <br
+></br
+> <img
+src="vidsumeng/UnformattedView.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="fr"
+>Dans cette vidéo, nous regardons l'affichage non formatée. <br
+></br
+> <img
+src="vidsumfr/UnformatedView.png"
+width="500"
+></img
+><br
+></br
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Unformatted view,</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour passer à l'affichage non formatée,</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the project menu <object
+type="tmenu"
+> ≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu <object
+type="tmenu"
+>≡</object
+> projet.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="fr"
+>Développez le menu si nécessaire.</li
+><li
+contentType="en"
+>Under view, click <object
+type="tmenu"
+>Unformatted</object
+>.<br
+></br
+> <object
+type="tresult"
+>Unformatted view shows the entire document as plain text. </object
+></li
+><li
+contentType="fr"
+>Sous Affichages, cliquez sur <object
+type="tmenu"
+>Non formaté</object
+>.<br
+></br
+> <object
+type="tresult"
+>L'affichage Non formatée montre l'ensemble du document en texte clair. </object
+></li
+></ul
+><p
+contentType="en"
+>Note:</p
+><p
+contentType="fr"
+>Note :</p
+><ul
+><li
+contentType="en"
+>In unformatted view the USFM tags and the Bible text are not visually distinguished by any kind of formatting.</li
+><li
+contentType="fr"
+>Dans l'affichage Non formatée, les balises USFM et le texte de la Bible ne se distinguent visuellement par aucun type de mise en forme.</li
+><li
+contentType="en"
+>There are no tools to help you apply or enter USFM tags, but you can edit them directly by simply typing.</li
+><li
+contentType="fr"
+>Il n'existe pas d'outils pour vous aider à appliquer ou à saisir les balises USFM, mais vous pouvez les modifier directement en les tapant simplement.</li
+><li
+contentType="en"
+>This view facilitates manual editing of the tags if needed.</li
+><li
+contentType="fr"
+>Cette affichage facilite l'édition manuelle des balises si nécessaire.</li
+><li
+contentType="en"
+>This view is not recommended for drafting the translation.</li
+><li
+contentType="fr"
+>Ce point d'affichage n'est pas recommandé pour la rédaction de la traduction.</li
+></ul
+></section2
+><section2
+id="sPreview"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.2e What is Preview?</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.2e Qu-est que l'affichage aperçu?</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397214496"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464581165"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we learn about the view called Preview. <br
+></br
+> <img
+src="vidsumeng/PreviewView.png"
+width="500"
+></img
+><br
+></br
+></p
+><p
+contentType="fr"
+>Dans cette vidéo, nous apprenons sur l'affichage appelée Aperçu. <br
+></br
+> <img
+src="vidsumfr/Preview.png"
+width="500"
+></img
+><br
+></br
+></p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To switch to Preview</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour passer à Aperçu</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the project menu <object
+type="tmenu"
+> ≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="fr"
+>Développez le menu si nécessaire.</li
+><li
+contentType="en"
+>Under View, click <object
+type="tmenu"
+>Preview</object
+>.<br
+></br
+> <object
+type="tresult"
+>This view looks very like Formatted view, with USFM tags hidden, and only their effect on the style of the text shown. </object
+></li
+><li
+contentType="fr"
+>Sous Affichage, cliquez <object
+type="tmenu"
+>Aperçu</object
+>.<br
+></br
+> <object
+type="tresult"
+>Cette affichage ressemble beaucoup à l'affichage formatée, avec des balises USFM cachées, et seulement leur effet sur le style du texte affiché. </object
+></li
+></ul
+><p
+contentType="en"
+>Preview goes even further to make the text look like it will be seen by eventual readers of the translation.</p
+><p
+contentType="fr"
+>Aperçu va encore plus loin pour faire le texte ressembler à il sera vu par les lecteurs éventuels de la traduction.</p
+><p
+contentType="en"
+>Note:</p
+><p
+contentType="fr"
+>Note :</p
+><ul
+><li
+contentType="en"
+>There is no grey highlighting of the verse numbers.</li
+><li
+contentType="fr"
+>Il n'y a pas de surlignage gris des numéros de vers.</li
+><li
+contentType="en"
+>A figure is sized more appropriately.</li
+><li
+contentType="fr"
+>La taille d'un image est plus appropriée.</li
+><li
+contentType="en"
+>In Preview, you cannot edit at all.</li
+><li
+contentType="fr"
+>Dans l'aperçu, vous ne pouvez pas du tout éditer.</li
+><li
+contentType="en"
+>You cannot edit the text in any way.</li
+><li
+contentType="fr"
+>Vous ne pouvez en aucun cas modifier le texte.</li
+><li
+contentType="en"
+>Clicking the figure does not bring up the Figure Properties dialog box.</li
+><li
+contentType="fr"
+>Cliquer sur la figure ne fait pas apparaître la boîte de dialogue Propriétés de la figure.</li
+><li
+contentType="en"
+>You can still click a footnote or cross reference caller to open and view the footnote pane.</li
+><li
+contentType="fr"
+>Vous pouvez toujours cliquer sur une note de bas de page ou sur une référence croisée pour ouvrir et visualiser le panneau des notes de bas de page.</li
+></ul
+><p
+contentType="en"
+>Preview view looks similar to Formatted view but does not allow any editing of the text or styles at all.</p
+><p
+contentType="fr"
+>L'aperçu ressemble à l'affichage formatée mais ne permet aucune modification du texte ou des styles.</p
+><p
+contentType="en"
+>It is useful for viewing the text without any risk of editing.</p
+><p
+contentType="fr"
+>Il est utile pour visualiser le texte sans risque d'édition.</p
+></section2
+><section2
+id="sSumMarkers"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Summary: Adding Markers in Different Views</titleContent
+><titleContent
+contentType="fr"
+>Résumé : Ajout de marqueurs dans différentes affichages</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>There are five views in Paratext:</p
+><p
+contentType="fr"
+>Il y a cinq affichage dans Paratext :</p
+><example
+contentType="en"
+num="xStandardViewEn"
+showiso639-3codes="no"
+><table
+align="left"
+border="1"
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Standard view</td
+><td
+align="left"
+valign="top"
+>has visible but distinguished markers,formatted text, and is fully editable.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Formatted view</td
+><td
+align="left"
+valign="top"
+>is the same, except the markers are hidden.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Unformatted view</td
+><td
+align="left"
+valign="top"
+>has visible markers, no formatting of text or markers, and is fully editable.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Basic view</td
+><td
+align="left"
+valign="top"
+>is the same as 'Standard view', except that only the text is editable, not the markers.</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>Preview</td
+><td
+align="left"
+valign="top"
+>is the same as 'Formatted view', except that it is not editable at all.</td
+></tr
+></table
+></example
+><example
+contentType="fr"
+num="xStandardViewFr"
+showiso639-3codes="no"
+><table
+align="left"
+border="1"
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Affichage <br
+></br
+>Standard</td
+><td
+align="left"
+valign="top"
+>a des marqueurs visibles mais distincts, du texte formaté et est entièrement modifiable.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Affichage <br
+></br
+>Formaté</td
+><td
+align="left"
+valign="top"
+>est la même, sauf que les marqueurs sont cachés.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Affichage <br
+></br
+>Non formaté</td
+><td
+align="left"
+valign="top"
+>a des marqueurs visibles, aucun formatage du texte ou des marqueurs, et est entièrement modifiable.</td
+></tr
+><tr
+XeLaTeXSpecial="line-after"
+><td
+align="left"
+valign="top"
+>Affichage Basique</td
+><td
+align="left"
+valign="top"
+>est identique à la "Vue standard", sauf que seul le texte est modifiable, pas les marqueurs.</td
+></tr
+><tr
+><td
+align="left"
+valign="top"
+>Affichage Aperçu</td
+><td
+align="left"
+valign="top"
+>est identique à la "Vue formatée", sauf qu'elle n'est pas du tout modifiable.</td
+></tr
+></table
+></example
+></section2
+></section1
+><section1
+id="sBackslash"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.3 Backslash Key</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.3 Comment taper une barre oblique inversée (\) lorsqu'il n'y en a pas sur votre clavier</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397234075"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/478825919/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video you will learn that F5 is an alternative way to type backslash. Backslash is an important key in Paratext because it starts every USFM tag, and opens the menu of markers in Standard view and Formatted view.</p
+><p
+contentType="fr"
+>Dans cette vidéo, vous apprendrez que F5 est une autre façon de taper barre oblique inverse. La barre oblique inverse est une touche importante dans Paratext car elle ouvre chaque balise USFM et ouvre le menu des marqueurs en affichage standard et en affichage formatée.</p
+><p
+contentType="en"
+>Since it is not available on all language keyboards, Paratext provides alternatives.</p
+><p
+contentType="fr"
+>Comme il n’est pas disponible sur tous les claviers de chaque langue, Paratext offre des alternatives.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>To insert a backslash character</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour insérer une barre oblique inversée</object
+></pc
+><ul
+><li
+contentType="en"
+>Press<object
+type="tmenu"
+> F5 </object
+>to insert<object
+type="tEmphasis"
+> \</object
+><br
+></br
+>OR</li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>F5</object
+> pour insérer<object
+type="tEmphasis"
+> \</object
+><br
+></br
+>OU</li
+><li
+contentType="en"
+>Open the project menu <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="en"
+>Expand the menu if needed.</li
+><li
+contentType="fr"
+>Développez le menu si nécessaire.</li
+><li
+contentType="en"
+>Under <object
+type="tmenu"
+>Insert</object
+>, hover over <object
+type="tmenu"
+>Backslash (\)</object
+> <br
+></br
+> <object
+type="tresult"
+>A reminder of the keyboard shortcut is displayed in the lower left corner </object
+> <br
+></br
+> <object
+type="tresult"
+>In standard and formatted view, it brings up the menu of markers </object
+> <br
+></br
+> <object
+type="tresult"
+>In unformatted view, it simply enters a \ </object
+></li
+><li
+contentType="fr"
+>Sous <object
+type="tEmphasis"
+>Insérer</object
+>, passer le curseur sur <object
+type="tEmphasis"
+>la barre oblique inverse (\) </object
+><br
+></br
+> <object
+type="tresult"
+>Un rappel du raccourci clavier est affiché dans le coin inférieur gauche </object
+> <br
+></br
+> <object
+type="tresult"
+>En vue standard et formatée, il fait apparaître le menu des marqueurs </object
+> <br
+></br
+> <object
+type="tresult"
+>En vue non formatée, il ajoute simplement un \ </object
+></li
+></ul
+></section1
+><section1
+id="sAddVerses"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.4 The Best Way to Add Verse Numbers</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.4 Ajout de numéros de versets</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/397234111"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/480757641"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we will learn the best way to insert verse numbers.</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous allons découvrir la meilleure façon d'insérer des numéros de versets.</p
+><p
+contentType="en"
+>Many Paratext users type their translation into a book outline, that includes all the chapter and verse numbers they need up front. However, there are still times when you might need to insert a verse number.</p
+><p
+contentType="fr"
+>De nombreux utilisateurs de Paratext tapent leur traduction dans un canevas de livre comme celui-ci, qui comprend tous les numéros de chapitres et de versets dont ils ont besoin au départ. Cependant, il arrive toujours des moments où vous avez besoin d'insérer un numéro de verset.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add a missing verse number (menu)</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ajouter un numéro de vers manquant (menu)</object
+></pc
+><ul
+><li
+contentType="en"
+>Place the cursor where you want the verse number to be inserted.</li
+><li
+contentType="fr"
+>Placez le curseur à l’endroit où vous souhaitez que le numéro de verset soit inséré.</li
+><li
+contentType="en"
+>Open the project menu <object
+type="tmenu"
+> ≡</object
+>.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet<object
+type="tmenu"
+> ≡</object
+>.</li
+><li
+contentType="en"
+>Under <object
+type="tmenu"
+>Insert</object
+>, choose <object
+type="tmenu"
+>verse number</object
+>.<br
+></br
+> <object
+type="tresult"
+>The verse marker is inserted along with the appropriate verse number. </object
+></li
+><li
+contentType="fr"
+>Sous <object
+type="tmenu"
+>Insérer</object
+>, choisissez <object
+type="tmenu"
+>Numéro du verset</object
+>.<br
+></br
+> <object
+type="tresult"
+>Le marqueur de verset est inséré avec le numéro de verset approprié. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>To use the keyboard shortcut</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pour utiliser le raccourci clavier</object
+></pc
+><ul
+><li
+contentType="en"
+>Place the cursor where you want the verse number to be inserted.</li
+><li
+contentType="fr"
+>Placez le curseur à l’endroit où vous souhaitez que le numéro de verset soit inséré.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>Ctrl+K</object
+>.<br
+></br
+> <object
+type="tresult"
+>The verse marker is inserted along with the appropriate verse number. </object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>Ctrl+K</object
+>.<br
+></br
+> <object
+type="tresult"
+>Le marqueur de verset est inséré avec le numéro de verset approprié. </object
+></li
+></ul
+><p
+contentType="en"
+>If we try to add a verse number between two consecutive verses nothing happens. If we try to add another verse number at the end of the chapter nothing happens. This feature does not allow you to add more verse numbers than there should be in the given chapter.</p
+><p
+contentType="fr"
+>Si nous essayons d'ajouter un numéro de verset entre deux versets consécutifs, rien ne se passe. Si nous essayons d'ajouter un autre numéro de verset à la fin du chapitre, rien ne se passe. Cette fonction ne vous permet pas d'ajouter plus de numéros de versets qu'il ne devrait y en avoir dans le chapitre en question.</p
+></section1
+><section1
+id="sNonBibUSFM"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.2.5 How to Mark non-Biblical Text</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.2.5 Les USFM non bibliques</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/432596472"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video, we will learn about how to mark non-Biblical text. Translators often include extra text in their Bible translations to introduce a book, indicate the start of a different topic in an epistle, indicate the start of a different topic in an epistle, or a different event in narrative, etc.</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous découvrirons comment marquer un texte non biblique. Les traducteurs incluent souvent du texte supplémentaire dans leurs traductions de la Bible pour introduire un livre, indiquer le début d'un sujet différent dans une épître, indiquer le début d'un sujet différent dans une épître, ou un autre événement dans un récit, etc.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Section headers</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>En-têtes de section</object
+></pc
+><p
+contentType="en"
+>\s1, \s2, \s3 \s4</p
+><p
+contentType="fr"
+>\s1, \s2, \s3 \s4</p
+><ul
+><li
+contentType="en"
+>Place the cursor where you want to add a section heading here.</li
+><li
+contentType="fr"
+>Placez le curseur où vous souhaitez ajouter un titre de section.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE </object
+></li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>s</object
+> <br
+></br
+> <object
+type="tresult"
+>The section header markers are now listed. </object
+></li
+><li
+contentType="fr"
+>Tapez <object
+type="ttyped"
+>s</object
+> <br
+></br
+> <object
+type="tresult"
+>Les marqueurs d’en-tête de section sont maintenant répertoriés. </object
+></li
+><li
+contentType="en"
+>Type the number to match the heading above, e.g <object
+type="ttyped"
+>1</object
+> and then press <object
+type="tmenu"
+>ENTER</object
+> to confirm.<br
+></br
+> <object
+type="tresult"
+>The marker is displayed in the middle of the window ready for me to enter the heading. </object
+></li
+><li
+contentType="fr"
+>Tape le chiffre pour correspondre au titre ci-dessus, p.e. <object
+type="ttyped"
+>1</object
+>, puis appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+> pour confirmer.<br
+></br
+> <object
+type="tresult"
+>Le marqueur est affiché au milieu de la fenêtre, prêt à être utilisé pour entrer dans le titre. </object
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Book introductions</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introductions de livres</object
+></pc
+><p
+contentType="en"
+>The ordinary paragraph marker should not be used in the introduction to a book.</p
+><p
+contentType="fr"
+>Le marqueur de paragraphe ordinaire ne doit pas être utilisé dans l'introduction d'un livre.</p
+><ul
+><li
+contentType="en"
+>Place the cursor where you want to add the introduction.</li
+><li
+contentType="fr"
+>Placez le curseur à l'endroit où vous souhaitez ajouter l'introduction.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+></li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+></li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>i</object
+> <br
+></br
+> <object
+type="tresult"
+>The introduction markers are now listed. </object
+></li
+><li
+contentType="fr"
+>Tapez <object
+type="ttyped"
+>i</object
+> <br
+></br
+> <object
+type="tresult"
+>Les marqueurs d'introduction sont maintenant répertoriés. </object
+></li
+><li
+contentType="en"
+>Choose the appropriate marker.</li
+><li
+contentType="fr"
+>Choisissez le marqueur approprié.</li
+></ul
+></section1
+><section1
+id="sTyping"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Typing and Editing Text</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Saisir et modifier du texte</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sShowByChapter"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.3a How to scroll between chapters in a window</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.3a Comment défiler d'un chapitre à l'autre dans une fenêtre</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436380192"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we will learn how to view more than one chapter at a time in a Paratext window. When we open a project or resource in Paratext, by default it only shows us the current chapter.</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous allons apprendre à voir plus d’un chapitre à la fois dans une fenêtre Paratext. Lorsque nous ouvrons un projet ou une ressource dans Paratext, par défaut, il ne nous montre que le chapitre en cours.</p
+><ul
+><li
+contentType="en"
+>Click the project menu <object
+type="tmenu"
+>≡</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur le menu du projet ≡.</li
+><li
+contentType="en"
+>Click the expand arrow to view full menus.</li
+><li
+contentType="fr"
+>Cliquez sur la flèche d’extension pour afficher les menus complets.</li
+><li
+contentType="en"
+>Under View, click <object
+type="tmenu"
+>Show all chapters</object
+>.<br
+></br
+> <object
+type="tresult"
+>Paratext loads the entire book into the Window. </object
+></li
+><li
+contentType="fr"
+>Dans la rubrique Affichage, cliquez sur<object
+type="tmenu"
+> Afficher tous les chapitres</object
+>.<br
+></br
+> <object
+type="tresult"
+>Paratext charge le livre entier dans la fenêtre. </object
+></li
+><li
+contentType="en"
+>(checked = by chapter, unchecked = by book)</li
+><li
+contentType="fr"
+>(coché = par chapitre, non coché = par livre)</li
+></ul
+><p
+contentType="en"
+>We recommend that you leave 'View By Chapter' checked most of the time as it can slow Paratext down when it updates the book.</p
+><p
+contentType="fr"
+>Nous vous recommandons de laisser la case "par chapitre" cochée la plupart du temps, car elle peut ralentir Paratext lors de la mise à jour du livre.</p
+></section2
+><section2
+id="sZoom"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.3b How to Change the Size of the Text in a Window</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.3b Comment changer la taille du texte dans une fenêtre</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436379857"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we will learn how to change the size of text in a Paratext window panel.</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous allons apprendre à modifier la taille du texte dans un volet Paratext.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Using the menu</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>En utilisant le menu</object
+></pc
+><ul
+><li
+contentType="en"
+>Click the project menu <object
+type="tmenu"
+> ≡ </object
+>.<br
+></br
+> <object
+type="tresult"
+>Under View, there is a command <object
+type="tmenu"
+>Zoom</object
+> with the current zoom level displayed and <object
+type="tmenu"
+>-</object
+> and <object
+type="tmenu"
+>+</object
+> either side. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu du projet ≡.<br
+></br
+> <object
+type="tresult"
+>Sous Affichage, il y a une commande <object
+type="tmenu"
+>Zoom</object
+> avec le niveau de zoom actuel affiché et - et + de chaque côté. </object
+></li
+><li
+contentType="en"
+>To make the text look bigger, click <object
+type="tmenu"
+>+</object
+>.</li
+><li
+contentType="fr"
+>Pour rendre le texte plus grand, cliquez sur<object
+type="tmenu"
+> +.</object
+></li
+><li
+contentType="en"
+>To make the text look smaller click <object
+type="tmenu"
+>-</object
+>.</li
+><li
+contentType="fr"
+>Pour réduire le texte, cliquez sur<object
+type="tmenu"
+> -.</object
+></li
+><li
+contentType="en"
+>Click in the window to close the menu.</li
+><li
+contentType="fr"
+>Cliquez dans le volet pour fermer le menu.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Return to original text size</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Retour à la taille du texte original</object
+></pc
+><ul
+><li
+contentType="en"
+>Open the menu for the project.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet.</li
+><li
+contentType="en"
+>In the zoom control, select the zoom level number</li
+><li
+contentType="fr"
+>Dans le contrôle de zoom, sélectionnez le numéro de niveau de zoom</li
+><li
+contentType="en"
+>Type <object
+type="ttyped"
+>100</object
+>.</li
+><li
+contentType="fr"
+>Tapez <object
+type="ttyped"
+>100</object
+>.</li
+><li
+contentType="en"
+>Press <object
+type="tmenu"
+>ENTER</object
+>.</li
+><li
+contentType="fr"
+>Appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+>.</li
+><li
+contentType="en"
+>Click on the window to close the menu.</li
+><li
+contentType="fr"
+>Cliquez sur le volet pour fermer le menu.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Keyboard shortcut</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Raccourci clavier</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Ctrl +</object
+> increase <object
+type="tmenu"
+>Ctrl - </object
+>decreases it.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ctrl +</object
+> augmente<object
+type="tmenu"
+> Ctrl -</object
+> diminue.</li
+></ul
+><p
+contentType="en"
+>Zoom level is remembered when you reopen that project.</p
+><p
+contentType="fr"
+>Le niveau de zoom est mémorisé lorsque vous rouvrez ce projet.</p
+><p
+contentType="en"
+>Only affects your computer, not other members.</p
+><p
+contentType="fr"
+>N'affecte que votre ordinateur, pas les autres membres de l'équipe.</p
+></section2
+><section2
+id="sAddPara"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.3c Adding Paragraphs</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.3c Ajout de paragraphes</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/436379521"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/435671103"
+>Regarder le vidéo</link
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>1.3c Adding Paragraphs</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>1.3c Ajout de paragraphes</object
+></pc
+><p
+contentType="en"
+>This video was created in Paratext 8 but applies equally to Paratext 9. In this video we learn there are a few places where you must insert a paragraph marker.</p
+><p
+contentType="fr"
+>Cette vidéo a été créée dans Paratext 8 mais s’applique également au Paratext 9. Dans cette vidéo, nous apprenons qu’il ya quelques endroits où vous devez insérer un marqueur de paragraphe.</p
+><p
+contentType="en"
+>You should insert a paragraph marker before verse 1 in every chapter to avoid the markers check reporting an error.</p
+><p
+contentType="fr"
+>Vous devez insérer un marqueur de paragraphe avant le verset 1 dans chaque chapitre pour évitez que la vérification des marqueurs ne signale une erreur.</p
+><p
+contentType="en"
+>In 'standard view',</p
+><p
+contentType="fr"
+>Dans l'affichage Standard,</p
+><ul
+><li
+contentType="en"
+>Click where you want to put the paragraph,</li
+><li
+contentType="fr"
+>Cliquez à l'endroit où vous voulez placer le paragraphe,</li
+><li
+contentType="en"
+>press <object
+type="tmenu"
+>ENTER</object
+>, and then select the paragraph marker from the list.</li
+><li
+contentType="fr"
+>appuyez sur <object
+type="tmenu"
+>ENTRÉE</object
+>, puis sélectionnez le marqueur de paragraphe dans la liste.</li
+><li
+contentType="en"
+>Click where you want to put the paragraph,</li
+><li
+contentType="fr"
+>Cliquez à l'endroit où vous voulez placer le paragraphe,</li
+><li
+contentType="en"
+>press '<object
+type="tmenu"
+>ENTER</object
+>',</li
+><li
+contentType="fr"
+>appuyez sur "<object
+type="tmenu"
+>ENTRÉE</object
+>",</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Add section headings markers</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ajouter des marqueurs de titres de section</object
+></pc
+><p
+contentType="en"
+>\s1, \s2, \s3 \s4</p
+><p
+contentType="fr"
+>\s1, \s2, \s3 \s4</p
+><p
+contentType="en"
+>Be sure to add another paragraph marker after the heading.</p
+><p
+contentType="fr"
+>Veillez à ajouter un autre marqueur de paragraphe après le titre.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Parallel reference headings \r</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Titres de référence parallèles \r</object
+></pc
+><p
+contentType="en"
+>Remember,</p
+><p
+contentType="fr"
+>Souvenez-vous,</p
+><ul
+><li
+contentType="en"
+>you <object
+type="tBold"
+>always</object
+> need a paragraph marker before verse 1 of any chapter.</li
+><li
+contentType="fr"
+>vous avez toujours besoin d’un marqueur de paragraphe avant le verset 1 de n’importe quel chapitre.</li
+><li
+contentType="en"
+>you <object
+type="tBold"
+>always</object
+> need a paragraph after any 'section head' or 'parallel passage heading'.</li
+><li
+contentType="fr"
+>vous avez toujours besoin d’un paragraphe après n’importe quelle « ente de section » ou « ens de passage paralle ».</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Other common markers</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Autres marqueurs communs</object
+></pc
+><ul
+><li
+contentType="en"
+>\p standard paragraph</li
+><li
+contentType="fr"
+>\p paragraphe standard</li
+><li
+contentType="en"
+>\m for a paragraph with no first line indent,</li
+><li
+contentType="fr"
+>\m pour un paragraphe sans tiret de première ligne,</li
+><li
+contentType="en"
+>\nb paragraph with no break with the previous paragraph</li
+><li
+contentType="fr"
+>\nb paragraphe sans rupture avec le paragraphe précédent</li
+><li
+contentType="en"
+>\pi where all the paragraph is indented,</li
+><li
+contentType="fr"
+>\pi où tout le paragraphe est en retrait,</li
+><li
+contentType="en"
+>\q1 or \q2 for indented quotes or poetry.</li
+><li
+contentType="fr"
+>\q1 ou \q2 pour les citations en retrait ou la poésie.</li
+></ul
+></section2
+></section1
+><section1
+id="sChapVerseCheck"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.4.1 How to use Checking Tools (Basic Checks: Chapter/Verse)</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.4.1 Vérifications de base : Chapitre/Verset</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/intro9/video/461361122"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>Paratext has several tools for checking the consistency and accuracy of a translation. These are called Checks. Some checks require setup. It is important to correct any problems with chapter and verse markers, because, with these errors present, it can be hard for Paratext to show us exactly where things are found (e.g. Wordlist). We recommend you start looking at these issues early, even before you finish a book.</p
+><p
+contentType="fr"
+>Paratext offre plusieurs outils permettant de vérifier la cohérence et l'exactitude d'une traduction. Ces outils sont appelés "Vérifications". Certains vérifications nécessitent une configuration. Il est important de corriger tout problème avec les marqueurs de chapitre et de verset, car, en présence de ces erreurs, il peut être difficile pour Paratext de nous montrer exactement où se trouvent les choses (par exemple, la liste des mots). Nous vous recommandons de commencer à examiner ces problèmes dès le début, avant même de terminer un livre.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Using the project plan</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Utiliser le plan de projet</object
+></p
+><p
+contentType="en"
+>If checks have been assigned to you, they are listed in the My Tasks view in the Assignments and Progress window.</p
+><p
+contentType="en"
+><img
+src="vidsumeng/TasksChecks.png"
+width="500"
+></img
+></p
+><p
+contentType="fr"
+>Si des vérifications vous ont été confiées, elles sont affichées dans la vue "Mes tâches" de la fenêtre " Tâches et avancement ".</p
+><p
+contentType="fr"
+><img
+src="vidsumfr/TaskChecks.png"
+width="500"
+></img
+></p
+><p
+contentType="en"
+>To view issues found by a check,</p
+><p
+contentType="fr"
+>Pour afficher les problèmes trouvés par un vérification,</p
+><ul
+><li
+contentType="en"
+>Click the issue count <br
+></br
+><object
+type="tresult"
+>Paratext lists the items in a window panel</object
+>.<br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez sur le nombre de problèmes. <br
+></br
+><object
+type="tresult"
+>Paratext énumère les éléments dans un panneau de fenêtre.</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>There will be a Verses Missing issue shown for a span of text that hasn’t been drafted yet. That’s OK. Focus on the issues found in chapters you have drafted.</p
+><p
+contentType="fr"
+>Il y aura un problème de versets manquants pour une partie du texte qui n'a pas encore été rédigé. Ce n'est pas grave. Concentrez-vous sur les problèmes qui se trouvent dans les chapitres que vous avez rédigés.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Correct errors in the list as needed</li
+><li
+contentType="fr"
+>Corriger les erreurs dans la liste si nécessaire</li
+><li
+contentType="en"
+>Double click the issue <br
+></br
+><object
+type="tresult"
+>Paratext moves the project to that reference.</object
+></li
+><li
+contentType="fr"
+>Double-cliquez sur le problème <br
+></br
+><object
+type="tresult"
+>Paratext déplace le projet vers cette référence.</object
+></li
+><li
+contentType="en"
+><object
+type="tEmphasis"
+>Verse missing</object
+> - check \v and space before the number</li
+><li
+contentType="fr"
+><object
+type="tEmphasis"
+>Versets manquants</object
+> - verifier \v et mettre un espace avant le numéro</li
+><li
+contentType="en"
+><object
+type="tEmphasis"
+>Duplicated verse</object
+> - often space between digits</li
+><li
+contentType="fr"
+><object
+type="tEmphasis"
+>Verset dupliqué</object
+> - souvent des espaces entre les chiffres</li
+><li
+contentType="en"
+><object
+type="tEmphasis"
+>Unknown marker</object
+> - check name of marker or space before verse number</li
+><li
+contentType="fr"
+><object
+type="tEmphasis"
+>Marqueur inconnu</object
+> - vérifier le nom du marqueur ou un espace avant le numéro de verset</li
+><li
+contentType="en"
+><object
+type="tEmphasis"
+>Verse number in heading</object
+> insert a paragraph marker</li
+><li
+contentType="fr"
+><object
+type="tEmphasis"
+>Numéro de verset dans l'en-tête</object
+> - inserer un marqueur de paragraphe</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>Run checks manually</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Effectuer les vérifications manuellement</object
+></p
+><p
+contentType="en"
+>You can also run the checks manually</p
+><p
+contentType="fr"
+>Vous pouvez également effectuer les vérifications manuellement</p
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>project ≡ menu</object
+>, under <object
+type="tmenu"
+>Tools</object
+> menu, &gt; <object
+type="tmenu"
+>Run Basic Checks</object
+>.<br
+></br
+> <img
+src="vidsumeng/BasicChecks.png"
+width="500"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu du projet <object
+type="tmenu"
+>≡</object
+>, sous Outils, &gt; <object
+type="tmenu"
+>Effectuer les Vérifications de base.</object
+><br
+></br
+> <img
+src="vidsumfr/BasicChecks.fr.png"
+width="500"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Choose the desired checks e.g. <object
+type="tmenu"
+>chapter/verse numbers</object
+> and <object
+type="tmenu"
+>markers</object
+>.</li
+><li
+contentType="fr"
+>Choisissez les vérifications souhaitées, par exemple <object
+type="tmenu"
+>Numéros de chapitre(s)/verset(s)</object
+>, et <object
+type="tmenu"
+>Marquers</object
+> et les marqueurs.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="en"
+>Correct errors in the list as needed as above.</li
+><li
+contentType="fr"
+>Corriger les erreurs dans la liste si nécessaire comme ci-dessus.</li
+><li
+contentType="en"
+>Rerun check to be sure error is corrected</li
+><li
+contentType="fr"
+>Réexécuter la vérification pour s’assurer que l’erreur est corrigée.</li
+></ul
+></section1
+><section1
+id="sMarkComplete"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.5 How to Mark Texts as Complete</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.5 Marquer les textes comme étant complets</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/p9/video/461793250"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>As you work on the tasks assigned to you in Paratext, you need to record what you have finished.This allows the team to see your progress, and--most importantly--allows other team members, who are waiting for your task to be finished, to get started on their tasks.</p
+><p
+contentType="fr"
+>Lorsque vous travaillez sur les tâches qui vous sont confiées dans Paratext, vous devez enregistrer ce que vous avez terminé. Cela permet à l'équipe de voir vos progrès et, surtout, aux autres membres de l'équipe, qui attendent que votre tâche soit terminée, de commencer leur travail.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+> Open Assignments and progress</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+> Affectations ouvertes et progrès</object
+></pc
+><ul
+><li
+contentType="en"
+>Click on the blue button <img
+src="vidsumeng/image18.png"
+></img
+>.</li
+><li
+contentType="fr"
+>Cliquez sur le bouton bleu <img
+src="vidsumeng/image18.png"
+></img
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Mark tasks as complete</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Marquer les tâches comme achevées</object
+></pc
+><ul
+><li
+contentType="en"
+>Mark <object
+type="tBold"
+>project task</object
+> or <object
+type="tBold"
+>book task</object
+> as complete: click the check box <br
+></br
+> <img
+src="vidsumeng/image20.png"
+></img
+></li
+><li
+contentType="fr"
+>Marquez<object
+type="tmenu"
+> la tâche du projet </object
+>ou <object
+type="tmenu"
+>la tâche du livre</object
+> comme achevée : cliquez sur la case à cocher <br
+></br
+> <img
+src="vidsumfr/image20.png"
+></img
+></li
+></ul
+><ul
+><li
+contentType="en"
+>Mark <object
+type="tBold"
+>chapter task</object
+> as complete: click blue <object
+type="tmenu"
+>+</object
+>, or unmark click blue <object
+type="tmenu"
+>-</object
+></li
+><li
+contentType="fr"
+>Marquez <object
+type="tBold"
+>la tâche du chapitre</object
+> comme terminée : cliquez sur le <object
+type="tmenu"
+>+</object
+> bleu, ou bien marquez le <object
+type="tmenu"
+>-</object
+> bleu</li
+><li
+contentType="en"
+><ul
+><li
+contentType="en"
+>For more control click none (or chapter numbers), click the chapter numbers <br
+></br
+> <img
+description="Marking-Tasks-complete-Translators-Scene4"
+src="vidsumeng/image021.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+></ul
+></li
+><li
+contentType="fr"
+><ul
+><li
+contentType="fr"
+>Pour plus de contrôle, cliquez sur aucun (ou sur les numéros de chapitre), cliquez sur les numéros de chapitre <br
+></br
+> <img
+description="Marking-Tasks-complete-Translators-Scene4"
+src="vidsumfr/image21.png"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+></ul
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Useful links:</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Liens utiles :</object
+></pc
+><p
+contentType="en"
+>Prev (Book or Priority), Next (Book or Priority), All tasks</p
+><p
+contentType="fr"
+>Prev (Livre ou Priorité), Suivant (Livre ou Priorité), Toutes les tâches</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/Receive</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/Recevoir</object
+></pc
+><p
+contentType="en"
+>Remember to Send/Receive so that other team members receive the progress status information.</p
+><p
+contentType="fr"
+>N'oubliez pas d'envoyer/recevoir afin que les autres membres de l'équipe reçoivent les informations sur l'état d'avancement.</p
+></section1
+><section1
+id="sWhatConflict"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.6 What is a Conflict</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.6 Qu’est-ce qu’un conflit</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt8/video/229615018"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>A conflict occurs when two or more people edit the text at the same time. Paratext gets confused and does not know which one to keep. It chooses one and adds a conflict note.</p
+><p
+contentType="fr"
+>Un conflit se produit lorsque deux personnes ou plus modifient le texte en même temps. Paratext s'embrouille et ne sait pas lequel garder. Il en choisit un et y ajoute une note de conflit.</p
+><p
+contentType="en"
+>It is best to have only one translator edit a text at time. Other team members should add notes of their suggestions (see later videos on notes).</p
+><p
+contentType="fr"
+>Il est préférable d’avoir un seul traducteur modifier un texte à la fois. Les autres membres de l’équipe devraient ajouter des notes de leurs suggestions (voir les vidéos ultérieures sur les notes).</p
+></section1
+><section1
+id="sResolveConflict"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Video 1.6.1 Paratext Conflict Notes: What they look like and how to deal with them</titleContent
+><titleContent
+contentType="fr"
+>Vidéo 1.6.1 Résoudre les conflits</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><link
+href="https://vimeopro.com/lingtransoft/pt9/video/438192934"
+>Watch video </link
+></pc
+><pc
+contentType="fr"
+><link
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/"
+>Regarder le vidéo</link
+></pc
+><p
+contentType="en"
+>In this video we will see what conflict notes look like and how to deal with them. This is the same in Paratext 8 and 9.</p
+><p
+contentType="fr"
+>Dans cette vidéo, nous verrons à quoi ressemblent les notes de conflit et comment les traiter. C'est identique dans Paratext 8 et 9.</p
+><ul
+><li
+contentType="en"
+>Do a Send/Receive</li
+><li
+contentType="fr"
+>Faire un envoyez/recevoir</li
+><li
+contentType="en"
+>Click link <object
+type="tlink"
+>Open unresolved conflict notes list</object
+> window.</li
+><li
+contentType="fr"
+>Cliquez sur le lien <object
+type="tmenu"
+>Ouvrir la fenêtre de liste des remarques de conflit non résolues</object
+>.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Open note and resolve conflict</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Ouvrir la note et résoudre les conflits</object
+></pc
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Open</object
+> note</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Ouvrir</object
+> le remarque</li
+><li
+contentType="en"
+>If the note is assigned to you, or you are an administrator, there will be a dropdown list</li
+><li
+contentType="fr"
+>Si la note vous est confiée, ou si vous êtes un administrateur, il y aura une liste déroulante</li
+><li
+contentType="en"
+>Click the Dropdown the list at the top <br
+></br
+> <img
+src="vidsumeng/ConflictDropList.png"
+width="500"
+></img
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Faites défiler la liste en haut de page <br
+></br
+> <img
+src="vidsumfr/ConflictDropList.fr.png"
+width="500"
+></img
+> <br
+></br
+></li
+><li
+contentType="en"
+>Choose an option as appropriate<ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Accept</object
+> the changes Paratext <object
+type="tEmphasis"
+>accepted</object
+> (leave it as is)</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Accept</object
+> the changes Paratext <object
+type="tEmphasis"
+>rejected</object
+> (and reject the other change)</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Merge</object
+> all changes (accept both changes)</li
+></ul
+></li
+><li
+contentType="fr"
+>Choisissez une option selon le cas<ul
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Accepter</object
+> les changements <object
+type="tmenu"
+>acceptés</object
+> par Paratext (laisser en l'état)</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Accepter</object
+> les modifications <object
+type="tmenu"
+>rejetées</object
+> par Paratext (et rejeter l'autre modification)</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fusionner</object
+> tous les modifications (accepter les deux changements)</li
+></ul
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+></ul
+><p
+contentType="en"
+>Special warning flag for conflict notes are either at the very beginning of the book or at the verse number.</p
+><p
+contentType="fr"
+>Drapeau d’avertissement spécial pour les notes de conflit sont soit au tout début du livre ou au numéro de verset.</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Resolve</object
+> the note to make the flag go away.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Résoudrez</object
+> la note pour faire disparaître le drapeau.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Send/Receive</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Envoyer/Recevoir</object
+></pc
+><ul
+><li
+contentType="en"
+>Do a Send/Receive</li
+><li
+contentType="fr"
+>Faire un envoi/réception</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Complex conflicts</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Des conflits complexes</object
+></pc
+><p
+contentType="en"
+>If there are many conflicts, your administrator may need to <object
+type="tItalic"
+>revert</object
+> the book(s).</p
+><p
+contentType="fr"
+>S'il y a de nombreux conflits, votre administrateur peut avoir besoin de <object
+type="tmenu"
+>rétablir</object
+> le(s) livre(s).</p
+></section1
+></chapter
+></part
+><backMatter
+><endnotes
+></endnotes
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-weight="bold"
+id="tmenu"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-weight="bold"
+id="tkey"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tsub"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+font-style="italic"
+id="tresult"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tsubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+before="Paratext 8"
+id="tPT"
+></type
+><type
+before="Paratext 7"
+id="tPTPrev"
+></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
+><type
+XeLaTeXSpecial="underline"
+color="#0033cc"
+cssSpecial="text-decoration:underline"
+font-style="normal"
+font-weight="normal"
+id="tlink"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+align="left"
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after="2cm"
+indent-before="2cm"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter="3pt"
+spacebefore="3pt"
+></framedType
+><framedType
+align="left"
+backgroundcolor="#add8e6"
+description="Interface Translation Note"
+id="translation"
+indent-after=".125in"
+indent-before=".125in"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter=".0in"
+spacebefore=".0in"
+></framedType
+></framedTypes
+><publishingInfo
+><keywords
+><keyword
+>Paratext 8</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
+><contentControl
+showOnlyChosenItemsInEditor="no"
+><contentTypes
+><contentType
+id="en"
+>English</contentType
+><contentType
+id="fr"
+>French</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+><contentType
+id="b1"
+>Book 1 (Intended for PDF)</contentType
+><contentType
+id="b2"
+>Book 2 (Intended for PDF)</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>Export Everything</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn b2"
+>Publish Book 1 (English)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn b2"
+>Publish Book 1 (French)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn b1"
+>Publish Book 2 (English)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en dn b1"
+>Publish Book 2 (French)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn"
+>Publish (English) Whole Book</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="en dn"
+>Publish (French) Whole Book</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French (Show Notes)</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English (Show Notes)</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalBookletStylesheet-NoNumbersHeadings.xml"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>

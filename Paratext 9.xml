@@ -1266,7 +1266,7 @@ type="tresult"
 ><br
 ></br
 > <img
-src="12imgfr/layout-9.png"
+src="12imgfr/Layout-9.png"
 width="750"
 ></img
 ></p
@@ -1309,8 +1309,8 @@ contentType="en"
 >Open the 5 windows as follows:<ul
 ><li
 contentType="en"
->5 =your project <br
-></br
+>5 =your project<ul
+><li
 ><object
 type="tmenu"
 >≡ Paratext</object
@@ -1320,11 +1320,13 @@ type="tmenu"
 > &gt; <object
 type="tmenu"
 >Open project/resource</object
+>)</li
+></ul
 ></li
 ><li
 contentType="en"
->1 = Renderings <br
-></br
+>1 = Renderings <ul
+><li
 ><object
 type="tmenu"
 >≡ Tab</object
@@ -1335,10 +1337,12 @@ type="tmenu"
 type="tmenu"
 >Open Biblical Terms renderings</object
 >)</li
+></ul
+></li
 ><li
 contentType="en"
->2 = Source text <br
-></br
+>2 = Source text <ul
+><li
 ><object
 type="tmenu"
 >≡ Paratext</object
@@ -1349,10 +1353,12 @@ type="tmenu"
 type="tmenu"
 >Open Source language text</object
 >)</li
+></ul
+></li
 ><li
 contentType="en"
->3 = Dictionary <br
-></br
+>3 = Dictionary <ul
+><li
 ><object
 type="tmenu"
 >≡ Paratext</object
@@ -1363,10 +1369,12 @@ type="tmenu"
 type="tmenu"
 >Open source language dictionary</object
 >)</li
+></ul
+></li
 ><li
 contentType="en"
->4= Text collection <br
-></br
+>4= Text collection <ul
+><li
 ><object
 type="tmenu"
 >≡ Paratext</object
@@ -1379,13 +1387,15 @@ type="tmenu"
 >)</li
 ></ul
 ></li
+></ul
+></li
 ><li
 contentType="fr"
 >Ouvrez 5 fenêtres comme suit :<ul
 ><li
 contentType="fr"
->5 = votre projet <br
-></br
+>5 = votre projet <ul
+><li
 ><object
 type="tmenu"
 >≡ Paratext</object
@@ -1396,11 +1406,13 @@ type="tmenu"
 type="tmenu"
 >Ouvrir</object
 > puis cliquez sur projets)</li
+></ul
+></li
 ><li
 contentType="fr"
->1 = équivalents <br
-></br
-> <object
+>1 = équivalents <ul
+><li
+><object
 type="tmenu"
 >≡ Onglet</object
 >, sous <object
@@ -1410,6 +1422,8 @@ type="tmenu"
 type="tmenu"
 >Équivalents des termes bibliques</object
 >)</li
+></ul
+></li
 ><li
 contentType="fr"
 >2 = texte source <br
@@ -2197,8 +2211,8 @@ id="sPP1"
 contentType="en"
 ><object
 type="tEmphasis"
->PP1 – Project plan and progress</object
-> <img
+>PP1 – Project plan and progress </object
+><img
 src="12imgeng/PT9.png"
 ></img
 ></titleContent
@@ -2206,8 +2220,8 @@ src="12imgeng/PT9.png"
 contentType="fr"
 ><object
 type="tEmphasis"
->PP1 – Plan et progrès du projet</object
-> <img
+>PP1 – Plan et progrès du projet </object
+><img
 src="12imgeng/PT9.png"
 ></img
 ></titleContent
@@ -2412,8 +2426,6 @@ type="tmenu"
 ><img
 src="12imgeng/image8.png"
 ></img
-><br
-></br
 ><ul
 ><li
 contentType="en"
@@ -8248,10 +8260,10 @@ id="sFindTheTermsForTheCurrentVerse"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->[A] Find all the ways you have rendered this term</titleContent
+>A: Find all the ways you have rendered this term</titleContent
 ><titleContent
 contentType="fr"
->[A] Trouver tous les équivalents pour ce terme</titleContent
+>A :Trouver tous les équivalents pour ce terme</titleContent
 ></titleContentChoices
 ></secTitle
 ><section2
@@ -8578,10 +8590,10 @@ id="sIdentifyTheBestTerm"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->[B] Identify the best term</titleContent
+>B: Identify the best term</titleContent
 ><titleContent
 contentType="fr"
->[B] Identifier le meilleur équivalent</titleContent
+>B : Identifier le meilleur équivalent</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -8673,10 +8685,10 @@ id="sRejectAllTheOthers"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->[C] Reject all the others</titleContent
+>C: Reject all the others</titleContent
 ><titleContent
 contentType="fr"
->[C] Rejeter tous les autres</titleContent
+>C : Rejeter tous les autres</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -8694,10 +8706,10 @@ id="sDocumentTheReasonForTheChange"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->[D] Document the reason for the change</titleContent
+>D: Document the reason for the change</titleContent
 ><titleContent
 contentType="fr"
->[D] Documenter la raison pour la modification</titleContent
+>D : Documenter la raison pour la modification</titleContent
 ></titleContentChoices
 ></secTitle
 ><ul
@@ -17463,10 +17475,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 5 (Stage 3 UBS): Review by the community</titleContent
+>Stage 5 / Stage 3 UBS: Review by the community</titleContent
 ><titleContent
 contentType="fr"
->Étape 5 (Étape 3 UBS) : Tester/réviser avec la communauté</titleContent
+>Étape 5 / Étape 3 UBS : Tester/réviser avec la communauté</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -18166,10 +18178,10 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Stage 6 (4 UBS): Finalizing for Publication</titleContent
+>Stage 6 / 4 UBS: Finalizing for Publication</titleContent
 ><titleContent
 contentType="fr"
->Étape 6 (4 UBS) : Finalisation pour la publication</titleContent
+>Étape 6 / 4 UBS : Finalisation pour la publication</titleContent
 ></titleContentChoices
 ></secTitle
 ><shortTitle
@@ -23348,13 +23360,13 @@ contentType="fr"
 ></shortTitle
 ><p
 contentType="dn"
->Note: All Style Type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view</p
+>Note: All Styles of yype "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view</p
 ><p
 contentType="dn"
 >Note: All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view</p
 ><table
 border="1"
-contentType="dn"
+contentType="en"
 ><tr
 ><td
 >\id</td
@@ -23435,50 +23447,26 @@ contentType="dn"
 ><td
 >Paragraph</td
 ></tr
+><tr
+><td
+>\s2</td
+><td
+>Heading - Section Level 2</td
+><td
+>Paragraph</td
+></tr
 ></table
 ><pc
-contentType="dn"
+contentType="en"
 >Less-common Markers</pc
 ><table
 border="1"
-contentType="dn"
+contentType="en"
 ><tr
 ><td
 >\pc</td
 ><td
 >Paragraph - Centered (for Inscription)</td
-><td
->Paragraph</td
-></tr
-><tr
-><td
->\s</td
-><td
->Heading - Section Level 1 - Single Level Only</td
-><td
->Paragraph</td
-></tr
-><tr
-><td
->\mt</td
-><td
->Title - Major Title Level 1 - Single level only</td
-><td
->Paragraph</td
-></tr
-><tr
-><td
->\q</td
-><td
->Poetry - Indent Level 1 - Single Level Only</td
-><td
->Paragraph</td
-></tr
-><tr
-><td
->\q3</td
-><td
->Poetry - Indent Level 3</td
 ><td
 >Paragraph</td
 ></tr
@@ -23498,21 +23486,13 @@ contentType="dn"
 ><td
 >Paragraph</td
 ></tr
-><tr
-><td
->\k</td
-><td
->Special Text - Keyword</td
-><td
->Character</td
-></tr
 ></table
 ><pc
-contentType="dn"
+contentType="en"
 >Introductory Markers</pc
 ><table
 border="1"
-contentType="dn"
+contentType="en"
 ><tr
 ><td
 >\imt1</td
@@ -23569,90 +23549,115 @@ contentType="dn"
 ><td
 >Paragraph</td
 ></tr
-><tr
-><td
->\ib</td
-><td
->Introduction - Blank Line</td
-><td
->Paragraph</td
-></tr
-><tr
-><td
->\imt1</td
-><td
->Introduction - Major Title Level 1</td
-><td
->Paragraph</td
-></tr
 ></table
 ><pc
-contentType="dn"
+contentType="en"
 >Footnote Markers</pc
 ><table
 border="1"
-contentType="dn"
+contentType="en"
 ><tr
 ><td
-></td
+>\f</td
 ><td
-></td
+>Footnote</td
 ><td
-></td
+>Note</td
 ></tr
 ><tr
 ><td
-></td
+>\fr</td
 ><td
-></td
+>Footnote - Reference</td
 ><td
-></td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\ft</td
 ><td
-></td
+>Footnote - Text</td
 ><td
-></td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\fk</td
 ><td
-></td
+>Footnote - Keyword</td
 ><td
-></td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\fq</td
 ><td
-></td
+>Footnote - Quotation or Alternate Rendering</td
 ><td
-></td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\fqa</td
 ><td
-></td
+>Footnote - Alternate Translation Rendering</td
 ><td
-></td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\f*</td
 ><td
-></td
+>Footnote End</td
 ><td
-></td
+>Note</td
+></tr
+></table
+><pc
+contentType="en"
+>Glossary</pc
+><table
+border="1"
+contentType="en"
+><tr
+><td
+>\k ... k*</td
+><td
+>Keyword (in the glossary)</td
+><td
+>Character</td
 ></tr
 ><tr
 ><td
-></td
+>\w ... \w*</td
 ><td
-></td
+>Indicates a word in the glossary (in the text)</td
+><td
+>Character</td
+></tr
+><tr
+><td
+>\p</td
+><td
+>Paragraph</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\li1</td
+><td
+>Glossary Word</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\li2</td
+><td
+>Glossary Definition</td
+><td
+>Paragraph</td
 ></tr
 ></table
 ><p
@@ -23745,6 +23750,12 @@ contentType="en"
 ><p
 contentType="fr"
 >\w ... \w* mot qui est dans le glossaire (dans le texte)</p
+><p
+>\p</p
+><p
+>\li1</p
+><p
+>\li2</p
 ><p
 contentType="en"
 ><object
