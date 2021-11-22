@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e36"><title>PT9.1.02 SettingPriorities</title><body><p>A new feature in Paratext 9.1 is the ability to define and use priority groups. Priority groups are a way to let Paratext know the order in which books or chapters should be worked on.</p></body></topic>

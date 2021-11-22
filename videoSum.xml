@@ -23,10 +23,10 @@ version="2.28.0"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Paratext 9 Video Course</titleContent
+>Paratext 9 Video Summaries</titleContent
 ><titleContent
 contentType="fr"
->Cours vidéo sur Paratext 9</titleContent
+>Résumés de vidéos sur Paratext 9</titleContent
 ></titleContentChoices
 ></title
 ><shortTitle
@@ -87,10 +87,19 @@ showinlandscapemode="no"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Introduction</titleContent
+><langData
+lang="lVernacular"
+><object
+type="tEmphasis"
+>Introduction</object
+></langData
+></titleContent
 ><titleContent
 contentType="fr"
->Introduction</titleContent
+><object
+type="tEmphasis"
+>Introduction</object
+></titleContent
 ></titleContentChoices
 ></secTitle
 ><p
@@ -242,6 +251,7 @@ contentType="en"
 >Click on a link in \r line or \xt <br
 ></br
 > <img
+height="100"
 src="vidsumeng/image14.png"
 ></img
 > <br
@@ -2837,10 +2847,10 @@ id="sSRIntro"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Video 0.4 Explain Send-Receive</titleContent
+>Video 0.4a Explain Send-Receive</titleContent
 ><titleContent
 contentType="fr"
->Vidéo 0.4 Qu'est-ce qu'envoyer/recevoir? Introduction</titleContent
+>Vidéo 0.4a Qu'est-ce qu'envoyer/recevoir? Introduction</titleContent
 ></titleContentChoices
 ></secTitle
 ><pc
@@ -4294,7 +4304,7 @@ href="https://vimeopro.com/lingtransoft/pt9/video/368329210"
 ><pc
 contentType="fr"
 ><link
-href="https://vimeopro.com/lingtransoft/paratext9fr/video/464574060"
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/449810229"
 >Regarder le vidéo</link
 ></pc
 ><p
@@ -4440,7 +4450,7 @@ href="https://vimeopro.com/lingtransoft/pt9/video/387019039"
 ><pc
 contentType="fr"
 ><link
-href="https://vimeopro.com/lingtransoft/pt9/video/464574060"
+href="https://vimeopro.com/lingtransoft/paratext9fr/video/464574060"
 >Regarder le vidéo</link
 ></pc
 ><p
@@ -6061,7 +6071,7 @@ contentType="en"
 >In this video we will learn how to change the size of text in a Paratext window panel.</p
 ><p
 contentType="fr"
->Dans cette vidéo, nous allons apprendre à modifier la taille du texte dans un volet Paratext.</p
+>Dans cette vidéo, nous allons apprendre à modifier la taille du texte dans un panneau de fenêtre Paratext..</p
 ><pc
 contentType="en"
 ><object
@@ -6391,7 +6401,7 @@ type="tBold"
 > need a paragraph after any 'section head' or 'parallel passage heading'.</li
 ><li
 contentType="fr"
->vous avez toujours besoin d’un paragraphe après n’importe quelle « ente de section » ou « ens de passage paralle ».</li
+>vous avez toujours besoin d’un paragraphe après n’importe quelle « en-tête de section » ou « en-têtes de passage parallel ».</li
 ></ul
 ><pc
 contentType="en"
@@ -6417,7 +6427,7 @@ contentType="en"
 >\m for a paragraph with no first line indent,</li
 ><li
 contentType="fr"
->\m pour un paragraphe sans tiret de première ligne,</li
+>\m pour un paragraphe sans retrait de première ligne,</li
 ><li
 contentType="en"
 >\nb paragraph with no break with the previous paragraph</li
@@ -6829,7 +6839,7 @@ type="tBold"
 > comme terminée : cliquez sur le <object
 type="tmenu"
 >+</object
-> bleu, ou bien marquez le <object
+> bleu, ou bien démarquer cliquez sur le <object
 type="tmenu"
 >-</object
 > bleu</li
@@ -7192,6 +7202,41 @@ contentType="fr"
 type="tmenu"
 >rétablir</object
 > le(s) livre(s).</p
+></section1
+></chapter
+></part
+><part
+id="p3"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9Vid - Advanced Drafting</titleContent
+><titleContent
+contentType="fr"
+>PT9Vid - Ébauche avancé</titleContent
+></titleContentChoices
+></secTitle
+><chapter
+id="cStage1Adv"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>1A.4a Glossary: Adding Entries</titleContent
+><titleContent
+contentType="fr"
+></titleContent
+></titleContentChoices
+></secTitle
+><p
+></p
+><section1
+id="sGlossary"
+><secTitle
+></secTitle
+><p
+></p
 ></section1
 ></chapter
 ></part

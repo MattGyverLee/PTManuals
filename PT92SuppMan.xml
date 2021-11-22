@@ -1,0 +1,7532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+version="2.28.0"
+><frontMatter
+><title
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext 9.2</titleContent
+><titleContent
+contentType="fr"
+>Paratext 9.2</titleContent
+></titleContentChoices
+></title
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT92SuppMan</titleContent
+><titleContent
+contentType="fr"
+>PT92SuppMan</titleContent
+></titleContentChoices
+></shortTitle
+><subtitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Supporters <br
+></br
+>and Administrators (English)</titleContent
+><titleContent
+contentType="fr"
+>Manuel d'Administrateur (français)</titleContent
+></titleContentChoices
+></subtitle
+><author
+>Jenni Beadle</author
+><author
+>Matthew Lee</author
+><affiliation
+>SIL International</affiliation
+><date
+>Oct. 2021</date
+><contents
+label="Contenu"
+showLevel="3"
+><labelContentChoices
+><labelContent
+contentType="en"
+>Contents</labelContent
+><labelContent
+contentType="fr"
+>Contenu</labelContent
+></labelContentChoices
+></contents
+></frontMatter
+><part
+id="Pt8SuppMan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Supporters <br
+></br
+>and Administrators Manual</titleContent
+><titleContent
+contentType="fr"
+>Manuel de Supporteur</titleContent
+></titleContentChoices
+></secTitle
+><shortTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>PT9SuppManP1</titleContent
+><titleContent
+contentType="fr"
+>PT9SuppManP1</titleContent
+></titleContentChoices
+></shortTitle
+><chapter
+id="cInstall"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>IS: Install</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>IP : Installation de Paratext 9</object
+></titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></p
+><p
+contentType="en"
+>In this module, you will install Paratext 9. Paratext is the world’s leading software application for the development and checking of new Bible translation texts, or revisions to existing texts. Developed jointly by UBS and SIL International, it enables consistent and accurate translation, based on original texts, and modelled on versions in major languages. Due in part to its cutting edge collaboration features, Paratext greatly assists in producing higher quality translations in much less time than previous tools and methods have allowed.</p
+><p
+contentType="fr"
+>Dans ce module, vous installez Paratext 9. Paratext est le principal logiciel mondial pour le développement et la vérification de nouveaux textes de traduction de la Bible ou des révisions aux textes existants. Développé conjointement par ABU et SIL International, il permet une traduction cohérente et précise, basée sur des textes originaux et modélisés sur des versions dans les principales langues. En partie grâce à ses fonctionnalités de collaboration de pointe, Paratext contribue grandement à produire des traductions de meilleure qualité en moins de temps que les outils et les méthodes précédentes ont permis.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous</object
+></p
+><p
+contentType="en"
+>You may have already installed and earlier version and now want to install <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Vous avez peut-être déjà installé une version antérieure sur votre ordinateur et vous souhaitez installer à présent <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ?</object
+></p
+><p
+contentType="en"
+><object
+type="tPTPrev"
+></object
+>, Paratext 8 and <object
+type="tPT"
+></object
+> can all be installed at the same time but you need to understand the limitation of using them together.</p
+><p
+contentType="fr"
+><object
+type="tPTPrev"
+></object
+>, Paratext 8 et <object
+type="tPT"
+></object
+> peuvent être installées en même temps, mais il faut comprendre la limitation de leur utilisation ensemble.</p
+><ul
+><li
+contentType="en"
+>Several versions may be installed</li
+><li
+contentType="fr"
+>Plusieurs versions peuvent être installées</li
+><li
+contentType="en"
+>Some use different data directories.<ul
+><li
+>My Paratext Projects (<object
+type="tPTPrev"
+></object
+>)</li
+><li
+>My Paratext 8 Projects (<object
+type="tPT"
+> and 8</object
+>)</li
+></ul
+></li
+><li
+contentType="fr"
+>Certains utilisent différents dossiers<ul
+><li
+>My Paratext Projects <object
+type="tPTPrev"
+></object
+>)</li
+><li
+>My Paratext 8 Projects (<object
+type="tPT"
+> and 8</object
+>)</li
+></ul
+></li
+><li
+contentType="en"
+>Paratext 7 used a different server (which is now shutdown). Paratext 8 and 9 use the same data servers</li
+><li
+contentType="fr"
+>Paratext 7 utilisait un serveur différent (qui est maintenant fermé). Paratext 8 et 9 utilisent les mêmes serveurs de données.</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce qu'on va faire ?</object
+></p
+><p
+contentType="en"
+>You will install <object
+type="tPT"
+></object
+> (without uninstalling <object
+type="tPTPrev"
+> or 8</object
+>). You will also install an update from an MSP file.</p
+><p
+contentType="fr"
+>Vous allez installer <object
+type="tPT"
+></object
+> (sans désinstaller <object
+type="tPTPrev"
+> ou 8</object
+>). Vous allez également faire une mise à jour à partir d’un fichier MSP.</p
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sISIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+></section1
+><section1
+id="sISInstall"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Install Paratext 9</titleContent
+><titleContent
+contentType="fr"
+>Installer Paratext 9</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: you do not need to uninstall and earlier version of Paratext. But you may need to uninstall an earlier BETA version of <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>N.B. : il n'est pas nécessaire de désinstaller une version antérieure de Paratext. Mais il faut désinstaller une version BETA antérieure de Paratext 9.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Double-click on the installer file.<br
+></br
+>(available at https://paratext.org/download https://paratext.org/files/releases/9.1/<br
+></br
+>Paratext_9.1.104.1_InstallerOffline.exe)</li
+><li
+contentType="fr"
+>Double-cliquez sur le fichier d’installation <br
+></br
+>(disponible à https://paratext.org/download https://paratext.org/files/releases/9.1/<br
+></br
+>Paratext_9.1.104.1_InstallerOffline.exe).</li
+><li
+contentType="en"
+>Click, “I agree to the license terms”,</li
+><li
+contentType="fr"
+>Cochez « I agree to the licence terms » (j’accepte les termes de la licence)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Install</object
+>.<br
+></br
+><object
+type="tresult"
+>This step might take a few minutes if the installer needs to install the .NET 4.8 Framework on your computer.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Install</object
+>(Installer). <br
+></br
+><object
+type="tresult"
+>Cette étape peut prendre quelques minutes si le programme d’installation doit installer .NET 4.8 Framework sur votre ordinateur.</object
+></li
+><li
+contentType="en"
+>If a dialog appears and asks for your permission, click <object
+type="tmenu"
+>Yes</object
+> or provide the credentials as required. <br
+></br
+><object
+type="tresult"
+>A welcome message is displayed.</object
+></li
+><li
+contentType="fr"
+>Si une boîte de dialogue apparaît et demande votre permission, cliquez sur <object
+type="tmenu"
+>Oui/Yes</object
+> ou fournissez les informations d’identification nécessaires. <br
+></br
+><object
+type="tresult"
+>Un message de bienvenue s’affiche.</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Next</object
+> <br
+></br
+><object
+type="tresult"
+>The destination folder step appears.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Next</object
+> (Suivant) <br
+></br
+><object
+type="tresult"
+>L’étape « Dossier de destination » s’affiche</object
+></li
+><li
+contentType="en"
+>Accept the defaults for the folder.</li
+><li
+contentType="fr"
+>Acceptez les valeurs par défaut du dossier.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: <object
+type="tPT"
+> and 8</object
+> data may not share the same directory as <object
+type="tPTPrev"
+></object
+> data.</p
+><p
+contentType="fr"
+>N.B. Les projets de Paratext 8 et 9 ne peuvent pas partager le même dossier que les projets de Paratext 7.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Next</object
+>, then <object
+type="tmenu"
+>Install</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Next (suivant)</object
+>, puis <object
+type="tmenu"
+>Install</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Finish</object
+> and then <object
+type="tmenu"
+>Close</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Finish</object
+> et puis <object
+type="tmenu"
+>Close (Fermer)</object
+>.</li
+><li
+contentType="en"
+>The first time you launch <object
+type="tPT"
+></object
+> you will need to enter your <object
+type="tPT"
+></object
+> registration code. Information on how to obtain this code is on the Registration page.</li
+><li
+contentType="fr"
+>La première fois que vous lancez Paratext 9, vous devrez entrer votre code d’inscription de Paratext. Des informations sur la façon d’obtenir ce code figurent sur la page d’inscription (registration).</li
+></ul
+></section1
+><section1
+id="sRegFirst"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register a user (first time run Paratext)</titleContent
+><titleContent
+contentType="fr"
+>Inscription d’un utilisateur de Paratext 7 (à la première exécution de Paratext)</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>All users need a new registration for <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Run Paratext (for the first time)</li
+><li
+contentType="fr"
+>Exécuter Paratext 9 (pour la première fois)</li
+><li
+contentType="en"
+>Choose the interface language.<br
+></br
+><object
+type="tresult"
+>A dialogue box is displayed asking for your registration code.</object
+></li
+><li
+contentType="fr"
+>Choisissez la langue de l’interface <br
+></br
+><object
+type="tresult"
+>Une boîte de dialogue s’affiche pour demander votre code d’enregistrement.</object
+></li
+></ul
+><p
+></p
+><ul
+><li
+contentType="en"
+>In your browser, go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+><br
+></br
+><object
+type="tresult"
+>The Sign-in page is displayed.</object
+></li
+><li
+contentType="fr"
+>Dans votre navigateur web, Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> <br
+></br
+><object
+type="tresult"
+>La page “Sign in”(se connecter) s’affiche.</object
+></li
+><li
+contentType="en"
+>Log-in with a gmail work account</li
+><li
+contentType="fr"
+>Tapez votre adresse émail (du Gmail)</li
+><li
+contentType="en"
+>Click on the Register link</li
+><li
+contentType="fr"
+>Cliquez sur le lien <object
+type="tmenu"
+>Register</object
+>/<object
+type="tmenu"
+>Inscription</object
+></li
+><li
+contentType="en"
+>Type in the user name</li
+><li
+contentType="fr"
+>Tapez le nom d’utilisateur</li
+><li
+contentType="en"
+>Type in (or copy) the user’s <object
+type="tPTPrev"
+></object
+> registration code</li
+><li
+contentType="fr"
+>Saisissez (ou copiez) le code d’inscription Paratext 7 de l’utilisateur</li
+><li
+contentType="en"
+>Copy the new code</li
+><li
+contentType="fr"
+>Copier le nouveau code de Paratext 9</li
+></ul
+><p
+></p
+><ul
+><li
+contentType="en"
+>Return to Paratext</li
+><li
+contentType="fr"
+>Retournez à Paratext</li
+><li
+contentType="en"
+>Paratext will paste the code</li
+><li
+contentType="fr"
+>Paratext va coller le code</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section1
+><section1
+id="sUpd"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Manually updating your existing version of Paratext</titleContent
+><titleContent
+contentType="fr"
+>Mise à jour manuelle de votre version existante de Paratext</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>The update files have a .msp extension instead of PUD or SPUD as in the past.</p
+><p
+contentType="fr"
+>Les fichiers de mise à jour ont une extension .<object
+type="ttyped"
+>msp</object
+> au lieu de <object
+type="ttyped"
+>.pud</object
+> ou <object
+type="ttyped"
+>.spud</object
+> comme dans le passé.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Make sure Paratext is closed.</li
+><li
+contentType="fr"
+>Vérifiez que Paratext est fermé.</li
+><li
+contentType="en"
+>Double-click on the <object
+type="tmenu"
+>msp</object
+> file to install the update.</li
+><li
+contentType="fr"
+>Double-cliquez sur le fichier <object
+type="tmenu"
+>msp</object
+> pour installer la mise à jour.</li
+></ul
+></section1
+></chapter
+><chapter
+id="sMD"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>MD: Migrate Data</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>MD : Migration des données</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sMDIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="dn"
+xml:lang="en"
+>JB: Migration is no longer necessary. Should we delete this module?? updated from https://paratext.org/paratext-help-and-support/migration/</p
+><p
+contentType="en"
+xml:lang="en"
+>Migration was the process of moving a project (including all settings files) from <object
+type="tPTPrev"
+></object
+>to Paratext 8. Paratext 9 does not have a migration feature, but it can still be done using Paratext 8. Note: Paratext 9 can read Paratext 8 projects.</p
+><p
+contentType="fr"
+xml:lang="fr"
+>La migration est le processus de déplacement d’un projet (y compris tous les fichiers de paramètres) de Paratext 7 vers <object
+type="tPT"
+></object
+>. Paratext 9 ne dispose pas d'une fonction de migration. Mais il est toujours possible de le faire en utilisant Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ?</object
+></p
+><p
+contentType="en"
+xml:lang="fr"
+>You have already installed <object
+type="tEmphasis"
+>Paratext 8</object
+> and you have a <object
+type="tPTPrev"
+></object
+> project that you want to use in <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Vous avez déjà installé Paratext 8 et vous avez un projet Paratext 7 que vous souhaitez utiliser dans Paratext 9.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important ?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi est-ce important ?</object
+></p
+><p
+contentType="en"
+>In order to get the full functionality of <object
+type="tPT"
+></object
+> your Paratext 7 project needs to be migrated. <object
+type="tPTPrev"
+></object
+> and <object
+type="tPT"
+></object
+> use different send/receive servers so there is no way for a project to be shared with some users on Paratext and some users on <object
+type="tPT"
+></object
+>. It is also hoped that the old (Paratext 7) server will be closed down at the end of December 2018. So it is important to migrate as soon as possible.</p
+><p
+contentType="fr"
+xml:lang="fr"
+>Pour que toutes les fonctionnalités de Paratext 9 soient opérationnelles, il faut que votre projet Paratext 7 soit migré. Paratext 7 et Paratext 9 utilisent des serveurs différents pour faire envoyer/recevoir, alors il n'y aura aucun moyen de partager un projet avec les utilisateurs de Paratext 7 et Paratext 8 (ou 9) en même temps. De ce fait, l’ancien serveur sera éliminé à la fin de décembre 2018. Par conséquent, Il est donc important de faire migrer les projets rapidement.</p
+><p
+contentType="en"
+>Users can have both <object
+type="tPTPrev"
+></object
+> and <object
+type="tPT"
+> and 8</object
+> on their computers at the same time, and run one or the other, but no project can be shared simultaneously with users in <object
+type="tPTPrev"
+></object
+> and other users in <object
+type="tPT"
+></object
+>.</p
+><p
+contentType="fr"
+>Les utilisateurs peuvent avoir Paratext 7 et Paratext 8 (et 9) installés en même temps, et utiliser l'un ou l'autre, mais aucun projet ne peut être partagé entre eux.</p
+><p
+contentType="en"
+>Once you have migrated the project, everyone on the team needs to get the migrated project, and only do work in <object
+type="tPT"
+></object
+> from then on.</p
+><p
+contentType="fr"
+>Dès que vous avez fait migrer le projet, tout le monde doit recevoir le projet migré, et ne travaille qu'à partir de Paratext 8 (ou 9).</p
+><p
+contentType="en"
+>You need to have a good Internet connection to migrate the project, but if you usually work without an Internet connection, you can keep working that way in <object
+type="tPT"
+></object
+> once the project is migrated.</p
+><p
+contentType="fr"
+>Pour faire migrer un projet, il faut avoir une bonne connexion Internet. Si vous travaillez habituellement sans une connexion Internet, vous pouvez continuer sans connexion dès que le projet aura été migré.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce que tu vas faire ?</object
+></p
+><p
+contentType="en"
+>You will</p
+><p
+contentType="fr"
+>Vous allez</p
+><ul
+><li
+contentType="en"
+>migrate a shared project</li
+><li
+contentType="fr"
+>faire migrer un projet partagé:</li
+><li
+contentType="en"
+>migrate a non-shared project</li
+><li
+contentType="fr"
+>faire migrer un projet non partagé:</li
+></ul
+></section1
+><section1
+id="sMigShared"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Migrate Shared project</titleContent
+><titleContent
+contentType="fr"
+>Faire migrer un projet partagé de Paratext 7</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>If you administer a project that is shared in <object
+type="tPTPrev"
+></object
+> and you want to migrate it to <object
+type="tPT"
+></object
+>, this is how you need to proceed.</p
+><p
+contentType="fr"
+>Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le faire migrer vers Paratext 8 (ou 9), voici comment vous devez procéder.</p
+><section2
+id="sPrepMig"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Prepare a project for migration</titleContent
+><titleContent
+contentType="fr"
+>Préparer un projet Paratext 7 pour la migration</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>All your users have to upgrade at the same time.</p
+><p
+contentType="fr"
+>Tous vos utilisateurs doivent faire la mise à jour en même temps.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>All users must do send/receive <object
+type="tmenu"
+>in <object
+type="tPTPrev"
+></object
+></object
+> (then cease working in <object
+type="tPTPrev"
+></object
+>).</li
+><li
+contentType="fr"
+>Tous les utilisateurs doivent envoyer / recevoir dans <object
+type="tmenu"
+>Paratext 7</object
+> (et alors, cessez de travailler dans Paratext 7).</li
+><li
+contentType="en"
+>The Administrator then confirms that the text is in a good state.</li
+><li
+contentType="fr"
+>L'administrateur confirme que le texte est en bon état.</li
+><li
+contentType="en"
+>The Administrator then loads <object
+type="tmenu"
+><object
+type="tPT"
+></object
+>.</object
+></li
+><li
+contentType="fr"
+>L'administrateur lance <object
+type="tmenu"
+>Paratext 8.</object
+></li
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Project/Resource</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier</object
+> &gt; <object
+type="tmenu"
+>Ouvrir projet/ressource</object
+></li
+><li
+contentType="en"
+>Click the box at the bottom left to show <object
+type="tPTPrev"
+></object
+> projects<br
+></br
+><img
+src="supimgeng\image2.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur la case en bas pour afficher les projets Paratext 7<br
+></br
+> <img
+src="supimgeng\image2.png"
+></img
+></li
+><li
+contentType="en"
+>Choose the project to migrate.<br
+></br
+><object
+type="tresult"
+>It will likely be described as “v7, unregistered.”</object
+></li
+><li
+contentType="fr"
+>Choisissez le projet à faire migrer.<br
+></br
+><object
+type="tresult"
+>Il sera probablement marqué comme "<object
+type="ttyped"
+>v7, non-inscrit</object
+>."</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Some active <object
+type="tPTPrev"
+></object
+> projects have been registered already for <object
+type="tPT"
+></object
+>. If yours is one of them, <object
+type="tPT"
+></object
+> will show the project as P7 but show it as registered. You can skip the registration step we’ll show you if your project is already registered.</p
+><p
+contentType="fr"
+>Il se peut que le projet soit marqué comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais vous pouvez sauter l'enregistrement.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to start Migrating the Project.<br
+></br
+><object
+type="tresult"
+>The ‘Migrate shared project’ dialog is displayed.</object
+><br
+></br
+><img
+src="supimgeng\image3.png"
+width="8cm"
+></img
+><br
+></br
+><object
+type="tsub"
+><object
+type="tPT"
+></object
+>may tell you the project must be registered (if it is not preregistered) and it must be migrated to <object
+type="tPT"
+></object
+>.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour lancer la migration du projet.<br
+></br
+><object
+type="tresult"
+>La boîte de dialogue <object
+type="tmenu"
+>Faire migrer un projet partagé</object
+> s'affiche</object
+>.<br
+></br
+><img
+src="supimgfr/\image3.png"
+width="8cm"
+></img
+><br
+></br
+><object
+type="tresult"
+>Paratext 8 peut vous dire que le projet doit être inscrit (s'il n'est pas préenregistré) et qu'il doit être migré vers Paratext 8.</object
+></li
+></ul
+></section2
+><section2
+id="sRegister"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register a project (before migrating the project)</titleContent
+><titleContent
+contentType="fr"
+>Inscrire un projet (avant de faire migrer le projet)</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Register online</object
+> button</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Register Online</object
+> (Inscription en ligne)</li
+><li
+contentType="en"
+>Fill in the web form. (Fields with an asterisk [red star] are required.)</li
+><li
+contentType="fr"
+>Remplissez le formulaire web. (Les champs marqués d'un astérisque sont obligatoires.)</li
+><li
+contentType="en"
+>Short name: You cannot change the project short name,</li
+><li
+contentType="fr"
+>Short name (Nom abrégé) : Le nom abrégé du projet ne sera plus modifiable après ce processus.</li
+><li
+contentType="en"
+>Long project name: You can change the long project name.</li
+><li
+contentType="fr"
+>Full name (Nom complet) : Vous pouvez modifier le nom complet du projet.</li
+><li
+contentType="en"
+><object
+type="tPT"
+></object
+> requires a language identifier for your language. Use the search in the language name to find the ethnologue code for your language. You can modify the language name, or use the “advanced” to specify or create additional information about the language.</li
+><li
+contentType="fr"
+>Paratext 8 nécessite un identifiant de langue pour votre langue. Utilisez la <object
+type="tmenu"
+>Search (recherche)</object
+> dans le nom de la langue pour trouver le code Ethnologue de votre langue.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>Scope</object
+> refers to whether the project will be a complete Bible, or complete Bible including apocrypha, or New Testament, or some other grouping of books. You can add more books to your project scope later as this can be changed after registration.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Scope (L’étendue) </object
+>Est-ce que le projet sera une Bible complète ou une Bible complète comprenant les deutérocanoniques, le Nouveau Testament ou tout autre groupe de livres.</li
+><li
+contentType="en"
+>Translation type refers to whether it is the first translation for this language, a revision of an existing translation, or a new translation, or a translation including study materials, such as a study Bible. For a revision, you have to specify that you have permission from the rights holders of the translation you are revising.</li
+><li
+contentType="fr"
+>Le <object
+type="tmenu"
+>type de traduction</object
+> désigne si le projet est la première traduction pour cette langue, une révision d'une traduction existante, une nouvelle traduction ou une traduction comprenant des notes d'étude, comme une bible d'étude.</li
+><li
+contentType="en"
+>Specify the country where the language is spoken. You can type a few letters of the name then pick the desired country. You can specify more than one country if the language spreads across borders</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Country</object
+> : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières</li
+><li
+contentType="en"
+>The rights holder would be the organization you expect will have the copyright for a print edition. This too can be changed if it needs to be later on.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Rights holder</object
+> : Le détenteur des droits serait l'organisation dont vous attendez le droit d'auteur pour une édition imprimée. Cela peut également être modifié plus tard.</li
+><li
+contentType="en"
+>The last four fields allow you to add more information if it is relevant for describing your project. (None of these are required.)</li
+><li
+contentType="fr"
+>Les quatre derniers champs vous permettent d'ajouter d'autres informations si elles sont pertinentes pour décrire votre projet. (Aucune de ces options n'est requise.)</li
+><li
+contentType="en"
+>You can mark if your project is confidential or not. Only <object
+type="tPT"
+></object
+> registered users can view the name of standard projects, a confidential project will be hidden even from other <object
+type="tPT"
+></object
+> users.</li
+><li
+contentType="fr"
+>Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même devant les autres utilisateurs de Paratext 8.</li
+><li
+contentType="en"
+>Another option is to mark a project as a test or training project. You can use this option for test projects you create, or for projects you use for practice in a training course.</li
+><li
+contentType="fr"
+>Une autre option consiste à marquer un projet comme un projet de test ou de formation. Vous pouvez utiliser cette option pour les projets de test que vous créez ou pour les projets que vous utilisez pour la pratique dans un cours de formation.</li
+><li
+contentType="en"
+>The last requirement to register is stating that you agree to follow the FOBAI guidelines in your translation project, and you agree to store a backup copy of your project in the Digital Bible Library.</li
+><li
+contentType="fr"
+>Confirmez que vous acceptez de suivre les directives FOBAI dans votre projet de traduction et vous acceptez de stocker une copie de sauvegarde de votre projet dans la Bibliothèque Biblique Numérique. <br
+></br
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>The Digital Bible Library is a tool for making translations available online or for mobile users, but your project will not be available to anyone until you agree to make it available.</p
+><p
+contentType="fr"
+>La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>To submit the registration, click <object
+type="tmenu"
+>Submit Registration</object
+>.<br
+></br
+><object
+type="tresult"
+>The registry should tell you that the project registered successfully. (You may need to scroll to the top of the page to see this).</object
+> <br
+></br
+><img
+src="supimgeng\image4.png"
+width="5in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Submit Registration </object
+>(Soumettre un enregistrement)<br
+></br
+><object
+type="tresult"
+>Un message s’affiche « Projet enregistré avec succès. »</object
+><br
+></br
+><img
+src="supimgeng\image4.png"
+width="5in"
+></img
+></li
+></ul
+><p
+></p
+><ul
+><li
+contentType="en"
+>Go back to Paratext.<br
+></br
+><object
+type="tresult"
+>It should detect that the project is now registered, and inform you of that.</object
+><br
+></br
+><img
+src="supimgeng\image5.png"
+width="3in"
+></img
+></li
+><li
+contentType="fr"
+>Retournez à Paratext <br
+></br
+><object
+type="tresult"
+>Il devrait détecter que le projet est maintenant enregistré et vous en informer.</object
+><br
+></br
+><img
+src="supimgeng\image5.png"
+width="3in"
+></img
+></li
+></ul
+></section2
+><section2
+XeLaTeXSpecial="pagebreak"
+id="sMigRep"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Migrating a registered project</titleContent
+><titleContent
+contentType="fr"
+>Migration d'un projet inscrit</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+contentType="fr"
+framedtype="tTeacher"
+><p
+contentType="en"
+>If you have just registered your project, your project is already open and you can continue with the migration. If not, then open the project you want to migrate.</p
+><p
+contentType="fr"
+>Si vous venez d’inscrire votre projet, votre projet est déjà ouvert et vous pouvez continuer avec la migration. Sinon ouvrir le projet à faire migrer.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>The migration step has several boxes you have to check off to verify that you understand what is involved.<br
+></br
+><img
+src="supimgeng\image5.png"
+></img
+></li
+><li
+contentType="fr"
+>L'étape de migration comporte plusieurs cases que vous devez cocher pour vérifier que vous comprenez ce qui est impliqué.<br
+></br
+><img
+src="supimgeng\image5.png"
+></img
+></li
+><li
+contentType="en"
+>Put a <object
+type="tmenu"
+>check</object
+> in these boxes if they are true, then click <object
+type="tmenu"
+>Migrate now</object
+> to proceed.</li
+><li
+contentType="fr"
+>Je suis le membre de l’équipe qui a été sélectionné pour faire ce processus pour toute l’équipe.</li
+><li
+contentType="fr"
+>Notre équipe comprend que le projet PT8 sera la copie officielle du projet</li
+><li
+contentType="fr"
+>Tous les membres de l’équipe ont cessé de modifier la copie de PT7 du projet.</li
+><li
+contentType="fr"
+>Tous les membres de l'équipe ont effectué un Envoyer/Recevoir final de leurs modifications dans PT7.</li
+><li
+contentType="fr"
+>Cet ordinateur a reçu les changements dans PT7.</li
+><li
+contentType="fr"
+>Cochez ces cases si elles sont vraies, puis cliquez sur <object
+type="tmenu"
+>Migrate Now</object
+> (Faire migrer maintenant) pour continuer.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If you need to do something else before you are ready to migrate, click “<object
+type="tmenu"
+>Migrate Later</object
+>,” and go finish your preparations.</p
+><p
+contentType="fr"
+>Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez sur <object
+type="tmenu"
+>Migrate later</object
+> (Faire migrer plus tard), puis terminez vos préparatifs.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>When you click <object
+type="tmenu"
+>Migrate now</object
+>, Paratext will copy the project from your <object
+type="tPTPrev"
+></object
+> into your <object
+type="tPT"
+></object
+>, and will also do a send/receive to the Internet.</li
+><li
+contentType="fr"
+>Lorsque vous cliquez sur <object
+type="tmenu"
+>Faire migrer maintenant</object
+>, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoyer/recevoir à Internet.</li
+><li
+contentType="en"
+>If you get a warning about doing a final send/receive in <object
+type="tEmphasis"
+>Paratext 7</object
+>, <ul
+><li
+>Click <object
+type="tEmphasis"
+>OK</object
+><br
+></br
+><object
+type="tresult"
+>this stops the migration process</object
+>,</li
+><li
+>Mark a point in the Project History in <object
+type="tEmphasis"
+>Paratext 7</object
+>,</li
+><li
+>Then <object
+type="tEmphasis"
+>restart the migration</object
+> in Paratext <object
+type="tEmphasis"
+>8</object
+>.</li
+></ul
+></li
+><li
+contentType="fr"
+>Si vous recevez un avertissement au sujet d'un envoyer/recevoir final dans <object
+type="tEmphasis"
+>Paratext 7</object
+>,<ul
+><li
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>, <br
+></br
+><object
+type="tresult"
+>le processus de migration arrete</object
+>,</li
+><li
+>Marquez un point de repère dans l'historique du projet dans <object
+type="tEmphasis"
+>Paratext 7,</object
+></li
+><li
+>puis <object
+type="tEmphasis"
+>redémarrez la migration</object
+>dans Paratext <object
+type="tEmphasis"
+>8</object
+>.</li
+></ul
+></li
+><li
+contentType="en"
+>Now your colleagues can go to <object
+type="tmenu"
+><object
+type="tPT"
+></object
+></object
+>and do a <object
+type="tmenu"
+>Send/Receive</object
+> to receive the migrated project.</li
+><li
+contentType="fr"
+>Maintenant, vos collègues peuvent aller à <object
+type="tmenu"
+>Paratext 9</object
+> et faire un <object
+type="tmenu"
+>envoyer / recevoir</object
+> pour recevoir le projet migré.</li
+></ul
+><framedUnit
+contentType="fr"
+framedtype="tTeacher"
+><p
+contentType="en"
+>If they do not have an Internet connection, you can do a send/receive to USB or a network folder, and they can receive the project into <object
+type="tPT"
+></object
+>that way.</p
+><p
+contentType="fr"
+>Si ils ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer / recevoir vers USB ou un dossier réseau, et ils peuvent recevoir le projet dans Paratext 9 de cette façon.</p
+></framedUnit
+></section2
+></section1
+><section1
+id="sProjEtc"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Additional Project settings</titleContent
+><titleContent
+contentType="fr"
+>Paramètres supplémentaires du projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Language identifier</object
+>: After you click “Migrate now”, <object
+type="tPT"
+></object
+> may tell you that need to specify a language identifier for your project.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Identificateur de langue : </object
+>Après avoir cliqué sur <object
+type="tmenu"
+>Faire migrer maintenant</object
+>, il se peut que Paratext 8 vous dise qu'il faut spécifier un identificateur de langue pour votre projet.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can verify what the language name and language identifier are for your project by going to <object
+type="tmenu"
+>≡ Tab</object
+>, under <object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Project Properties</object
+> &gt; <object
+type="tmenu"
+>Language settings</object
+>. The language identifier is either in brackets after the language name, or listed separately below the name.</p
+><p
+contentType="fr"
+>Vous pouvez vérifier le nom de la langue et l'identificateur de langue de votre projet en allant dans <object
+type="tmenu"
+>≡ Onglet</object
+>, sous <object
+type="tmenu"
+>Projet</object
+> &gt; <object
+type="tmenu"
+>Paramètres du projet </object
+>&gt; <object
+type="tmenu"
+>Paramètres du langue</object
+>. L'identifiant de la langue se trouve soit entre parenthèses après le nom de la langue ou en dessous du nom.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Books</object
+> The project properties and settings has a <object
+type="tmenu"
+>Books</object
+> tab, you specify here the books that you plan to track their progress in your project.<br
+></br
+><img
+src="supimgeng\image6.png"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Livres</object
+> : Les paramètres du projet et propriétés du projet comportent un onglet <object
+type="tmenu"
+>Livres</object
+>, vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.<br
+></br
+><img
+src="supimgfr/image10.png"
+></img
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can choose book by book, or specify <object
+type="tmenu"
+>Old Testament</object
+>, <object
+type="tmenu"
+>New Testament</object
+>, <object
+type="tmenu"
+>Deuterocanon</object
+> by using the buttons. You can change this list of books later on in the project if your plans for the project change.</p
+><p
+contentType="fr"
+>Vous pouvez choisir des livres individuels, l'un après l'autre, ou spécifier l'Ancien Testament, le Nouveau Testament ou les livres deutérocanoniques en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.</p
+></framedUnit
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Once you have migrated your project, you need to migrate the back translation and any other daughter projects (one after the other).</p
+><p
+contentType="fr"
+>N.B. Après avoir fait migrer votre projet, il faut également faire migrer la retraduction, et tous les projets de traduction-filles l’un après l’autre.</p
+></framedUnit
+></section1
+><section1
+id="sMIgNS"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Migrate a non-shared project</titleContent
+><titleContent
+contentType="fr"
+>Migrer un projet non partagé</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If a project was not shared in <object
+type="tPTPrev"
+></object
+> then you do not have to register it in order to migrate.</p
+><p
+contentType="fr"
+>Si un projet n’a pas été partagé en Paratext 7, vous n’avez pas besoin de l’inscrire avant de le faire migrer, mais c’est fortement recommandé.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Run Paratext 8</li
+><li
+contentType="fr"
+>Lancez Paratext 8</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>Open Project/Resource</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Fichier &gt; Ouvrir projet/ressource</object
+></li
+><li
+contentType="en"
+>Click "<object
+type="tmenu"
+>Show <object
+type="tPTPrev"
+></object
+> Projects</object
+>”</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Show Paratext 7 projects (Afficher les projets Paratext 7)</object
+></li
+><li
+contentType="en"
+>Choose the desired project</li
+><li
+contentType="fr"
+>Choisissez le projet à faire migrer.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Migrate Now</object
+><br
+></br
+><img
+src="supimgeng\image7.png"
+></img
+><br
+></br
+><object
+type="tresult"
+>When you click “Migrate” the project will be migrated to the <object
+type="tPT"
+></object
+> folder and ready to be used. The registration status will determine what functionality exists for the project.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Migrate now </object
+>(faire migrer maintenant)<br
+></br
+><img
+src="supimgfr\image11.png"
+></img
+><br
+></br
+>Lorsque vous cliquez sur <object
+type="tmenu"
+>Migrate Now</object
+> le projet sera migré vers le dossier Paratext 8 prêt à être utilisé. Le statut d’enregistrement déterminera les fonctionnalités qui sont disponibles pour le projet.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Non-shared projects don't have to be registered but it is recommended.</p
+><p
+contentType="fr"
+>N.B. Les projets non partagés n’ont pas besoin d’être inscrits, mais il est conseillé.</p
+></framedUnit
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Remember, no one should edit the project anymore in <object
+type="tPTPrev"
+></object
+>. That would be wasted effort as no one else will see their changes. To help your team members remember this, you could have them remove the project from their <object
+type="tPTPrev"
+></object
+> once they have gotten it in <object
+type="tPT"
+></object
+>. Or maybe they can uninstall <object
+type="tPTPrev"
+></object
+> from their computer if they don't need it for other projects.</p
+><p
+contentType="fr"
+>Rappelez-vous que personne ne devra plus modifier le projet dans Paratext 7. Ce serait un effort gaspillé, car personne d'autre ne verra jamais leurs changements. Pour aider les membres de votre équipe à se souvenir de cela, vous pourriez supprimer le projet de leur Paratext 7 une fois qu'ils l'ont obtenu en Paratext 8. Autrement, ils peuvent désinstaller Paratext 7 de leur ordinateur s'ils n'en ont pas besoin pour d'autres projets.</p
+></framedUnit
+></section1
+></chapter
+><chapter
+id="sREG"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>REG: Registration</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>INS : Inscription</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sREGIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Starting with <object
+type="tEmphasis"
+>Paratext 8</object
+> it is a requirement that projects share their basic metadata information with the translation community. It is strongly encouraged that they share progress information [some organizations and/or donors may require this].</p
+><p
+contentType="fr"
+>Désormais, c’est-à-dire à partir de Paratext 8, il est obligatoire que les projets partagent leurs informations de base ou métadonnées avec la communauté de traduction. Il est fortement encouragé à partager les informations sur les progrès réalisés. [Certaines organisations et/ou certains bailleurs de fonds peuvent l’exiger.]</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous</object
+></p
+><p
+contentType="en"
+><object
+type="tPT"
+></object
+> has been installed on your computer and you have the <object
+type="tPTPrev"
+></object
+> registration codes for your team members.</p
+><p
+contentType="fr"
+>Paratext 8 est déjà installé et vous avez les codes d’inscription Paratext 7 pour les utilisateurs.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ?</object
+></p
+><p
+contentType="en"
+>In <object
+type="tPT"
+></object
+> both users and projects should to be registered. Access to specific text resources, e.g. TEV, is determined by what organization you are a part of.</p
+><p
+contentType="fr"
+>Dans Paratext 8, l’on doit inscrire aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie.</p
+><p
+contentType="en"
+>Projects may be registered by the administrator (or a consultant serving as an administrator)</p
+><p
+contentType="fr"
+>Les projets peuvent être inscrits par l'administrateur (ou un conseiller servant d'administrateur).</p
+><p
+contentType="en"
+>Other organizations/users are notified and may object to BoG. Basic project metadata information is available to all in ParaTExt community</p
+><p
+contentType="fr"
+>D’autres organisations / utilisateurs sont avisées de vos actions et pourraient s’opposer à BoG (Board of Governors). Des informations de base sur les métadonnées du projet sont accessibles à tous les membres de la communauté de Paratext.</p
+><p
+contentType="en"
+>If your project is not registered you will not have access to</p
+><p
+contentType="fr"
+>Si votre projet n’est pas inscrit, vous n’aurez pas accès à</p
+><ul
+><li
+contentType="en"
+>Interlinearizer</li
+><li
+contentType="fr"
+>la générateur d’interlinéaire.</li
+><li
+contentType="en"
+>Internet Send/Receive</li
+><li
+contentType="fr"
+>envoyer / recevoir par Internet.</li
+><li
+contentType="en"
+>statistical glossing tools (guess translation)</li
+><li
+contentType="fr"
+>outils de glose statistique (proposer des traductions/équivalents).</li
+><li
+contentType="en"
+>Print Draft</li
+><li
+contentType="fr"
+>imprimer l’ébauche.</li
+></ul
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce que vous allez faire ?</object
+></p
+><ul
+><li
+contentType="en"
+>You will register a P9 user</li
+><li
+contentType="fr"
+>Vous allez inscrire un utilisateur Paratext 9</li
+><li
+contentType="en"
+>You will register a new P9 project</li
+><li
+contentType="fr"
+>Vous allez inscrire un nouveau projet Paratext 9</li
+><li
+contentType="en"
+>You will see what information is displayed in the ParaTExt Registry for a registered project.</li
+><li
+contentType="fr"
+>Vous verrez les informations qu’un projet inscrit affiche dans le Registre Paratext</li
+></ul
+></section1
+><section1
+id="sRegGoogle"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register for (with a Google account)</titleContent
+><titleContent
+contentType="fr"
+>S'inscrire avec un compte Google</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> in your web browser.<br
+></br
+><object
+type="tresult"
+>The “Sign in” screen is displayed.</object
+></li
+><li
+contentType="fr"
+>Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+><br
+></br
+><object
+type="tresult"
+>L'écran "Connexion" s'affiche.</object
+></li
+><li
+contentType="en"
+>Enter your email account.<br
+></br
+><object
+type="tresult"
+>The site will check if your account exists, and if it is on a Google server, you will have the choice of authenticating with Google.</object
+></li
+><li
+contentType="fr"
+>Tapez votre adresse émail <br
+></br
+><object
+type="tresult"
+>(Votre adresse sera vérifiée)</object
+></li
+><li
+contentType="en"
+>Choose to authenticate with Google<br
+></br
+><object
+type="tresult"
+>A new screen is displayed asking for your password.</object
+></li
+><li
+contentType="fr"
+>Connectez-vous à l’aide de votre adresse email (Gmail)<br
+></br
+><object
+type="tresult"
+>Un nouvel écran s'affiche pour demander votre mot de passe.</object
+></li
+><li
+contentType="en"
+>Enter your <object
+type="tmenu"
+>Google account password</object
+>.</li
+><li
+contentType="fr"
+>Tapez votre mot de passe Google</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>yes</object
+> to authorize the Paratext site to use your profile information.<br
+></br
+><object
+type="tresult"
+>You are then ready to start filling in your Paratext registration.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Yes</object
+> (Oui) pour autoriser Paratext à utiliser votre profile. <br
+></br
+><object
+type="tresult"
+><object
+type="tmenu"
+>New Paratext 9 User</object
+> s’affiche et vous pouvez remplir le formulaire.</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If you do not have a Google address, see section <sectionRef
+sec="sNonGoogle"
+showTitle="numberOnly"
+textBefore="useDefault"
+></sectionRef
+></p
+><p
+contentType="fr"
+>Si vous n’avez pas d’adresse Gmail, voir section <sectionRef
+sec="sNonGoogle"
+showTitle="numberOnly"
+textBefore="useDefault"
+></sectionRef
+></p
+></framedUnit
+></section1
+><section1
+id="sFillReg"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Filling in the registration</titleContent
+><titleContent
+contentType="fr"
+>Remplir le formulaire</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the appropriate circle to choose your <object
+type="tmenu"
+>registration type</object
+> (new registration, previous <object
+type="tPTPrev"
+></object
+> registration, or previous <object
+type="tPT"
+></object
+> registration).</li
+><li
+contentType="fr"
+>Choisissez l’un des trois choix d’utilisateur (nouveau, déjà Paratext 7, déjà Paratext 8)</li
+><li
+contentType="en"
+>If you are a Paratext 7 user, fill-in your Paratext 7 code<br
+></br
+></li
+><li
+contentType="fr"
+>Si vous êtes un utilisateur de Paratext 7, fournissez votre code d’enregistrement Paratext 7 <br
+></br
+></li
+><li
+contentType="en"
+>Choose your <object
+type="tmenu"
+>organization</object
+> from the list, or if you are not a member you can leave this blank.</li
+><li
+contentType="fr"
+>Choisissez votre organisation (ou laissez le champ vide)</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Anyone can register to use Paratext, but people who are not members of a translation organization and who are not members of a registered project will not be able to use all the features of Paratext and will have access to only a few resources.</p
+><p
+contentType="fr"
+>Toute personne peut s'inscrire pour utiliser Paratext, mais les personnes qui ne sont pas membres d'un organisme de traduction et qui ne sont pas membres d'un projet enregistré ne pourront utiliser toutes les fonctionnalités de Paratext et ne pourront accéder qu'à quelques ressources.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Select your <object
+type="tmenu"
+>country</object
+>.</li
+><li
+contentType="fr"
+>Choisissez votre <object
+type="tmenu"
+>pays</object
+></li
+><li
+contentType="en"
+>Enter if relevant your <object
+type="tmenu"
+>field entity and your supervisor</object
+></li
+><li
+contentType="fr"
+>Entrez, si pertinent, votre filiale (entité sur le terrain) et votre superviseur</li
+><li
+contentType="en"
+>Explain <object
+type="tmenu"
+>why</object
+> you want to use Paratext.</li
+><li
+contentType="fr"
+>Expliquez la raison pourquoi vous voulez utiliser Paratext.</li
+><li
+contentType="en"
+>Check the box at the bottom if you want to get émail announcements about Paratext updates and news.</li
+><li
+contentType="fr"
+>Cochez (ou pas) la case pour recevoir les annonces.</li
+><li
+contentType="en"
+>When finished, click “<object
+type="tmenu"
+>Register</object
+>”<br
+></br
+><object
+type="tresult"
+>The server will give you a code. It will also send this to your émail.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Register</object
+> (S’inscrire) <br
+></br
+><object
+type="tresult"
+>Vous recevrez votre code d’inscription (et également par émail).</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Keep that email, or to the code that is displayed here, because if you lose it, there is no way to look it up again. (This is a security feature, user codes are not stored on the server so they cannot be stolen if someone hacks onto the server)</p
+><p
+contentType="fr"
+>Gardez bien cet email, ou le code qui est affiché ici, parce que si vous le perdez, il n'y a aucun moyen de le chercher encore. (Il s'agit d'une fonctionnalité de sécurité, les codes d’utilisateur ne sont pas stockés sur le serveur pour qu'ils ne puissent pas être volés si quelqu'un attaque le serveur.)</p
+></framedUnit
+></section1
+><section1
+id="sNonGoogle"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register for Paratext with a non-google account</titleContent
+><titleContent
+contentType="fr"
+>S'inscrire sans un compte Google</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>If your email account is not on a Google server, or if it is but you choose to not use Google to authenticate, the registry server will ask you to enter a password.</li
+><li
+contentType="fr"
+>Si votre compte email ne se trouve pas sur un serveur Google, ou si vous choisissez de ne pas utiliser Google pour l'authentification, le serveur de registre vous demandera d'entrer un mot de passe.</li
+><li
+contentType="en"
+>Enter the password you want to set up</li
+><li
+contentType="fr"
+>Entrez le mot de passe que vous souhaitez configurer</li
+><li
+contentType="en"
+>Enter it again as a confirmation<br
+></br
+><object
+type="tresult"
+>The server will send an email to your account with a link to verify.</object
+></li
+><li
+contentType="fr"
+>Entrez le mot de passe à nouveau comme confirmation <br
+></br
+><object
+type="tresult"
+>Le serveur enverra un courrier électronique à votre compte avec un lien de vérification.</object
+></li
+><li
+contentType="en"
+>Open your email, go to the link, and proceed to register for Paratext (see <sectionRef
+sec="sFillReg"
+></sectionRef
+>).</li
+><li
+contentType="fr"
+>Ouvrez votre courrier électronique, accédez au lien et procédez à l'enregistrement de Paratext (voir <sectionRef
+sec="sFillReg"
+></sectionRef
+>).</li
+></ul
+></section1
+><section1
+id="sChangeCode"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Change (generate) a new Paratext code</titleContent
+><titleContent
+contentType="fr"
+>Changer (générer) un code nouveau</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>There are many reasons why you may need to change your Paratext code, one common reason is if your computer is stolen or crashes.</p
+><p
+contentType="fr"
+>Il existe diverses raisons pour lesquelles vous devrez changer votre code Paratext dans le futur. L'une des raisons les plus courantes est le vol ou la panne de votre ordinateur.</p
+></framedUnit
+><section2
+id="sGenNewCode"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Change your own code</titleContent
+><titleContent
+contentType="fr"
+>Changer votre propre code</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Go to the registration website, <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> .</li
+><li
+contentType="fr"
+>Accédez au site d'inscription <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+> .</li
+><li
+contentType="en"
+>Log in (if you are not logged in) <br
+></br
+></li
+><li
+contentType="fr"
+>Se connecter (si vous n'êtes pas connecté)</li
+><li
+contentType="en"
+>Click on your user name at the top left.<br
+></br
+><object
+type="tresult"
+>A menu is displayed.</object
+><br
+></br
+> <img
+src="supimgeng\image8.png"
+width="2.45cm"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur le nom d'utilisateur en haut à gauche.<br
+></br
+><object
+type="tresult"
+>Un menu s'affiche.</object
+><br
+></br
+> <img
+src="supimgeng\image8.png"
+width="2.45cm"
+></img
+></li
+><li
+contentType="en"
+>Click on <object
+type="tmenu"
+>Settings</object
+>.<br
+></br
+><img
+src="supimgeng\image9.9.png"
+width="4.5cm"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Settings </object
+>(paramètres).<br
+></br
+><img
+src="supimgeng\image9.9.png"
+width="4.5cm"
+></img
+></li
+><li
+contentType="en"
+>Below Paratext, click <object
+type="tmenu"
+>Registration</object
+>. <br
+></br
+><object
+type="tresult"
+>The registration Details screen is displayed.</object
+></li
+><li
+contentType="fr"
+>Sous Paratext, cliquez sur ‘<object
+type="tmenu"
+>Registration</object
+>”.<br
+></br
+><object
+type="tresult"
+>L'écran des détails d'enregistrement s'affiche</object
+></li
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Generate button</object
+> to generate a new code. <br
+></br
+><img
+src="supimgeng\image10.png"
+width="2.57cm"
+></img
+><br
+></br
+><object
+type="tresult"
+>The code will be sent to your email address.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Generate</object
+> pour générer un nouveau code. <br
+></br
+><img
+src="supimgeng\image10.png"
+width="2.57cm"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tresult"
+>Le code sera envoyé à votre adresse email.</object
+></li
+><li
+contentType="en"
+>Start Paratext<br
+></br
+><object
+type="tresult"
+>If it connects to the Internet it will detect that the old code is no longer valid, and it will ask you to update your registration info.</object
+></li
+><li
+contentType="fr"
+>Lancer Paratext<br
+></br
+><object
+type="tresult"
+>S'il se connecte à Internet, il détecte que l'ancien code n'est plus valide et il vous demandera de mettre à jour vos informations d'inscription.</object
+></li
+><li
+contentType="en"
+>Go to your email, and copy the new code.</li
+><li
+contentType="fr"
+>Allez à votre courrier électronique et copiez le nouveau code.</li
+><li
+contentType="en"
+>Go back to Paratext<br
+></br
+><object
+type="tresult"
+>It may already have pasted in your new code.</object
+></li
+><li
+contentType="fr"
+>Retournez à Paratext <br
+></br
+><object
+type="tresult"
+>Il est possible que Paratext ait déjà trouvé votre nouveau code.</object
+></li
+><li
+contentType="en"
+>If it has not, paste in the new code into the registration form, and click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>You should be reregistered.</object
+></li
+><li
+contentType="fr"
+>Si ce n'est pas le cas, collez le nouveau code dans le formulaire d'inscription et cliquez sur <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+><object
+type="tresult"
+>Vous êtes réinscrit.</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You will need to do this on any other computer that your Paratext code is installed on as well.</p
+><p
+contentType="fr"
+>Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code de Paratext est installé.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>If Paratext is not connecting to the Internet to detect that you need to give a new code, go to</li
+><li
+contentType="fr"
+>Si Paratext ne signale pas un changement de code, vous pouvez le faire de la façon suivante</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Help</object
+> &gt; <object
+type="tmenu"
+>Registration Information</object
+> and paste the code there.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+>, sous &gt; <object
+type="tmenu"
+>Aide</object
+> &gt; <object
+type="tmenu"
+>Informations d'inscription</object
+> et collez-y le code.</li
+></ul
+></section2
+><section2
+id="sGenOtherCode"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Change a user's code (who you registered)</titleContent
+><titleContent
+contentType="fr"
+>Changer un code pour un utilisateur (que vous avez inscrit)</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Go to the registration website, <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="fr"
+>Accédez au site d'inscription <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="en"
+>Log in (if you are not logged in) <br
+></br
+></li
+><li
+contentType="fr"
+>Se connecter (si vous n'êtes pas connecté)</li
+><li
+contentType="en"
+>Click on User</li
+><li
+contentType="fr"
+>Cliquez sur User</li
+><li
+contentType="en"
+>Click on the user's name in the list</li
+><li
+contentType="fr"
+>Cliquez sur le nom d'utilisateur de la liste</li
+><li
+contentType="en"
+>Click on the down arrow beside View</li
+><li
+contentType="fr"
+>Cliquez sur la flèche bas (à droite de View)</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Generate code</object
+><br
+></br
+><br
+></br
+><img
+src="supimgeng\GenerateCodeAddedUser.png"
+></img
+><br
+></br
+>A message is displayed.<br
+></br
+><img
+src="supimgeng\GenerateUsersCodeProceed.png"
+></img
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Generate code</object
+><br
+></br
+><br
+></br
+><img
+src="supimgfr\GenerateCodeAddedUser.png"
+></img
+><br
+></br
+>Un message s'affiche.<br
+></br
+><img
+src="supimgfr\GenerateUsersCodeProceed.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Proceed</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Proceed</object
+></li
+><li
+contentType="en"
+>Check your email for the code.</li
+><li
+contentType="fr"
+>Regardez votre email.</li
+></ul
+></section2
+></section1
+><section1
+id="sREGNoEmail"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register a new user (who does not have an email address)</titleContent
+><titleContent
+contentType="fr"
+>Inscrire un Utilisateur (sans adresse courriel)</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.</p
+><p
+contentType="fr"
+>Tout administrateur d'un projet inscrit peut créer de nouveaux inscriptions d'utilisateurs s'ils doivent ajouter des personnes à leur projet. Ces utilisateurs n'ont pas besoin d'avoir une adresse email.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Go to <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="fr"
+>Accédez à <link
+href="https://registry.paratext.org"
+>https://registry.paratext.org</link
+></li
+><li
+contentType="en"
+>Log in if you are not already logged in.</li
+><li
+contentType="fr"
+>Connectez-vous à l’aide de votre adresse email</li
+><li
+contentType="en"
+>Click on <object
+type="tmenu"
+>Users</object
+> <br
+></br
+> <img
+src="supimgeng\image11.png"
+width="5in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Users</object
+><br
+></br
+><img
+src="supimgeng\image11.png"
+width="5in"
+></img
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>“+ Register new user”</object
+> button.<br
+></br
+><object
+type="tresult"
+>The new user registration form is displayed.</object
+></li
+></ul
+><p
+contentType="en"
+><img
+src="supimgeng\image12.9.png"
+width="6in"
+></img
+></p
+><ul
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>+Register New User</object
+> <br
+></br
+><object
+type="tresult"
+>Le dialogue New Paratext 9 User s’affiche.</object
+></li
+></ul
+><p
+contentType="fr"
+><img
+src="supimgeng\image12.9.png"
+width="5in"
+></img
+></p
+><ul
+><li
+contentType="en"
+>Fill in their name, and the rest of their information.</li
+><li
+contentType="fr"
+>Remplissez le formulaire avec leur nom, etc.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>A user added by someone else cannot be made an administrator of a project, nor a consultant. If you would like to make someone a consultant or administrator they can register themselves for Paratext, then you can add their name to the project.</p
+><p
+contentType="fr"
+>Un utilisateur ajouté par quelqu'un d'autre ne peut pas être un administrateur d'un projet ni un conseiller. Si vous souhaitez faire de quelqu'un un conseiller ou un administrateur, doivent s'inscrire pour Paratext eux-mêmes, puis vous pouvez ajouter leur nom au projet.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>When competed, click “<object
+type="tmenu"
+>Create</object
+>”<br
+></br
+><object
+type="tresult"
+>The server should respond by e-mailing you the user code for the new user.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Create</object
+> (Créer)<br
+></br
+><object
+type="tresult"
+>Le code d’inscription pour le nouvel utilisateur sera envoyé par courrier électronique à l'administrateur après avoir été approuvé.</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Hang onto this code, because it cannot be recovered again if you lose it. But you can generate a new code see <sectionRef
+sec="sChangeCode"
+></sectionRef
+></p
+><p
+contentType="fr"
+>Gardez bien ce code, car il ne peut pas être récupéré si vous le perdez. Pourtant vous pouvez générer un nouveau code, voir <sectionRef
+sec="sChangeCode"
+></sectionRef
+></p
+></framedUnit
+></section1
+><section1
+id="sREGIndiv"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Translation project by an unrecognised individual/organisation</titleContent
+><titleContent
+contentType="fr"
+>Si le projet de traduction ne fait pas partie d’une organisation reconnue</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>If a translator is not part of a recognised organisation, s/he can apply to the BoG (<link
+href="mailto:boardofgovernors@paratext.org"
+>boardofgovernors@paratext.org</link
+>) to be members of "Independent Translators" pseudo-organization</li
+><li
+contentType="fr"
+>Si un traducteur ne fait pas partie d'un organisme reconnu, on pourra faire une demande à BoG (<link
+href="mailto:boardofgovernors@paratext.org"
+>boardofgovernors@paratext.org</link
+>) pour devenir membre de la pseudo-organisation « Independent Translators ».</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>It is unclear how many text resource owners will grant access to this group</p
+><p
+contentType="fr"
+>Il se peut que seulement peu de propriétaires de textes ressources accordent l’accès à ce groupe.</p
+></framedUnit
+></section1
+></chapter
+><chapter
+id="sCP"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>CP: Creating a new project</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>CP : Créer un nouveau projet</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sCPIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>In this module, you will create and register a new project.</p
+><p
+contentType="fr"
+>Dans ce module, vous allez créer et inscrire un nouveau projet.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ?</object
+></p
+><p
+contentType="en"
+>You have already installed Paratext and registered a user.</p
+><p
+contentType="fr"
+xml:lang="fr"
+>Vous avez déjà installé Paratext 9 et inscrit un utilisateur.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ?</object
+></p
+><p
+contentType="en"
+>A new aspect in <object
+type="tPT"
+></object
+> is that projects need to be registered as well as users. This may feel like an extra complication, but it does offer benefits to users.</p
+><p
+contentType="fr"
+>Un aspect nouveau dans Paratext 8 et 9 est que les projets et les utilisateurs doivent être inscrits. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.</p
+><p
+contentType="en"
+>As we saw in the user registration section, the project administrator can create registrations for users they want to be part of their project.</p
+><p
+contentType="fr"
+>Comme nous avons vu dans la section d'inscription des utilisateurs, l'administrateur d'un projet peut créer des inscriptions pour les utilisateurs dont ils souhaitent faire participer à son projet.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu’est-ce qu'on va faire ?</object
+></p
+><p
+contentType="en"
+>We will create and register a new project.</p
+><p
+contentType="fr"
+>On va créer et inscrire un nouveau projet.</p
+></section1
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sCPStart"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Create a new project</titleContent
+><titleContent
+contentType="fr"
+>Créer un nouveau projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>File</object
+> &gt; <object
+type="tmenu"
+>New Project</object
+><br
+></br
+><object
+type="tresult"
+>The <object
+type="tmenu"
+>New project</object
+> dialog is displayed.</object
+><br
+></br
+><img
+src="../PtManuals/supimgeng/image13.png"
+width="5in"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Paratext</object
+>, sous <object
+type="tmenu"
+>Paratext</object
+> &gt; <object
+type="tmenu"
+>Nouveau projet</object
+> <br
+></br
+><object
+type="tresult"
+>La boîte de dialogue <object
+type="tmenu"
+>Propriétés et paramètres de projet</object
+> s'affiche.</object
+> <br
+></br
+><img
+src="../PtManuals/supimgfr/ProjProp.png"
+width="4in"
+></img
+></li
+></ul
+></section1
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sCPName"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Name for the project</titleContent
+><titleContent
+contentType="fr"
+>Changer le nom du projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Edit</object
+> button<br
+></br
+><img
+src="supimgeng\image14.png"
+width="7cm"
+></img
+><br
+></br
+><object
+type="tresult"
+>The “edit name” dialog is displayed </object
+><br
+></br
+> <img
+src="supimgeng\image15.png"
+width="7cm"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Edit</object
+> (Modifier)<br
+></br
+><img
+src="supimgfr\image19.png"
+width="7cm"
+></img
+><br
+></br
+><object
+type="tresult"
+>La boîte de dialogue <object
+type="tmenu"
+>Modifier le nom complet</object
+> s'affiche</object
+><br
+></br
+><img
+src="supimgfr\image20.png"
+></img
+></li
+></ul
+><ul
+><li
+contentType="en"
+>In the name section, under Full name, type a name which includes the name of the language.</li
+><li
+contentType="en"
+>Under short name enter the <object
+type="tEmphasis"
+>ISO</object
+> code for the language.</li
+><li
+contentType="fr"
+>Dans la section <object
+type="tmenu"
+>Nom complet</object
+>, tapez un nom qui inclut le nom de la langue</li
+><li
+contentType="fr"
+>Sous <object
+type="tmenu"
+>Nom abrégé</object
+>, tapez le code <object
+type="tEmphasis"
+>ISO</object
+> pour la langue.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Once you create a project name, the short name cannot be changed, because this is the name Paratext will give to the folder containing the project files, and also the name given to the project on the Internet server. (However, you can convert the project to a new project with a different short name. But it can take many hours to convert a project.)</p
+><p
+contentType="fr"
+>Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet. (Cependant, vous pouvez convertir le projet vers un nouveau projet avec un nom abrégé diffèrent. Mais la conversion d'un projet peut prendre de nombreuses heures.)</p
+></framedUnit
+></section1
+><section1
+id="sCPLang"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Specify language</titleContent
+><titleContent
+contentType="fr"
+>Spécifier la langue</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>If you have another Paratext project in the same language, you can just pick the language from the list in Paratext <object
+type="tmenu"
+>[2]</object
+>. If not, you will need to create a new language.</li
+><li
+contentType="fr"
+>Si vous avez un autre projet Paratext dans la même langue, vous pouvez déjà choisir la langue dans la liste dans Paratext <object
+type="tmenu"
+>[2]</object
+>. Sinon, vous devrez créer une nouvelle langue.</li
+><li
+contentType="en"
+>Click on <object
+type="tmenu"
+>New</object
+><br
+></br
+><img
+src="supimgeng\image16.png"
+></img
+><br
+></br
+><object
+type="tresult"
+>The Choose language identifier box is displayed . </object
+><br
+></br
+> <img
+src="supimgeng\image17.png"
+width="6cm"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Nouveau</object
+><br
+></br
+><img
+src="supimgfr\AddLangue.png"
+width="5in"
+></img
+><br
+></br
+><object
+type="tresult"
+>La boîte de dialogue <object
+type="tmenu"
+>Choisir un identificateur de langue Identifier</object
+> s’affiche</object
+>.<br
+></br
+><img
+src="supimgfr\image22.9.png"
+width="6cm"
+></img
+></li
+><li
+contentType="en"
+>Click in the <object
+type="tmenu"
+>Search</object
+> box</li
+><li
+contentType="fr"
+>Cliquez dans la zone de <object
+type="tmenu"
+>Recherche</object
+></li
+><li
+contentType="en"
+>Start typing the name of your language<br
+></br
+><object
+type="tresult"
+>Paratext will display matching names.</object
+></li
+><li
+contentType="fr"
+>Commencez à saisir le nom de votre langue <br
+></br
+><object
+type="tresult"
+>Paratext affiche les noms correspondants.</object
+></li
+><li
+contentType="en"
+>Click on your language in the list.<br
+></br
+><object
+type="tresult"
+>Paratext will add the language name.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur votre langue dans la liste.<br
+></br
+>Paratext ajoutera le nom de la langue.</li
+><li
+contentType="en"
+>Fill in the advanced fields if necessary.</li
+><li
+contentType="fr"
+>Remplissez les champs de la section Avancé, si nécessaire.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>You can also specify additional information if needed in the “advanced” section of the language settings dialog.</p
+><p
+contentType="fr"
+>Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancé" de la boîte de dialogue des paramètres de langue.</p
+></framedUnit
+></section1
+><section1
+id="sCPType"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Type of project</titleContent
+><titleContent
+contentType="fr"
+>Type de projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the drop-down list beside “<object
+type="tmenu"
+>Type of Project</object
+>”<br
+></br
+><img
+src="supimgeng\image18.9.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur la liste déroulante à côté de <object
+type="tmenu"
+>Type de projet</object
+> <br
+></br
+><img
+src="supimgeng\image18.png"
+></img
+></li
+><li
+contentType="en"
+>Choose the appropriate type for your project.</li
+><li
+contentType="fr"
+>Choisissez le type approprié pour votre projet.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If it is a back translation, or a daughter or transliteration project, you will need to define the source.</p
+><p
+contentType="fr"
+>S'il s'agit d'un projet dépendant comme une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.</p
+></framedUnit
+></section1
+><section1
+id="sCPRegNewProj"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Register the new project</titleContent
+><titleContent
+contentType="fr"
+>Inscrire le nouveau projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Make sure you have given the project a name and chosen the project type.</li
+><li
+contentType="fr"
+>Assurez-vous d'avoir donné un nom au projet et choisi le type de projet.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Register online</object
+> to go to the registration page</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>S'inscrire en ligne</object
+> pour accéder à la page d'inscription</li
+><li
+contentType="en"
+>Fill in the information (see above)</li
+><li
+contentType="fr"
+>Remplissez les informations (voir ci-dessus)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Register </object
+>to submit and return to Paratext.<br
+></br
+><object
+type="tresult"
+>Paratext should "automagically" detect that the project is now registered,</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Register</object
+> (Inscrire) pour soumettre et retournez à Paratext.<br
+></br
+><object
+type="tresult"
+>Paratext doit "automagiquement" détecter que le projet est inscrit.</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to create the new project.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour créer le nouveau projet.</li
+></ul
+><p
+contentType="en"
+>The types of projects that do not need to be registered separately:</p
+><ul
+><li
+contentType="en"
+>Projects that inherit their inscription from the parent project.</li
+><li
+contentType="en"
+>Back translations</li
+><li
+contentType="en"
+>Transliterations</li
+><li
+contentType="en"
+>Auxiliary</li
+><li
+contentType="en"
+>Consultant notes.</li
+></ul
+><p
+contentType="fr"
+>Les types de Projets qui n’ont pas besoin d’être inscrits séparément</p
+><ul
+><li
+contentType="fr"
+>Projets qui héritent l’inscription du parent</li
+><li
+contentType="fr"
+>Retraduction</li
+><li
+contentType="fr"
+>Translittération</li
+><li
+contentType="fr"
+>"Auxiliaire"</li
+><li
+contentType="fr"
+>Remarques du conseiller</li
+></ul
+></section1
+><section1
+id="sCPEdReg"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Editing your registration</titleContent
+><titleContent
+contentType="fr"
+>Modifier votre inscription</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>As you work in your project, you can change your registration information later on.</p
+><p
+contentType="fr"
+>Lorsque vous travaillez dans votre projet, vous pouvez modifier vos informations d'inscription plus tard.</p
+><ul
+><li
+contentType="en"
+>From Paratext, make sure you are connected to the Internet,</li
+><li
+contentType="fr"
+>Dans Paratext, vérifiez que vous avez une connexion Internet,</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+>, under &gt; <object
+type="tmenu"
+>Project</object
+> &gt; <object
+type="tmenu"
+>Project Settings </object
+> &gt; <object
+type="tmenu"
+>Properties</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+>, sous <object
+type="tmenu"
+>Projet</object
+> &gt;<object
+type="tmenu"
+> Propriétés du projet</object
+> &gt; <object
+type="tmenu"
+>Paramètres de projet</object
+></li
+><li
+contentType="en"
+>Click the “<object
+type="tmenu"
+>Manage registration</object
+>” link.<br
+></br
+><object
+type="tresult"
+>This will bring up the project registration info and you can edit it. Any project administrator can edit the registration info.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le lien <object
+type="tmenu"
+>Gérér l'inscription</object
+><br
+></br
+><object
+type="tresult"
+>L'information de votre inscription s'affiche. Un administrateur peut modifier l'information.</object
+></li
+></ul
+></section1
+></chapter
+><chapter
+id="sIR"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>IR: Installing Resources</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>IR : Installation des ressources</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sIRIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>​Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+xml:lang="en"
+>In this module you will learn how to install resources.</p
+><p
+contentType="fr"
+xml:lang="fe"
+>Dans ce module, vous allez apprendre comment installer des ressources.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Where we are</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
+><p
+contentType="en"
+>You have already installed <object
+type="tPT"
+></object
+> and registered a user.</p
+><p
+contentType="fr"
+>Vous avez déjà installé Paratext 8 et inscrit l’utilisateur.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Why is this important?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi est-il important ? </object
+></pc
+><p
+contentType="en"
+>In <object
+type="tPT"
+></object
+>, the resources are downloaded from the DBL (Digital Bible Library). Each user can download them directly, but if your Internet connection is limited, you can share the downloaded files with other users.</p
+><p
+contentType="fr"
+>Dans Paratext 9, les ressources sont téléchargées depuis le DBL (Digital Bible Library ou bibliothèque biblique numérique). Normalement chaque utilisateur les télécharge directement, mais si vous avez une connexion Internet limitée, il est possible de partager les fichiers téléchargés.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>What will you do?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Que ferez-vous ? </object
+></pc
+><ul
+><li
+contentType="en"
+>Download resources from the Internet.</li
+><li
+contentType="fr"
+>Télécharger des ressources.</li
+><li
+contentType="en"
+>Install resources from a downloaded file.</li
+><li
+contentType="fr"
+>Installer des ressources des fichiers déjà téléchargés.</li
+></ul
+></section1
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sIRDownlRes"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Install resources – Internet (DBL)</titleContent
+><titleContent
+contentType="fr"
+>Installer ressources – Internet (DBL)</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>≡ Paratext</object
+> menu, then under Paratext, choose <object
+type="tmenu"
+>Download/Install resources</object
+></li
+><li
+contentType="en"
+><br
+></br
+><object
+type="tresult"
+>A dialogue box is displayed</object
+><br
+></br
+><img
+src="supimgeng\image19.9.png"
+width="3in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu <object
+type="tmenu"
+>≡ Paratext</object
+>, sous <object
+type="tmenu"
+>Paratext</object
+> choisissez<object
+type="tmenu"
+> Télécharger/Installer des ressources</object
+>. <br
+></br
+><object
+type="tresult"
+>Une boîte de dialogue s’affiche.</object
+><br
+></br
+><img
+src="supimgfr\image24.9.png"
+width="3in"
+></img
+><br
+></br
+></li
+><li
+contentType="en"
+>Make sure Internet has been chosen.</li
+><li
+contentType="fr"
+>Assurez-vous qu’Internet est choisi.</li
+><li
+contentType="en"
+>Filter the list by typing in the <object
+type="tmenu"
+>filter box</object
+> (type name or language or + for enhanced)</li
+><li
+contentType="fr"
+>Filtrez la liste en saisissant dans la boîte de <object
+type="tmenu"
+>filtre</object
+> (tapez le nom ou la langue ou le signe + pour les enrichis).</li
+><li
+contentType="en"
+>Click the check boxes to the left of the desired resources.</li
+><li
+contentType="fr"
+>Cochez les cases à côté des ressources voulues.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Download/Install</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Télécharger/Installer</object
+></li
+></ul
+></section1
+><section1
+id="sIRResFiles"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Installer resources – files</titleContent
+><titleContent
+contentType="fr"
+>Installer ressources – fichiers</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>File</object
+> menu, choose <object
+type="tmenu"
+>Download/Install resources</object
+>.<br
+></br
+><object
+type="tresult"
+>A dialogue box is displayed</object
+></li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Fichier, </object
+>choisissez<object
+type="tmenu"
+> Installer des ressources</object
+>. <br
+></br
+><object
+type="tresult"
+>Une boîte de dialogue s’affiche.</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Folder</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Dossier </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Browse</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Parcourir</object
+>.</li
+><li
+contentType="en"
+>Go to the folder which contains the downloaded resource files.</li
+><li
+contentType="fr"
+>Accédez au dossier qui contient les ressources.</li
+><li
+contentType="en"
+>Select the desired resources.</li
+><li
+contentType="fr"
+>Sélectionnez les ressources voulues</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Download/Install</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Télécharger/Installer</object
+></li
+></ul
+></section1
+></chapter
+><chapter
+id="sPP1"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>PP1: Setup Project Plan</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>PP1 : Configuration du plan de projet</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sPP1Introduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>“Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in <object
+type="tEmphasis"
+>Paratext </object
+>9.1 that impacts the day-to-day work of translation teams.</p
+><p
+contentType="fr"
+>Suivre le progrès basé sur un plan du projet est une fonctionnalité améliorée qui aura un impact sur le travail quotidien des équipes de la traduction.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous</object
+></p
+><p
+contentType="en"
+>Before you can add the plan the project must have been created/or migrated.</p
+><p
+contentType="fr"
+>Avant d’ajouter un plan, le projet doit être créé ou migré.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ?</object
+></p
+><p
+contentType="dn"
+>The Project Plan feature allows the administrator to define a set of translation tasks that your translation project will follow. Paratext comes with sets of pre-defined plans from the various Bible translation organisations that you can use a starting point. However, every project is different and therefore after adding the base plan it will need to be modified for the team.</p
+><p
+contentType="en"
+>There are many tasks to be done in a translation project. It is important to have a system to ensure that all of these are done. It is also good to have an easy way to generate reports for supervisors and funders (see PP2: Project Plan Report).</p
+><p
+contentType="dn"
+>Although organizations have a basic plan, each project is different, so after the basic plan is added, it needs to be adapted for the team and the various tasks need to be assigned to different team members.</p
+><p
+contentType="fr"
+>Il y a beaucoup de tâches à faire dans un projet de traduction. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet).</p
+><p
+contentType="dn"
+>Bien que les organisations aient un plan de base, chaque projet est différent et, par conséquent, après avoir ajouté le plan de base, il faut l'adapter pour l’équipe et les diverses tâches doivent être affectées aux différents membres de l'équipe.</p
+><p
+contentType="en"
+>Setting up a project plan from scratch is daunting. Various Bible translation organizations (ABU, SIL and The Seed Company) will include "basic" plans that can be applied to projects. Teams need only customize these plans within the limits set by their organizations.</p
+><p
+contentType="fr"
+>La configuration d’un plan de projet à partir de zéro est intimidante. Diverses organisations de traduction de la Bible (ABU, SIL et The Seed Company) incluront des plans “de base” qui peuvent être appliqués à des projets. Les équipes ne doivent que personnaliser ces plans dans les limites fixées par leurs organisations.</p
+><p
+contentType="en"
+>Typically, organizations want conformity at the “Stage” level in order to facilitate meaningful tracking of the progress of project across the entire organization. However, every plan will need to be customized at the task level.</p
+><p
+contentType="fr"
+>En générale, les organisations veulent la conformité au niveau de l’« étape » afin de faciliter un suivi de l’avancement du projet dans l’ensemble de l’organisation. Cependant, chaque plan devra être personnalisé au niveau des tâches.</p
+><p
+contentType="en"
+>If a task is important to you and your team and you want to track its progress, then it can be included in the project plan (even if it doesn't require Paratext to do the task).</p
+><p
+contentType="fr"
+>Si une tâche est importante pour vous et votre équipe et que vous souhaitez en suivre les progrès, elle peut être incluse dans le plan du projet (même si elle ne nécessite pas l'utilisation de Paratext).</p
+><p
+contentType="dn"
+>JB: The French and English were out of sync. I am not sure who edited them. I have changed it but left some paragraphs as dn rather than deleting them.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu'est-ce qu'on va faire ?</object
+></p
+><p
+contentType="en"
+>You will use a combination of two features: the settings of the <object
+type="tEmphasis"
+>Project Plan</object
+> and the <object
+type="tEmphasis"
+>Assignments and Progress</object
+> (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.</p
+><ul
+><li
+contentType="en"
+>Add the organizational base plan to the project (remove an old plan if necessary)</li
+><li
+contentType="en"
+>Customize the plan for the team by adding/deleting and moving tasks</li
+><li
+contentType="en"
+>Assign the tasks to the various team members.</li
+><li
+contentType="en"
+>Update the base plan whenever there is a new version.</li
+></ul
+><p
+contentType="fr"
+>On utilise une combinaison de deux fonctionnalités : les paramètres du <object
+type="tEmphasis"
+>plan du projet</object
+> et les <object
+type="tEmphasis"
+>Tâches et avancement</object
+> pour gérer le plan.</p
+><ul
+contentType="fr"
+><li
+contentType="fr"
+>On ajoute le plan de base de l’organisation au projet.</li
+><li
+contentType="fr"
+>On personnalise le plan pour l’équipe.</li
+><li
+contentType="fr"
+>On attribue ensuite les tâches aux différents membres de l’équipe.</li
+><li
+>On met à jour le plan de base chaque fois qu'il y a une nouvelle version.</li
+></ul
+></section1
+><section1
+id="sPP1AddPlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Add the organisational base plan</titleContent
+><titleContent
+contentType="fr"
+>Ajouter le plan de base de l’organisation</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.)</p
+><p
+contentType="fr"
+>Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un autre. (Voir la page suivante pour les instructions de supprimer un plan.)</p
+></framedUnit
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under Project &gt; <object
+type="tmenu"
+>Project Settings</object
+> &gt; <object
+type="tmenu"
+>Project plan</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous Projet <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Plan du projet </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Manage plans</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Gérer les plans</object
+></li
+><li
+contentType="en"
+>Click below <object
+type="tmenu"
+>Show Base Plan</object
+><br
+></br
+><img
+src="supimgeng\image20.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez dessous <object
+type="tmenu"
+>Afficher le plan de référence</object
+><br
+></br
+><img
+src="supimgfr\image25.9.png"
+width="3in"
+></img
+></li
+><li
+contentType="en"
+>Choose your organisational base plan</li
+><li
+contentType="fr"
+>Choisir le plan de base de votre organisation</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Copy Plan</object
+> arrow.<br
+></br
+><img
+src="supimgeng\image21.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur la flèche (Copier le plan) (<object
+type="tmenu"
+>Copy Plan</object
+>).<br
+></br
+><img
+src="supimgfr\copyplan.png"
+></img
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>. &gt;<br
+></br
+><object
+type="tresult"
+>The plan and its tasks are added to the project.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. <br
+></br
+><object
+type="tresult"
+>Le plan et ses tâches sont ajoutés au projet.</object
+></li
+></ul
+><section2
+id="sPP1RemPlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Remove current plan (before adding another)</titleContent
+><titleContent
+contentType="fr"
+>Supprimer le plan existant (avant d’ajouter un autre)</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>If the project has an old plan, you need to delete each of the current stages before adding a new base plan.</p
+><p
+contentType="fr"
+>Si le projet a un ancien plan, vous devez retirer chacune des étapes actuelles avant d’ajouter un nouveau plan de base.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+><object
+type="tmenu"
+>&gt; Project plan settings</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+> &gt; <object
+type="tmenu"
+>Paramètres du projet &gt; Plan de projet </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Manage plans</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Gérer les plans</object
+></li
+><li
+contentType="en"
+>Click on the last stage</li
+><li
+contentType="fr"
+>Cliquez sur la dernière étape</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Remover Stage</object
+> button<br
+></br
+><img
+src="supimgeng\image22.9.png"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Retirer l'étape</object
+>.<br
+></br
+><img
+src="supimgfr\image27.9.png"
+></img
+></li
+><li
+contentType="en"
+>Click Yes (twice) once to confirm you want to modify the plan, and again to confirm you want to delete the tasks in the stage.</li
+><li
+contentType="fr"
+>Cliquez sur Yes (deux fois) pour confirmer vous voulez modifier le plan et encore pour confirmer vous voulez retirer les tâches.</li
+><li
+contentType="en"
+>Repeat for remaining stages</li
+><li
+contentType="fr"
+>Répéter pour les étapes restantes</li
+><li
+contentType="en"
+>Add the new plan (see above)</li
+><li
+contentType="fr"
+>Ajouter le nouveau plan (voir ci-dessus)</li
+></ul
+></section2
+></section1
+><section1
+id="sConfigPlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure the plan</titleContent
+><titleContent
+contentType="fr"
+>Configurer le plan</titleContent
+></titleContentChoices
+></secTitle
+><section2
+id="sPP1ConfigCanon"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure — Books to include</titleContent
+><titleContent
+contentType="fr"
+>Configurer — Livres à inclure</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>[<object
+type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Project</object
+> menu &gt; <object
+type="tmenu"
+>Project settings</object
+> &gt; <object
+type="tmenu"
+>Project properties </object
+></li
+><li
+contentType="fr"
+>[<object
+type="tmenu"
+>≡ Onglet</object
+> sous <object
+type="tmenu"
+>Paramètres de projet</object
+> &gt; <object
+type="tmenu"
+>Propriétés du projet</object
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Books</object
+> tab</li
+><li
+contentType="fr"
+>Cliquez sur l’onglet <object
+type="tmenu"
+>Livres</object
+></li
+><li
+contentType="en"
+>Choose the books that you want to track progress.</li
+><li
+contentType="fr"
+>Choisissez les livres vous voulez suivre.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+></ul
+></section2
+><section2
+id="sPP1StageChecks"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure — Assigning checks to a stage</titleContent
+><titleContent
+contentType="fr"
+>Configurer — ajouter des vérifications à une étape</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+>, choose <object
+type="tmenu"
+>Project properties</object
+> then <object
+type="tmenu"
+>Project Plan</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Paratext</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Paramètres de projet</object
+> puis <object
+type="tmenu"
+>Plan de projet</object
+></li
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Checks</object
+> tab<br
+></br
+><img
+src="supimgeng\image23.9.png"
+width="5in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur l'onglet <object
+type="tmenu"
+>Vérifications</object
+> <br
+></br
+><img
+src="supimgfr\image36.9.png"
+width="5in"
+></img
+></li
+><li
+contentType="en"
+>Click on the Checks tab <br
+></br
+><object
+type="tresult"
+>Two columns are displayed: Required stage and Optional stage. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur l'onglet "Vérifications". <br
+></br
+><object
+type="tresult"
+>Deux colonnes sont affichées : Étape obligatoire et Étape facultative.</object
+></li
+><li
+contentType="en"
+>For the desired check, drop down the list and set the <object
+type="tmenu"
+>required stage</object
+> [12]<br
+></br
+><img
+src="supimgeng\image24.png"
+></img
+></li
+><li
+contentType="fr"
+>Pour la vérification désirée, cliquez sur la liste déroulante <object
+type="tmenu"
+>Requis dans l'étape [12]</object
+><br
+></br
+><img
+src="supimgeng\image24.png"
+></img
+></li
+><li
+contentType="en"
+>Choose the new stage or *none*</li
+><li
+contentType="fr"
+>Choisissez l'étape ou *Aucun*</li
+><li
+contentType="en"
+>Then set the Notify only (optional) to an earlier stage if any.</li
+><li
+contentType="fr"
+>Ensuite, réglez l'option Notifier seulement (facultatif) à une étape antérieure, le cas échéant.</li
+><li
+contentType="en"
+>Continue for each check</li
+><li
+contentType="fr"
+>Répetez pour chaque vérification</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+><li
+></li
+></ul
+></section2
+><section2
+id="sPP1Reorder"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure — Reordering tasks / Move tasks to another stage</titleContent
+><titleContent
+contentType="fr"
+>Configurer — Réorganiser les tâches</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>It is possible to reorder tasks and even move tasks to another stage. However, not all organisations permit this.</p
+><p
+contentType="fr"
+>Il est possible de réordonner des tâches et même déplacer des tâches à une autre étape. Toutefois, pas toutes les organisations le permettent.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+> menu, choose <object
+type="tmenu"
+>Project Properties</object
+>, then <object
+type="tmenu"
+>Project Plan</object
+></li
+><li
+contentType="fr"
+>Du menu <object
+type="tmenu"
+>Onglet</object
+>, sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+>, puis <object
+type="tmenu"
+>Plan du projet</object
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Stages/Tasks</object
+> tab.</li
+><li
+contentType="fr"
+>Cliquez sur l’onglet <object
+type="tmenu"
+>Étapes</object
+><object
+type="tmenu"
+>/Tâches</object
+></li
+><li
+contentType="en"
+>Select the task you want to move.</li
+><li
+contentType="fr"
+>Sélectionnez la tâche à déplacer.</li
+><li
+contentType="en"
+>Click the up arrow or the down arrow to move the task to a different point with respect to the other tasks, or to move it to a different stage.<br
+></br
+><object
+type="tresult"
+>You may get a messages asking to confirm.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur la flèche vers le haut ou vers le bas pour déplacer la tâche vers un autre point ou pour la déplacer vers une autre étape.<br
+></br
+><object
+type="tresult"
+>Il se peut que vous recevrez un message de confirmation si la tâche change d’étape.</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section2
+><section2
+id="sPP1Add"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure — Add tasks</titleContent
+><titleContent
+contentType="fr"
+>Ajouter une tâche</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click on the task which is above the new task.</li
+><li
+contentType="fr"
+>Cliquez sur la tâche qui sera au-dessus de la nouvelle tâche.</li
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Add task</object
+></li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Ajouter une tâche</object
+></li
+><li
+contentType="en"
+>Type the name for the task and a description.</li
+><li
+contentType="fr"
+>Tapez un nom pour la tâche puis une description.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section2
+><section2
+id="sPP1DeleteTask"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Configure — Delete tasks</titleContent
+><titleContent
+contentType="fr"
+>Configurer — Supprimer des tâches</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Stage</object
+>/Tasks tab</li
+><li
+contentType="fr"
+>Cliquez sur l’onglet Étapes/Tâches</li
+><li
+contentType="en"
+>Click on the task to delete<br
+></br
+></li
+></ul
+><p
+contentType="en"
+><img
+src="supimgeng\image25.png"
+></img
+></p
+><ul
+><li
+contentType="fr"
+>Cliquez sur la tâche à supprimer<br
+></br
+><img
+src="supimgfr/image32.png"
+></img
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Remove Task</object
+> button</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Retirer la tâche</object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section2
+><section2
+id="sPP1Ren"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Rename or edit tasks</titleContent
+><titleContent
+contentType="fr"
+>Renommer ou modifier les tâches</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click on the task (in the list on the left)</li
+><li
+contentType="fr"
+>Cliquez sur la tâche (à gauche)</li
+><li
+contentType="en"
+>Click on the name box (in the pane on the right)</li
+><li
+contentType="fr"
+>Cliquez sur le nom (à droit).</li
+><li
+contentType="en"
+>Type a new name for the task</li
+><li
+contentType="fr"
+>Tapez un nouveau nom de la tâche.</li
+><li
+contentType="en"
+>If necessary, edit the description.</li
+><li
+contentType="fr"
+>Si nécessaire, modifiez la description.</li
+></ul
+></section2
+><section2
+id="sPP1CopyTask"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Copy a task from one plan to your project</titleContent
+><titleContent
+contentType="fr"
+>Copier une tâche d’un plan à votre projet</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Note: Follow the steps below to copy a task from the <object
+type="tEmphasis"
+>base project plan </object
+>of one project <object
+type="tEmphasis"
+>to the project plan</object
+> for your project.</p
+><p
+contentType="fr"
+>N.B. Suivez les étapes ci-dessous pour copier une tâche <object
+type="tEmphasis"
+>d'un plan de référence</object
+> vers <object
+type="tEmphasis"
+>le plan de votre projet.</object
+></p
+></framedUnit
+><ol
+><li
+contentType="en"
+>Open your project [<object
+type="tmenu"
+>≡ Paratext</object
+> under <object
+type="tmenu"
+>Paratext</object
+> select <object
+type="tmenu"
+>Open</object
+>].</li
+><li
+contentType="fr"
+>Ouvrir votre projet [<object
+type="tmenu"
+>≡ Paratext</object
+> sous <object
+type="tmenu"
+>Projet</object
+> choisissez <object
+type="tmenu"
+>Ouvrir</object
+>].</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+> select <object
+type="tmenu"
+>Project Settings</object
+> &gt; <object
+type="tmenu"
+>Project plan </object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+> choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Plan du projet  </object
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Manage plans</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Gérer les plans</object
+></li
+><li
+contentType="en"
+>From the <object
+type="tmenu"
+>"Show Base Plan"</object
+> drop-down, select the project plan that contains the desired task.</li
+><li
+contentType="fr"
+>Dans la liste déroulante « <object
+type="tmenu"
+>Afficher le plan de référence</object
+>) », sélectionnez le plan de projet qui contienne la tâche voulue.</li
+><li
+contentType="en"
+>On the <object
+type="tmenu"
+>Current Plan</object
+> side of the dialog, click the row that has the task which should precede the new task. <br
+></br
+>If you want the new task to be the first task in the stage, select the stage name instead.</li
+><li
+contentType="fr"
+>Dans la partie <object
+type="tmenu"
+>Plan actuelle</object
+>, cliquez sur la ligne qui précédera la nouvelle tâche.<br
+></br
+>Si vous voulez que la tâche ajoutée soit la première tâche de l’étape, sélectionnez le nom de l’étape.</li
+><li
+contentType="en"
+>On the <object
+type="tmenu"
+>Base Plan</object
+> side of the dialog, hover over the task you want to add and click the solid blue arrow that appears.<br
+></br
+><img
+src="supimgeng/copyTaskEN.png"
+width="5in"
+></img
+><br
+></br
+><object
+type="tresult"
+>The task is copied to your project plan and cannot be copied again into this project.</object
+></li
+><li
+contentType="fr"
+>Sur le côté <object
+type="tmenu"
+>Plan de référence</object
+> de la boîte de dialogue, passer la souris sur la tâche que vous souhaitez ajouter et cliquez sur la flèche bleue qui apparaît.<br
+></br
+><img
+src="supimgfr/CopyTask.png"
+width="5in"
+></img
+><br
+></br
+><object
+type="tresult"
+>La tâche est copiée dans le plan de votre projet et elle ne peut plus être copiée à nouveau dans celui-ci.</object
+></li
+></ol
+><ul
+><li
+contentType="en"
+><object
+type="tEmphasis"
+>Optional</object
+>: To move the task, click the up arrow or the down arrow that appears when you hover over a task on the Current Plan side of the dialog.</li
+><li
+contentType="fr"
+><object
+type="tEmphasis"
+>Facultatif</object
+> : Pour déplacer la tâche, cliquez sur la flèche vers le haut ou la flèche vers le bas qui s’affiche lorsque vous survolez une tâche du côté Plan actuel de la boîte de dialogue.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to close the "Manage Plans" dialog.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour fermer la boîte de dialogue « Gérer les plans ».</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+> to close the "Project Plan" dialog.<br
+></br
+><object
+type="tresult"
+>The copied task has the same name and progress rate as it had in the project plan for project ORIG. </object
+><br
+></br
+><object
+type="tresult"
+> The short name of the project is added to the plan name.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour fermer la boîte de dialogue « Plan du projet ».<br
+></br
+><object
+type="tresult"
+>La tâche copiée a le même nom et le même taux de progression que dans le plan de projet pour le projet ORIG.</object
+><br
+></br
+><object
+type="tresult"
+>Le nom court du projet est ajouté au nom du plan.</object
+></li
+></ul
+></section2
+></section1
+><section1
+id="sPP1Ver"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Check the settings for a task</titleContent
+><titleContent
+contentType="fr"
+>Vérifier les paramètres pour une tâche</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>There are three settings for each task<ul
+><li
+contentType="en"
+>how do you to mark the task as complete (once for each chapter, book or project)</li
+><li
+contentType="en"
+>when can the task begin (anytime, or wait for another task ...)</li
+><li
+contentType="en"
+>do you need editing permission (if so, which project)</li
+></ul
+></li
+><li
+contentType="fr"
+>Il y a trois paramètres pour chaque tâche<ul
+><li
+contentType="fr"
+>comment marquer la complétion de la tâche (par chapitre, livre)</li
+><li
+contentType="fr"
+>quand on peut commencer une tâche (après une autre tâche…)</li
+><li
+contentType="fr"
+>accorder le droit de modifier (donner la permission de modifier le texte)</li
+></ul
+></li
+></ul
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+> select <object
+type="tmenu"
+>Project Settings</object
+> &gt; <object
+type="tmenu"
+>Project plan </object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+> choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Plan du projet  </object
+></li
+><li
+contentType="en"
+>Click the task<br
+></br
+><object
+type="tresult"
+>The settings are shown at the bottom right</object
+><br
+></br
+><img
+src="supimgeng/TaskSettings.png"
+width="4in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur la tâche<br
+></br
+><object
+type="tresult"
+>Les paramètres sont affichés en bas à droite</object
+><br
+></br
+><img
+src="supimgfr/taskSettingsFr.png"
+width="4in"
+></img
+></li
+><li
+contentType="en"
+>Make any changes as needed.</li
+><li
+contentType="fr"
+>Apportez les modifications nécessaires</li
+><li
+contentType="en"
+>Repeat for any other task.</li
+><li
+contentType="fr"
+>Répétez pour toute autre tâche</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section1
+><section1
+id="sPriorities"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Priority Groups</titleContent
+><titleContent
+contentType="fr"
+>Groupes de priorité</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Priority groups are a way to let Paratext know the order in which books or chapters should be worked on.</p
+><p
+contentType="fr"
+>Les groupes de priorité sont un moyen de faire savoir à Paratext l'ordre dans lequel les livres ou les chapitres doivent être travaillés.</p
+><section2
+id="sPreselected"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Using preselected set</titleContent
+><titleContent
+contentType="fr"
+>Utilisation d’un ensemble présélectionné</titleContent
+></titleContentChoices
+></secTitle
+><ul
+contentType="en"
+><li
+>Open the Project menu,</li
+><li
+contentType="fr"
+>Ouvrez le menu de projet, puis choisissez Paramètres du projet</li
+><li
+>Choose Project settings and go to Define priorities</li
+><li
+contentType="fr"
+>Cliquez sur Define priorities (Définir les priorités).</li
+><li
+>Click Select Priority Definition Select a set (e.g. SIL Easy to Difficult set) <br
+></br
+><object
+type="tresult"
+>a pre-selected set of books is presented</object
+>.</li
+><li
+contentType="fr"
+>Choisissez l'un des ensembles disponibles <br
+></br
+><object
+type="tresult"
+>un ensemble de livres présélectionnés est présenté</object
+></li
+><li
+>Click OK</li
+><li
+contentType="fr"
+>Cliquez sur OK.</li
+></ul
+></section2
+><section2
+id="sSetupPriorities"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Setting up priorities</titleContent
+><titleContent
+contentType="fr"
+>Établir des priorités</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Open the <object
+type="tmenu"
+>Project</object
+> menu, choose <object
+type="tmenu"
+>Project settings</object
+> and go to <object
+type="tmenu"
+>Define priorities</object
+></li
+><li
+contentType="fr"
+>Ouvrez le menu de <object
+type="tmenu"
+>projet</object
+>, puis choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Définir les priorités</object
+>.</li
+><li
+contentType="en"
+>Select the desired books, then click Right arrow button</li
+><li
+contentType="fr"
+>Sélectionnez les livres, puis cliquez sur l’icône de flèche droit</li
+><li
+contentType="en"
+>Click the three dots, choose <object
+type="tmenu"
+>Edit</object
+></li
+><li
+contentType="fr"
+>Cliquez sur les trois points, choisissez <object
+type="tmenu"
+>Édition</object
+></li
+><li
+contentType="en"
+>Rearrange the books as needed by clicking on a book and moving it up or down using the arrows buttons.</li
+><li
+contentType="fr"
+>Réorganisez les livres selon vos besoins en cliquant sur un livre et en le déplaçant vers le haut ou vers le bas à l'aide des boutons fléchés.</li
+><li
+contentType="en"
+>Rename the group (e.g. Gospels).</li
+><li
+contentType="fr"
+>Renommez le groupe (p.ex. Évangiles)</li
+><li
+contentType="en"
+>To set specific chapters, <ul
+><li
+>Select a book name link</li
+><li
+>Choose which chapters</li
+><li
+>Click OK</li
+></ul
+></li
+><li
+contentType="fr"
+>Pour définir des chapitres spécifiques,<ul
+><li
+>Cliquez sur le lien vers le nom du livre</li
+><li
+>Choisissez les chapitres désirés</li
+><li
+>Cliquez sur OK</li
+></ul
+></li
+><li
+contentType="en"
+>If you add a book which already has chapters defined it will only add the remaining chapters.</li
+><li
+contentType="fr"
+>Si vous ajoutez ensuite un livre dont les chapitres sont déjà définis, il n'ajoutera que les chapitres restants.</li
+><li
+contentType="en"
+>Change order of priorities using the up arrow.</li
+><li
+contentType="fr"
+>Je pourrais réorganiser les livres en cliquant sur un livre et le déplacer vers le haut ou vers le bas.</li
+></ul
+></section2
+><section2
+id="sUsingPriorities"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Using the priorities</titleContent
+><titleContent
+contentType="fr"
+>Utiliser les priorités</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Once priorities have been created, they can be used anywhere you would normally choose books. For instance,</p
+><p
+contentType="fr"
+>Une fois que les priorités ont créés, elles peuvent être utilisées partout où vous choisirez normalement des livres. Par exemple,</p
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>Find</object
+> dialog (Ctrl+F)<ul
+><li
+>Click on <object
+type="tmenu"
+>choose</object
+></li
+><li
+>Select the <object
+type="tmenu"
+>Priority </object
+>tab.</li
+></ul
+></li
+></ul
+><ul
+contentType="en"
+><li
+contentType="fr"
+>La dialogue de <object
+type="tmenu"
+>Rechercher/Remplacer</object
+> (Ctrl+F)<ul
+><li
+>Cliquer sur <object
+type="tmenu"
+>Sélectionner</object
+></li
+><li
+>Sélectionnez l'onglet <object
+type="tmenu"
+>Priorité</object
+>.</li
+></ul
+></li
+><li
+><object
+type="tmenu"
+>Assignments and Progress</object
+> (blue button), book selection can be set to a priority.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Tâches et avancement </object
+>(bouton bleu), avec la sélection des livres on peut choisir une priorité.</li
+><li
+>(Project menu )<object
+type="tmenu"
+> Export PDF</object
+>, choose</li
+><li
+contentType="fr"
+>On peut <object
+type="tmenu"
+>Exporter une ébauche au format PDF</object
+>t par livre ou priorité</li
+><li
+>Any window with a filter</li
+><li
+contentType="fr"
+>n'importe quel outil qui utilise un filtre de sélection de livres.</li
+></ul
+><p
+contentType="en"
+>You can also define or redefine your priorities if you need to.</p
+><p
+contentType="fr"
+>Dans cette fenêtre, vous pouvez également définir ou redéfinir vos priorités si nécessaire</p
+></section2
+></section1
+><section1
+id="sPP1AssignTaks"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Assign tasks to team members</titleContent
+><titleContent
+contentType="fr"
+>Affecter des tâches aux membres de l’équipe</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Tasks can either be assigned individually or in bulk.</p
+><p
+contentType="fr"
+>Les tâches peuvent être attribuées individuellement ou en bloc.</p
+><section2
+id="sAssignMan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Assign tasks individually</titleContent
+><titleContent
+contentType="fr"
+>Attribuer les tâches individuellement</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under<object
+type="tmenu"
+>Project</object
+> menu, choose <object
+type="tmenu"
+>Assignments and Progress</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Tâches et avancement</object
+></li
+><li
+contentType="en"
+>For the task to assign, click to dropdown the menu and choose the team member to do the task<br
+></br
+><img
+src="supimgeng\image26.png"
+></img
+><br
+></br
+></li
+><li
+contentType="fr"
+>Cliquez la liste roulante pour la tâche et choisissez qui doit faire la tâche (un membre ou l’équipe)<br
+></br
+><img
+src="supimgeng\image26.png"
+></img
+><br
+></br
+></li
+><li
+contentType="en"
+>Repeat as necessary</li
+><li
+contentType="fr"
+>Répétez si nécessaire pour chaque tâche</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section2
+><section2
+id="sBulkAssignTasks"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Bulk assign tasks</titleContent
+><titleContent
+contentType="fr"
+>Attribuer les tâches en bloc</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Blue</object
+> Assignments and Progress button</li
+><li
+contentType="fr"
+>Cliquez sur le<object
+type="tmenu"
+> bouton bleu</object
+> Tâches et avancement</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Tasks Table</object
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Tableau des tâches</object
+></li
+><li
+contentType="en"
+>Use the verses filter to select books</li
+><li
+contentType="fr"
+>Utilisez le filtre des versets pour sélectionner les livres</li
+><li
+contentType="en"
+>Below the task, click <object
+type="tmenu"
+>Assign tasks</object
+> <br
+></br
+><object
+type="tresult"
+>Incomplete chapters can be reassigned but not completed chapters</object
+>.</li
+><li
+contentType="fr"
+>Sous la tâche, cliquez sur <object
+type="tmenu"
+>Attribuer une tâche</object
+> <br
+></br
+><object
+type="tresult"
+>Les chapitres incomplets peuvent être réassignés mais pas les chapitres terminés</object
+>.</li
+><li
+contentType="en"
+><object
+type="tresult"
+>A warning message will appear with options to overwrite all assignments or only those chapters that have not yet been assigned.</object
+></li
+><li
+contentType="fr"
+><object
+type="tresult"
+>Un message d'avertissement apparaîtra avec des options pour écraser toutes les attributions ou seulement les chapitres non attribués</object
+>.</li
+></ul
+></section2
+><section2
+id="sAssignStage"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Assign Stage or book</titleContent
+><titleContent
+contentType="fr"
+>Attribuer une étage ou un livre</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Assign stage</object
+> button (at the top of each stage).</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Attribuer une étape</object
+> (en haut de chaque étape).</li
+><li
+contentType="en"
+>Change assignments for certain tasks as needed.</li
+><li
+contentType="fr"
+>Modifiez les affectations de certaines tâches si nécessaires.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Once you have completed the bulk assignment process you can fine-tune the assignments in the <object
+type="tmenu"
+>All Tasks</object
+>view</p
+><p
+contentType="fr"
+>Une fois que vous avez terminé le processus d'affectation en bloc, vous pouvez affiner les affectations dans la vue <object
+type="tmenu"
+>Toutes les tâches</object
+>.</p
+></framedUnit
+></section2
+></section1
+><section1
+id="sPP1CatchUpPlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Updating the progress (for a migrated project)</titleContent
+><titleContent
+contentType="fr"
+>Mettre à jour l'avancement (pour un projet migré)</titleContent
+></titleContentChoices
+></secTitle
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>For projects that have already completed a number of stages at the time of switching to <object
+type="tPT"
+></object
+> the Tasks table view and/or the Stage table view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, as complete.</p
+><p
+contentType="fr"
+>Pour les projets qui ont déjà complété plusieurs étapes au moment de passer à <object
+type="tPT"
+></object
+> la vue de la "tableau des tâches" et/ou la vue de la "tableau des étapes" peuvent être utiles pour marquer plusieurs livres, étapes ou tâches, comme achevé.</p
+></framedUnit
+><ul
+><li
+contentType="en"
+>Click on your project.</li
+><li
+contentType="fr"
+>Cliquez dans votre projet.</li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Blue</object
+> Assignments and Progress button</li
+><li
+contentType="fr"
+>Cliquez sur le <object
+type="tmenu"
+>Bouton bleu</object
+> Tâches et avancements</li
+><li
+contentType="en"
+>Choose <object
+type="tmenu"
+>Stages Table</object
+> <br
+></br
+></li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Tableau des étapes</object
+>.<br
+></br
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>≡ Tab</object
+> menu and choose <object
+type="tmenu"
+>Bulk Progress Mode</object
+>. <br
+></br
+><object
+type="tresult"
+>Checks are temporarily turned off</object
+>. <br
+></br
+><img
+src="supimgeng/StagesTableBulk.png"
+width="5in"
+></img
+></li
+><li
+contentType="fr"
+>Cliquez sur le menu <object
+type="tmenu"
+>≡ Onglet</object
+> et choisissez le <object
+type="tmenu"
+>Mode modifier l’avancement en bloc</object
+>. <br
+></br
+><object
+type="tresult"
+>Les vérifications sont temporairement désactivées</object
+>.<br
+></br
+><img
+src="supimgfr/TabEtapesBulk.png"
+width="5in"
+></img
+><br
+></br
+></li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>All stages </object
+>button <br
+></br
+><object
+type="tresult"
+>All of the stages are approved</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur le bouton <object
+type="tmenu"
+>Toutes les étapes</object
+> <br
+></br
+><object
+type="tresult"
+>Toutes les étapes sont approuvées</object
+>.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>When you finish doing all the approvals, go back and uncheck bulk progress mode.</p
+><p
+contentType="fr"
+>Lorsque vous avez fini de faire toutes les attributions, vous pouvez revenir en arrière et décocher le Mode modifier l’avancement en bloc.</p
+></framedUnit
+></section1
+><section1
+id="sRevisedPlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Saving a modified plan as a new base plan</titleContent
+><titleContent
+contentType="fr"
+>Enregistrer un plan modifié comme nouveau plan de base</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Changes you made to your plan will be sent to the members of your project when you send/receive. If you want to share the revised plan with other teams you can save it as a new base plan. </p
+><p
+contentType="fr"
+>Les modifications que vous avez apportées à votre plan seront envoyées aux membres de votre projet lors de l'envoyer/recevoir. Si vous souhaitez partager le plan révisé avec d'autres équipes, vous pouvez l'enregistrer comme un nouveau plan de référence. </p
+><ul
+><li
+contentType="en"
+>Open <object
+type="tEmphasis"
+>your</object
+> project.</li
+><li
+contentType="fr"
+>Ouvrir <object
+type="tEmphasis"
+>votre</object
+> projet.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>Project</object
+> select <object
+type="tmenu"
+>Project Settings</object
+> &gt; <object
+type="tmenu"
+>Project plan </object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+> choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Plan du projet  </object
+></li
+><li
+contentType="en"
+>Hold shift key and click <object
+type="tmenu"
+>Manage plans</object
+><br
+></br
+><object
+type="tresult"
+>The manage plans dialog appears with a save as base plan button at bottom right.</object
+> <br
+></br
+><img
+src="supimgeng/SaveBasePlanButton.png"
+></img
+></li
+><li
+contentType="fr"
+>Maintenez la touche MAJ (shift) et cliquez sur <object
+type="tmenu"
+>Gérer les plans</object
+> <br
+></br
+><object
+type="tresult"
+>La boîte de dialogue de gestion des plans s'affiche avec un bouton "enregistrer comme plan de référence" en bas à droite.</object
+><br
+></br
+><img
+src="supimgfr/EnregPlanBtn.png"
+></img
+></li
+><li
+contentType="en"
+>Click on the <object
+type="tmenu"
+>Save as a base plan</object
+> button <br
+></br
+> A dialog box is displayed<br
+></br
+><img
+src="supimgeng/SaveBasePlanDialog.png"
+></img
+> <br
+></br
+><object
+type="tresult"
+>The file is saved to \My Paratext 8 Projects\_StandardPlans.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Enregistrer comme plan de référence</object
+> <br
+></br
+>Une boîte de dialogue s'affiche <br
+></br
+><img
+src="supimgfr/EnregPlanDialog.png"
+></img
+><br
+></br
+><object
+type="tresult"
+>Le fichier est enregistré sur \My Paratext 8 Projects\_StandardPlans</object
+></li
+><li
+contentType="en"
+>Choose as appropriate, then click <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="fr"
+>Choisissez ce qui convient, puis cliquez sur <object
+type="tmenu"
+>OK</object
+></li
+><li
+contentType="en"
+>Share the file from \My Paratext 8 Projects\_StandardPlans with the other teams.</li
+><li
+contentType="fr"
+>Partagez le fichier de \My Paratext 8 Projects\_StandardPlans avec les autres équipes.</li
+></ul
+><p
+></p
+></section1
+><section1
+id="supgradePlan"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Updating a project with a new version of the base plan</titleContent
+><titleContent
+contentType="fr"
+>Mise à jour d'un projet avec une nouvelle version du plan de base</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Occasionally the base plan upon which that project plan has been built will be modified. There are two ways to update the base plan. </p
+><p
+contentType="fr"
+>Il arrive que le plan de base sur lequel ce plan de projet a été construit soit modifié. Il existe deux façons de mettre à jour le plan de base. </p
+><section2
+id="sUpdatePlan1"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Method 1</titleContent
+><titleContent
+contentType="fr"
+>Méthode 1</titleContent
+></titleContentChoices
+></secTitle
+><ul
+contentType="en"
+><li
+><object
+type="tmenu"
+>≡ Tab</object
+> menu, under <object
+type="tmenu"
+>project</object
+>  </li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> menu, sous <object
+type="tmenu"
+>Projet</object
+> </li
+><li
+>Choose <object
+type="tmenu"
+>Project Settings</object
+> then <object
+type="tmenu"
+>Project plan</object
+>. <br
+></br
+><object
+type="tresult"
+>A warning is displayed that there is a new version of the plan and I can migrate</object
+>. </li
+><li
+contentType="fr"
+>Choisissez <object
+type="tmenu"
+>Paramètres du projet </object
+>puis <object
+type="tmenu"
+>Plan du projet</object
+>. <br
+></br
+><object
+type="tresult"
+>Un avertissement s'affiche indiquant qu'il existe une nouvelle version du plan et que je peux migrer.</object
+></li
+><li
+>Click the link <object
+type="tmenu"
+>Migrate to a new version of the project plan</object
+>. </li
+><li
+contentType="fr"
+>Cliquez sur le lien <object
+type="tmenu"
+>Migrer vers une nouvelle version du plan de projet</object
+>.</li
+><li
+>Choose either: <ul
+><li
+>Keep the tasks that are not in the new version</li
+><li
+>Remove all the tasks that are not in the new version</li
+><li
+>Keep tasks that had progress.</li
+></ul
+></li
+><li
+contentType="fr"
+>Choisissez soit : <ul
+><li
+>Conserver les tâches qui ne sont pas dans la nouvelle version, </li
+><li
+>Supprimer toutes les tâches qui ne sont pas dans la nouvelle version,</li
+><li
+>Conserver les tâches qui étaient en cours. </li
+></ul
+></li
+><li
+>Click <object
+type="tmenu"
+>OK</object
+> <br
+></br
+><object
+type="tresult"
+>Paratext warns that you must do a send/receive,</object
+> </li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK </object
+> <br
+></br
+><object
+type="tresult"
+>Paratext vous avertit que vous devez faire un envoyer/recevoir,</object
+></li
+><li
+>Click <object
+type="tmenu"
+>OK</object
+> to clear the message <br
+></br
+><object
+type="tresult "
+>The plan has been updated</object
+>.</li
+><li
+contentType="fr"
+>Cliquer sur <object
+type="tmenu"
+>OK</object
+> pour effacer le message. <br
+></br
+><object
+type="tresult"
+>Le plan a été mis à jour.</object
+> </li
+><li
+>A green message bar at the top gives you three options: <ul
+><li
+>Close the message</li
+><li
+>View progress in the previous plan,</li
+><li
+>Undo the base Plan update.</li
+></ul
+></li
+><li
+contentType="fr"
+>Une barre de message verte en haut vous donne trois options :  <ul
+><li
+contentType="fr"
+>Fermer le message </li
+><li
+contentType="fr"
+>Afficher l’état d’avancement dans la version précédente du plan</li
+><li
+contentType="fr"
+>Annuler la mise à jour du plan de référence.</li
+></ul
+></li
+><li
+><object
+type="tresult"
+>Note the version number has been updated. </object
+></li
+><li
+contentType="fr"
+><object
+type="tresult"
+>Notez que le numéro de version a été mis à jour.</object
+> </li
+><li
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>. </li
+></ul
+><p
+contentType="en"
+> </p
+></section2
+><section2
+id="sUpdatePlan2"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Method 2</titleContent
+><titleContent
+contentType="fr"
+>Méthode 2</titleContent
+></titleContentChoices
+></secTitle
+><ul
+contentType="en"
+><li
+><p
+contentType="en"
+>Click on assignments and progress. <br
+></br
+><object
+type="tresult"
+>If the base plan has been updated, then a message will appear showing that you can update</object
+>.</p
+></li
+><li
+contentType="fr"
+>Cliquez sur Tâches et avancement. <br
+></br
+><object
+type="tresult"
+>Si le plan de base a été mis à jour, un message apparaîtra pour vous indiquer que vous pouvez effectuer la mise à jour.</object
+> </li
+><li
+>Click on <object
+type="tmenu"
+>Update to new version of project plan</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Mettre à jour la nouvelle version du plan de projet</object
+>.</li
+><li
+>Choose to keep or remove the tasks. <br
+></br
+><object
+type="tresult"
+>When you update it will do a send receive</object
+>.</li
+><li
+contentType="fr"
+>Choisissez de conserver ou de supprimer les tâches. <br
+></br
+><object
+type="tresult"
+>Lorsque vous mettez à jour, il fera un envoyer/recevoir</object
+></li
+><li
+>Choose one of the three options in the green message bar at the top: <ul
+><li
+>Close the message</li
+><li
+>View progress in the previous plan,</li
+><li
+>Undo the base Plan update.</li
+></ul
+></li
+><li
+contentType="fr"
+>Choisissez l'une des trois options dans la barre de message verte en haut de la page : <ul
+><li
+contentType="fr"
+>Fermer le message</li
+><li
+contentType="fr"
+>Afficher l’état d’avancement dans la version précédente du plan</li
+><li
+contentType="fr"
+>Annuler la mise à jour du plan de référence.</li
+></ul
+></li
+></ul
+><p
+contentType="fr"
+>. </p
+></section2
+></section1
+></chapter
+><chapter
+id="sPP1Success"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>Setting up a project for success</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>Configurer pour réussir</object
+></titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Things to consider:</p
+><p
+contentType="fr"
+>Les choses à considérer :</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>It is a dynamic process</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Il s’agit d’un processus dynamique</object
+></pc
+><ul
+><li
+contentType="en"
+>When a project is brand new there aren’t a log of settings that can be fixed in concrete.</li
+><li
+contentType="fr"
+>Lorsqu’un projet est tout neuf, il n’y a pas beaucoup de paramètres qui peuvent être fixés.</li
+><li
+contentType="en"
+>As the project matures some of the inventories begin to make sense.</li
+><li
+contentType="fr"
+>À mesure que le projet arrive à maturité, certains des inventaires commencent à avoir un sens.</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Who is working on the project?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Qui travaille sur le projet </object
+></pc
+><ul
+><li
+contentType="en"
+>Setup the Users, Roles and Permissions</li
+><li
+contentType="fr"
+>Configurer les utilisateurs, les rôles et les autorisations</li
+><li
+contentType="en"
+>Would it be helpful to have a “Simplified Menu”?</li
+><li
+contentType="fr"
+>Serait-il utile d’avoir un « menu simplifié » ?</li
+></ul
+><pc
+></pc
+><pc
+contentType="en"
+><object
+type="tsub"
+>Do you need to customize the settings?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Avez-vous besoin de personnaliser les paramètres ?</object
+></pc
+><ul
+><li
+contentType="en"
+>custom.sty<ul
+><li
+contentType="en"
+>change settings of the stylesheet</li
+><li
+contentType="en"
+>names of markers (in other languages)</li
+><li
+contentType="en"
+>colour to help identify features?</li
+></ul
+></li
+><li
+contentType="fr"
+>custom.sty<ul
+><li
+contentType="fr"
+>modifier les paramètres de la feuille de style</li
+><li
+contentType="fr"
+>les noms des marqueurs (dans d’autres langues)</li
+><li
+contentType="fr"
+>la couleur pour aider à identifier les caractéristiques ?</li
+></ul
+></li
+><li
+contentType="en"
+>custom.vrs<ul
+><li
+contentType="en"
+>identify verses that are different from default versification</li
+></ul
+></li
+><li
+contentType="fr"
+>custom.vrs <ul
+><li
+contentType="fr"
+>identifier les versets qui sont différents de la versification par défaut</li
+></ul
+></li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>What orthography will be used?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Quelle orthographe sera utilisée ?</object
+></pc
+><ul
+><li
+contentType="en"
+>Put the orthography in the language settings.</li
+><li
+contentType="fr"
+>Placez les lettres de l’orthographe dans les paramètres de langue.</li
+><li
+contentType="en"
+>(Keep in mind that what you put in the language settings could be going to the “Speech and Language Data Repository”</li
+><li
+contentType="fr"
+>(Rappelez-vous que ce que vous avez mis dans les paramètres de langue pourrait aller dans le « Speech and Language Data Repository ».)</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>How will the characters be keyed?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Comment les caractères seront-ils saisis ?</object
+></pc
+><ul
+><li
+contentType="en"
+>Keyman/MSKLC</li
+><li
+contentType="fr"
+>Keyman/MSKLC (Keyman est gratuit !)</li
+><li
+contentType="dn"
+><object
+type="tmenu"
+>Projet</object
+> &gt; <object
+type="tmenu"
+>Clavier…</object
+><ul
+><li
+contentType="fr"
+>C'est très utile, mais, si on fixe un des claviers, il faut le customizer pour tous les langues dans Paratext.</li
+><li
+contentType="dn"
+>where did this come from? wasn't in the original english. JB: no idea!</li
+></ul
+></li
+><li
+contentType="en"
+>AutoCorrect.txt</li
+><li
+contentType="fr"
+>AutoCorrect.txt</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>What Quotation system will be used?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Quel système de citation sera utilisé ?</object
+></pc
+><ul
+><li
+contentType="en"
+>Set up the quotation rules (Dynamic)</li
+><li
+contentType="fr"
+>Définir les règles de guillemets [Dynamique]</li
+><li
+contentType="en"
+>Think about your rules</li
+><li
+contentType="fr"
+>Pensez à vos règles</li
+><li
+contentType="en"
+>Test what you have</li
+><li
+contentType="fr"
+>Testez ce que vous avez choisi</li
+><li
+contentType="en"
+>Adjust the rules</li
+><li
+contentType="fr"
+>Ajustez des règles</li
+><li
+contentType="en"
+>Make corrections to the rules / or text as necessary</li
+><li
+contentType="fr"
+>Faire des corrections aux règles/au texte si nécessaire</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>When you have some text data:</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Lorsque vous avez des données textuelles</object
+></pc
+><ul
+><li
+contentType="en"
+>Begin setting up the inventories</li
+><li
+contentType="fr"
+>Commencez avec des inventaires</li
+><li
+contentType="en"
+>Let’s start at the very beginning (Characters)</li
+><li
+contentType="fr"
+>Commencez par le début [caractères]</li
+><li
+contentType="en"
+>Look for options in the inventories!</li
+><li
+contentType="fr"
+>Recherchez des options dans les inventaires !</li
+><li
+contentType="en"
+>Is the item valid all the time? Or just in certain situations?</li
+><li
+contentType="fr"
+>L’élément est-il valable tout le temps ? Ou juste dans certaines situations ?</li
+></ul
+><pc
+contentType="en"
+><object
+type="tsub"
+>Scripture Reference Settings</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Paramètres de référence biblique</object
+></pc
+><ul
+><li
+contentType="en"
+>What book names are you using?</li
+><li
+contentType="fr"
+>Quels noms de livres utilisez-vous ?</li
+><li
+contentType="en"
+>What is the format for a reference?</li
+><li
+contentType="fr"
+>Quel est le format d’une référence ?</li
+><li
+contentType="en"
+>Where will you put the origin of notes?</li
+><li
+contentType="fr"
+>Où placer l’origine des notes ? [Première, dernière…]</li
+></ul
+></chapter
+><chapter
+id="sCV"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>CV: Convert project</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>CV : Convertir un Projet</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sCVIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>If you have ever needed to rename your project, reduce the size of your project, change user names, change the encoding or struggled with composed/decomposed diacritics, then the convert project tool will help you solve these problems.</p
+><p
+contentType="fr"
+>Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, de modifier les noms d’utilisateur, de modifier l’encodage ou de lutter avec des signes diacritiques composés/décomposés, l’outil <object
+type="tmenu"
+>Convertir le projet</object
+> vous aidera à résoudre ces problèmes.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></p
+><p
+contentType="en"
+>You must be the administrator of the project to do these conversions.</p
+><p
+contentType="fr"
+>Vous devez être l’administrateur du projet à faire ces conversions.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ? </object
+></p
+><p
+contentType="en"
+>Although, it is possible to make some changes to existing projects through the project and setting dialogs, several major changes require that a new project is created. Using the convert project dialog allows the new project to keep the project history.</p
+><p
+contentType="fr"
+>Il n’est que possible d’apporter quelques modifications au projet dans le <object
+type="tmenu"
+>Propriétés et paramètres</object
+> du projet. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil <object
+type="tmenu"
+>Convertir le projet</object
+> permet le nouveau projet de garder l’historique du projet.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu'est-ce qu'on va faire ? </object
+></p
+><p
+contentType="en"
+>We will work through the six changes that can be made to your project.</p
+><p
+contentType="fr"
+>Nous allons travailler les six changements qui peuvent être apportés à votre projet.</p
+><ul
+><li
+contentType="en"
+>Changing the short name of the project</li
+><li
+contentType="fr"
+>Changer le nom abrégé du projet</li
+><li
+contentType="en"
+>Removing deleted files from the project history</li
+><li
+contentType="fr"
+>Retirer les fichiers effacés de l'historique de projet</li
+><li
+contentType="en"
+>Clean up Paratext Live history</li
+><li
+contentType="fr"
+>Nettoyer historique de Paratext Live</li
+><li
+contentType="en"
+>Convert encoding to 65001 – Unicode (UTF8)</li
+><li
+contentType="fr"
+>Convertir l’encodage à 65001 — Unicode [UTF8]</li
+><li
+contentType="en"
+>Normalising – composed or decomposed</li
+><li
+contentType="fr"
+>Normalisation — composé ou décomposée</li
+><li
+contentType="en"
+>Replacing old User names</li
+><li
+contentType="fr"
+>Remplacement de vieux noms d’utilisateur <br
+></br
+></li
+></ul
+></section1
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sCVConvert"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>The convert project dialog</titleContent
+><titleContent
+contentType="fr"
+>La boîte de dialogue de "convertir un projet"</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>From the project <object
+type="tmenu"
+>Tab menu</object
+>, under <object
+type="tmenu"
+>Project</object
+>, choose <object
+type="tmenu"
+>Advanced</object
+>, then <object
+type="tmenu"
+>Convert Project</object
+><br
+></br
+> <img
+src="supimgeng\image28.png"
+></img
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>Onglet</object
+> sous <object
+type="tmenu"
+>Outils</object
+>, choisissez <object
+type="tmenu"
+>Avancé</object
+>, puis <object
+type="tmenu"
+>Convertir le projet</object
+><br
+></br
+> <img
+src="supimgfr\image39.9.png"
+width="5in"
+></img
+></li
+></ul
+><section2
+id="sCVShortName"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Changing the short name of the project</titleContent
+><titleContent
+contentType="fr"
+>Changer le nom abrégé du projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Confirm that the old name of the project is correct. (If not, close the dialogue and click in the correct project window, and access the dialog again.)</li
+><li
+contentType="fr"
+>Confirmez que l’ancien nom du projet est correct. [Sinon, fermez le dialogue et cliquez dans la fenêtre projet correct et accéder à la boîte de dialogue Nouveau.]</li
+><li
+contentType="en"
+>Enter the new short name for the project in <object
+type="tmenu"
+>[1]</object
+>.</li
+><li
+contentType="fr"
+>Entrez le nouveau nom abrégé pour le projet dans <object
+type="tmenu"
+>[1]</object
+>.</li
+></ul
+></section2
+><section2
+id="sCVCleasHist"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Removing deleted files from the project history</titleContent
+><titleContent
+contentType="fr"
+>Balayage des fichiers supprimé dans l’historique du projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[2] </object
+>Select this if you have deleted files (such as large illustration files) that you no longer want to be part of project history and no longer want in the project repository.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[2] </object
+>Sélectionnez cette option si vous avez supprimé des fichiers [tels que les grandes illustrations] dont vous ne souhaitez plus faire partie de l’historique du projet.</li
+></ul
+><p
+contentType="en"
+></p
+></section2
+><section2
+id="sCVLive"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Clean up Paratext Live history</titleContent
+><titleContent
+contentType="fr"
+>Nettoyer l'historique de Paratext Live</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[3] </object
+>Select this if you have edited the project with Paratext Live and want to replace names in the project history.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[3]</object
+> Sélectionnez cette option si vous avez édité le projet avec Paratext Live et que vous souhaitez remplacer les noms dans l’histoire du projet.</li
+></ul
+></section2
+><section2
+id="sCVUni"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Convert encoding to 65001 – Unicode (UTF8)</titleContent
+><titleContent
+contentType="fr"
+>Convertir l’encodage à 65001 — Unicode [UTF8]</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[4]</object
+> Select this to convert a standard project encoding to Unicode.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[4]</object
+> Sélectionnez cette option pour convertir un projet standard d’encodage Unicode.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+><img
+src="supimgeng\image29.png"
+></img
+> NOTE: This will not work to change the encoding if your project has a "hacked font".</p
+><p
+contentType="fr"
+><img
+src="supimgeng\image29.png"
+></img
+> N.B. : Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composés ou décomposés.</p
+></framedUnit
+></section2
+><section2
+id="sCVNorm"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Normalising – composed or decomposed</titleContent
+><titleContent
+contentType="fr"
+>Normalisation</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[5]</object
+> Select Composed (NFC) or one of the options in the drop-down list if the data in your project was created using a mix of composed and decomposed characters. (See the Guide for more details).</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[5]</object
+> Sélectionnez Composé [NFC] ou une des options dans la liste déroulante si les données dans votre projet contiennent un mélange des caractères composés et décomposés.</li
+></ul
+></section2
+><section2
+id="sCVVanity"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Replacing old User names</titleContent
+><titleContent
+contentType="fr"
+>Remplacement de vieux noms d’utilisateur</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[6] </object
+>Select the name of the user you want to replace from the drop-down list.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[6]</object
+> Sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>[7] </object
+>Enter the name of a registered Paratext user in this box.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[7]</object
+> Tapez le nom d’un utilisateur inscrit de Paratext dans cette case.</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>[8] </object
+>Click <object
+type="tmenu"
+>Add</object
+>, <br
+></br
+><object
+type="tresult"
+>a summary of the replacement appears, with a "Remove" button</object
+>.<br
+></br
+><img
+src="supimgeng\image30.png"
+></img
+><br
+></br
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[8]</object
+> Cliquez sur <object
+type="tmenu"
+>Ajouter</object
+>, <br
+></br
+><object
+type="tresult"
+>un résumé du remplacement s’affiche avec un bouton </object
+> "Retirer".<br
+></br
+><img
+src="supimgfr\RemplacerNom.png"
+width="5in"
+></img
+></li
+><li
+contentType="en"
+>(Click Remove if you either made a mistake in typing the name in the "With" field OR decide not to make the replacement.)</li
+><li
+contentType="fr"
+>[Si vous faites une erreur en tapant le nom dans le champ <object
+type="tmenu"
+>Avec</object
+> ou que vous décidez de ne pas faire le remplacement, cliquez sur <object
+type="tmenu"
+>Retirer</object
+>].</li
+></ul
+></section2
+></section1
+><section1
+id="sCVConverting"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Convert the project</titleContent
+><titleContent
+contentType="fr"
+>Convertir un projet</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>[9] </object
+>Click <object
+type="tmenu"
+>OK</object
+> to convert the project.<br
+></br
+><object
+type="tresult"
+>See the note in the guide regarding shared projects.</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>[9]</object
+> Cliquez sur <object
+type="tmenu"
+>OK</object
+> pour convertir le projet.<br
+></br
+><object
+type="tresult"
+>Voir la remarque dans le guide au sujet des projets partagés.</object
+></li
+></ul
+></section1
+></chapter
+><chapter
+id="sCR"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+><object
+type="tEmphasis"
+>CR: Cross-references</object
+></titleContent
+><titleContent
+contentType="fr"
+><object
+type="tEmphasis"
+>RE : Renvois</object
+></titleContent
+></titleContentChoices
+></secTitle
+><section1
+id="sCRIntroduction"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Introduction</titleContent
+><titleContent
+contentType="fr"
+>Introduction</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Most languages do not have access to concordances and other Bible study materials in their own languages. Adding cross references to your New Testament can greatly help your reader understand the text by helping your reader find passages on similar themes.</p
+><p
+contentType="fr"
+>La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Where We are</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></p
+><p
+contentType="en"
+>Before you can insert cross references from a model text your administrator must have created all the books (and chapters and verses) in your project. They can be empty but they must be present.</p
+><p
+contentType="fr"
+>Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.</p
+><p
+contentType="en"
+><object
+type="tsub"
+>Why is this Important</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi cette aptitude est-elle importante ? </object
+></p
+><p
+contentType="en"
+>Reading the New Testament is not like reading a novel. Having access to cross references allows your reader to find similar passages. Nevertheless, adding cross references one by one is too tedious. The <object
+type="tmenu"
+>Insert cross reference</object
+> feature allows you to insert all of the cross references at once and also converts the book names and punctuation to match your <object
+type="tmenu"
+>Scripture reference settings</object
+>. Extracting cross-references from a model text allows you to easily insert the same cross-references.</p
+><p
+contentType="fr"
+>Lire le Nouveau Testament n’est pas comme la lecture d’un roman. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu <object
+type="tmenu"
+>Insérer les renvois</object
+> vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvoi seront convertis également pour correspondre à vos <object
+type="tmenu"
+>Paramètres de référence bibliques</object
+>).</p
+><p
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></p
+><p
+contentType="fr"
+><object
+type="tsub"
+>Qu'est-ce qu'on va faire ?</object
+></p
+><p
+contentType="en"
+>We are going to do three things:</p
+><p
+contentType="fr"
+>Nous allons faire trois choses :</p
+><ul
+contentType="en"
+><li
+>export the cross reference from a model text;</li
+><li
+contentType="fr"
+>exporter les renvois à partir d’un modèle de texte ;</li
+><li
+>make sure all the settings for book names and scripture references have been entered for your project;</li
+><li
+contentType="fr"
+>assurez-vous que tous les paramètres des noms des livres et des références bibliques ont été saisis pour votre projet, et</li
+><li
+>finally insert the cross references.</li
+><li
+contentType="fr"
+>puis insérez les renvois.</li
+></ul
+><p
+contentType="en"
+>If you don't have a model text with the desired cross-reference, you can create your own list and import it.</p
+><p
+contentType="fr"
+>Si vous ne disposez pas d'un texte modèle avec la référence croisée souhaitée, vous pouvez créer votre propre liste et l'importer.</p
+></section1
+><section1
+XeLaTeXSpecial="pagebreak"
+id="sCRExtract"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Extract the references from the model text</titleContent
+><titleContent
+contentType="fr"
+>Extraire des renvois d'un texte modèle</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Open the model text.</li
+><li
+contentType="fr"
+>Ouvrir le projet du modèle (p.ex. un autre projet de la filiale).</li
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Tools</object
+> menu, choose <object
+type="tmenu"
+>Cross references</object
+> then <object
+type="tmenu"
+>Extract cross references</object
+></li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Avancé</object
+> puis <object
+type="tmenu"
+>Extraire les renvois</object
+></li
+><li
+contentType="en"
+>Type a file name</li
+><li
+contentType="fr"
+>Saisissez un nom du fichier</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>Note: Resource texts may not allow you to extract cross references.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.<br
+></br
+><object
+type="tresult"
+>N.B. : Les ressources ne vous permettent pas d'extraire les renvois.</object
+></li
+></ul
+></section1
+><section1
+id="sCRREfs"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Check your scripture reference settings</titleContent
+><titleContent
+contentType="fr"
+>Vérifier les paramètres des références bibliques</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Project</object
+> menu, select <object
+type="tmenu"
+>Project Properties</object
+> &gt; <object
+type="tmenu"
+>Scripture Reference Settings</object
+>.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; <object
+type="tmenu"
+>Paramètres des références bibliques</object
+>.</li
+><li
+contentType="en"
+>Verify that the following have been correctly defined for your project (edit them if necessary).</li
+><li
+contentType="fr"
+>Vérifiez que les éléments suivants ont été correctement définis pour votre projet (modifiez-les si nécessaire).</li
+><li
+contentType="en"
+>The punctuation on the <object
+type="tmenu"
+>Reference Format</object
+> tab.</li
+><li
+contentType="fr"
+>La ponctuation dans l'onglet <object
+type="tmenu"
+>Format de référence</object
+>.</li
+><li
+contentType="en"
+>The book abbreviations on the <object
+type="tmenu"
+>Book Names</object
+> tab.</li
+><li
+contentType="fr"
+>Les abréviations des livres dans l'onglet <object
+type="tmenu"
+>Noms du livre</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section1
+><section1
+id="sRLang"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Check your Language Settings</titleContent
+><titleContent
+contentType="fr"
+>Vérifier les paramètres de langue</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Project</object
+> menu, select <object
+type="tmenu"
+>Project Properties</object
+> &gt; <object
+type="tmenu"
+>Language Settings</object
+> …</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Paramètres du projet</object
+> &gt; sélectionnez <object
+type="tmenu"
+>Paramètres de langue...</object
+></li
+><li
+contentType="en"
+>Click the <object
+type="tmenu"
+>Other Characters</object
+> tab.</li
+><li
+contentType="fr"
+>Cliquez l'onglet <object
+type="tmenu"
+>Autres caractères</object
+>.</li
+><li
+contentType="en"
+>In the <object
+type="tmenu"
+>Verse segment characters</object
+> box, enter at least six different characters separated by spaces.</li
+><li
+contentType="fr"
+>Dans le champ <object
+type="tmenu"
+>Segments de Versets</object
+>, saisissez au moins six caractères uniques séparé par des espaces.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+>.</li
+><li
+contentType="fr"
+>Cliquer sur <object
+type="tmenu"
+>OK</object
+>.</li
+></ul
+></section1
+><section1
+id="sCRInsert"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Insert Cross references</titleContent
+><titleContent
+contentType="fr"
+>Insérer des renvois</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+><object
+type="tmenu"
+>≡ Tab</object
+> under <object
+type="tmenu"
+>Project</object
+> menu, point to <object
+type="tmenu"
+>Advanced</object
+>, and then select <object
+type="tmenu"
+>Insert Cross References</object
+>.</li
+><li
+contentType="fr"
+><object
+type="tmenu"
+>≡ Onglet</object
+> sous <object
+type="tmenu"
+>Projet</object
+>, choisissez <object
+type="tmenu"
+>Avancé</object
+>, puis <object
+type="tmenu"
+>Insérer les renvois</object
+>.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Browse</object
+>....</li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Parcourir...</object
+>.</li
+><li
+contentType="en"
+>Find the <object
+type="ttyped"
+>.xrf</object
+> file of extracted cross references.</li
+><li
+contentType="fr"
+>Naviguez vers le fichier <object
+type="ttyped"
+>.xrf</object
+> contenant des renvois extraits.</li
+><li
+contentType="en"
+>Select the file, and click <object
+type="tmenu"
+>Open</object
+>.</li
+><li
+contentType="fr"
+>Sélectionnez le ficher, puis cliquer sur <object
+type="tmenu"
+>Ouvrir</object
+>.</li
+><li
+contentType="en"
+>If desired, select one or more of the options:<br
+></br
+><img
+src="supimgeng\image31.png"
+></img
+><br
+></br
+>(see the guide for more info)</li
+><li
+contentType="fr"
+>Si vous le désirez, sélectionnez une des cases à cocher.<br
+></br
+><img
+src="supimgfr/InsRenvois.png"
+width="5in"
+></img
+><br
+></br
+>(Voir le guide pour d'autres informations.)</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>OK</object
+><br
+></br
+><object
+type="tresult"
+>If the Copyright box displays a copyright notice or required statement of acknowledgments, copy the text, and then paste it wherever you keep this kind of information for the project.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>OK</object
+><br
+></br
+><object
+type="tresult"
+>Si une boite de dialogue s'affiche contenant des droits d'auteurs ou d'autres informations, copiez les infos vers l'endroit appropriez de votre projet.</object
+></li
+></ul
+></section1
+></chapter
+></part
+><backMatter
+><endnotes
+></endnotes
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="len"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+XeLaTeXSpecial="underline"
+color="#0033cc"
+cssSpecial="text-decoration:underline"
+font-style="normal"
+font-weight="normal"
+id="tlink"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+font-style="italic"
+id="tresult"
+></type
+><type
+font-weight="bold"
+id="tmenu"
+></type
+><type
+id="t-en"
+></type
+><type
+id="t-fr"
+></type
+><type
+before="XLingPaper"
+id="tXLingPaper"
+></type
+><type
+before="XMLmind"
+id="tXMLmind"
+></type
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tsubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><type
+before="Paratext 9"
+id="tPT"
+></type
+><type
+before="Paratext 7"
+id="tPTPrev"
+></type
+><type
+font-size="10pt"
+font-style="italic"
+font-weight="bold"
+id="tsub"
+></type
+><type
+font-family="Courier New"
+id="ttyped"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><framedTypes
+><framedType
+align="left"
+backgroundcolor="#FFE6FF"
+description="Teacher Note"
+id="tTeacher"
+indent-after="2cm"
+indent-before="2cm"
+innerbottommargin=".03in"
+innerleftmargin=".125in"
+innerrightmargin=".125in"
+innertopmargin=".03in"
+spaceafter="3pt"
+spacebefore="3pt"
+></framedType
+></framedTypes
+><publishingInfo
+><keywords
+><keyword
+>Paratext 9</keyword
+><keyword
+>SIL International</keyword
+><keyword
+>United Bible Societies</keyword
+><keyword
+>Bible Translation</keyword
+></keywords
+></publishingInfo
+><contentControl
+showOnlyChosenItemsInEditor="no"
+><contentTypes
+><contentType
+id="en"
+>english</contentType
+><contentType
+id="fr"
+>french</contentType
+><contentType
+id="dn"
+>Developer's Note</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="no"
+>-Export Everything</contentControlChoice
+><contentControlChoice
+active="yes"
+exclude="en dn"
+>Exclude English and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr dn"
+>Exclude French and Developer's Notes</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="fr"
+>Exclude French</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="en"
+>Exclude English</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><xi:include
+href="publisherstylesheets/SILInternationalBookletStylesheet.xml~"
+xpointer="element(/1)"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+></xi:include
+></styledPaper
+></xlingpaper
+>

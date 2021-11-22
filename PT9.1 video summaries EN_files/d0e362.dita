@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en-US" id="d0e362"><title>PT9.1.06 Bulk Progress in Assignments and Progress</title><body><p>Another feature of Paratext 9.1 is the ability to handle bulk progress.</p><ul><li>Click the Blue Assignments and Progress button</li><li>Choose <b>Stages Table</b></li><li>Click [XMLmind] tab menu and choose <b>Bulk Progress Mode</b>.</li></ul><p>	Checks are temporarily turned off.</p><ul><li>Click <b>All stages</b> button</li><li>All of the stages are approved.</li></ul><p>When you finish doing all your approvals you can go back and uncheck bulk progress mode.</p><p>Using the bulk progress mode allows you to quickly approve stages and move those checks to a later stage.</p></body></topic>
