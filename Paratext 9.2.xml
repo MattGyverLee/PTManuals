@@ -571,10 +571,10 @@ type="tsub"
 ><ul
 ><li
 contentType="en"
->All the tasks for this step have been covered in previous modules.</li
+>Use appropriate collaboration tools so the team can interact with the consultant.</li
 ><li
 contentType="fr"
->Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</li
+>Utiliser des outils de collaboration appropriés pour que l'équipe puisse interagir avec le conseiller.</li
 ></ul
 ><pc
 contentType="en"
@@ -17673,17 +17673,25 @@ pagecontrol="letFormatterDecide"
 contentType="dn"
 >redo image JB: done</p
 ><p
-contentType="fr"
-pagecontrol="letFormatterDecide"
 ></p
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->All tasks in this stage have been covered in previous modules.</p
+>Most of the tasks in this stage have been covered in previous modules.</p
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>The following modules will help you in this stage:</p
 ><ul
 ><li
 contentType="en"
->See Stage one and two.</li
+><sectionRef
+sec="collaborationTools"
+></sectionRef
+></li
+><li
+contentType="en"
+>See also Stage one and two.</li
 ><li
 contentType="en"
 ><sectionRef
@@ -17702,11 +17710,17 @@ showTitle="full"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Toutes les tâches de cette étape ont été couvertes dans les modules précédents.</p
+>Les modules suivants vous aideront avec ces étapes :</p
 ><ul
 ><li
 contentType="fr"
->Voir étape un et deux</li
+><sectionRef
+sec="collaborationTools"
+></sectionRef
+></li
+><li
+contentType="fr"
+>Voir aussi ces modules d'étape un et deux</li
 ><li
 contentType="fr"
 ><sectionRef
@@ -17722,6 +17736,493 @@ showTitle="full"
 ></sectionRef
 ></li
 ></ul
+><p
+></p
+><chapter
+id="collaborationTools"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Collaboration tools</titleContent
+><titleContent
+contentType="fr"
+>Outils de collaboration</titleContent
+></titleContentChoices
+></secTitle
+><pc
+contentType="en"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Introduction</object
+></pc
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>In this module you will use Paratext Live as a way that the team can collaborate together so that everyone can see the changes to the text on their own computers.</p
+><p
+contentType="fr"
+>Dans ce module, vous utiliserez Paratext Live pour permettre à l'équipe de collaborer, de sorte que chacun puisse voir les modifications apportées au texte sur son propre ordinateur.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Where we are</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Où en sommes-nous ? </object
+></pc
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>We have already seen how to collaborate with Send/Receive. There are times, for example during a consultant check, when several people need to look at the same text, and perhaps edit it together. Paratext Live allows everyone to look at the text on their own computer and see the changes being made in real time.</p
+><p
+contentType="fr"
+>Nous avons déjà vu comment collaborer avec Envoyer/Recevoir. La vérification par un conseiller est l'une des nombreuses occasions où plusieurs personnes doivent examiner le même texte, voire l'éditer ensemble. Paratext Live permet à chacun de consulter le texte sur son propre ordinateur et de voir les modifications apportées en temps réel.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>Why this is important</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Pourquoi est-il important ? </object
+></pc
+><p
+contentType="en"
+pagecontrol="letFormatterDecide"
+>There are several other ways to let everyone look at the same text. But Paratext Live not only lets everyone see the text, but it also allows more than one person to edit the text.</p
+><p
+contentType="fr"
+>Il existe plusieurs autres moyens de permettre à tout le monde de regarder le même texte. Mais Paratext Live permet non seulement à tout le monde de voir le texte, mais il permet également à plusieurs personnes de modifier le texte.</p
+><pc
+contentType="en"
+><object
+type="tsub"
+>What are you going to do?</object
+></pc
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Que ferez-vous ? </object
+></pc
+><ul
+><li
+contentType="en"
+>Connect all users to the same network.</li
+><li
+contentType="fr"
+>Connectez tous les utilisateurs au même réseau.</li
+><li
+contentType="en"
+>Send/receive.</li
+><li
+contentType="fr"
+>Faire un envoyer/recevoir</li
+><li
+contentType="en"
+>Start Paratext Live and join a session</li
+><li
+contentType="fr"
+>Démarrer Paratext Live et se joindre la session live</li
+><li
+contentType="en"
+>Edit the document</li
+><li
+contentType="fr"
+>Faire les modifications</li
+><li
+contentType="en"
+>Exchange all files</li
+><li
+contentType="fr"
+>Échanger tous les fichiers</li
+><li
+contentType="en"
+>Exit Paratext Live</li
+><li
+contentType="fr"
+>Terminer/quitter la session Live</li
+><li
+contentType="en"
+>Send/receive</li
+><li
+contentType="fr"
+>Faire un envoyer/recevoir</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>See the video 4.1 Collaboration Tools.</p
+><p
+contentType="fr"
+>Voir le vidéo 4.1 Collaboration Tools. Il n'est actuellement disponible qu'en anglais (avec des sous-titres français) mais il sera traduit en français.</p
+></framedUnit
+><section1
+id="sColl"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Paratext Live</titleContent
+><titleContent
+contentType="fr"
+>Paratext Live</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Before you can start Paratext Live, all users must do a send/receive and everyone must be connected to the same network.</p
+><p
+contentType="fr"
+>Avant de pouvoir lancer Paratext Live, tous les utilisateurs doivent effectuer un envoyer/recevoir et tout le monde doit être connecté au même réseau.</p
+><p
+></p
+><section2
+id="ssendreceive"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Send/receive</titleContent
+><titleContent
+contentType="fr"
+>Envoyer/Recevoir</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Before you start Paratext Live all participants should Send/Receive the project. Paratext will tell you that you need to Send/Receive.</p
+><p
+contentType="fr"
+>Avant de lancer Paratext Live, tous les participants doivent envoyer/recevoir le projet. Paratext vous indiquera que vous devez envoyer/recevoir le projet.</p
+></section2
+><section2
+id="snetwork"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Connect to the same network</titleContent
+><titleContent
+contentType="fr"
+>Connecter tous les utilisateurs au même réseau</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>Paratext Live can use</p
+><p
+contentType="fr"
+>Paratext Live peut utiliser</p
+><ul
+contentType="en"
+><li
+>Internet</li
+><li
+contentType="fr"
+>l'Internet</li
+><li
+>a local network</li
+><li
+contentType="fr"
+>un réseau local</li
+><li
+>offline WiFi router</li
+><li
+contentType="fr"
+>un routeur WiFi hors ligne, ou</li
+><li
+>hotspot with mobile data disabled.</li
+><li
+contentType="fr"
+>hotspot avec les données mobiles désactivées.</li
+></ul
+></section2
+><section2
+id="sStartParatextLive"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Start Paratext Live</titleContent
+><titleContent
+contentType="fr"
+>Démarrer Paratext Live</titleContent
+></titleContentChoices
+></secTitle
+><ul
+><li
+contentType="en"
+>Open the menu for the project.</li
+><li
+contentType="fr"
+>Ouvrez le menu du projet.</li
+><li
+contentType="en"
+>Under <object
+type="tmenu"
+>Tools</object
+>, click <object
+type="tmenu"
+>Paratext Live</object
+>.</li
+><li
+contentType="fr"
+>Sous <object
+type="tmenu"
+>Outils</object
+>, cliquez sur <object
+type="tmenu"
+>Paratext Live</object
+>.</li
+><li
+contentType="en"
+>Or use the icon on the toolbar.</li
+><li
+contentType="fr"
+>Ou utilisez l'icône de la barre d'outils.</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>Start/Join Live session</object
+>. <object
+type="tresult"
+>If Autosave in Paratext Settings is not on, the Live session will turn it on for the duration of the session. </object
+></li
+><li
+contentType="fr"
+>Cliquez sur <object
+type="tmenu"
+>Démarrer/se joindre la session Live</object
+>. <object
+type="tresult"
+>Si vous n'avez pas activé l'enregistrement automatique, il sera le activé automatiquement pour la durée de la session.</object
+></li
+><li
+contentType="en"
+>Paratext then asks if you are the primary editor: <ul
+><li
+>If you are <object
+type="tEmphasis"
+>not</object
+> the primary editor, <object
+type="tEmphasis"
+>wait</object
+>, don’t press cancel as that will cancel your joining the live session.</li
+><li
+>If you <object
+type="tEmphasis"
+>are</object
+> the primary editor, click <object
+type="tmenu"
+>Start as Primary Editor</object
+>. <br
+></br
+><object
+type="tresult"
+>With a session active, the Paratext Live button is green</object
+></li
+></ul
+></li
+><li
+contentType="fr"
+>Paratext vous demande alors si vous êtes l'éditeur principal.<ul
+><li
+>Si vous <object
+type="tEmphasis"
+>n'êtes pas</object
+> l'éditeur principal, attendez, ne cliquez pas sur Annuler car cela annulerait votre participation à la session en direct.</li
+><li
+>Si vous <object
+type="tEmphasis"
+>êtes</object
+> le rédacteur principal, cliquez sur <object
+type="tmenu"
+>Start as Primary Editor</object
+>. <br
+></br
+><object
+type="tresult"
+>Lorsqu'une session est active, le bouton Paratext Live est vert</object
+>.</li
+></ul
+></li
+></ul
+></section2
+><section2
+id="s"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Sharing changes from Tools</titleContent
+><titleContent
+contentType="fr"
+>Partager les modifications fait à partir d'Outils</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>All scripture text is shared when you do a send/receive. However, changes made with various tools are not shared automatically. Examples of these unshared changes are to spelling status, Parallel passage status, Biblical Terms and their identified renderings, and Notes. To share these changes:</p
+><p
+contentType="fr"
+>Tout le texte de l'écriture est partagé lorsque vous faites un envoyer/recevoir. Cependant, les modifications apportées à l'aide de divers outils ne sont pas partagées automatiquement. Des exemples de ces modifications non partagées sont l'état de l'orthographe, l'état du passage parallèle, les termes bibliques et leurs équivalents identifiés, et les remarques de discussion.</p
+><ul
+contentType="en"
+><li
+>Click the Paratext Live button on the toolbar,</li
+><li
+contentType="fr"
+>Cliquez sur le bouton Paratext Live dans la barre d'outils</li
+><li
+>Click “<object
+type="tmenu"
+>Exchange all files</object
+>” <br
+></br
+><object
+type="tresult"
+>All of the users in the Paratext Live session then receive updates to these files.</object
+></li
+><li
+contentType="fr"
+>Cliquez sur "<object
+type="tmenu"
+>Échanger tous les fichiers</object
+>"<br
+></br
+><object
+type="tresult"
+>Tous les utilisateurs de la session Paratext Live reçoivent alors les mises à jour de ces fichiers.</object
+></li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+>Changes from all users are shared, but if two people have changed the exact same item differently, only one person’s change will be saved.</p
+><p
+contentType="fr"
+>Les modifications de tous les utilisateurs sont partagées, mais si deux personnes ont modifié différemment le même élément, seule la modification d'une personne sera enregistrée.</p
+></framedUnit
+></section2
+><section2
+id="sEndParatetLive"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>End the Paratext Live session</titleContent
+><titleContent
+contentType="fr"
+>Terminer la session Paratext Live</titleContent
+></titleContentChoices
+></secTitle
+><ul
+contentType="fr"
+><li
+contentType="en"
+>Click the Paratext Live button</li
+><li
+contentType="fr"
+>Cliquez sur le bouton Paratext Live</li
+><li
+contentType="en"
+>Click <object
+type="tmenu"
+>End/leave Live session</object
+><ul
+><li
+>If you are the Primary Editor, you will see a message box.</li
+><li
+>Click <object
+type="tmenu"
+>End Session normally</object
+></li
+></ul
+></li
+><li
+>Cliquez sur <object
+type="tmenu"
+>Terminer/quitter la session Live</object
+><ul
+><li
+>Si vous êtes le rédacteur principal, vous verrez une boîte de message.</li
+><li
+>Cliquez sur <object
+type="tmenu"
+>Terminer la session normalement</object
+>.</li
+></ul
+></li
+><li
+contentType="en"
+>Do a send/receive</li
+><li
+contentType="fr"
+>Effectuer un envoyer/recevoir.</li
+></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+><object
+type="tEmphasis"
+>Note</object
+>: If one participant has upgraded to Paratext 9.2, <object
+type="tEmphasis"
+>everyone</object
+> participating needs to upgrade as Paratext Live files are slightly different in version 9.2.</p
+><p
+contentType="en"
+><object
+type="tEmphasis"
+>For more help</object
+>, search for '<object
+type="tEmphasis"
+>live</object
+>' in the search box on the title bar. There are lots of useful helpful topics to help you use Paratext Live</p
+><p
+contentType="fr"
+><object
+type="tEmphasis"
+>Notez bien</object
+> : si l'un des participants a effectué une mise à niveau vers Paratext 9.2, <object
+type="tEmphasis"
+>tous les participants</object
+> doivent le faire car les fichiers Paratext Live sont légèrement différents dans la version 9.2.</p
+><p
+contentType="fr"
+><object
+type="tEmphasis"
+>Pour plus d'aide</object
+>, recherchez "<object
+type="tEmphasis"
+>live</object
+>" dans le champ de recherche de la barre de titre. Il existe de nombreuses rubriques utiles pour vous aider à utiliser Paratext Live.</p
+></framedUnit
+><p
+contentType="fr"
+></p
+></section2
+></section1
+></chapter
 ></part
 ><part
 id="s5"
@@ -24600,11 +25101,11 @@ active="no"
 exclude="en dn b1"
 >Publish Book 2 (French)</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Publish (English) Whole Book</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Publish (French) Whole Book</contentControlChoice
 ><contentControlChoice
