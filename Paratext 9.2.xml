@@ -19155,6 +19155,154 @@ type="tEmphasis"
 >.</li
 ></ul
 ><section1
+id="sChooseIllustrations_Captions"
+showinlandscapemode="no"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Choose illustrations and write captions</titleContent
+><titleContent
+contentType="fr"
+>Choisir les illustrations et légendes</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>There are over 2800 image available so it can be difficult to choose illustrations. Fortunately, it is  possible to search on images by chapter reference and keywords in several languages. Note, any illustrations you insert in Paratext will stay in your project. It is recommended to only add these small jpg files (or alternatively just the filename), then at typesetting they will be changed to the larger hi-res images.</p
+><p
+contentType="fr"
+>Il y a plus de 2800 images disponibles, il peut donc être difficile de choisir les illustrations. Heureusement, il est désormais possible de rechercher des images par référence de chapitre et par mots-clés en français. Notez que toute illustration que vous insérez dans Paratext augmentera la taille de votre projet. N'ajoutez que ces petits fichiers jpg (ou alternativement juste le nom du fichier). Au moment de la composition elles seront remplacées par des images plus grandes en haute résolution.</p
+><ul
+></ul
+><section2
+id="downloadPictures"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Download a folder of searchable images</titleContent
+><titleContent
+contentType="fr"
+>Créer un dossier d'images à rechercher</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>First time only:</p
+><p
+contentType="fr"
+>Premier fois:</p
+><ul
+contentType="fr"
+><li
+contentType="fr"
+>Ouvrez le lien <object
+type="tlink"
+>https://tiny.cc/sampleimages</object
+> sur l’Internet</li
+><li
+contentType="fr"
+>Cliquez-droit sur le dossier <object
+type="tmenu"
+>Illustrations - Français</object
+>,</li
+><li
+contentType="fr"
+>Sélectionnez <object
+type="tmenu"
+>Télécharger</object
+><br
+></br
+><object
+type="tresult"
+>Il va télécharger environ 121Mo</object
+></li
+><li
+contentType="fr"
+>Recherchez et ouvriz le <object
+type="tmenu"
+>fichier .zip</object
+> téléchargé</li
+><li
+contentType="fr"
+>Extrayez l’unique dossier dans l’archive: "<object
+type="tmenu"
+>Illustrations - Français</object
+>" et mettre-le dans votre dossier <object
+type="tEmphasis"
+>Images</object
+> (PIctures)<br
+></br
+><object
+type="tresult"
+>(Windows commence à indexer les contenus des images…) </object
+></li
+></ul
+></section2
+><section2
+id="sTestIndex"
+><secTitle
+><titleContentChoices
+><titleContent
+contentType="en"
+>Test various searches</titleContent
+><titleContent
+contentType="fr"
+>Tester différentes recherches</titleContent
+></titleContentChoices
+></secTitle
+><p
+contentType="en"
+>When your Pictures are indexed, you can test various searches.</p
+><p
+contentType="fr"
+>Lorsque vos images sont indexées, vous pouvez tester différentes recherches.</p
+><ul
+><li
+contentType="en"
+></li
+><li
+contentType="fr"
+>Ouvrez ce nouveau dossier dans l’<object
+type="tmenu"
+>Explorateur de fichiers</object
+> <br
+></br
+><img
+src="12imgfr/SearchImageFR.png"
+width="400"
+></img
+></li
+><li
+contentType="fr"
+>Tapez dans le champs de recherche: <ul
+><li
+><object
+type="tEmphasis"
+>Un mot de recherche</object
+>, comme croix, brebis, maison, etc.</li
+><li
+><object
+type="tEmphasis"
+>Une référence biblique</object
+>, comme MAT27, ACT03, etc. (utilisant au moins 2 chiffres pour le chapitre).</li
+><li
+>Ajouter <object
+type="tEmphasis"
+>black</object
+> ou  <object
+type="tEmphasis"
+>-color</object
+> pour afficher seulement les images noir et blanc.</li
+></ul
+></li
+></ul
+><p
+></p
+></section2
+></section1
+><section1
 id="saddIllustrationsAndCaptions1"
 showinlandscapemode="no"
 ><secTitle
@@ -19200,7 +19348,8 @@ type="tmenu"
 ></br
 ><p
 ><img
-src="36imgeng\image26.png"
+src="12imgfr/image26FR.png"
+width="500"
 ></img
 ></p
 ></li
@@ -19257,6 +19406,20 @@ contentType="en"
 ><li
 contentType="fr"
 >Paratext va remplir la référence de chapitre et verset qui concerne l’image. [5]</li
+></ul
+><p
+contentType="en"
+><object
+type="tEmphasis"
+>Browse to search for the image file</object
+></p
+><p
+contentType="fr"
+><object
+type="tEmphasis"
+>Parcourir pour rechercher le fichier de l'image</object
+></p
+><ul
 ><li
 contentType="en"
 >Click <object
@@ -19268,7 +19431,37 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >Parcourir</object
->... pour rechercher le fichier de l’image. [6]</li
+>... pour rechercher le fichier de l’image. [7]<br
+></br
+><object
+type="tresult"
+>Une boîte de dialogue s'affiche</object
+>  <br
+></br
+><img
+src="12imgfr/SearchImagePTFr.png"
+width="500"
+></img
+><br
+></br
+><ul
+><li
+>Dans le dialogue, sélectionnez à gauche le dossier <object
+type="tmenu"
+>Images &gt; Illustrations - Français</object
+></li
+><li
+>Cliquez dans le champ de <object
+type="tmenu"
+>Rechercher</object
+> (en haut, à droite) et tapez pour filtrer les images (comme ci-dessus)</li
+><li
+>Cliquer sur l’image souhaitée et cliquer sur le bouton <object
+type="tmenu"
+>Ouvrir</object
+>.</li
+></ul
+></li
 ><li
 contentType="en"
 >Click <object
@@ -19282,6 +19475,24 @@ type="tmenu"
 >OK</object
 >.</li
 ></ul
+><framedUnit
+framedtype="tTeacher"
+><p
+contentType="en"
+></p
+><p
+contentType="fr"
+>Pour faciliter la recherche, double-cliquez sur la barre de titre pour <object
+type="tEmphasis"
+>agrandir la fenêtre</object
+>, <object
+type="tEmphasis"
+>affichez</object
+> les très grandes icônes et <object
+type="tEmphasis"
+>masquer le volet de visualisation</object
+>.</p
+></framedUnit
 ></section1
 ><section1
 id="sverifyAllChecksAre1"
@@ -25101,11 +25312,11 @@ active="no"
 exclude="en dn b1"
 >Publish Book 2 (French)</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="fr dn"
 >Publish (English) Whole Book</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn"
 >Publish (French) Whole Book</contentControlChoice
 ><contentControlChoice

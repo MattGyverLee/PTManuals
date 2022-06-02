@@ -5565,10 +5565,10 @@ contentType="fr"
 ></secTitle
 ><p
 contentType="en"
->Changes you made to your plan will be sent to the members of your project when you send/receive. If you want to share the revised plan with other teams you can save it as a new base plan. </p
+>Changes you made to your plan will be sent to the members of your project when you send/receive. If you want to share the revised plan with other teams you can save it as a new base plan.</p
 ><p
 contentType="fr"
->Les modifications que vous avez apportées à votre plan seront envoyées aux membres de votre projet lors de l'envoyer/recevoir. Si vous souhaitez partager le plan révisé avec d'autres équipes, vous pouvez l'enregistrer comme un nouveau plan de référence. </p
+>Les modifications que vous avez apportées à votre plan seront envoyées aux membres de votre projet lors de l'envoyer/recevoir. Si vous souhaitez partager le plan révisé avec d'autres équipes, vous pouvez l'enregistrer comme un nouveau plan de référence.</p
 ><ul
 ><li
 contentType="en"
@@ -5716,10 +5716,10 @@ contentType="fr"
 ></secTitle
 ><p
 contentType="en"
->Occasionally the base plan upon which that project plan has been built will be modified. There are two ways to update the base plan. </p
+>Occasionally the base plan upon which that project plan has been built will be modified. There are two ways to update the base plan.</p
 ><p
 contentType="fr"
->Il arrive que le plan de base sur lequel ce plan de projet a été construit soit modifié. Il existe deux façons de mettre à jour le plan de base. </p
+>Il arrive que le plan de base sur lequel ce plan de projet a été construit soit modifié. Il existe deux façons de mettre à jour le plan de base.</p
 ><section2
 id="sUpdatePlan1"
 ><secTitle
@@ -5741,7 +5741,7 @@ type="tmenu"
 > menu, under <object
 type="tmenu"
 >project</object
->  </li
+></li
 ><li
 contentType="fr"
 ><object
@@ -5750,7 +5750,7 @@ type="tmenu"
 > menu, sous <object
 type="tmenu"
 >Projet</object
-> </li
+></li
 ><li
 >Choose <object
 type="tmenu"
@@ -5763,7 +5763,7 @@ type="tmenu"
 ><object
 type="tresult"
 >A warning is displayed that there is a new version of the plan and I can migrate</object
->. </li
+>.</li
 ><li
 contentType="fr"
 >Choisissez <object
@@ -5782,7 +5782,7 @@ type="tresult"
 >Click the link <object
 type="tmenu"
 >Migrate to a new version of the project plan</object
->. </li
+>.</li
 ><li
 contentType="fr"
 >Cliquez sur le lien <object
@@ -5803,11 +5803,11 @@ type="tmenu"
 contentType="fr"
 >Choisissez soit : <ul
 ><li
->Conserver les tâches qui ne sont pas dans la nouvelle version, </li
+>Conserver les tâches qui ne sont pas dans la nouvelle version,</li
 ><li
 >Supprimer toutes les tâches qui ne sont pas dans la nouvelle version,</li
 ><li
->Conserver les tâches qui étaient en cours. </li
+>Conserver les tâches qui étaient en cours.</li
 ></ul
 ></li
 ><li
@@ -5819,7 +5819,7 @@ type="tmenu"
 ><object
 type="tresult"
 >Paratext warns that you must do a send/receive,</object
-> </li
+></li
 ><li
 contentType="fr"
 >Cliquez sur <object
@@ -5838,7 +5838,7 @@ type="tmenu"
 > to clear the message <br
 ></br
 ><object
-type="tresult "
+type="tresult"
 >The plan has been updated</object
 >.</li
 ><li
@@ -5851,7 +5851,7 @@ type="tmenu"
 ><object
 type="tresult"
 >Le plan a été mis à jour.</object
-> </li
+></li
 ><li
 >A green message bar at the top gives you three options: <ul
 ><li
@@ -5864,10 +5864,10 @@ type="tresult"
 ></li
 ><li
 contentType="fr"
->Une barre de message verte en haut vous donne trois options :  <ul
+>Une barre de message verte en haut vous donne trois options : <ul
 ><li
 contentType="fr"
->Fermer le message </li
+>Fermer le message</li
 ><li
 contentType="fr"
 >Afficher l’état d’avancement dans la version précédente du plan</li
@@ -5886,7 +5886,7 @@ contentType="fr"
 ><object
 type="tresult"
 >Notez que le numéro de version a été mis à jour.</object
-> </li
+></li
 ><li
 >Click <object
 type="tmenu"
@@ -5897,11 +5897,11 @@ contentType="fr"
 >Cliquez sur <object
 type="tmenu"
 >OK</object
->. </li
+>.</li
 ></ul
 ><p
 contentType="en"
-> </p
+></p
 ></section2
 ><section2
 id="sUpdatePlan2"
@@ -5934,7 +5934,7 @@ contentType="fr"
 ><object
 type="tresult"
 >Si le plan de base a été mis à jour, un message apparaîtra pour vous indiquer que vous pouvez effectuer la mise à jour.</object
-> </li
+></li
 ><li
 >Click on <object
 type="tmenu"
@@ -5988,7 +5988,7 @@ contentType="fr"
 ></ul
 ><p
 contentType="fr"
->. </p
+>.</p
 ></section2
 ></section1
 ></chapter
@@ -7504,11 +7504,11 @@ id="dn"
 active="no"
 >-Export Everything</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Exclude English and Developer's Notes</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="fr dn"
 >Exclude French and Developer's Notes</contentControlChoice
 ><contentControlChoice
