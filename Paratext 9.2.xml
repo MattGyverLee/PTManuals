@@ -23,10 +23,10 @@ contentType="fr"
 ><titleContentChoices
 ><titleContent
 contentType="en"
->Paratext 9.2 Manual</titleContent
+>Paratext 9 Manual</titleContent
 ><titleContent
 contentType="fr"
->Guide Paratext 9.2</titleContent
+>Guide Paratext 9</titleContent
 ></titleContentChoices
 ></shortTitle
 ><subtitle
@@ -134,7 +134,7 @@ contentType="en"
 >The course follows the six stages of translation as given in the SIL Compact base plan. [The four stages of the UBS plan are 1, 2, 5, and 6]</p
 ><p
 contentType="fr"
->On suit les six étapes du plan de SIL du processus de traduction. [Les quatre étapes de UBS sont 1, 2, 5 et 6.]</p
+>On suit les six étapes du plan de SIL du processus de traduction. [Les quatre étapes de ABU sont 1, 2, 5 et 6.]</p
 ></section1
 ><section1
 contentType="b1"
@@ -7014,7 +7014,7 @@ type="tresult"
 ></br
 ><img
 XeLaTeXSpecial="scaled='300'"
-src="12imgfr\CheckCurrentBookFR.png"
+src="12imgfr\checkCurrentBookFR.png"
 width="300"
 ></img
 ></li
@@ -7591,7 +7591,7 @@ contentType="fr"
 ></br
 ><img
 height="200"
-src="12imgfr/spellingnoteFR.png"
+src="12imgfr/SpellingNoteFR.png"
 ></img
 > </li
 ><li
@@ -14725,7 +14725,7 @@ contentType="fr"
 ><p
 contentType="en"
 pagecontrol="letFormatterDecide"
->Note: This stage is part of stage 2 in the USB plan.</p
+>Note: This stage is part of stage 2 in the UBS plan.</p
 ><p
 contentType="dn"
 >is it more correct to say that this stage is part of stage 2 in the UBS plan? JB: agreed</p
@@ -14741,7 +14741,7 @@ contentType="en"
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
->Note : Dans le plan USB, cette étape fait partie de l'étape 2.</p
+>Note : Dans le plan ABU, cette étape fait partie de l'étape 2.</p
 ><p
 contentType="fr"
 pagecontrol="letFormatterDecide"
@@ -17663,7 +17663,7 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 ><object
 type="tItalic"
->Note : Cette étape ne fait pas partie du plan d'UBS.</object
+>Note : Cette étape ne fait pas partie du plan d'ABU.</object
 ></p
 ><p
 contentType="fr"
@@ -18239,7 +18239,7 @@ type="tEmphasis"
 contentType="fr"
 ><object
 type="tEmphasis"
->Étape 5 / Étape 3 UBS : Tester/réviser avec la communauté</object
+>Étape 5 / Étape 3 ABU : Tester/réviser avec la communauté</object
 ></titleContent
 ></titleContentChoices
 ></secTitle
@@ -18285,7 +18285,7 @@ contentType="fr"
 pagecontrol="letFormatterDecide"
 ><object
 type="tItalic"
->N.B.: Cette étape est équivalente à la troisième étape du plan du UBS.</object
+>N.B.: Cette étape est équivalente à la troisième étape du plan d'ABU.</object
 ></p
 ><p
 contentType="fr"
@@ -18980,7 +18980,7 @@ type="tEmphasis"
 contentType="fr"
 ><object
 type="tEmphasis"
->Étape 6 / 4 UBS : Finalisation pour la publication</object
+>Étape 6 / 4 ABU : Finalisation pour la publication</object
 ></titleContent
 ></titleContentChoices
 ></secTitle
@@ -19004,7 +19004,7 @@ contentType="en"
 ></p
 ><p
 contentType="fr"
->La sixième étape d’un projet de traduction (ou quatrième étape du UBS) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.<br
+>La sixième étape d’un projet de traduction (ou quatrième étape du ABU) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.<br
 ></br
 ></p
 ><p
@@ -19169,7 +19169,7 @@ contentType="fr"
 ></secTitle
 ><p
 contentType="en"
->There are over 2800 image available so it can be difficult to choose illustrations. Fortunately, it is  possible to search on images by chapter reference and keywords in several languages. Note, any illustrations you insert in Paratext will stay in your project. It is recommended to only add these small jpg files (or alternatively just the filename), then at typesetting they will be changed to the larger hi-res images.</p
+>There are over 2800 images available so it can be difficult to choose illustrations. Fortunately, it is possible to search on images by chapter reference and keywords in several languages. Note, any illustrations you insert in Paratext will stay in your project. It is recommended to only add these small jpg files (or alternatively just the filename), then at typesetting they will be changed to the larger hi-res images.</p
 ><p
 contentType="fr"
 >Il y a plus de 2800 images disponibles, il peut donc être difficile de choisir les illustrations. Heureusement, il est désormais possible de rechercher des images par référence de chapitre et par mots-clés en français. Notez que toute illustration que vous insérez dans Paratext augmentera la taille de votre projet. N'ajoutez que ces petits fichiers jpg (ou alternativement juste le nom du fichier). Au moment de la composition elles seront remplacées par des images plus grandes en haute résolution.</p
@@ -19291,7 +19291,7 @@ type="tEmphasis"
 >Ajouter <object
 type="tEmphasis"
 >black</object
-> ou  <object
+> ou <object
 type="tEmphasis"
 >-color</object
 > pour afficher seulement les images noir et blanc.</li
@@ -19436,7 +19436,7 @@ type="tmenu"
 ><object
 type="tresult"
 >Une boîte de dialogue s'affiche</object
->  <br
+> <br
 ></br
 ><img
 src="12imgfr/SearchImagePTFr.png"
@@ -24510,6 +24510,30 @@ pagecontrol="keepAllOnSamePage"
 ><td
 >Paragraph</td
 ></tr
+><tr
+><td
+>\mt1</td
+><td
+>Title - Major Title Level 1</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\mt2</td
+><td
+>Title - Major Title Level 2</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\mt3</td
+><td
+>Title - Major Title Level 3</td
+><td
+>Paragraph</td
+></tr
 ></table
 ><table
 border="1"
@@ -24603,9 +24627,31 @@ pagecontrol="keepAllOnSamePage"
 ><td
 >Paragraphe</td
 ></tr
+><tr
+><td
+>\mt1</td
+><td
+>Titre principal niveau 1</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\mt2</td
+><td
+>Titre principal niveau 2</td
+><td
+>Paragraph</td
+></tr
+><tr
+><td
+>\mt3</td
+><td
+>Titre principal niveau 3</td
+><td
+>Paragraph</td
+></tr
 ></table
-><pc
-></pc
 ><pc
 contentType="en"
 ><object
@@ -24642,8 +24688,6 @@ pagecontrol="keepAllOnSamePage"
 ></tr
 ></table
 ><pc
-></pc
-><pc
 contentType="fr"
 ><object
 type="tsub"
@@ -24663,9 +24707,7 @@ pagecontrol="keepAllOnSamePage"
 ></tr
 ><tr
 ><td
->\nb<br
-></br
-></td
+>\nb</td
 ><td
 >Paragraphe - Pas de rupture <br
 ></br
@@ -24682,9 +24724,6 @@ pagecontrol="keepAllOnSamePage"
 >Paragraphe</td
 ></tr
 ></table
-><pc
-XeLaTeXSpecial="pagebreak"
-></pc
 ><pc
 contentType="en"
 ><object
@@ -24827,7 +24866,141 @@ pagecontrol="keepAllOnSamePage"
 ></tr
 ></table
 ><pc
+contentType="en"
+><object
+type="tsub"
+>Cross Reference Markers</object
 ></pc
+><table
+border="1"
+contentType="en"
+><tr
+><td
+>\x</td
+><td
+>Cross Reference</td
+><td
+>Note</td
+></tr
+><tr
+><td
+>\xo</td
+><td
+>Cross Reference – Origin Reference</td
+><td
+>Character</td
+></tr
+><tr
+><td
+>\xt</td
+><td
+>Cross Reference - Target References</td
+><td
+>Character</td
+></tr
+><tr
+><td
+>\x*</td
+><td
+>Cross Reference End</td
+><td
+>Note</td
+></tr
+></table
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Marquers Renvoi</object
+></pc
+><table
+border="1"
+contentType="fr"
+><tr
+><td
+>\x</td
+><td
+>Renvoi</td
+><td
+>Note</td
+></tr
+><tr
+><td
+>\xo</td
+><td
+>Renvoi référence origin</td
+><td
+>Caractère</td
+></tr
+><tr
+><td
+>\xt</td
+><td
+>Renvoi références cibles</td
+><td
+>Caractère</td
+></tr
+><tr
+><td
+>\x*</td
+><td
+>Renvoi </td
+><td
+>Note</td
+></tr
+></table
+><pc
+contentType="en"
+><object
+type="tsub"
+>Figure Markers</object
+></pc
+><table
+border="1"
+contentType="en"
+><tr
+><td
+>\fig</td
+><td
+>Auxiliary - Figure/Illustration/Map</td
+><td
+>Note</td
+></tr
+><tr
+><td
+>\fig*</td
+><td
+>Auxiliary - Figure/Illustration/Map End</td
+><td
+>Note</td
+></tr
+></table
+><pc
+contentType="fr"
+><object
+type="tsub"
+>Marquers Figure</object
+></pc
+><table
+border="1"
+contentType="fr"
+><tr
+><td
+>\fig</td
+><td
+>Auxiliaire – Image/Illustration/Carte</td
+><td
+>Note</td
+></tr
+><tr
+><td
+>\fig*</td
+><td
+>Auxiliaire – Fin d'Image/Illustration/Carte</td
+><td
+>Note</td
+></tr
+></table
 ><pc
 contentType="en"
 ><object
