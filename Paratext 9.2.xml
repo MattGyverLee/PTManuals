@@ -24944,7 +24944,7 @@ contentType="fr"
 ><td
 >\x*</td
 ><td
->Renvoi </td
+>Renvoi</td
 ><td
 >Note</td
 ></tr
@@ -25473,7 +25473,7 @@ active="no"
 exclude="fr dn b2"
 >Publish Book 1 (English)</contentControlChoice
 ><contentControlChoice
-active="no"
+active="yes"
 exclude="en dn b2"
 >Publish Book 1 (French)</contentControlChoice
 ><contentControlChoice
@@ -25489,7 +25489,7 @@ active="no"
 exclude="fr dn"
 >Publish (English) Whole Book</contentControlChoice
 ><contentControlChoice
-active="yes"
+active="no"
 exclude="en dn"
 >Publish (French) Whole Book</contentControlChoice
 ><contentControlChoice
